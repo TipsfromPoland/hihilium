@@ -27,3 +27,6 @@ Run Helium.py
 Edit the config.json file
 
 (Optional) Add proxy in proxies.txt file in ip:port format
+
+# ⚠️ DISCLAIMER
+This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs. (i know that and you know that)
