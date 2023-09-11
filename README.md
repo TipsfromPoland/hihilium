@@ -1,5 +1,7 @@
 # Helium Raider
 
+# Works only on python 3.11.4
+
 # 👾 Features
 Fully request based Raider
 HTTP&HTTPS proxy support
